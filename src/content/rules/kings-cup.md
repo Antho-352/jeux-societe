@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/kings-cup.png"
 title: "Kings Cup rules: how to play King's Cup"
 game_name: "Kings Cup"
 aliases: ["King's Cup", "Kings", "Ring of Fire", "Circle of Death"]

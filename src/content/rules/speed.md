@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/speed.png"
 title: "Speed card game rules: how to play Speed"
 game_name: "Speed"
 aliases: ["Spit", "Slam", "California Speed"]

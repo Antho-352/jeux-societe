@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/slapjack.png"
 title: "Slapjack rules: how to play Slapjack"
 game_name: "Slapjack"
 aliases: ["Slap Jack", "Irish Snap"]

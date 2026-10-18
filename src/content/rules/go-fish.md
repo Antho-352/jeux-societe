@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/go-fish.png"
 title: "Go Fish rules: how to play Go Fish"
 game_name: "Go Fish"
 aliases: ["Fish", "Authors"]

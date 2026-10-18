@@ -80,7 +80,7 @@ const articleLd = { '@context': 'https://schema.org', '@type': 'Article', headli
   {others.length > 0 && (
     <section class="section wrap">
       <div class="section-head"><h2>More {RULES_CATEGORY_LABEL[d.category].toLowerCase()} rules</h2><a href="/rules/">All game rules</a></div>
-      <div class="grid">{others.map((r) => { const it = ruleItem(r); return <ItemCard href={it.href} title={it.title} by={it.by} typeLabel={it.typeLabel} colour={it.colour} pills={it.pills} free={false} />; })}</div>
+      <div class="grid">{others.map((r) => { const it = ruleItem(r); return <ItemCard href={it.href} title={it.title} by={it.by} typeLabel={it.typeLabel} cover={it.cover} colour={it.colour} pills={it.pills} free={false} />; })}</div>
     </section>
   )}
 </Base>

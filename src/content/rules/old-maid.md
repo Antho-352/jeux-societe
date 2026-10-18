@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/old-maid.png"
 title: "Old Maid rules: how to play Old Maid"
 game_name: "Old Maid"
 aliases: ["Black Peter", "Schwarzer Peter", "Vieux Garçon"]

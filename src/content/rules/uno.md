@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/uno.png"
 title: "UNO rules: how to play UNO"
 game_name: "UNO"
 aliases: ["Uno card game"]

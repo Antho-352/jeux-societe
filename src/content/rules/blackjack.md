@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/blackjack.png"
 title: "Blackjack rules: how to play Blackjack at home"
 game_name: "Blackjack"
 aliases: ["21", "Twenty-One", "Pontoon (related)"]

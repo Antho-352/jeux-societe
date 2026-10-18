@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/gin-rummy.png"
 title: "Gin Rummy rules: how to play Gin Rummy"
 game_name: "Gin Rummy"
 aliases: ["Gin", "Knock Rummy"]

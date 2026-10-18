@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/skip-bo.png"
 title: "Skip-Bo rules: how to play Skip-Bo"
 game_name: "Skip-Bo"
 aliases: ["Skip Bo", "Spite and Malice (ancestor)"]

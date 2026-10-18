@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/egyptian-ratscrew.png"
 title: "Egyptian Ratscrew rules: how to play Egyptian Rat Screw"
 game_name: "Egyptian Ratscrew"
 aliases: ["ERS", "Egyptian Rat Screw", "Egyptian War", "Ratslap", "Slap"]

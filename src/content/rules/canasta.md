@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/canasta.png"
 title: "Canasta rules: how to play Canasta"
 game_name: "Canasta"
 aliases: ["Classic Canasta", "Partnership Canasta"]

@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/crazy-eights.png"
 title: "Crazy Eights rules: how to play Crazy Eights"
 game_name: "Crazy Eights"
 aliases: ["Crazy 8s", "Switch", "Swedish Rummy", "Last One", "Mau-Mau"]

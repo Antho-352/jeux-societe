@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/thirty-one.png"
 title: "Thirty-One card game rules: how to play 31 (Scat, Blitz)"
 game_name: "Thirty-One"
 aliases: ["31", "Scat", "Blitz", "Ride the Bus", "Cadillac", "Schwimmen"]

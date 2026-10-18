@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/euchre.png"
 title: "Euchre rules: how to play Euchre"
 game_name: "Euchre"
 aliases: ["North American Euchre", "Partnership Euchre"]

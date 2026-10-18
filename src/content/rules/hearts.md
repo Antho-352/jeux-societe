@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/hearts.png"
 title: "Hearts rules: how to play Hearts"
 game_name: "Hearts"
 aliases: ["Black Lady", "Rickety Kate", "Black Maria"]

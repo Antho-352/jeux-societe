@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/golf.png"
 title: "Golf card game rules: how to play Golf"
 game_name: "Golf"
 aliases: ["Six-card Golf", "Four-card Golf", "Polish Poker", "Turtle"]

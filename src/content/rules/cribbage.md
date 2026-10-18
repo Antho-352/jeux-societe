@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/cribbage.png"
 title: "Cribbage rules: how to play Cribbage"
 game_name: "Cribbage"
 aliases: ["Crib", "Six-card Cribbage"]

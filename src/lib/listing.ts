@@ -31,7 +31,7 @@ export function ruleItem(r: Rule): ListingItem {
   const d = r.data;
   return {
     href: rulesUrl(r), title: d.title, by: d.public_domain ? 'Public domain · printable included' : undefined, typeLabel: RULES_CATEGORY_LABEL[d.category],
-    colour: coverColour(r.id),
+    cover: d.cover, colour: coverColour(r.id),
     pills: [playersLabel(d.players_min, d.players_max), timeLabel(d.time_min, d.time_max), ageLabel(d.age_min)].filter(Boolean) as string[],
     data: { 'players-min': d.players_min, 'players-max': d.players_max, category: d.category, age: ageBand(d.age_min), equipment: d.equipment.map((e) => e.toLowerCase().replace(/[^a-z0-9]+/g, '-')).join(','), printable: d.printable ? 'yes' : 'no' },
     sortTitle: d.title, sortDate: d.date_added.getTime(), sortTime: d.time_max ?? d.time_min,

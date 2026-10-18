@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/rummy.png"
 title: "Rummy rules: how to play Rummy"
 game_name: "Rummy"
 aliases: ["Straight Rummy", "Basic Rummy", "Rum"]

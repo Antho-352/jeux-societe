@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/cheat.png"
 title: "Cheat card game rules: how to play Cheat (BS, I Doubt It)"
 game_name: "Cheat"
 aliases: ["BS", "Bullshit", "I Doubt It", "Bluff"]

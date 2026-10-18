@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/president.png"
 title: "President card game rules: how to play President"
 game_name: "President"
 aliases: ["Scum", "Capitalism", "Rich Man Poor Man", "Warlords and Scumbags", "Daifugō"]

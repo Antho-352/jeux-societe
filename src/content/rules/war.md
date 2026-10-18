@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/war.png"
 title: "War card game rules: how to play War"
 game_name: "War"
 aliases: ["Battle", "I Declare War"]

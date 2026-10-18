@@ -72,6 +72,7 @@ const rules = defineCollection({
     trademark_note: z.string().optional(),
     printable: z.string().optional(),
     printable_label: z.string().optional(),
+    cover: z.string().optional(),
     related_game: reference('games').optional(),
     sources: z.array(z.object({ label: z.string(), url: z.string().url() })).default([]),
     status: z.enum(['published', 'draft']).default('published'),

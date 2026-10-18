@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/spoons.png"
 title: "Spoons card game rules: how to play Spoons"
 game_name: "Spoons"
 aliases: ["Pig", "Donkey", "Tongue"]

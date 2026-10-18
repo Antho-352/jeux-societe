@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/spades.png"
 title: "Spades rules: how to play Spades"
 game_name: "Spades"
 aliases: ["Partnership Spades"]

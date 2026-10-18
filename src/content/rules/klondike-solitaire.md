@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/klondike-solitaire.png"
 title: "Klondike Solitaire rules: how to play Solitaire"
 game_name: "Klondike Solitaire"
 aliases: ["Solitaire", "Patience", "Klondike", "Canfield"]
