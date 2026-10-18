@@ -1,0 +1,799 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "2.3953 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10180707-2588-0139-0000-5b692d66c857",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "2.3407 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "christmas printable games",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "christmas printable games",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=christmas%20printable%20games&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-18 07:07:51 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "images",
+       "organic",
+       "related_searches"
+      ],
+      "se_results_count": 121,
+      "pages_count": 1,
+      "items_count": 11,
+      "items": [
+       {
+        "type": "images",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "title": "FREE Printable Christmas Games {4 FREEBIES} | Lil' Luna",
+        "url": null,
+        "items": [
+         {
+          "type": "images_element",
+          "alt": "FREE Printable Christmas Games {4 FREEBIES} | Lil' Luna",
+          "url": "https://lilluna.com/free-printable-christmas-games/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-5b692d66c857:0"
+         },
+         {
+          "type": "images_element",
+          "alt": "12 Days of Christmas Printable Game",
+          "url": "https://teachbesideme.com/product/12-days-christmas-printable-game/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-5b692d66c857:1"
+         },
+         {
+          "type": "images_element",
+          "alt": "Free Printable Christmas Games - Making of a Mom",
+          "url": "https://makingofamom.com/christmas-game-printables/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-5b692d66c857:2"
+         },
+         {
+          "type": "images_element",
+          "alt": "7 Free Printable Christmas Games",
+          "url": "https://www.pinterest.com/pin/140806226868763/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-5b692d66c857:3"
+         },
+         {
+          "type": "images_element",
+          "alt": "Christmas Dice Game Free Printable - Fun-A-Day!",
+          "url": "https://fun-a-day.com/christmas-dice-game/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-5b692d66c857:4"
+         },
+         {
+          "type": "images_element",
+          "alt": "Naughty Or Nice Christmas Game (FREE Printable) - Cassie ...",
+          "url": "https://www.cassiesmallwood.com/naughty-or-nice-christmas-game-free-printable/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-5b692d66c857:5"
+         },
+         {
+          "type": "images_element",
+          "alt": "Free Printable Christmas Editable Board Game",
+          "url": "https://funlearningforkids.com/christmas-editable-board-game/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-5b692d66c857:6"
+         },
+         {
+          "type": "images_element",
+          "alt": "Don't Eat Santa Christmas game",
+          "url": "https://www.creationsbykara.com/christmas-games-dont-eat-santa-free-printable/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-5b692d66c857:7"
+         },
+         {
+          "type": "images_element",
+          "alt": "Christmas Word Scramble Game With Free PDF Printable - Fox ...",
+          "url": "https://foxfarmhome.com/christmas-word-scramble/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-5b692d66c857:8"
+         },
+         {
+          "type": "images_element",
+          "alt": "Free Printable Christmas Games for Adults and Older Kids {9 ...",
+          "url": "https://www.countryhillcottage.com/printable-christmas-games-for-adults/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-5b692d66c857:9"
+         },
+         {
+          "type": "images_element",
+          "alt": "Free Printable Christmas Games for Parties and Families ...",
+          "url": "https://natashalh.com/printable-christmas-games/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-5b692d66c857:10"
+         },
+         {
+          "type": "images_element",
+          "alt": "Christmas I Spy Games for Kids | Woo! Jr. Kids Activities ...",
+          "url": "https://woojr.com/christmas-i-spy-games-for-kids/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-5b692d66c857:11"
+         },
+         {
+          "type": "images_element",
+          "alt": "43 Free Printable Christmas Games and Activities - Pjs and Paint",
+          "url": "https://pjsandpaint.com/printables/free-printable-christmas-games-and-activities/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7lCjH-O15OiqVwfCQ-QjOukV276QLjdCyp1Wdfa2jLU1A399z1PdI10g&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Printable Christmas Trivia Game - Moms & Munchkins",
+          "url": "https://www.momsandmunchkins.ca/printable-christmas-trivia/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRFJErhPLvCEPMcJk72t_7MMtb9RtrKsNQTWjdhpwj3tZayip_nhltR9Q&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "FREE Printable Christmas Games {4 FREEBIES} | Lil' Luna",
+          "url": "https://lilluna.com/free-printable-christmas-games/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVX-PFvtXmSrL6DDqU062hLmj_yuDrVGDWQEEgupYL5Vv5SvIh2ehvKII&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Free Printable Christmas Emoji Game - Play Party Plan",
+          "url": "https://www.playpartyplan.com/christmas-emoji-game/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn8KMOWePpi-Y3K9ziJu-TdsFf_0otmpPVMrd5MncGASLTdFKdwybxDJc&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Christmas Word Scramble Game With Free PDF Printable - Fox ...",
+          "url": "https://foxfarmhome.com/christmas-word-scramble/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVFmavgTPkZGv3CwdBipaTjNLd7SX1lFgkyz0TD8PPbcyQ5uBpKj_-AzA&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Free Printable Christmas Games: Christmas Who Am I?",
+          "url": "https://childhood101.com/printable-christmas-games-christmas-who-am-i/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkgjZb_VYXMdPyUKG68pMIffU11zrQEePZ_YQe_4nINVrhuQ5_FJHN7ag&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Free Printable Christmas Games - Making of a Mom",
+          "url": "https://makingofamom.com/christmas-game-printables/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMmuR5AIyYaW1-qusf9WPXNWJrUhm8n_8BguCUFdo-wTdFdi6Ghiahx7M&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Christmas Printables Games: 40 FREE Christmas Games to Print ...",
+          "url": "https://leapoffaithcrafting.com/christmas-printables-games-free/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH2j9_2E_2y1ylgdpP-_0e11wTrn-tHJvgiolh6jYCllkrhf9Hze4iv_M&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Free Printable Christmas Editable Board Game",
+          "url": "https://funlearningforkids.com/christmas-editable-board-game/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Rb2L3tZXE13-ujMnIAY8LEJdOz4gSn7Ulr3Xmaf_EFmJa9v3ruklsN4&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Christmas Think Fast Game: Holiday Party Activity (digital ...",
+          "url": "https://www.etsy.com/uk/listing/1608182499/christmas-think-fast-game-holiday-party",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCJH2ZsY0Oi35oeADiGY4E2Yntb6xAgi5PxpzUCXPjpY83BD9kP3JNu5w&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Free Printable Christmas Games For The Whole Family - Fox ...",
+          "url": "https://foxfarmhome.com/printable-christmas-games/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6j1wE_8acmR6p8BX978Sz3-PzuXnK_7pbLFIPj1fTkVr4bR-47fGoBYs&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Free Printable Christmas Games - Making of a Mom",
+          "url": "https://makingofamom.com/christmas-game-printables/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCg6mqWHTS_9RhKC6M_upvUQC51R8H5KaOwxXLpvH0x-oQ6QtXXgzw5WI&s"
+         }
+        ],
+        "related_image_searches": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+        "domain": "www.yahoo.com",
+        "title": "Fun and Free Printable Christmas Games for Kids",
+        "url": "https://www.yahoo.com/lifestyle/fun-free-printable-christmas-games-143309288.html",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.yahoo.com › lifestyle › fun-free-printable-...",
+        "website_name": "Yahoo",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Nov 10, 2020 — Want to keep the whole family entertained? Grab our free word puzzles, bingo games and coloring activity sheets—all in kid-friendly ...",
+        "pre_snippet": "11/10/2020 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "free word puzzles, bingo games and coloring activity sheets"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2020-11-10 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]",
+        "domain": "reachallreaders.com",
+        "title": "40+ free printable Christmas games for kids",
+        "url": "https://reachallreaders.com/free-printable-christmas-games-kids/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://reachallreaders.com › free-printable-christmas-ga...",
+        "website_name": "Reach All Readers",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "40+ free printable Christmas games for kids · Christmas Matching Games · Christmas Bingo · Scavenger Hunts · Family Game Night · Christmas Math Games · Games ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "40+ free printable Christmas games for kids"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://reachallreaders.com/free-printable-christmas-games-kids/#:~:text=40%2B%20free%20printable%20Christmas%20games,for%20kids&text=Christmas%20Matching%20Games&text=Christmas%20Bingo&text=Scavenger%20Hunts&text=Family%20Game%20Night&text=Christmas%20Math%20Games&text=Games%20for%20One",
+          "domain": "reachallreaders.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+        "domain": "www.pinterest.com",
+        "title": "Printable Christmas Games for Family Funny Simple",
+        "url": "https://www.pinterest.com/ideas/printable-christmas-games-for-family-funny-simple/924408837791/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.pinterest.com › Explore",
+        "website_name": "Pinterest",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Discover Pinterest's best ideas and inspiration for Printable christmas games for family funny simple. Get inspired and try out new things. Last updated 1d. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Printable christmas games for family funny simple"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.pinterest.com/ideas/printable-christmas-games-for-family-funny-simple/924408837791/#:~:text=Discover%20Pinterest's%20best%20ideas%20and,Last%20updated%201d",
+          "domain": "www.pinterest.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+        "domain": "www.pinterest.com",
+        "title": "Fun christmas games for office",
+        "url": "https://www.pinterest.com/pin/359302876546770121/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.pinterest.com › pin",
+        "website_name": "Pinterest",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jun 30, 2026 — Fun Christmas Games For Office · Party Games Printable · Free Christmas Game Printables · What Does Santa Say · Christmas Party Game. Read more",
+        "pre_snippet": "06/30/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Fun Christmas Games For Office"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.pinterest.com/pin/359302876546770121/#:~:text=MA%20Smith",
+          "domain": "www.pinterest.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-06-30 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+        "domain": "foxfarmhome.com",
+        "title": "Free Printable Christmas Games For The Whole Family",
+        "url": "https://foxfarmhome.com/printable-christmas-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://foxfarmhome.com › Seasonal › Christmas",
+        "website_name": "Fox Farm Home",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Aug 25, 2026 — Christmas Scattergories Christmas Scavenger Hunt Christmas Word Search Christmas Pictionary Christmas Light BINGO Christmas Word Scramble",
+        "pre_snippet": "08/25/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Christmas Scattergories"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-08-25 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]",
+        "domain": "www.etsy.com",
+        "title": "Christmas Games Printable Christmas Games for Adults ...",
+        "url": "https://www.etsy.com/listing/1355837718/christmas-games-printable-christmas",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.etsy.com › ... › Party Games",
+        "website_name": "Etsy",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "A printable Christmas game and activity bundle with 18 different games. including trivia, word scramble, A collection of printable Christmas games, including ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": {
+         "rating_type": "Max5",
+         "value": 5,
+         "votes_count": 14,
+         "rating_max": 5
+        },
+        "price": {
+         "current": 4.45,
+         "regular": null,
+         "max_value": null,
+         "currency": "USD",
+         "is_price_range": false,
+         "displayed_price": "$4.45"
+        },
+        "highlighted": [
+         "A printable Christmas game and activity bundle with 18 different games"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]",
+        "domain": "teachmama.com",
+        "title": "Fun Christmas Games Printables for Kids",
+        "url": "https://teachmama.com/fun-christmas-games-printables-for-kids/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://teachmama.com › Blog › reading",
+        "website_name": "Teach Mama",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Nov 5, 2024 — These Printable Christmas Game activities are perfect for holiday gatherings! Enjoy quality time while challenging memory skills.",
+        "pre_snippet": "11/05/2024 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Printable Christmas Game activities"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2024-11-05 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]",
+        "domain": "littlesizzle.com",
+        "title": "Christmas Games Bundles Printable | Instant Download",
+        "url": "https://littlesizzle.com/collections/christmas-games-bundles-printable?srsltid=AU7gw4UnZmQQg5GiKuaB7o0G6U2JYdUFQu4pYyZJpiJN36E34kuK2O2c",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://littlesizzle.com › collections › christmas-games-bu...",
+        "website_name": "LittleSizzle",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "We've got you covered with our huge selection of printable Christmas games bundles. These games bundles will ensure that your guests have a wonderful time at ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 6,
+         "regular": null,
+         "max_value": 16,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$6 to $16"
+        },
+        "highlighted": [
+         "printable Christmas games bundles"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://littlesizzle.com/collections/christmas-games-bundles-printable?srsltid=AU7gw4UnZmQQg5GiKuaB7o0G6U2JYdUFQu4pYyZJpiJN36E34kuK2O2c#:~:text=Read%20more",
+          "domain": "littlesizzle.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "Find free and low-cost printable Christmas games for family gatherings, office parties, and kids' activities through collections like [Flanders Family Home Life](https://www.flandersfamily.info/web/tag/christmas-game/) and [Pjs and Paint](https://pjsandpaint.com/printables/free-printable-christmas-games-and-activities/).[[1]](https://www.flandersfamily.info/web/tag/christmas-game/)[[2]](https://pjsandpaint.com/printables/free-printable-christmas-games-and-activities/)\n\n### Popular Printable Game Categories\n\n- **Trivia & Quizzes:** Christmas movie trivia, Christmas IQ, name-that-tune song quizzes, and \"Who Said What\".\n- **Word & Puzzle Games:** Holiday word searches, Christmas word scrambles, crosswords, Boggle boards, and Scattergories.\n- **Icebreakers & Party Games:** Finish the phrase (\"What's Rudolph Thinking?\"), \"What's on Your Phone,\" Christmas Bingo (including Grinch Bingo), and Left-Right passing gift games.\n- **Kids & Family Activities:** Roll-a-Snowman dice games, I Spy sheets, coloring pages, matching games, and indoor holiday scavenger hunts.[[1]](https://ca.pinterest.com/sandrat01/printable-christmas-games/)[[2]](https://www.flandersfamily.info/web/tag/christmas-game/)[[3]](https://allthepartyideas.com/printable-christmas-games/)[[4]](https://pjsandpaint.com/printables/free-printable-christmas-games-and-activities/)[[5]](https://www.partygamesnow.com/printable-christmas-games/)[[6]](https://foxfarmhome.com/printable-christmas-games/)[[7]](https://www.kitchencounterchronicle.com/20-free-printable-christmas-games-for-the-whole-family/)\n\n### Where to Download Ready-Made Bundles\n\n- **Free Printables:** Check sites like [Fox Farm Home](https://foxfarmhome.com/printable-christmas-games/) for simple multi-game sets or [Activity Village](https://www.activityvillage.co.uk/printable-christmas-games) for younger kids.\n- **Paid Bundles:** For comprehensive illustrated packs with answer keys, check curated options like the [CherryLittleDesignCo Christmas Bundle on Etsy](https://www.etsy.com/listing/1591093532/christmas-games-bundle-christmas-party).[[1]](https://www.etsy.com/listing/1591093532/christmas-games-bundle-christmas-party)[[2]](https://foxfarmhome.com/printable-christmas-games/)[[3]](https://www.activityvillage.co.uk/printable-christmas-games)\n\nIf you let me know **who is playing (kids, adults, or a mix)** and **what kind of setting** you are hosting for, I can recommend specific games or themes.",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Find free and low-cost printable Christmas games for family gatherings, office parties, and kids' activities through collections like Flanders Family Home Life and Pjs and Paint.",
+          "markdown": "Find free and low-cost printable Christmas games for family gatherings, office parties, and kids' activities through collections like [Flanders Family Home Life](https://www.flandersfamily.info/web/tag/christmas-game/) and [Pjs and Paint](https://pjsandpaint.com/printables/free-printable-christmas-games-and-activities/).[[1]](https://www.flandersfamily.info/web/tag/christmas-game/)[[2]](https://pjsandpaint.com/printables/free-printable-christmas-games-and-activities/)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Flanders Family Home Life",
+            "description": null,
+            "url": "https://www.flandersfamily.info/web/tag/christmas-game/",
+            "domain": "www.flandersfamily.info"
+           },
+           {
+            "type": "link_element",
+            "title": "Pjs and Paint",
+            "description": null,
+            "url": "https://pjsandpaint.com/printables/free-printable-christmas-games-and-activities/",
+            "domain": "pjsandpaint.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Flanders Family Home Life",
+            "domain": "www.flandersfamily.info",
+            "url": "https://www.flandersfamily.info/web/tag/christmas-game/",
+            "title": "christmas game Archives - Flanders Family Home Life",
+            "text": "Free Printable Christmas Games and Activities from Flanders Family Home Life: Quizzes (Christmas IQ, It's a Wonderful Life, Christ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Pjs and Paint",
+            "domain": "pjsandpaint.com",
+            "url": "https://pjsandpaint.com/printables/free-printable-christmas-games-and-activities/",
+            "title": "43 Free Printable Christmas Games and Activities - Pjs and Paint",
+            "text": "Printable Activities & Coloring: Color by number, coloring page, 3D gingerbread house, activity and coloring book, placemat, count..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Popular Printable Game Categories",
+          "text": "Trivia & Quizzes: Christmas movie trivia, Christmas IQ, name-that-tune song quizzes, and \"Who Said What\". Word & Puzzle Games: Holiday word searches, Christmas word scrambles, crosswords, Boggle boards, and Scattergories. Icebreakers & Party Games: Finish the phrase (\"What's Rudolph Thinking?\"), \"What's on Your Phone,\" Christmas Bingo (including Grinch Bingo), and Left-Right passing gift games. Kids & Family Activities: Roll-a-Snowman dice games, I Spy sheets, coloring pages, matching games, and indoor holiday scavenger hunts.",
+          "markdown": "- **Trivia & Quizzes:** Christmas movie trivia, Christmas IQ, name-that-tune song quizzes, and \"Who Said What\".\n- **Word & Puzzle Games:** Holiday word searches, Christmas word scrambles, crosswords, Boggle boards, and Scattergories.\n- **Icebreakers & Party Games:** Finish the phrase (\"What's Rudolph Thinking?\"), \"What's on Your Phone,\" Christmas Bingo (including Grinch Bingo), and Left-Right passing gift games.\n- **Kids & Family Activities:** Roll-a-Snowman dice games, I Spy sheets, coloring pages, matching games, and indoor holiday scavenger hunts.[[1]](https://ca.pinterest.com/sandrat01/printable-christmas-games/)[[2]](https://www.flandersfamily.info/web/tag/christmas-game/)[[3]](https://allthepartyideas.com/printable-christmas-games/)[[4]](https://pjsandpaint.com/printables/free-printable-christmas-games-and-activities/)[[5]](https://www.partygamesnow.com/printable-christmas-games/)[[6]](https://foxfarmhome.com/printable-christmas-games/)[[7]](https://www.kitchencounterchronicle.com/20-free-printable-christmas-games-for-the-whole-family/)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Pinterest",
+            "domain": "ca.pinterest.com",
+            "url": "https://ca.pinterest.com/sandrat01/printable-christmas-games/",
+            "title": "52 Best Printable Christmas Games ideas | christmas song picture scramble, build a snowman dice game free printable, christmas activity games",
+            "text": "Printable Christmas Games by S Taylor: 52 Pins. Categories and Activities: Christmas Think Fast, Think/Mind/Brain Games, Couple an..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Flanders Family Home Life",
+            "domain": "www.flandersfamily.info",
+            "url": "https://www.flandersfamily.info/web/tag/christmas-game/",
+            "title": "christmas game Archives - Flanders Family Home Life",
+            "text": "Free Printable Christmas Games and Activities from Flanders Family Home Life: Quizzes (Christmas IQ, It's a Wonderful Life, Christmas by the Numbers, Who Said What..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "All the Party Ideas",
+            "domain": "allthepartyideas.com",
+            "url": "https://allthepartyideas.com/printable-christmas-games/",
+            "title": "20+ FUN Printable Christmas Games [FREE Game Sheets!]",
+            "text": "Use as fun at a family gathering, office party game, or classroom activity. * Bingo A game that's fun for all ages. You can grab 1..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Pjs and Paint",
+            "domain": "pjsandpaint.com",
+            "url": "https://pjsandpaint.com/printables/free-printable-christmas-games-and-activities/",
+            "title": "43 Free Printable Christmas Games and Activities - Pjs and Paint",
+            "text": "Printable Activities & Coloring: Color by number, coloring page, 3D gingerbread house, activity and coloring book, placemat, count and color, circle the number. Ga..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "PartyGamesNow.com",
+            "domain": "www.partygamesnow.com",
+            "url": "https://www.partygamesnow.com/printable-christmas-games/",
+            "title": "Printable Christmas Games @ PartyGamesNow.com",
+            "text": "Printable Christmas Games * “What's Rudolph Thinking?” Finish the Phrase Game unlimited Players * “Name That Tune” Christmas Songs..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Fox Farm Home",
+            "domain": "foxfarmhome.com",
+            "url": "https://foxfarmhome.com/printable-christmas-games/",
+            "title": "Free Printable Christmas Games For The Whole Family",
+            "text": "Quick Look: Free Printable Christmas Games * 🎄 Activity: 6 Fun Printable Christmas Games * ⏱ Prep Time: 5-10 minutes * 🎲 Game Ti..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Kitchen Counter Chronicles",
+            "domain": "www.kitchencounterchronicle.com",
+            "url": "https://www.kitchencounterchronicle.com/20-free-printable-christmas-games-for-the-whole-family/",
+            "title": "20+ Free Printable Christmas Games for the Whole Family",
+            "text": "Free Printable Games: Christmas movie emoji, would you rather, roll a reindeer, I spy, tic-tac-toe (reindeer, Santa, Elf, tree), r..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Where to Download Ready-Made Bundles",
+          "text": "Free Printables: Check sites like Fox Farm Home for simple multi-game sets or Activity Village for younger kids. Paid Bundles: For comprehensive illustrated packs with answer keys, check curated options like the CherryLittleDesignCo Christmas Bundle on Etsy. CherryLittleDesignCo Christmas Bundle on Etsy",
+          "markdown": "- **Free Printables:** Check sites like [Fox Farm Home](https://foxfarmhome.com/printable-christmas-games/) for simple multi-game sets or [Activity Village](https://www.activityvillage.co.uk/printable-christmas-games) for younger kids.\n- **Paid Bundles:** For comprehensive illustrated packs with answer keys, check curated options like the [CherryLittleDesignCo Christmas Bundle on Etsy](https://www.etsy.com/listing/1591093532/christmas-games-bundle-christmas-party).[[1]](https://www.etsy.com/listing/1591093532/christmas-games-bundle-christmas-party)[[2]](https://foxfarmhome.com/printable-christmas-games/)[[3]](https://www.activityvillage.co.uk/printable-christmas-games)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Fox Farm Home",
+            "description": null,
+            "url": "https://foxfarmhome.com/printable-christmas-games/",
+            "domain": "foxfarmhome.com"
+           },
+           {
+            "type": "link_element",
+            "title": "Activity Village",
+            "description": null,
+            "url": "https://www.activityvillage.co.uk/printable-christmas-games",
+            "domain": "www.activityvillage.co.uk"
+           },
+           {
+            "type": "link_element",
+            "title": "CherryLittleDesignCo Christmas Bundle on Etsy",
+            "description": null,
+            "url": "https://www.etsy.com/listing/1591093532/christmas-games-bundle-christmas-party",
+            "domain": "www.etsy.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Etsy",
+            "domain": "www.etsy.com",
+            "url": "https://www.etsy.com/listing/1591093532/christmas-games-bundle-christmas-party",
+            "title": "Christmas Games Bundle, Christmas Party Games, Printable Christmas Family Games, Christmas Office Games, Left Right Game, Instant Download - Etsy",
+            "text": "Product: Christmas Games Bundle by CherryLittleDesignCo on Etsy ($4.00, marked down from $8.00; digital instant download of 2 PDF ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Fox Farm Home",
+            "domain": "foxfarmhome.com",
+            "url": "https://foxfarmhome.com/printable-christmas-games/",
+            "title": "Free Printable Christmas Games For The Whole Family",
+            "text": "Quick Look: Free Printable Christmas Games * 🎄 Activity: 6 Fun Printable Christmas Games * ⏱ Prep Time: 5-10 minutes * 🎲 Game Time: 10-30 minutes, depending on t..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Activity Village",
+            "domain": "www.activityvillage.co.uk",
+            "url": "https://www.activityvillage.co.uk/printable-christmas-games",
+            "title": "Printable Christmas Games",
+            "text": "You'll find bingo, matching games, memory games, dice games and more! * Christmas Memory Game Concentration has always been popula..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "If you let me know who is playing (kids, adults, or a mix) and what kind of setting you are hosting for, I can recommend specific games or themes.",
+          "markdown": "If you let me know **who is playing (kids, adults, or a mix)** and **what kind of setting** you are hosting for, I can recommend specific games or themes.",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Christmas printable games pdf",
+         "Free christmas printable games",
+         "Christmas printable games for kids",
+         "Free printable Christmas games PDF for adults",
+         "Free printable Christmas Who Am I game",
+         "Free printable Christmas games with answers PDF",
+         "Free printable christmas icebreaker games",
+         "Christmas printables free"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

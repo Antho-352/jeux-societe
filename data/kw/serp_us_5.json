@@ -1,0 +1,653 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.4049 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10180707-2588-0139-0000-76ea97cb69fa",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.2108 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "printable mazes",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "printable mazes",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=printable%20mazes&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-18 07:07:30 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "images",
+       "related_searches"
+      ],
+      "se_results_count": 107,
+      "pages_count": 1,
+      "items_count": 11,
+      "items": [
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "domain": "krazydad.com",
+        "title": "Mazes, Free Printables, Easy to Hard",
+        "url": "http://krazydad.com/mazes/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "http://krazydad.com › mazes",
+        "website_name": "KrazyDad",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Here's a huge collection of free mazes you can print in small batches. Mazes prints 1 per page Easy Ages 4-6 · 50 books of 20 Open Intermediate Ages 6-8. Free ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "free mazes you can print in small batches"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "images",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+        "title": "Images",
+        "url": "https://www.google.com/search?sca_esv=ff747ee1c8df38fc&hl=en&gl=US&sxsrf=APpeQntQQVSm1EOtZ_kT91Fif69Sr6Sjzg:1792307249324&q=printable+mazes&udm=2&source=univ&fir=1i5DyB3pxZdMmM%252C0ZAbagPR5VktcM%252C_%253BzQUCUiGJ9YkaVM%252Ci0ngGXeLoKO9eM%252C_%253BJM-e_4mm4-7ReM%252Cxadl8qmnendyhM%252C_%253B7yxj-IGKDEwAEM%252CvSPyVAXJGiVRmM%252C_%253BNmZRhn_y9MDt0M%252C91JUn56lBkQ6LM%252C_%253BrXJb__02jhaErM%252ChBxBPxTG4UExpM%252C_%253BGVIJDUcrxIqS_M%252CX0_e5b-waRZWDM%252C_%253B-_3zIcRuTqCDEM%252CWIDYqEYxk-ZU_M%252C_%253B1MKIDN1s7-1vTM%252CJXdIgeryZj3gOM%252C_%253BASI4kguj3vzt7M%252CH5gbxttIBpjYjM%252C_%253BGpU7G9cQsQVGmM%252CFJgcb4MQVHXekM%252C_%253BucjY4OtLGViSOM%252C1o1FA6gHhku8wM%252C_&usg=AI4_-kSknIQg2aznhqFFhlIRD0a3SQpoHg&sa=X&ved=2ahUKEwishLLngMOXAxW6D1kFHQpuDEoQ7Al6BAggEAU",
+        "items": [
+         {
+          "type": "images_element",
+          "alt": "Free Printable Mazes for Kids - Your Therapy Source",
+          "url": "https://www.yourtherapysource.com/blog1/2024/06/23/printable-mazes-for-kids-2/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-76ea97cb69fa:0"
+         },
+         {
+          "type": "images_element",
+          "alt": "Printable Mazes - Freeology",
+          "url": "https://freeology.com/fun/printable-mazes/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-76ea97cb69fa:1"
+         },
+         {
+          "type": "images_element",
+          "alt": "Free Printable Maze Activities and Puzzle Worksheets for ...",
+          "url": "https://suncatcherstudio.com/printables/mazes/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-76ea97cb69fa:2"
+         },
+         {
+          "type": "images_element",
+          "alt": "Star Maze Printable | Math = Love",
+          "url": "https://mathequalslove.net/star-maze-printable/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-76ea97cb69fa:3"
+         },
+         {
+          "type": "images_element",
+          "alt": "Printable Circle Maze Puzzle",
+          "url": "https://www.printablesfree.com/printables/games/mazes/printable-circle-maze-puzzle",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-76ea97cb69fa:4"
+         },
+         {
+          "type": "images_element",
+          "alt": "Printable Mazes - Print Free Mazes",
+          "url": "https://www.printableparadise.com/printable-mazes.html",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-76ea97cb69fa:5"
+         },
+         {
+          "type": "images_element",
+          "alt": "Maze Puzzles For Kids Printable | Just Family Fun",
+          "url": "https://justfamilyfun.com/printable-maze-puzzles-for-kids/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLD98WIbcV5w-Yp7jyuO1r6pMcGfsaEyhtB6TsAyrLd8TSWgnpK3_gtFY&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Animal-themed Mazes • Beeloo Printable Crafts and Activities ...",
+          "url": "https://beeloo.com/discover/animal-maze",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz0adKz8NVr-4673qSl_lEaCr6gl1N1KfbzbkzG5ArJvA7BHN8tOV5ytM&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Printable Mazes - Best Coloring Pages For Kids",
+          "url": "https://www.bestcoloringpagesforkids.com/printable-mazes.html",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr0-961uINEf_3gwbte7ugAmzb7fX3QPOj0CeEibugalthYrwJSlxbmRU&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Spring Butterfly Maze Printable | Math = Love",
+          "url": "https://mathequalslove.net/spring-butterfly-maze-printable/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnHvNul7ZD4h3a6rF-_yc36wDl4zxT5nmsgx7B7qRdD2esjxafy8wXUZY&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Printable Maze Puzzles for Kids: Downloadable Activity Book ...",
+          "url": "https://www.etsy.com/listing/687899604/printable-maze-puzzles-for-kids",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7AU-zZAiKoPcJlckM_sr-6HjsQFYU6HHP9GfQ3ocWCTMVFm73kVXunRU&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Printable Maze Generator",
+          "url": "https://www.afterschoolactivitiesforkids.com/activities/free-printable-mazes/printable-maze-generator/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNd3F3PL7IEl-vAdcbyvQ4AaI5hie-NjylN0i85GwO3tjk_yl_kGUFiIw&s"
+         }
+        ],
+        "related_image_searches": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[3]/div[1]/div[1]",
+        "domain": "www.printablemazes.net",
+        "title": "Printable Mazes",
+        "url": "https://www.printablemazes.net/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.printablemazes.net",
+        "website_name": "Printable Mazes",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "580 printable mazes that you can download and print for free. Or, download a printable maze book (with 250 mazes in each book!) for just $9.00. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "580 printable mazes that you can download and print for free"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.printablemazes.net/#:~:text=580%20printable%20mazes%20that%20you,each%20book!)%20for%20just%20%249.00.",
+          "domain": "www.printablemazes.net"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[5]/div[1]/div[1]",
+        "domain": "justfamilyfun.com",
+        "title": "50 Free Printable Maze Puzzles For Kids",
+        "url": "https://justfamilyfun.com/printable-maze-puzzles-for-kids/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://justfamilyfun.com › printable-maze-puzzles-for-...",
+        "website_name": "Just Family Fun",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "You can download all 50 free printable maze puzzles from Just Family Fun! Each maze is available as a high-quality PDF file. Simply click on the maze image that ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": null,
+          "url": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-76ea97cb69fa:6"
+         },
+         {
+          "type": "images_element",
+          "alt": null,
+          "url": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-76ea97cb69fa:7"
+         },
+         {
+          "type": "images_element",
+          "alt": null,
+          "url": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-76ea97cb69fa:8"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "free printable maze puzzles"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://justfamilyfun.com/printable-maze-puzzles-for-kids/#:~:text=You%20can%20download%20all%2050,and%20print%20for%20endless%20fun.",
+          "domain": "justfamilyfun.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[7]/div[1]/div[1]",
+        "domain": "mazesforfun.com",
+        "title": "Free Printable Circle Mazes | For Kids & Adults",
+        "url": "https://mazesforfun.com/cat/circle",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://mazesforfun.com › cat › circle",
+        "website_name": "MazesForFun",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Download and print a variety of fun circle maze puzzles. Our free, printable PDFs offer a unique challenge for all ages. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Download and print a variety of fun circle maze puzzles"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://mazesforfun.com/cat/circle#:~:text=Download%20and%20print%20a%20variety,unique%20challenge%20for%20all%20ages.",
+          "domain": "mazesforfun.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[8]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "You can find free printable mazes across several top resources categorized by age, difficulty, and theme.\n\n### Top Free Printable Maze Websites\n\n- **KrazyDad** : Browse thousands of free PDF mazes at [KrazyDad Mazes](http://krazydad.com/mazes/) , ranging from easy puzzles for young kids to super-tough grids for robots and advanced solvers.\n- **PrintableMazes.net** : Access over 580 free downloadable puzzles organized by beginner, medium, and hard tiers at [PrintableMazes.net](https://www.printablemazes.net/).\n- **DoYouMaze** : Explore more than 1,100 themed and unique options—including fan art, pipe mazes, and name mazes—at [DoYouMaze](https://www.doyoumaze.com/free-printable-mazes).\n- **Mr Printables** : Download story-led, illustrated puzzles featuring animals like bees and bunnies at [Mr Printables](https://mrprintables.com/free-printable-mazes).\n- **Picklebums** : Get holiday and seasonal designs (Halloween, Easter, Christmas, St. Patrick's Day) at [Picklebums](https://picklebums.com/free-printable-mazes/).[[1]](http://krazydad.com/mazes/)[[2]](https://www.printablemazes.net/)[[3]](https://www.doyoumaze.com/free-printable-mazes)[[4]](https://mrprintables.com/free-printable-mazes)[[5]](https://picklebums.com/free-printable-mazes/)\n\nAre you looking for mazes for a **specific age group** (like toddlers or adults) or a **particular theme** (like animals or holidays)?",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "You can find free printable mazes across several top resources categorized by age, difficulty, and theme.",
+          "markdown": "You can find free printable mazes across several top resources categorized by age, difficulty, and theme.",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Top Free Printable Maze Websites",
+          "text": "KrazyDad : Browse thousands of free PDF mazes at KrazyDad Mazes, ranging from easy puzzles for young kids to super-tough grids for robots and advanced solvers. PrintableMazes.net : Access over 580 free downloadable puzzles organized by beginner, medium, and hard tiers at PrintableMazes.net. DoYouMaze : Explore more than 1,100 themed and unique options—including fan art, pipe mazes, and name mazes—at DoYouMaze. Mr Printables : Download story-led, illustrated puzzles featuring animals like bees and bunnies at Mr Printables. Picklebums : Get holiday and seasonal designs (Halloween, Easter, Christmas, St. Patrick's Day) at Picklebums.",
+          "markdown": "- **KrazyDad** : Browse thousands of free PDF mazes at [KrazyDad Mazes](http://krazydad.com/mazes/) , ranging from easy puzzles for young kids to super-tough grids for robots and advanced solvers.\n- **PrintableMazes.net** : Access over 580 free downloadable puzzles organized by beginner, medium, and hard tiers at [PrintableMazes.net](https://www.printablemazes.net/).\n- **DoYouMaze** : Explore more than 1,100 themed and unique options—including fan art, pipe mazes, and name mazes—at [DoYouMaze](https://www.doyoumaze.com/free-printable-mazes).\n- **Mr Printables** : Download story-led, illustrated puzzles featuring animals like bees and bunnies at [Mr Printables](https://mrprintables.com/free-printable-mazes).\n- **Picklebums** : Get holiday and seasonal designs (Halloween, Easter, Christmas, St. Patrick's Day) at [Picklebums](https://picklebums.com/free-printable-mazes/).[[1]](http://krazydad.com/mazes/)[[2]](https://www.printablemazes.net/)[[3]](https://www.doyoumaze.com/free-printable-mazes)[[4]](https://mrprintables.com/free-printable-mazes)[[5]](https://picklebums.com/free-printable-mazes/)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "KrazyDad Mazes",
+            "description": null,
+            "url": "http://krazydad.com/mazes/",
+            "domain": "krazydad.com"
+           },
+           {
+            "type": "link_element",
+            "title": "PrintableMazes.net",
+            "description": null,
+            "url": "https://www.printablemazes.net/",
+            "domain": "www.printablemazes.net"
+           },
+           {
+            "type": "link_element",
+            "title": "DoYouMaze",
+            "description": null,
+            "url": "https://www.doyoumaze.com/free-printable-mazes",
+            "domain": "www.doyoumaze.com"
+           },
+           {
+            "type": "link_element",
+            "title": "Mr Printables",
+            "description": null,
+            "url": "https://mrprintables.com/free-printable-mazes",
+            "domain": "mrprintables.com"
+           },
+           {
+            "type": "link_element",
+            "title": "Picklebums",
+            "description": null,
+            "url": "https://picklebums.com/free-printable-mazes/",
+            "domain": "picklebums.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "KrazyDad",
+            "domain": "krazydad.com",
+            "url": "http://krazydad.com/mazes/",
+            "title": "Mazes, Free Printables, Easy to Hard",
+            "text": "Mazes * Easy Ages 4-6 · 50 books of 20 Open * Intermediate Ages 6-8 · 50 books of 20 Open * Challenging Ages 7-9 · 50 books of 20 ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Printable Mazes",
+            "domain": "www.printablemazes.net",
+            "url": "https://www.printablemazes.net/",
+            "title": "Printable Mazes",
+            "text": "580 printable mazes that you can download and print for free. Or, download a printable maze book (with 250 mazes in each book!) fo..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "www.doyoumaze.com",
+            "domain": "www.doyoumaze.com",
+            "url": "https://www.doyoumaze.com/free-printable-mazes",
+            "title": "Free Printable Mazes for All Ages",
+            "text": "Welcome to the ultimate destination for maze lovers of all ages! Whether you're a kid, teen, or adult, our website offers an exten..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Mr Printables",
+            "domain": "mrprintables.com",
+            "url": "https://mrprintables.com/free-printable-mazes",
+            "title": "Fun Mazes for Kids",
+            "text": "Fun Mazes for Kids Free printable mazes for kids at easy and medium difficulty levels — each one themed with original illustration..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Picklebums",
+            "domain": "picklebums.com",
+            "url": "https://picklebums.com/free-printable-mazes/",
+            "title": "Free Printable Mazes for Kids - Picklebums",
+            "text": "Rainbow Mazes: Two mazes (one easy, one harder) for St Patrick's Day. Spider Mazes: Two web mazes (one easy, one harder). Christma..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Are you looking for mazes for a specific age group (like toddlers or adults) or a particular theme (like animals or holidays)?",
+          "markdown": "Are you looking for mazes for a **specific age group** (like toddlers or adults) or a **particular theme** (like animals or holidays)?",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[10]/div[1]/div[1]",
+        "domain": "mathequalslove.net",
+        "title": "Free Printable Mazes (PDFs with Varying Difficulty Levels)",
+        "url": "https://mathequalslove.net/printable-mazes/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://mathequalslove.net › ... › Logic Puzzles › Mazes",
+        "website_name": "Math = Love",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Mar 22, 2025 — Enjoy this wide variety of free printable pdf mazes that are available in varying levels of difficulty which makes them appropriate for both ... Read more",
+        "pre_snippet": "03/22/2025 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "free printable pdf mazes"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://mathequalslove.net/printable-mazes/#:~:text=Enjoy%20this%20wide%20variety%20of,for%20both%20kids%20and%20adults!",
+          "domain": "mathequalslove.net"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-03-22 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[12]/div[1]/div[1]",
+        "domain": "www.pinterest.com",
+        "title": "Printable Mazes",
+        "url": "https://www.pinterest.com/hannahsearthmom/printable-mazes/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.pinterest.com › hannahsearthmom › printa...",
+        "website_name": "Pinterest",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Printable chicken maze, Simple animal maze for kids, Bird Turkey maze printable, Thanksgiving mazes for preschoolers, Pirate maze printable, Pyramid Maze ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Printable chicken maze"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[14]/div[1]/div[1]",
+        "domain": "parents.highlights.com",
+        "title": "Printable Puzzles and Mazes from Puzzle-a-Day Challenge",
+        "url": "https://parents.highlights.com/printable-puzzles-and-mazes-puzzle-day-challenge",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://parents.highlights.com › printable-puzzles-and-ma...",
+        "website_name": "Highlights Parents",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Get a sneak peek of the Puzzle-a-Day Challenge with free printable puzzles and mazes that encourage problem-solving and concentration in children.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "free printable puzzles and mazes"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[16]/div[1]/div[1]",
+        "domain": "www.doyoumaze.com",
+        "title": "Free Printable Mazes for All Ages",
+        "url": "https://www.doyoumaze.com/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.doyoumaze.com",
+        "website_name": "doyoumaze.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Free printable full color mazes and maze books for all ages focusing on maze artwork. Step by step instructions on how to draw digital mazes and labyrinths.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Free printable full color mazes and maze books for all ages"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Printable mazes for kids",
+         "Printable mazes pdf",
+         "Free printable mazes",
+         "Free printable mazes for adults",
+         "Printable mazes for 5 Year olds",
+         "Printable mazes for 10 Year olds",
+         "Printable mazes PDF for adults",
+         "Printable mazes for 5 year olds PDF"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

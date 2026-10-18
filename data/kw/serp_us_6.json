@@ -1,0 +1,693 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "2.6628 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10180707-2588-0139-0000-038405445f0f",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "2.5559 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "dot to dot printable",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "dot to dot printable",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=dot%20to%20dot%20printable&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-18 07:07:33 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "images",
+       "related_searches"
+      ],
+      "se_results_count": 163,
+      "pages_count": 1,
+      "items_count": 11,
+      "items": [
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "domain": "www.thesprucecrafts.com",
+        "title": "55 Free Connect the Dots Worksheets",
+        "url": "https://www.thesprucecrafts.com/connect-dots-worksheets-1357606",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.thesprucecrafts.com › ... › Printables",
+        "website_name": "The Spruce Crafts",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Sep 28, 2023 — A huge list of free, printable connect the dots worksheets. These dot-to-dot worksheets are divided into three levels: easy, medium, and hard. ...",
+        "pre_snippet": "09/28/2023 00:00:00",
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "dot to dot printable from www.thesprucecrafts.com",
+          "url": "https://www.thesprucecrafts.com/connect-dots-worksheets-1357606",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-038405445f0f:0"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "free, printable connect the dots worksheets"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2023-09-28 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+        "domain": "www.theworks.co.uk",
+        "title": "Free Printable Dot-to-Dot Activity Sheets for Kids",
+        "url": "https://www.theworks.co.uk/inspiration/free-activity-sheets/free-dot-to-dots.html?srsltid=AU7gw4WW-CyS8gfFU0cT-Tiv8kH6az9hXn3i7Q8cE-us1jVxHpcgdHjX",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.theworks.co.uk › inspiration › free-dot-to-dots",
+        "website_name": "The Works",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Download free printable dot-to-dot sheets from The Works. Great for kids of all ages to develop their concentration and artistic skills.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Download free printable dot-to-dot sheets"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+        "domain": "www.pinterest.com",
+        "title": "Dot to Dot Printables for Adults",
+        "url": "https://www.pinterest.com/ideas/dot-to-dot-printables-for-adults/905237684672/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.pinterest.com › ... › Hobbies And Crafts",
+        "website_name": "Pinterest",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Discover Pinterest's best ideas and inspiration for Dot to dot printables for adults. Get inspired and try out new things. 2k people searched this. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Dot to dot printables for adults"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.pinterest.com/ideas/dot-to-dot-printables-for-adults/905237684672/#:~:text=Discover%20Pinterest's%20best%20ideas%20and,2k%20people%20searched%20this",
+          "domain": "www.pinterest.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "images",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]",
+        "title": "Images",
+        "url": "https://www.google.com/search?sca_esv=ff747ee1c8df38fc&hl=en&gl=US&sxsrf=APpeQnvxhp9iLxv1gqGHAtDelJYIFWYm7w:1792307252212&q=dot+to+dot+printable&udm=2&source=univ&fir=CNXWFNXpFP0e1M%252CSGabY2EDaCzbKM%252C_%253BjZO7e_CKfei6iM%252CAVkcfBrbKrcsSM%252C_%253BxQ0VsH9susAUEM%252C5LWPr5UEkvdt6M%252C_%253BwmvA_HJ0Cmd7hM%252CMi66ugcnzYFDMM%252C_%253BPTdbcfCJ23VMuM%252C0soz527szK1CbM%252C_%253BPOxEdUbqWnVlBM%252CSGabY2EDaCzbKM%252C_%253BWxhbDhtRg4eZwM%252CL0OAXxRCjbc36M%252C_%253BOsTmX0djjiQU3M%252CT0PwBYQY_x7FQM%252C_%253Bwy8bQkCEK0eyrM%252CxbV0aBqVV6v94M%252C_%253BB5fGt-0wCksnWM%252CH7rrBivRTySRSM%252C_%253Bvn4D_1UjGarwCM%252CkmqCjGSi04CmxM%252C_%253BQULGZnVuDVD-GM%252CbhmOl1fGIFyWFM%252C_&usg=AI4_-kR-1Uulw6jW4YYzdQ4w699hk_gvuQ&sa=X&ved=2ahUKEwjDsOLogMOXAxUwgv0HHZ7fN8cQ7Al6BAgdEAU",
+        "items": [
+         {
+          "type": "images_element",
+          "alt": "Dot-to-Dot Printables (Free Connect the Dots PDF)",
+          "url": "https://www.homemade-gifts-made-easy.com/dot-to-dot-printables.html",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-038405445f0f:1"
+         },
+         {
+          "type": "images_element",
+          "alt": "Cut Cat Dot-to-Dot: A Medium-Difficulty Level Connect-the ...",
+          "url": "https://www.teacherspayteachers.com/Product/Cut-Cat-Dot-to-Dot-A-Medium-Difficulty-Level-Connect-the-Dots-Printable-PDF-9440122",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-038405445f0f:2"
+         },
+         {
+          "type": "images_element",
+          "alt": "8 Space Dot to Dot Coloring Pages - Tree Valley Academy",
+          "url": "https://www.treevalleyacademy.com/space-dot-to-dot/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-038405445f0f:3"
+         },
+         {
+          "type": "images_element",
+          "alt": "Free Printable Dot to Dot Pages | All Kids Network",
+          "url": "https://www.allkidsnetwork.com/dot-to-dot/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-038405445f0f:4"
+         },
+         {
+          "type": "images_element",
+          "alt": "FREE* Dot-to-Dot Fish Printable Worksheet ...",
+          "url": "https://www.myteachingstation.com/preschool/math/numbers/dot-to-dot-fish-printable-worksheet",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-038405445f0f:5"
+         },
+         {
+          "type": "images_element",
+          "alt": "Dot-to-Dot Printables (Free Connect the Dots PDF)",
+          "url": "https://www.homemade-gifts-made-easy.com/dot-to-dot-printables.html",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-038405445f0f:6"
+         },
+         {
+          "type": "images_element",
+          "alt": "Wolf - Extreme Dot to Dot - PDF Activity and Coloring Page",
+          "url": "https://www.etsy.com/listing/964997095/wolf-extreme-dot-to-dot-pdf-activity-and",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTibK-wPHXt8JPOjmYDq98bmMztuXjNoAjChTotk6xO7hHM2ZBYjSFf9Ds&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Alphabet Dot to Dot Worksheets (free printable) - The ...",
+          "url": "https://activity-mom.com/2022/05/alphabet-dot-to-dot-worksheets-free-printable/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpf5aEHAXIyTHKYTH0TmzIztAb2TCY36MviLA6ihgHuQfm29VQOIVtR-I&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Dot to Dot Printables - Best Coloring Pages For Kids",
+          "url": "https://www.bestcoloringpagesforkids.com/dot-to-dot-printables.html",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-L8zsH8HFSnXU9xv5hjmNIeUZDz8F1dBza9HzKfAJuGnV9RqKn_A-1KY&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Unicorn Dot to Dot Free Printable – Growing Play",
+          "url": "https://www.growingplay.com/2024/06/unicorn-dot-to-dot/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyMn4fg28TjM4H4nkeXpIVRmNn07h7HKchFwdmQvGLSlv9yStnzNdE13w&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "FREE* Dot-to-Dot Elephant Printable Worksheet ...",
+          "url": "https://www.myteachingstation.com/preschool/math/numbers/dot-to-dot-elephant-printable-worksheet",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRED1Sn8uIgFIl6Vifw-38viem6LkENoLEw3MVsQfpJArEtkH_fHZoELpY&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Butterfly Dot-to-Dot Printable - Medium Difficulty - 152 Dots - PDF",
+          "url": "https://www.pinterest.com/pin/butterfly-dottodot-printable-medium-difficulty-152-dots-pdf--81768549490089129/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0uc8fiRJkIGX4LMiAAjwkH9TzOZwdsaqDpJdqw98iBQELOZy6qpPJQNQ&s"
+         }
+        ],
+        "related_image_searches": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+        "domain": "woojr.com",
+        "title": "Printable Summer Dot to Dot Pages",
+        "url": "https://woojr.com/printable-summer-dot-dot-pages/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://woojr.com › printable-summer-dot-dot-pages",
+        "website_name": "Woo! Jr. Kids Activities",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "9 printable summer dot to dot pages for fun drawing and counting practice. Dot to Dot activities are great for counting practice, drawing practice, and ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "9 printable summer dot to dot pages"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]",
+        "domain": "www.myteachingstation.com",
+        "title": "Kindergarten Dot-to-Dot Printable Worksheets",
+        "url": "https://www.myteachingstation.com/worksheets/kindergarten/dot-to-dot",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.myteachingstation.com › worksheets › dot-...",
+        "website_name": "MyTeachingStation.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Connect the dots from 1 to 40 to complete the picture of the elephant with this engaging and fun dot-to-dot printable activity. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Connect the dots from 1 to 40"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.myteachingstation.com/worksheets/kindergarten/dot-to-dot#:~:text=PAGE%3A",
+          "domain": "www.myteachingstation.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "![8 Space Dot to Dot Coloring Pages - Tree Valley Academy](https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-038405445f0f:11)\nYou can find free printable dot-to-dot worksheets and activity sheets through resources like [Monkey Pen](https://monkeypen.com/collections/dot-to-dot-printables) for instant PDF downloads, or browse [Free Printable & Online Dot-to-Dot Activities](https://www.myhomeschoolmath.com/dottodot.html) for children's number recognition and pencil control.[[1]](https://monkeypen.com/collections/dot-to-dot-printables)[[2]](https://www.myhomeschoolmath.com/dottodot.html)\n\n### Popular Categories and Themes\n\n- **Animals & Nature:** Connect the dots to reveal dogs, cats, sharks , frogs, and jungle animals.\n- **Vehicles & Objects:** Space rockets, cars, and everyday items.\n- **Holidays & Seasonal:** Summer, winter, and festive designs.[[1]](https://www.teacherspayteachers.com/browse/free?search=dot%20to%20dot)[[2]](https://monkeypen.com/collections/dot-to-dot-printables)[[3]](https://www.homemade-gifts-made-easy.com/dot-to-dot-printables.html)[[4]](https://superstarworksheets.com/preschool-worksheets/fine-motor-worksheets/dot-to-dot-worksheets/)[[5]](https://www.abcmouse.com/learn/printables-and-worksheets/free-dot-to-dot-printable-worksheets-for-kids/17379)[[6]](https://www.facebook.com/groups/2710059749212937/posts/3814153892136845/)\n\n### Skill Levels\n\n- **Preschool & Toddlers:** Numbers 1 to 5 or 1 to 10 with large, bold dots.\n- **Kindergarten & 1st Grade:** Counts up to 20, 50, or 100 for older kids developing fine motor skills.\n- **Advanced & Adults:** High-number counts (1 to 1000+) offering intricate details and relaxation.[[1]](https://www.pinterest.com/ideas/free-printable-dot-to-dot/935966085279/)[[2]](https://www.abcmouse.com/learn/printables-and-worksheets/free-dot-to-dot-printable-worksheets-for-kids/17379)[[3]](https://superstarworksheets.com/preschool-worksheets/fine-motor-worksheets/dot-to-dot-worksheets/)[[4]](https://www.thesprucecrafts.com/connect-dots-worksheets-1357606)[[5]](https://monkeypen.com/collections/dot-to-dot-printables)",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "You can find free printable dot-to-dot worksheets and activity sheets through resources like Monkey Pen for instant PDF downloads, or browse Free Printable & Online Dot-to-Dot Activities for children's number recognition and pencil control.",
+          "markdown": "![8 Space Dot to Dot Coloring Pages - Tree Valley Academy](https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-038405445f0f:9)\nYou can find free printable dot-to-dot worksheets and activity sheets through resources like [Monkey Pen](https://monkeypen.com/collections/dot-to-dot-printables) for instant PDF downloads, or browse [Free Printable & Online Dot-to-Dot Activities](https://www.myhomeschoolmath.com/dottodot.html) for children's number recognition and pencil control.[[1]](https://monkeypen.com/collections/dot-to-dot-printables)[[2]](https://www.myhomeschoolmath.com/dottodot.html)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Monkey Pen",
+            "description": null,
+            "url": "https://monkeypen.com/collections/dot-to-dot-printables",
+            "domain": "monkeypen.com"
+           },
+           {
+            "type": "link_element",
+            "title": "Free Printable & Online Dot-to-Dot Activities",
+            "description": null,
+            "url": "https://www.myhomeschoolmath.com/dottodot.html",
+            "domain": "www.myhomeschoolmath.com"
+           }
+          ],
+          "images": [
+           {
+            "type": "images_element",
+            "alt": "8 Space Dot to Dot Coloring Pages - Tree Valley Academy",
+            "url": null,
+            "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-038405445f0f:10"
+           }
+          ],
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Monkey Pen",
+            "domain": "monkeypen.com",
+            "url": "https://monkeypen.com/collections/dot-to-dot-printables",
+            "title": "Dot to Dot Printables – Free Connect the Dots for Kids PDF Sheets",
+            "text": "Available Printables: Husky dog, stylish sunglasses, cartoon flashlight, bat, ostrich, megalodon shark, caecilian, armadillo, swan..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "MyHomeSchoolMath",
+            "domain": "www.myhomeschoolmath.com",
+            "url": "https://www.myhomeschoolmath.com/dottodot.html",
+            "title": "Free Printable & Online Dot-to-Dot Activities for Kids",
+            "text": "Connect the dots - Dot to dot - Free online game for kids. Connect the Dots – Free Printable PDF Worksheets. Download and print fr..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Popular Categories and Themes",
+          "text": "Animals & Nature: Connect the dots to reveal dogs, cats, sharks, frogs, and jungle animals. Connect the dots to reveal dogs, cats, sharks, frogs, and jungle animals , cats, sharks, frogs, and jungle animals , sharks, frogs, and jungle animals Vehicles & Objects: Space rockets, cars, and everyday items. Holidays & Seasonal: Summer, winter, and festive designs.",
+          "markdown": "- **Animals & Nature:** Connect the dots to reveal dogs, cats, sharks , frogs, and jungle animals.\n- **Vehicles & Objects:** Space rockets, cars, and everyday items.\n- **Holidays & Seasonal:** Summer, winter, and festive designs.[[1]](https://www.teacherspayteachers.com/browse/free?search=dot%20to%20dot)[[2]](https://monkeypen.com/collections/dot-to-dot-printables)[[3]](https://www.homemade-gifts-made-easy.com/dot-to-dot-printables.html)[[4]](https://superstarworksheets.com/preschool-worksheets/fine-motor-worksheets/dot-to-dot-worksheets/)[[5]](https://www.abcmouse.com/learn/printables-and-worksheets/free-dot-to-dot-printable-worksheets-for-kids/17379)[[6]](https://www.facebook.com/groups/2710059749212937/posts/3814153892136845/)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Teachers Pay Teachers",
+            "domain": "www.teacherspayteachers.com",
+            "url": "https://www.teacherspayteachers.com/browse/free?search=dot%20to%20dot",
+            "title": "Dot to Dot | TPT",
+            "text": "Subjects: Art, English Language Arts, Math (basic operations, geometry, measurement, mental math, numbers), Physical Education, Sc..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Monkey Pen",
+            "domain": "monkeypen.com",
+            "url": "https://monkeypen.com/collections/dot-to-dot-printables",
+            "title": "Dot to Dot Printables – Free Connect the Dots for Kids PDF Sheets",
+            "text": "Available Printables: Husky dog, stylish sunglasses, cartoon flashlight, bat, ostrich, megalodon shark, caecilian, armadillo, swan, snake, pike fish, and koi fish."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Homemade Gifts Made Easy",
+            "domain": "www.homemade-gifts-made-easy.com",
+            "url": "https://www.homemade-gifts-made-easy.com/dot-to-dot-printables.html",
+            "title": "Dot-to",
+            "text": "These printables are for personal, non-commercial use only. * Fairy Princess Challenging Connect the Dots Printable NEW! Kawaii Cu..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Superstar Worksheets",
+            "domain": "superstarworksheets.com",
+            "url": "https://superstarworksheets.com/preschool-worksheets/fine-motor-worksheets/dot-to-dot-worksheets/",
+            "title": "Dot to Dot Worksheets - Superstar Worksheets",
+            "text": "Dot to Dot Worksheets. Amber Pasillas2026-01-15T19:07:57-08:00. Free printable Dot to Dot Worksheets for kids! These easy number d..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "ABCmouse",
+            "domain": "www.abcmouse.com",
+            "url": "https://www.abcmouse.com/learn/printables-and-worksheets/free-dot-to-dot-printable-worksheets-for-kids/17379",
+            "title": "Free Dot-to-Dot Printable Worksheets for Kids | ABCmouse",
+            "text": "Categories: 30+ Free Printable Dot-to-Dot Worksheets Preschooler Levels: 1-5 (Cake, Pencil, Penguin, Ice Cream, Hat) and 1-10 (Boy..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Facebook",
+            "domain": "www.facebook.com",
+            "url": "https://www.facebook.com/groups/2710059749212937/posts/3814153892136845/",
+            "title": "Dot to dot worksheets for kids❤️learn with fun #preschool # ...",
+            "text": "The video showcases a summer-themed \"dot by number\" worksheet featuring ice cream and popsicle designs. The activity involves plac..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Skill Levels",
+          "text": "Preschool & Toddlers: Numbers 1 to 5 or 1 to 10 with large, bold dots. Kindergarten & 1st Grade: Counts up to 20, 50, or 100 for older kids developing fine motor skills. Advanced & Adults: High-number counts (1 to 1000+) offering intricate details and relaxation.",
+          "markdown": "- **Preschool & Toddlers:** Numbers 1 to 5 or 1 to 10 with large, bold dots.\n- **Kindergarten & 1st Grade:** Counts up to 20, 50, or 100 for older kids developing fine motor skills.\n- **Advanced & Adults:** High-number counts (1 to 1000+) offering intricate details and relaxation.[[1]](https://www.pinterest.com/ideas/free-printable-dot-to-dot/935966085279/)[[2]](https://www.abcmouse.com/learn/printables-and-worksheets/free-dot-to-dot-printable-worksheets-for-kids/17379)[[3]](https://superstarworksheets.com/preschool-worksheets/fine-motor-worksheets/dot-to-dot-worksheets/)[[4]](https://www.thesprucecrafts.com/connect-dots-worksheets-1357606)[[5]](https://monkeypen.com/collections/dot-to-dot-printables)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Pinterest",
+            "domain": "www.pinterest.com",
+            "url": "https://www.pinterest.com/ideas/free-printable-dot-to-dot/935966085279/",
+            "title": "Free Printable Dot to Dot",
+            "text": "Categories: Free printable dot-to-dot puzzles, hard and extreme connect-the-dots (1-1000 range), kids' educational puzzle games, a..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "ABCmouse",
+            "domain": "www.abcmouse.com",
+            "url": "https://www.abcmouse.com/learn/printables-and-worksheets/free-dot-to-dot-printable-worksheets-for-kids/17379",
+            "title": "Free Dot-to-Dot Printable Worksheets for Kids | ABCmouse",
+            "text": "Categories: 30+ Free Printable Dot-to-Dot Worksheets Preschooler Levels: 1-5 (Cake, Pencil, Penguin, Ice Cream, Hat) and 1-10 (Boy, Cat, Skateboard, Car) Kindergar..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Superstar Worksheets",
+            "domain": "superstarworksheets.com",
+            "url": "https://superstarworksheets.com/preschool-worksheets/fine-motor-worksheets/dot-to-dot-worksheets/",
+            "title": "Dot to Dot Worksheets - Superstar Worksheets",
+            "text": "Dot to Dot Worksheets. Amber Pasillas2026-01-15T19:07:57-08:00. Free printable Dot to Dot Worksheets for kids! These easy number dot-to-dot worksheets are simple f..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "The Spruce Crafts",
+            "domain": "www.thesprucecrafts.com",
+            "url": "https://www.thesprucecrafts.com/connect-dots-worksheets-1357606",
+            "title": "55 Free Connect the Dots Worksheets",
+            "text": "Here are some medium connect the dots worksheets that require kids to connect the dots 1 through numbers as high as 50. * Turtle C..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Monkey Pen",
+            "domain": "monkeypen.com",
+            "url": "https://monkeypen.com/collections/dot-to-dot-printables",
+            "title": "Dot to Dot Printables – Free Connect the Dots for Kids PDF Sheets",
+            "text": "Available Printables: Husky dog, stylish sunglasses, cartoon flashlight, bat, ostrich, megalodon shark, caecilian, armadillo, swan, snake, pike fish, and koi fish."
+           }
+          ]
+         }
+        ],
+        "references": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]",
+        "domain": "www.pinterest.com",
+        "title": "150 Dot to dot for kids ideas",
+        "url": "https://www.pinterest.com/vickie72003/dot-to-dot-for-kids/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.pinterest.com › vickie72003 › dot-to-dot-f...",
+        "website_name": "Pinterest",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Connect The Dots Bunny Puzzle · Easter Dot To Dot Picture · Dot To Dot Easter · Connect The Dots Rabbit · Rabbit Dot To Dot Printable · Happy Easter Dot-to-dot. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Connect The Dots Bunny Puzzle"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.pinterest.com/vickie72003/dot-to-dot-for-kids/#:~:text=*%20Dot-to-dot...",
+          "domain": "www.pinterest.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]",
+        "domain": "www.monkeyingaround.com",
+        "title": "Monkeying Around Connect the Dot Puzzles",
+        "url": "https://www.monkeyingaround.com/samples.html",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.monkeyingaround.com › samples",
+        "website_name": "monkeyingaround.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Greatest Dot to Dot Books, the most challenging educational connect the dot games, free puzzle samples for kids and adults. FREE PRINTABLE SAMPLES. Free  ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "FREE PRINTABLE SAMPLES"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]",
+        "domain": "www.twopinkpeonies.com",
+        "title": "Free Dot Marker and Dot Sticker Printables {over 100 pages!}",
+        "url": "https://www.twopinkpeonies.com/category/toddler-learning/free-do-a-dot-pages/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.twopinkpeonies.com › toddler-learning › fr...",
+        "website_name": "Two Pink Peonies",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Dot marker printables and dot sticker sheets are such a fun and easy activity to do with toddlers and preschoolers. There are over 100 pages to grab!",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Dot marker printables and dot sticker sheets"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Dot to dot printable free",
+         "Dot to dot printable pdf",
+         "Dot to Dot Printables 1 100 free",
+         "Dot to Dot Printables for Adults",
+         "Dot to Dot Printables 1-200",
+         "Dot to Dot Printables 1-200 Free",
+         "Dot to Dot Printables 1 500",
+         "Free Dot to Dot Printables 1-1000 PDF"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

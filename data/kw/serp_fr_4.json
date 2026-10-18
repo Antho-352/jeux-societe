@@ -1,0 +1,821 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "2.1886 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10180708-2588-0139-0000-7c95ce181027",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "2.1297 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "labyrinthe à imprimer",
+     "location_code": 2250,
+     "language_code": "fr",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "labyrinthe à imprimer",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2250,
+      "language_code": "fr",
+      "check_url": "https://www.google.com/search?q=labyrinthe%20%C3%A0%20imprimer&hl=fr&gl=FR&ie=UTF-8&uule=w+CAIQIFISCTFXeDMpoFQNEffZR8eWP_1r",
+      "datetime": "2026-10-18 07:08:35 +00:00",
+      "spell": null,
+      "refinement_chips": {
+       "type": "refinement_chips",
+       "xpath": "/html[1]/body[1]/div[3]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+       "items": [
+        {
+         "type": "refinement_chips_element",
+         "title": "PDF gratuit",
+         "url": "https://www.google.com/search?sca_esv=ff747ee1c8df38fc&hl=fr&gl=FR&sxsrf=APpeQntooOsq-chwQFTOODc_DK4RjOWPIw:1792307314439&q=Labyrinthe+%C3%A0+imprimer+PDF+gratuit&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rELFqA10R_k8jLicrEJ-YvRtM6xhyTEyQA59RjTh8td0Z-NmwfkzOI1ka8nhjKQYE4pYZynWftTjEIFhqbiUVdafPDVFC_wYsrcoxZKaFgFqcYIzAXUmXNf4J-FSmsw6RWuebmv3HrVGWOQexX11_G3Nw0YXgGmXMLVzFk5COlIItG2eKg88vlgcefETneg86iqGF0edVN0M4RCOOXohWzN_C7es8ws5_4EhiJ9O5Sitcwe0d&sa=X&ved=2ahUKEwiyrriGgcOXAxXlRfEDHfXfMqAQxKsJKAB6BAgbEAE&ictx=0",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Difficile PDF",
+         "url": "https://www.google.com/search?sca_esv=ff747ee1c8df38fc&hl=fr&gl=FR&sxsrf=APpeQntooOsq-chwQFTOODc_DK4RjOWPIw:1792307314439&q=Labyrinthe+%C3%A0+imprimer+difficile+PDF&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4raKSLYyw4dOLnaAouEoyC1NpMqcH9-F0tv0Nll31aAyMykJ8aHOZI8CpV6YMxaqxDMfzSqCdAMOiBZd3OCCLR16tvPF50M6H1e9qXp6m-TSF6wP9hS0cj_eNlKeuPfgxymNeKv-sApzC_EvSfwyCGrgqiVDm01uSHzVPEQphvYWaSoudXlSa_W9tJxW2CklcQXZKW3WcbfZ8QjYMBxvqkKLG1mJq98c97RSkOVMTFjfoAYcMn&sa=X&ved=2ahUKEwiyrriGgcOXAxXlRfEDHfXfMqAQxKsJKAF6BAggEAE&ictx=0",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "10 ans",
+         "url": "https://www.google.com/search?sca_esv=ff747ee1c8df38fc&hl=fr&gl=FR&sxsrf=APpeQntooOsq-chwQFTOODc_DK4RjOWPIw:1792307314439&q=Labyrinthe+%C3%A0+imprimer+10+ans&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rI33qnixvZ6Fp5P8_sPSf9NRSskVBn5on3TdkspPuS6U6VEZMIK-eQhNqyjwFo2XUK9yBeilcZ8kvY2rcgXngTO7LA9D1OpWkwYll-bFtGX_bLotMpIpQmWEHMxJ2COB5US3dcGW0E49dnku8XpcotVpmGErdj--1Pb0EL1eMH2T4vIcMJKAivfsE2uFFNKixvFxR0p3sBBsv-RrQP7ZFh3uZYqY&sa=X&ved=2ahUKEwiyrriGgcOXAxXlRfEDHfXfMqAQxKsJKAJ6BAgfEAE&ictx=0",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "8 ans pdf",
+         "url": "https://www.google.com/search?sca_esv=ff747ee1c8df38fc&hl=fr&gl=FR&sxsrf=APpeQntooOsq-chwQFTOODc_DK4RjOWPIw:1792307314439&q=Labyrinthe+%C3%A0+imprimer+8+ans+pdf&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rvwqBrk1j1nie1LbrRWB3xRw1wISZokR-hgvJVbFQTUBPGVVJUMHcj6HER5wzlAmsJtDdpNZbJ6TsTPv9UBClMdeeQhThv9YhZVQco669cISlMgcURUIlYxDOQYeIJ0XtgYFrFtbO7D6Q6RTtLPySwR4pLB9d9jtx12V4j6LVW7fUHsUyOFasiZ9XI8MZ34Kxq9X4AQDMlxDauVVQXjWN857axiU&sa=X&ved=2ahUKEwiyrriGgcOXAxXlRfEDHfXfMqAQxKsJKAN6BAgeEAE&ictx=0",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Coloriage",
+         "url": "https://www.google.com/search?sca_esv=ff747ee1c8df38fc&hl=fr&gl=FR&sxsrf=APpeQntooOsq-chwQFTOODc_DK4RjOWPIw:1792307314439&q=Coloriage+labyrinthe+%C3%A0+imprimer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rRoOwhD3PmY2Z8ckBZ2puu-x4kiKUVeaGXataK7ZGCF0YgmZoKdsLaabm6kO6fG-p-5UY3IgGTL-8dF8i09I03ocGeMR97yVTkAhsjv-cHCiylhpV12hRh7pxjnNKlLlPt8egffTy90FVizjNCDWCjEcLMP5WwuBtyZR9YwXPrxcogePdiVAPDVptmb4wUb1bf_Zkrvx-woh3bB1D3vMkE56PgB8&sa=X&ved=2ahUKEwiyrriGgcOXAxXlRfEDHfXfMqAQxKsJKAR6BAgcEAE&ictx=0",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "PDF maternelle",
+         "url": "https://www.google.com/search?sca_esv=ff747ee1c8df38fc&hl=fr&gl=FR&sxsrf=APpeQntooOsq-chwQFTOODc_DK4RjOWPIw:1792307314439&q=Labyrinthe+%C3%A0+imprimer+PDF+maternelle&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rN6d2OgIShkn4REYU4ZCRhJV1OkKsjxqBDaHdji3jL_ld5eKs1CqfiRmstboOxlLgvGFELOey4GUIYCq3XXMugHP6SYpqpTHCr6naFYxYFEWI6ixiysNZRqVTqgF1I_bGBGdlAWbtC4U_K6ls5pLeCgwHI4y0LS45jIrziXV2oHUHhdIQ2z49PhM_OcPbDSkCisAwT-IP6kZfvcbdl5Ll5XYSptHIZw-ruLyg13y3wEE0kwrC&sa=X&ved=2ahUKEwiyrriGgcOXAxXlRfEDHfXfMqAQxKsJKAV6BAhzEAE&ictx=0",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "5 ans PDF",
+         "url": "https://www.google.com/search?sca_esv=ff747ee1c8df38fc&hl=fr&gl=FR&sxsrf=APpeQntooOsq-chwQFTOODc_DK4RjOWPIw:1792307314439&q=Labyrinthe+%C3%A0+imprimer+5+ans+PDF&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rvwqBrk1j1nie1LbrRWB3xRw1wISZokR-hgvJVbFQTUBPGVVJUMHcj6HER5wzlAmsPOp7HHvzcOf5FLptb46LzmbvNaBysxAfOI2x5tk0vVqGqZvPkXG6TQ_Y8F407pAr6dgXGHeiNqpt2JOMyPnKlqRVWl4e3vGOh-iVePyRi9xgxq9MwNv6mabAROMANhDGKQYbhgvmocVJTJgkMeJrdHI3eIA&sa=X&ved=2ahUKEwiyrriGgcOXAxXlRfEDHfXfMqAQxKsJKAZ6BAh0EAE&ictx=0",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "11 ans",
+         "url": "https://www.google.com/search?sca_esv=ff747ee1c8df38fc&hl=fr&gl=FR&sxsrf=APpeQntooOsq-chwQFTOODc_DK4RjOWPIw:1792307314439&q=Labyrinthe+%C3%A0+imprimer+11+ans&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rI33qnixvZ6Fp5P8_sPSf9NRSskVBn5on3TdkspPuS6U6VEZMIK-eQhNqyjwFo2XUOubwVSXBzBI6fOz0c4SQ99zauik8RK_EDoIsb9bPCEal0KUZbMDP8fVz8hIqIjL5ykqLQXBgBeKNzcrvmtoGt8QQTi7K4jXSTaV8LU5xNgNZI9PzUKUUqcwUyOsEIm_ntifnI3ppnRETjVtI1CarURpLhUg&sa=X&ved=2ahUKEwiyrriGgcOXAxXlRfEDHfXfMqAQxKsJKAd6BAhtEAE&ictx=0",
+         "domain": "www.google.com",
+         "options": null
+        }
+       ]
+      },
+      "item_types": [
+       "ai_overview",
+       "images",
+       "organic",
+       "people_also_ask",
+       "related_searches"
+      ],
+      "se_results_count": 127,
+      "pages_count": 1,
+      "items_count": 12,
+      "items": [
+       {
+        "type": "images",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[14]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "title": "Labyrinthe Espace",
+        "url": null,
+        "items": [
+         {
+          "type": "images_element",
+          "alt": "Labyrinthe Espace",
+          "url": "https://anniversaire-en-or.com/labyrinthe-espace/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180708-2588-0139-0000-7c95ce181027:0"
+         },
+         {
+          "type": "images_element",
+          "alt": "Labyrinthe circulaire",
+          "url": "https://hugolescargot.journaldesfemmes.fr/activites-enfants/jeux-a-imprimer/56033-labyrinthe-circulaire/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180708-2588-0139-0000-7c95ce181027:1"
+         },
+         {
+          "type": "images_element",
+          "alt": "Labyrinthe à imprimer - tidou.fr",
+          "url": "https://tidou.fr/jeux-a-imprimer/gs-maternelle/347-labyrinthe-animaux",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180708-2588-0139-0000-7c95ce181027:2"
+         },
+         {
+          "type": "images_element",
+          "alt": "Labyrinthes 10 exercices pour se repérer au CP CE1 - Maître ...",
+          "url": "https://maitrelucas.fr/fiche/labyrinthes-cp-ce1/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180708-2588-0139-0000-7c95ce181027:3"
+         },
+         {
+          "type": "images_element",
+          "alt": "Labyrinthe alphabet - tipirate",
+          "url": "https://tipirate.net/imprimer/labyrinthe/636-labyrinthe-alphabet",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180708-2588-0139-0000-7c95ce181027:4"
+         },
+         {
+          "type": "images_element",
+          "alt": "Quatre labyrinthes avec solutions - Lulu la taupe, jeux ...",
+          "url": "https://lululataupe.com/imprimerie/labyrinthes/772-quatre-labyrinthes",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180708-2588-0139-0000-7c95ce181027:5"
+         },
+         {
+          "type": "images_element",
+          "alt": "Jeux de labyrinthes gratuit / Jeux LabyrinthesTête à modeler",
+          "url": "https://teteamodeler.ouest-france.fr/dossier/jeux/labyrinthe.asp",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180708-2588-0139-0000-7c95ce181027:6"
+         },
+         {
+          "type": "images_element",
+          "alt": "Labyrinthe, Tipirate et le trésor - tipirate",
+          "url": "https://tipirate.net/imprimer/labyrinthe/333-labyrinthe-7",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180708-2588-0139-0000-7c95ce181027:7"
+         },
+         {
+          "type": "images_element",
+          "alt": "Labyrinthes 10 exercices pour se repérer au CP CE1 - Maître ...",
+          "url": "https://maitrelucas.fr/fiche/labyrinthes-cp-ce1/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180708-2588-0139-0000-7c95ce181027:8"
+         },
+         {
+          "type": "images_element",
+          "alt": "Le labyrinthe de l'école",
+          "url": "https://anniversaire-en-or.com/labyrinthe-ecole-a-imprimer/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180708-2588-0139-0000-7c95ce181027:9"
+         },
+         {
+          "type": "images_element",
+          "alt": "Jeu coloriage labyrinthe - Coloriages de Labyrinthes à imprimer",
+          "url": "https://www.justcolor.net/enfants/coloriages-educatifs/labyrinthes-a-colorier/?image=labyrinthes__labyrinthe_2__1",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180708-2588-0139-0000-7c95ce181027:10"
+         },
+         {
+          "type": "images_element",
+          "alt": "Jeu à imprimer Activites maternelle Poissons : Labyrinthe ...",
+          "url": "https://www.bonjourlesenfants.net/print-tool/affichage.php?lang=fr&theme-id=10308&theme=Activites%20maternelle%20Poissons&repertoire=images/10308/g/&image=Labyrinthe-poissons-g-1.jpg",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvL5zJjFxXAzZw3c7qwiW2QcCswZ32k_1AWfFJiUOv5B3Z20nslhTzdoY&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Labyrinthe à imprimer, les animaux et leur nourriture - Lulu ...",
+          "url": "https://lululataupe.com/imprimerie/labyrinthes/431-labyrinthe-animaux-nourriture",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXum1vZ1MPBhromTbm6ocEoxSvfeGzu6Jf7DIHAKi7t2WnbOzDa12tZ-A&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "LABYRINTHES AVENTURES à imprimer ou pour jouer sur l'ECRAN ...",
+          "url": "https://www.dragono.fr/labyrinthes-aventures/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS43gsExIsmZHuf5kG8SNoEo7SUMJbuC8ArRdg87Kv_s8pojqQM0-MbfRU&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Jeux de labyrinthes gratuit / Jeux LabyrinthesTête à modeler",
+          "url": "https://teteamodeler.ouest-france.fr/dossier/jeux/labyrinthe.asp",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPBNrMUSTE9EDFanQxrHEwAqTuF1AOOMy00PgLOmu-pEW6LjcKd_jNTtA&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Tous nos jeux de labyrinthes à colorier",
+          "url": "https://hugolescargot.journaldesfemmes.fr/activites-enfants/jeux-a-imprimer/58433-jeux-labyrinthes-a-colorier/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo1OjzVxzQXa8bIDQ-6lKeiN4CTRLT-pApbjPnT6SemJMVE9FyfpAALds&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "labyrinthes en ligne à imprimer pour les enfants",
+          "url": "https://www.toupty.com/labyrinthes1.html",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXVMejpjAfaK-_c-zRCn-0Isvkb3FVawHQLhUGc2APZjNwiw_I-d8HTfk&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Coloriage Jeux labyrinthe difficile à imprimer | Coloriage.info",
+          "url": "https://coloriage.info/jeux-labyrinthe-difficile-coloriage-1872",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo3o3Sk2Oi_Iai3jXrT8zXJfmTwQsuKzK23hsH87QesCkfBy7fZWn25AE&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "labyrinthe-maternelle-petite-moyenne-grande-section-50 ...",
+          "url": "https://pour-enfants.fr/charades/labyrinthes-faciles-a-imprimer-pour-enfants-de-maternelle/labyrinthe-maternelle-petite-section-50/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNJDF_KDz7zmtby-i0h3PXOfRvKeZGPwQXCFsBG6Vk7YL1r0_C1ao8Ws&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Jeu coloriage labyrinthe - Coloriages de Labyrinthes à imprimer",
+          "url": "https://www.justcolor.net/enfants/coloriages-educatifs/labyrinthes-a-colorier/?image=labyrinthes__labyrinthe-fete-halloween-3__1",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Ab3HxFLAy3BBDGy2tYANWFTMQyJ5NcXp75W2WmZibPYdtKX1ra7YB4o&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Labyrinthe gratuit à imprimer - tipirate",
+          "url": "https://tipirate.net/imprimer/labyrinthe/334-labyrinthe-8",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCrn9kuTOxHqtmCDdpRQZS3dJb-B24chxkieoHIWrmBhwkcfMTSkAEkvI&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "labyrinthes en ligne à imprimer pour les enfants",
+          "url": "https://www.toupty.com/labyrinthes1.html",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjV0VzjPCzraF-r3GMaDmmitZ2rnBAkCcwV6IZHE_rBREjw-4w21mychU&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Labyrinthe circulaire",
+          "url": "https://hugolescargot.journaldesfemmes.fr/activites-enfants/jeux-a-imprimer/56033-labyrinthe-circulaire/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXaC6MlMGdxGjHzjGGaVM1fpPbBNJZD4IZCAyfHBghwslXtTvuf7yHOyE&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Coloriage Jeux labyrinthe dinosaure à imprimer | Coloriage.info",
+          "url": "https://coloriage.info/jeux-labyrinthe-dinosaure-coloriage-1893",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCi3hJYPonqGgR6qI8g36fErTjRxegA1HS6I0Gi4bYu6JKoq8ElclYmUo&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Labyrinthes - Lulu la taupe, jeux gratuits pour enfants",
+          "url": "https://lululataupe.com/imprimerie/labyrinthes",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcwVAluLDhAyBOXLkSWIZaefuZemn6Eeji5PeKPa9jPZAJo-iL3ytkOmU&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Labyrinthes 10 exercices pour se repérer au CP CE1 - Maître ...",
+          "url": "https://maitrelucas.fr/fiche/labyrinthes-cp-ce1/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUIoAkf68d3Ui6yQ8tRZqguAxuRsUYdAN0R723119-WUv1-4vfC72xRvE&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Trouve l'issue des quatre labyrinthes pop ! | L'Autre Canal ...",
+          "url": "https://splash.lautrecanalnancy.fr/trouve-l-issue-des-quatre-labyrinthes-pop",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5ELEnmmNZnCgT5DeFxnCPDlHJ6w2HJ4L-Pn2EWJaOL6XfdGtgfBgy1k&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Labyrinthes d'Halloween à imprimer gratuitement",
+          "url": "https://dessinemoiunehistoire.net/labyrinthe-halloween/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3j4yUZ1QQkQoHO95XpMAYFfdJ0mT5w8w0S-eramg-6gzOgQpojxFBeh0&s"
+         }
+        ],
+        "related_image_searches": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[14]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+        "domain": "monsieurmathieu.fr",
+        "title": "12 LABYRINTHES évolutifs CP CE1 CE2 en PDF",
+        "url": "https://monsieurmathieu.fr/wp-content/uploads/2011/12/12-LABYRINTHES-%C3%A9volutifs-CP-CE1-CE2.pdf",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://monsieurmathieu.fr › uploads › 2011/12",
+        "website_name": "Monsieur Mathieu",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Page 1. Page 2. Page 3. Page 4. J. Page 5. Page 6. ३. -. Page 7. Page 8. Page 9. Page 10. Page 11. Page 12.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[14]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]",
+        "domain": "tipirate.net",
+        "title": "Labyrinthe gratuit à imprimer",
+        "url": "https://tipirate.net/imprimer/labyrinthe/334-labyrinthe-8",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://tipirate.net › Imprimer › Labyrinthes à imprimer",
+        "website_name": "tipirate",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jeu de labyrinthe gratuit à imprimer. Aide le canard à rejoindre l'étang. Trace le chemin le plus court qu'il devra parcourir.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Jeu de labyrinthe gratuit à imprimer"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[14]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+        "domain": "fr.pinterest.com",
+        "title": "Jeux de labyrinthe gratuit à imprimer (facile à difficile)",
+        "url": "https://fr.pinterest.com/pin/jeux-de-labyrinthe-gratuit-imprimer-facile-difficile--158329743134630696/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "il y a 8 ans",
+        "website_name": "Pinterest · fanny4511",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Découvrez les labyrinthes à imprimer de Mômes sur toutes sortes de thèmes et de formes (avion, pompiers, contes, lapin, espace, etc.).",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Découvrez les labyrinthes à imprimer de Mômes"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[14]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+        "domain": "www.toupty.com",
+        "title": "labyrinthes en ligne à imprimer pour les enfants",
+        "url": "https://www.toupty.com/labyrinthes1.html",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.toupty.com › labyrinthes1",
+        "website_name": "Toupty.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Choisi la forme et le niveau de difficulté de ton labyrinthe et imprime le. Labyrinthes rectangulaires. Niveau 1 (3 labyrinthes par page), Niveau 2 (3 ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Choisi la forme et le niveau de difficulté de ton labyrinthe et imprime le"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[14]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+        "domain": "www.bloghoptoys.fr",
+        "title": "10 labyrinthes à télécharger - Blog Hop'Toys",
+        "url": "https://www.bloghoptoys.fr/les-labyrinthes-telecharger",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.bloghoptoys.fr › les-labyrinthes-telecharger",
+        "website_name": "Le blog Hop'Toys",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Nous vous proposons 3 labyrinthes de 3 niveau de difficultés différentes : facile, moyen et difficile à télécharger gratuitement.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Nous vous proposons 3 labyrinthes de 3 niveau de difficultés différentes"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[14]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]",
+        "domain": "fr.pinterest.com",
+        "title": "Labyrinthe À Imprimer Maternelle",
+        "url": "https://fr.pinterest.com/ideas/labyrinthe-%C3%A0-imprimer-maternelle/897461939763/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://fr.pinterest.com › Explorer",
+        "website_name": "Pinterest",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Découvrez les meilleures idées et sources d'inspiration de Pinterest pour Labyrinthe à imprimer maternelle. Trouvez l'inspiration et essayez de nouvelles choses ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Labyrinthe à imprimer maternelle"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[14]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]",
+        "domain": "pinata-magazine.com",
+        "title": "Labyrinthes pour enfants à imprimer – Piñata Magazine",
+        "url": "https://pinata-magazine.com/activites/categories/labyrinthe/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://pinata-magazine.com › Activités › Catégories",
+        "website_name": "pinata-magazine.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Retrouvez une sélection de labyrinthes gratuits à imprimer pour occuper les enfants : parcours simples, défis ludiques et modèles variés.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "labyrinthes gratuits à imprimer"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[14]/div[2]/div[1]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "Vous pouvez trouver et télécharger des jeux de labyrinthes gratuits pour enfants sur plusieurs sites spécialisés :\n\n- **[Caboucadin](https://www.caboucadin.com/les-jeux-a-imprimer/jeux-de-labyrinthe/)** : Propose plus de 150 grilles de labyrinthes variées (en noir et blanc ou en couleur, avec des thèmes comme l'Épiphanie ou les Jeux Olympiques).\n- **[Lulu la taupe](https://lululataupe.com/imprimerie/labyrinthes)** : Offre des jeux de labyrinthes amusants accompagnés de leurs solutions pour s'entraîner à la logique.\n- **[Tête à modeler](https://teteamodeler.ouest-france.fr/dossier/jeux/labyrinthe.asp)** : Met à disposition des activités ludiques pour développer la concentration et l'observation des enfants.\n- **[TiPirate](https://tipirate.net/imprimer/labyrinthe)** : Spécialisé dans les thèmes illustrés (chats, pirates, animaux, Noël, Halloween, etc.).\n- **[MiCetF](https://micetf.fr/labyrinthes-pdf/)** : Un outil pratique pour générer et imprimer des labyrinthes personnalisés.[[1]](https://teteamodeler.ouest-france.fr/dossier/jeux/labyrinthe.asp)[[2]](https://www.caboucadin.com/les-jeux-a-imprimer/jeux-de-labyrinthe/)[[3]](https://lululataupe.com/imprimerie/labyrinthes)[[4]](https://tipirate.net/imprimer/labyrinthe)[[5]](https://micetf.fr/labyrinthes-pdf/)\n\nSi vous cherchez un **niveau particulier** (maternelle, facile ou difficile) ou un **thème précis** (animaux, mathématiques, fêtes), dites-le-moi pour que je vous oriente vers la meilleure option.",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Vous pouvez trouver et télécharger des jeux de labyrinthes gratuits pour enfants sur plusieurs sites spécialisés :",
+          "markdown": "Vous pouvez trouver et télécharger des jeux de labyrinthes gratuits pour enfants sur plusieurs sites spécialisés :",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Caboucadin : Propose plus de 150 grilles de labyrinthes variées (en noir et blanc ou en couleur, avec des thèmes comme l'Épiphanie ou les Jeux Olympiques). Lulu la taupe : Offre des jeux de labyrinthes amusants accompagnés de leurs solutions pour s'entraîner à la logique. Tête à modeler : Met à disposition des activités ludiques pour développer la concentration et l'observation des enfants. TiPirate : Spécialisé dans les thèmes illustrés (chats, pirates, animaux, Noël, Halloween, etc.). MiCetF : Un outil pratique pour générer et imprimer des labyrinthes personnalisés.",
+          "markdown": "- **[Caboucadin](https://www.caboucadin.com/les-jeux-a-imprimer/jeux-de-labyrinthe/)** : Propose plus de 150 grilles de labyrinthes variées (en noir et blanc ou en couleur, avec des thèmes comme l'Épiphanie ou les Jeux Olympiques).\n- **[Lulu la taupe](https://lululataupe.com/imprimerie/labyrinthes)** : Offre des jeux de labyrinthes amusants accompagnés de leurs solutions pour s'entraîner à la logique.\n- **[Tête à modeler](https://teteamodeler.ouest-france.fr/dossier/jeux/labyrinthe.asp)** : Met à disposition des activités ludiques pour développer la concentration et l'observation des enfants.\n- **[TiPirate](https://tipirate.net/imprimer/labyrinthe)** : Spécialisé dans les thèmes illustrés (chats, pirates, animaux, Noël, Halloween, etc.).\n- **[MiCetF](https://micetf.fr/labyrinthes-pdf/)** : Un outil pratique pour générer et imprimer des labyrinthes personnalisés.[[1]](https://teteamodeler.ouest-france.fr/dossier/jeux/labyrinthe.asp)[[2]](https://www.caboucadin.com/les-jeux-a-imprimer/jeux-de-labyrinthe/)[[3]](https://lululataupe.com/imprimerie/labyrinthes)[[4]](https://tipirate.net/imprimer/labyrinthe)[[5]](https://micetf.fr/labyrinthes-pdf/)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Caboucadin",
+            "description": null,
+            "url": "https://www.caboucadin.com/les-jeux-a-imprimer/jeux-de-labyrinthe/",
+            "domain": "www.caboucadin.com"
+           },
+           {
+            "type": "link_element",
+            "title": "Lulu la taupe",
+            "description": null,
+            "url": "https://lululataupe.com/imprimerie/labyrinthes",
+            "domain": "lululataupe.com"
+           },
+           {
+            "type": "link_element",
+            "title": "Tête à modeler",
+            "description": null,
+            "url": "https://teteamodeler.ouest-france.fr/dossier/jeux/labyrinthe.asp",
+            "domain": "teteamodeler.ouest-france.fr"
+           },
+           {
+            "type": "link_element",
+            "title": "TiPirate",
+            "description": null,
+            "url": "https://tipirate.net/imprimer/labyrinthe",
+            "domain": "tipirate.net"
+           },
+           {
+            "type": "link_element",
+            "title": "MiCetF",
+            "description": null,
+            "url": "https://micetf.fr/labyrinthes-pdf/",
+            "domain": "micetf.fr"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Tête à Modeler",
+            "domain": "teteamodeler.ouest-france.fr",
+            "url": "https://teteamodeler.ouest-france.fr/dossier/jeux/labyrinthe.asp",
+            "title": "Tous nos jeux de labyrinthes à imprimer pour les enfants",
+            "text": "Les jeux de labyrinthes sont importants pour développer la logique et les capacités d'observation des enfants. Les labyrinthes son..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Caboucadin",
+            "domain": "www.caboucadin.com",
+            "url": "https://www.caboucadin.com/les-jeux-a-imprimer/jeux-de-labyrinthe/",
+            "title": "150 jeux de labyrinthe à imprimer - Caboucadin",
+            "text": "250 Jeux de labyrinthe gratuits. Les jeux de labyrinthe à imprimer pour enfants ont ce côté tout simple qu'on aime bien ressortir ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Lulu la taupe",
+            "domain": "lululataupe.com",
+            "url": "https://lululataupe.com/imprimerie/labyrinthes",
+            "title": "Labyrinthes - Lulu la taupe, jeux gratuits pour enfants",
+            "text": "... Antistress, abstraits · Cahiers de coloriage · Papeterie · Papier a lettres · Calendriers · Cartes à imprimer · Étiquettes · D..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Tipirate",
+            "domain": "tipirate.net",
+            "url": "https://tipirate.net/imprimer/labyrinthe",
+            "title": "Labyrinthes à imprimer - tipirate",
+            "text": "Printable labyrinths and pirate stories on tipirate: * Labyrinths: chat et souris, pirate/trésor, carte au trésor, rat sur bateau,"
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "MiCetF",
+            "domain": "micetf.fr",
+            "url": "https://micetf.fr/labyrinthes-pdf/",
+            "title": "Générateur de labyrinthes à imprimer - MiCetF",
+            "text": "Générateur de labyrinthes à imprimer. MiCetF Contact. Dimension des labyrinthes. 6 x 6. Nombre de labyrinthes sur la page. 1. Thèm..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Si vous cherchez un niveau particulier (maternelle, facile ou difficile) ou un thème précis (animaux, mathématiques, fêtes), dites-le-moi pour que je vous oriente vers la meilleure option.",
+          "markdown": "Si vous cherchez un **niveau particulier** (maternelle, facile ou difficile) ou un **thème précis** (animaux, mathématiques, fêtes), dites-le-moi pour que je vous oriente vers la meilleure option.",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[14]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]",
+        "domain": "www.dragono.fr",
+        "title": "Labyrinthes Classiques",
+        "url": "https://www.dragono.fr/labyrinthes/labyrinthes-classiques/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.dragono.fr › labyrinthes › labyrinthes-classiq...",
+        "website_name": "dragono.fr",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Deux labyrinthes à imprimer faciles pour les élèves de maternelle. La chenille doit manger la pomme et la salade ! Télécharger. Labyrinthe Maternelle Chenille ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Deux labyrinthes à imprimer faciles pour les élèves de maternelle"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[14]/div[2]/div[1]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "Quelle est la règle du jeu du labyrinthe ?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[14]/div[2]/div[1]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Où puis-je trouver des jeux éducatifs gratuits en pdf ?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[14]/div[2]/div[1]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Quels sont les différents types de labyrinthes ?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[14]/div[2]/div[1]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Quelle est la technique pour sortir d'un labyrinthe ?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[14]/div[2]/div[1]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[14]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Labyrinthe à imprimer PDF gratuit",
+         "Cahier de labyrinthe à imprimer PDF",
+         "Labyrinthe à imprimer difficile PDF",
+         "Labyrinthe à imprimer 10 ans",
+         "Labyrinthe à imprimer 8 ans pdf",
+         "Coloriage labyrinthe à imprimer"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

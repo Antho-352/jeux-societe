@@ -1,0 +1,518 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "7.0475 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10180707-2588-0139-0000-3918d30111c1",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "6.8987 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "printable rebus puzzles",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "printable rebus puzzles",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=printable%20rebus%20puzzles&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-18 07:07:41 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "images",
+       "related_searches"
+      ],
+      "se_results_count": 123,
+      "pages_count": 1,
+      "items_count": 11,
+      "items": [
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "domain": "www.scribd.com",
+        "title": "650+ Free Printable Rebus Puzzles With Answers PDF",
+        "url": "https://www.scribd.com/document/1019872367/650-Free-Printable-Rebus-Puzzles-With-Answers-PDF",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.scribd.com › document › 650-Free-Printab...",
+        "website_name": "Scribd",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "The document provides over 650 free printable rebus puzzles along with their answers, aimed at higher-level ESL learners and those seeking mental exercises. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "over 650 free printable rebus puzzles"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.scribd.com/document/1019872367/650-Free-Printable-Rebus-Puzzles-With-Answers-PDF#:~:text=The%20document%20provides%20over%20650,and%20those%20seeking%20mental%20exercises.",
+          "domain": "www.scribd.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+        "domain": "www.superteacherworksheets.com",
+        "title": "5th Grade Rebus Puzzles Worksheets",
+        "url": "https://www.superteacherworksheets.com/free-printable-worksheets/5th-grade/puzzles-and-brain-teasers/rebus-puzzles/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.superteacherworksheets.com › rebus-puzzles",
+        "website_name": "Super Teacher Worksheets",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Download 5th grade Common Core aligned rebus puzzles worksheets in PDF format. Refine elementary skills with practice rebus puzzles activities on fun, free, ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Download 5th grade Common Core aligned rebus puzzles worksheets in PDF format"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "images",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]",
+        "title": "Images",
+        "url": "https://www.google.com/search?sca_esv=ff747ee1c8df38fc&hl=en&gl=US&sxsrf=APpeQnudgfcOa2Gxm5jUgWXVqzo-pY5mdg:1792307260273&q=printable+rebus+puzzles&udm=2&source=univ&fir=hRMR3LyFgIGpyM%252CdXBI-K16cxji6M%252C_%253BzHBF_RpqEN2COM%252C7r2ePc09vUYB-M%252C_%253BXPjAf-8uoE3S5M%252Co53G_XTYyHfYzM%252C_%253B1gTDJqr2hPc6IM%252CdZ49e5ym88smiM%252C_%253BFRWlWCCBbm3_oM%252CBuYzWgqVolecfM%252C_%253BYB5PtPy_k6FBtM%252Cn-mQMZ8Y0V9AnM%252C_%253BS9WeRXOqrpsJoM%252Cn-mQMZ8Y0V9AnM%252C_%253B5RArSkslYL_kwM%252CQT1J_cEqh3RPnM%252C_%253Bo6XyNZ4FDtjATM%252CB2Mgz6MhHF6Z0M%252C_&usg=AI4_-kT34R1SoJYBpjIGooApm7PtynK8-A&sa=X&ved=2ahUKEwi29s3sgMOXAxWeRZ8JHYT7JcoQ7Al6BAgjEAU",
+        "items": [
+         {
+          "type": "images_element",
+          "alt": "1200 + Free printable rebus puzzles with answers (PDF)",
+          "url": "https://eslvault.com/free-printable-rebus-puzzles/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-3918d30111c1:0"
+         },
+         {
+          "type": "images_element",
+          "alt": "500 Rebus Puzzles And Answers – Challenge Your Brain Now!",
+          "url": "https://justfamilyfun.com/rebus-puzzles-and-answers/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-3918d30111c1:1"
+         },
+         {
+          "type": "images_element",
+          "alt": "6th Grade Printable Rebus Puzzles Worksheets",
+          "url": "https://www.superteacherworksheets.com/free-printable-worksheets/6th-grade/puzzles-and-brain-teasers/rebus-puzzles/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-3918d30111c1:2"
+         },
+         {
+          "type": "images_element",
+          "alt": "Rebus Puzzles",
+          "url": "https://www.superteacherworksheets.com/featured-items/pz-rebus-puzzle.html",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-3918d30111c1:3"
+         },
+         {
+          "type": "images_element",
+          "alt": "100+ Printable Rebus Puzzles With Answers (2025 PDF)",
+          "url": "https://justfamilyfun.com/100-printable-rebus-puzzles-with-answers-2025/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-3918d30111c1:4"
+         },
+         {
+          "type": "images_element",
+          "alt": "36 Rebus Puzzles With Answers (Free Printable)",
+          "url": "https://www.weareteachers.com/rebus-puzzles/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-3918d30111c1:5"
+         },
+         {
+          "type": "images_element",
+          "alt": "36 Rebus Puzzles With Answers (Free Printable)",
+          "url": "https://www.weareteachers.com/rebus-puzzles/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnr80cCsb0YeNy-pS6LbQinh7OicgpezIfV06qhFshJiQdQb7_jKwcVtc&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Guess What It Says: Rebuses | Printable Games and Puzzles ...",
+          "url": "https://teachables.scholastic.com/teachables/books/guess-what-it-says-rebuses-98765432TEA00_214.html",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ14SN0NCzH5Uo7H4pbCHi-jO0jXocOiaq7n2eyIOtYF88vcBc1LuDQ_mc&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Rebus puzzles with answers - Can you solve them all?",
+          "url": "https://www.playgroupgame.com/rebus-puzzles-with-answers/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj4bNRHnYOVak9BIAc7-opEHIuWVeOFYQq9DRc6ePVhfM2dS7eaFVDBr4&s"
+         }
+        ],
+        "related_image_searches": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+        "domain": "ar.pinterest.com",
+        "title": "100+ Printable Rebus Puzzles With Answers (2025 PDF)",
+        "url": "https://ar.pinterest.com/pin/910360512174119153/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://ar.pinterest.com › pin",
+        "website_name": "Pinterest",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Download over 100 printable rebus puzzles with answers in PDF format. A fun and educational brain teaser activity for kids and adults alike. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Download over 100 printable rebus puzzles with answers in PDF format"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://ar.pinterest.com/pin/910360512174119153/#:~:text=Download%20over%20100%20printable%20rebus,for%20kids%20and%20adults%20alike",
+          "domain": "ar.pinterest.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+        "domain": "www.pinterest.com",
+        "title": "30 Rebuses ideas | printable rebus puzzles with answers ...",
+        "url": "https://www.pinterest.com/carsonjoan/rebuses/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.pinterest.com › carsonjoan › rebuses",
+        "website_name": "Pinterest",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Oct 17, 2022 - Explore Joan Carson's board \"Rebuses\" on Pinterest. See more ideas about printable rebus puzzles with answers, rebus puzzles with answers ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "printable rebus puzzles with answers"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+        "asynchronous_ai_overview": true,
+        "markdown": null,
+        "items": null,
+        "references": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]",
+        "domain": "www.superteacherworksheets.com",
+        "title": "Rebus Puzzles",
+        "url": "https://www.superteacherworksheets.com/brainteasers-rebus-puzzles.html",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.superteacherworksheets.com › brainteasers-...",
+        "website_name": "Super Teacher Worksheets",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "A rebus puzzle uses pictures and symbols to represent a common word or phrase. This page has printable rebus puzzle brainteasers to challenge your students. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "printable rebus puzzle brainteasers"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.superteacherworksheets.com/brainteasers-rebus-puzzles.html#:~:text=A%20rebus%20puzzle%20uses%20pictures,brainteasers%20to%20challenge%20your%20students.",
+          "domain": "www.superteacherworksheets.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]",
+        "domain": "www.teacherspayteachers.com",
+        "title": "Rebus Puzzle",
+        "url": "https://www.teacherspayteachers.com/browse/english-language-arts/free?search=rebus%20puzzle",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.teacherspayteachers.com › browse › free",
+        "website_name": "Teachers Pay Teachers",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Looking for FREE brain teasers for upper elementary? These printable challenge sheets are perfect for fast finishers, morning warm-ups ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "FREE brain teasers for upper elementary"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.teacherspayteachers.com/browse/english-language-arts/free?search=rebus+puzzle#:~:text=Looking%20for%20FREE%20brain%20teasers,or%20back-to-school%20%2F%20end-of-year%20activities.",
+          "domain": "www.teacherspayteachers.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]",
+        "domain": "www.pinterest.com",
+        "title": "Rebus Puzzles Set 2 - Free Printable Brain Teasers for Kids",
+        "url": "https://www.pinterest.com/pin/5277724547762200/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.pinterest.com › ... › Kids Rebus",
+        "website_name": "Pinterest",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Nov 7, 2017 — Get your brain thinking in new and creative ways with a few rebus puzzles. Here is a free printable sheet of ten fun visual word challenges. Read more",
+        "pre_snippet": "11/07/2017 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "free printable sheet of ten fun visual word challenges"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.pinterest.com/pin/5277724547762200/#:~:text=Get%20your%20brain%20thinking%20in,ten%20fun%20visual%20word%20challenges.",
+          "domain": "www.pinterest.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2017-11-07 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]",
+        "domain": "www.weareteachers.com",
+        "title": "36 Rebus Puzzles With Answers (Free Printable)",
+        "url": "https://www.weareteachers.com/rebus-puzzles/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.weareteachers.com › rebus-puzzles",
+        "website_name": "We Are Teachers",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Mar 20, 2024 — Get your free printable rebus puzzles worksheets with answers. Plus check out a list of solving strategies and suggested activities.",
+        "pre_snippet": "03/20/2024 00:00:00",
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "printable rebus puzzles from www.weareteachers.com",
+          "url": "https://www.weareteachers.com/rebus-puzzles/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRFVCJyxCpizsGUnlCvQa9UNVf6aWN5UCj0nMAyYw&usqp=CAE&s"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "free printable rebus puzzles worksheets with answers"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2024-03-20 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Printable rebus puzzles pdf",
+         "Printable rebus puzzles with answers pdf",
+         "Free printable rebus puzzles",
+         "Printable rebus puzzles with answers",
+         "Printable rebus puzzles for adults",
+         "Rebus puzzles for kids",
+         "Rebus puzzles 12",
+         "Tricky rebus puzzles with answers PDF for adults"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

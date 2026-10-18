@@ -1,0 +1,717 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "2.9164 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10180707-2588-0139-0000-ce3293279374",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "2.8417 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "free printable bingo cards",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "free printable bingo cards",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=free%20printable%20bingo%20cards&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-18 07:07:48 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "images",
+       "related_searches"
+      ],
+      "se_results_count": 105,
+      "pages_count": 1,
+      "items_count": 11,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "![Free Printable Bingo Cards - Activity Connection](https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-ce3293279374:4)\nYou can generate and print custom or number-based bingo cards for free using the [My Free Bingo Cards Generator](https://myfreebingocards.com/).[[1]](https://myfreebingocards.com/)\n\n### Popular Free Printable Options & Tools\n\n- **Number Bingo (1–75):** Create randomized classic 1–75 number cards or download pre-made PDF sets like the [1-75 Number Bingo PDF](https://sjogliffeyservices.ie/wp-content/uploads/2020/06/175_Number_Bingo.pdf).\n- **Custom Word or Emoji Bingo:** Use the [Bingo Baker Platform](https://bingobaker.com/cards) to build custom grids with words, phrases, or icons.\n- **Themed & Party Bingo:** Browse customizable designs on [Canva Bingo Templates](https://www.canva.com/bingo-card/templates/) for holidays, baby showers, and classroom activities.\n- **Seniors & Memory Care:** Print simplified, large-print, or sequential layouts via the [Quiltt Senior Bingo Generator](https://www.quiltt.com/free-printable-bingo-cards).[[1]](https://myfreebingocards.com/)[[2]](https://sjogliffeyservices.ie/wp-content/uploads/2020/06/175_Number_Bingo.pdf)[[3]](https://bingobaker.com/cards)[[4]](https://www.canva.com/bingo-card/templates/)[[5]](https://www.quiltt.com/free-printable-bingo-cards)\n\n### Tips for Printing\n\n- **Paper Type:** Print on heavy cardstock for reusable cards, or standard printer paper if you plan to recycle them after one game.\n- **Multiple Cards per Page:** Save paper by adjusting your printer settings to fit 2, 4, or 6 cards onto a single sheet.[[1]](https://www.reddit.com/r/Bingo/comments/1izs0ea/i_made_a_free_printable_bingo_card_maker/)[[2]](https://www.canva.com/create/bingo-cards/)[[3]](https://www.quiltt.com/free-printable-bingo-cards)\n\nIf you tell me **what kind of event or group** you are playing with (such as kids, a birthday party, or a classroom), I can help you pick the best free template.",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "You can generate and print custom or number-based bingo cards for free using the My Free Bingo Cards Generator.",
+          "markdown": "![Free Printable Bingo Cards - Activity Connection](https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-ce3293279374:2)\nYou can generate and print custom or number-based bingo cards for free using the [My Free Bingo Cards Generator](https://myfreebingocards.com/).[[1]](https://myfreebingocards.com/)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "My Free Bingo Cards Generator",
+            "description": null,
+            "url": "https://myfreebingocards.com/",
+            "domain": "myfreebingocards.com"
+           }
+          ],
+          "images": [
+           {
+            "type": "images_element",
+            "alt": "Free Printable Bingo Cards - Activity Connection",
+            "url": null,
+            "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-ce3293279374:3"
+           }
+          ],
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "myfreebingocards.com",
+            "domain": "myfreebingocards.com",
+            "url": "https://myfreebingocards.com/",
+            "title": "My Free Bingo Cards",
+            "text": "Make the perfect bingo cards for your party or event. * Free Bingo Card Generator Create your own personalized bingo cards with ou..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Popular Free Printable Options & Tools",
+          "text": "Number Bingo (1–75): Create randomized classic 1–75 number cards or download pre-made PDF sets like the 1-75 Number Bingo PDF. Custom Word or Emoji Bingo: Use the Bingo Baker Platform to build custom grids with words, phrases, or icons. Themed & Party Bingo: Browse customizable designs on Canva Bingo Templates for holidays, baby showers, and classroom activities. Seniors & Memory Care: Print simplified, large-print, or sequential layouts via the Quiltt Senior Bingo Generator.",
+          "markdown": "- **Number Bingo (1–75):** Create randomized classic 1–75 number cards or download pre-made PDF sets like the [1-75 Number Bingo PDF](https://sjogliffeyservices.ie/wp-content/uploads/2020/06/175_Number_Bingo.pdf).\n- **Custom Word or Emoji Bingo:** Use the [Bingo Baker Platform](https://bingobaker.com/cards) to build custom grids with words, phrases, or icons.\n- **Themed & Party Bingo:** Browse customizable designs on [Canva Bingo Templates](https://www.canva.com/bingo-card/templates/) for holidays, baby showers, and classroom activities.\n- **Seniors & Memory Care:** Print simplified, large-print, or sequential layouts via the [Quiltt Senior Bingo Generator](https://www.quiltt.com/free-printable-bingo-cards).[[1]](https://myfreebingocards.com/)[[2]](https://sjogliffeyservices.ie/wp-content/uploads/2020/06/175_Number_Bingo.pdf)[[3]](https://bingobaker.com/cards)[[4]](https://www.canva.com/bingo-card/templates/)[[5]](https://www.quiltt.com/free-printable-bingo-cards)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "1-75 Number Bingo PDF",
+            "description": null,
+            "url": "https://sjogliffeyservices.ie/wp-content/uploads/2020/06/175_Number_Bingo.pdf",
+            "domain": "sjogliffeyservices.ie"
+           },
+           {
+            "type": "link_element",
+            "title": "Bingo Baker Platform",
+            "description": null,
+            "url": "https://bingobaker.com/cards",
+            "domain": "bingobaker.com"
+           },
+           {
+            "type": "link_element",
+            "title": "Canva Bingo Templates",
+            "description": null,
+            "url": "https://www.canva.com/bingo-card/templates/",
+            "domain": "www.canva.com"
+           },
+           {
+            "type": "link_element",
+            "title": "Quiltt Senior Bingo Generator",
+            "description": null,
+            "url": "https://www.quiltt.com/free-printable-bingo-cards",
+            "domain": "www.quiltt.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "myfreebingocards.com",
+            "domain": "myfreebingocards.com",
+            "url": "https://myfreebingocards.com/",
+            "title": "My Free Bingo Cards",
+            "text": "Make the perfect bingo cards for your party or event. * Free Bingo Card Generator Create your own personalized bingo cards with our amazing bingo card generator. P..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "St John of God Liffey Services",
+            "domain": "sjogliffeyservices.ie",
+            "url": "https://sjogliffeyservices.ie/wp-content/uploads/2020/06/175_Number_Bingo.pdf",
+            "title": "1-75 Number Bingo",
+            "text": "Overview: Printable 1-75 Number Bingo resource containing a complete 1-75 bingo caller's card set across pages 2-3 and 250 unique ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Bingo Baker",
+            "domain": "bingobaker.com",
+            "url": "https://bingobaker.com/cards",
+            "title": "Free Bingo Cards - Play Online or Print",
+            "text": "Printable Bingo Cards Bingo Baker allows you to print as many bingo cards as you want! If you need 10 cards or 1,000 bingo cards, ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Canva",
+            "domain": "www.canva.com",
+            "url": "https://www.canva.com/bingo-card/templates/",
+            "title": "Free bingo card templates to customize and print",
+            "text": "Printable bingo cards by Canva Our media library is host to thousands of illustrations, icons, and graphics you can use to fill in..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Quiltt Senior Living",
+            "domain": "www.quiltt.com",
+            "url": "https://www.quiltt.com/free-printable-bingo-cards",
+            "title": "Free Printable Bingo Cards for Seniors | Free Bingo Caller Included",
+            "text": "Three difficulty levels, four layout options, three paper sizes. Generate as many unique cards as you need. Download your complete..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Tips for Printing",
+          "text": "Paper Type: Print on heavy cardstock for reusable cards, or standard printer paper if you plan to recycle them after one game. Multiple Cards per Page: Save paper by adjusting your printer settings to fit 2, 4, or 6 cards onto a single sheet.",
+          "markdown": "- **Paper Type:** Print on heavy cardstock for reusable cards, or standard printer paper if you plan to recycle them after one game.\n- **Multiple Cards per Page:** Save paper by adjusting your printer settings to fit 2, 4, or 6 cards onto a single sheet.[[1]](https://www.reddit.com/r/Bingo/comments/1izs0ea/i_made_a_free_printable_bingo_card_maker/)[[2]](https://www.canva.com/create/bingo-cards/)[[3]](https://www.quiltt.com/free-printable-bingo-cards)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/Bingo/comments/1izs0ea/i_made_a_free_printable_bingo_card_maker/",
+            "title": "I made a free printable bingo card maker - Reddit",
+            "text": "Printing Multiple Cards: To print two 5\"x7\" bingo cards on a single letter-size paper, use the following settings in the Print Tab..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Canva",
+            "domain": "www.canva.com",
+            "url": "https://www.canva.com/create/bingo-cards/",
+            "title": "Free Bingo Card Generator",
+            "text": "FAQ * How can I print bingo cards for free? To print your bingo cards for free, view your printer options and setup, then choose “..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Quiltt Senior Living",
+            "domain": "www.quiltt.com",
+            "url": "https://www.quiltt.com/free-printable-bingo-cards",
+            "title": "Free Printable Bingo Cards for Seniors | Free Bingo Caller Included",
+            "text": "Three difficulty levels, four layout options, three paper sizes. Generate as many unique cards as you need. Download your complete..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "If you tell me what kind of event or group you are playing with (such as kids, a birthday party, or a classroom), I can help you pick the best free template.",
+          "markdown": "If you tell me **what kind of event or group** you are playing with (such as kids, a birthday party, or a classroom), I can help you pick the best free template.",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Reddit",
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/Bingo/comments/1izs0ea/i_made_a_free_printable_bingo_card_maker/",
+          "title": "I made a free printable bingo card maker - Reddit",
+          "text": "Printing Multiple Cards: To print two 5\"x7\" bingo cards on a single letter-size paper, use the following settings in the Print Tab: Paper Size = Letter, Paper Orie..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "myfreebingocards.com",
+          "domain": "myfreebingocards.com",
+          "url": "https://myfreebingocards.com/",
+          "title": "My Free Bingo Cards",
+          "text": "Make the perfect bingo cards for your party or event. * Free Bingo Card Generator Create your own personalized bingo cards with our amazing bingo card generator. P..."
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+        "domain": "www.toolsforeducators.com",
+        "title": "Bingo Card Maker - Free Printable Bingo Boards",
+        "url": "https://www.toolsforeducators.com/bingo/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.toolsforeducators.com › bingo",
+        "website_name": "Tools for Educators",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Make free printable bingo cards with 2000+ images or custom text. Choose 3x3, 4x4, or 5x5 boards, add a FREE space, and print up to 28 unique boards at once ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Make free printable bingo cards"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]",
+        "domain": "myfreebingocards.com",
+        "title": "1-75 Number Bingo",
+        "url": "https://myfreebingocards.com/numbers/1-75/30-free-cards",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://myfreebingocards.com › 30-free-cards",
+        "website_name": "myfreebingocards.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Safety First! Before you print all your bingo cards, please print a test page to check they come out the right size and color. Your bingo cards start on ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "bingo cards"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://myfreebingocards.com/numbers/1-75/30-free-cards#:~:text=Safety%20First!,Page%204%20of%20this%20PDF.",
+          "domain": "myfreebingocards.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+        "domain": "www.pinterest.com",
+        "title": "Free Printable Bingo Cards",
+        "url": "https://www.pinterest.com/pin/free-printable-bingo-cards--190840102954258564/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "1 year ago",
+        "website_name": "Pinterest · julesmunroe",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "These Free Printable Bingo Cards are perfect for parties, classrooms, or family game nights. With over 300 unique cards, this collection ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Free Printable Bingo Cards"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.pinterest.com/pin/free-printable-bingo-cards--190840102954258564/#:~:text=These%20Free%20Printable%20Bingo%20Cards,for%20groups%20of%20all%20sizes.",
+          "domain": "www.pinterest.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+        "domain": "www.mindinwestessex.org.uk",
+        "title": "Free Printable UK Number Bingo Cards 1-90",
+        "url": "https://www.mindinwestessex.org.uk/wp-content/uploads/2018/10/Bingo-cards-2.pdf",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.mindinwestessex.org.uk › 2018/10",
+        "website_name": "Mind in West Essex",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "4 17 28. 59. 79. 13. 39 43. 65 75. 13. 36 41. 66. 82 2 11 23. 51 64. 8 11 20. 56 76. 19 35 49. 62. 90. 9 18 29 33 43. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "4 17 28. 59. 79"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.mindinwestessex.org.uk/wp-content/uploads/2018/10/Bingo-cards-2.pdf#:~:text=4%2017%2028,9%2018%2029%2033%2043",
+          "domain": "www.mindinwestessex.org.uk"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+        "domain": "myfreebingocards.com",
+        "title": "Free Printable and Virtual Bingo Card Themes",
+        "url": "https://myfreebingocards.com/themes",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://myfreebingocards.com › themes",
+        "website_name": "myfreebingocards.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "You can use our bingo card generator to create beautiful printable bingo cards for free - it's quick, easy and fun. Click an image below to start making some ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "bingo card",
+         "printable bingo cards",
+         "free"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://myfreebingocards.com/themes#:~:text=You%20can%20use%20our%20bingo,bingo%20cards%20in%20that%20theme.",
+          "domain": "myfreebingocards.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "images",
+        "rank_group": 1,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]",
+        "title": "Images",
+        "url": "https://www.google.com/search?sca_esv=ff747ee1c8df38fc&hl=en&gl=US&sxsrf=APpeQnvDfKXdQJDMjoT7ABMW2SO9-WO-OQ:1792307266632&q=free+printable+bingo+cards&udm=2&source=univ&fir=5ssGuwK3BEXngM%252Cpvf2RSp3MYpKTM%252C_%253BrEIFRvydGNBMSM%252CFFy_iW8PQfaELM%252C_%253BSh2HwgkY0IYVQM%252CGZnLCsqluWqgXM%252C_%253BKoqOENSCM1lCQM%252Cy_HlPNn6P1nJbM%252C_%253BVzNKBd9zrihtbM%252CdxtOw5-cuvYdsM%252C_%253BDMbZbxSNcQSxIM%252ClsDmAg-XXVMjBM%252C_%253B7qCBxelKUNbX-M%252CppmxJjVjhtSlCM%252C_%253BZRpnfQXtQahHIM%252CFFy_iW8PQfaELM%252C_%253BqO50huDgUXls8M%252CHSEU4KXZkPQ97M%252C_%253BIgZtuF0KpQa2sM%252CGPLV1zABmEJkZM%252C_%253BCyNmjp5hjeB_LM%252C_1kg7dDoaHNmLM%252C_%253BY5SuAZIijpTQIM%252ClsDmAg-XXVMjBM%252C_&usg=AI4_-kR49PeDsn2Z1BrqNO-7cCokjwDn7A&sa=X&ved=2ahUKEwjZsdLvgMOXAxXBQ0EAHVrKAKIQ7Al6BAhGEAU",
+        "items": [
+         {
+          "type": "images_element",
+          "alt": "Free Printable Bingo Cards - Paper Trail Design",
+          "url": "https://www.papertraildesign.com/bingo-cards/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-ce3293279374:5"
+         },
+         {
+          "type": "images_element",
+          "alt": "Free Printable Bingo Cards - Activity Connection",
+          "url": "https://activityconnection.com/free-printable-bingo-cards/?srsltid=AU7gw4UXECEG5SiwZK6bE7Q_n_Nk1l3q38FcV-GSnpxrRkOusm9sZSQA",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-ce3293279374:6"
+         },
+         {
+          "type": "images_element",
+          "alt": "Free Bingo Cards - Play Online or Print",
+          "url": "https://bingobaker.com/cards",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-ce3293279374:7"
+         },
+         {
+          "type": "images_element",
+          "alt": "Free Printable PDF Bingo Cards and Call Sheet (1-75)",
+          "url": "https://mathequalslove.net/printable-bingo-cards-and-call-sheet/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-ce3293279374:8"
+         },
+         {
+          "type": "images_element",
+          "alt": "ABCs & 123s Bingo Cards | Kids Coloring Pages | PBS KIDS for ...",
+          "url": "https://www.pbs.org/parents/printables/abcs-123s-bingo-cards",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-ce3293279374:9"
+         },
+         {
+          "type": "images_element",
+          "alt": "Free Printable and Virtual Number Bingo Card Generator",
+          "url": "https://myfreebingocards.com/numbers",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180707-2588-0139-0000-ce3293279374:10"
+         },
+         {
+          "type": "images_element",
+          "alt": "Free Printable Bingo Cards - Pjs and Paint",
+          "url": "https://pjsandpaint.com/printables/free-printable-bingo-cards/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRld80liTyueiPGTGINp62-Vqyu0BJyafGr9Dt1bheX80kFp6kW47IvAac&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Free Printable Bingo Cards - Activity Connection",
+          "url": "https://activityconnection.com/free-printable-bingo-cards/?srsltid=AU7gw4X8rqUCWbiZ0rdB_hy9wbmQP5Pi7XtNkmoOhUuEspZEya80GOnq",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIdwALFa0mi91Z61tcWZdf-VDThjE_8pzw-3CGBXKAmIsd5kXuF9VOS0&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "30 Free Printable Bingo Games - Crafting Cheerfully",
+          "url": "https://www.craftingcheerfully.com/23-free-printable-bingo-games/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6RMrlGn_BgIn8-oXH8qc7tNpRQHwOzeHMXmGQF-tB4ppJctRUKdKKYCQ&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Download Bingo Cards | Free Printable",
+          "url": "https://justfamilyfun.com/free-printable-bingo-cards/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRULtX_seFjpgj7396MeeO1lEtfi_c-VH3UV-3mlZd21VWnCy-xWabNXck&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Vintage Inspired Free Printable Bingo Cards - Aspen Jay",
+          "url": "https://aspenjay.com/free-printable-bingo-cards/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDT7bbWwozl95T6He2VblA63zCDn0i-AQ76f5LWKGo-AByxRBKi7rea0&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Free Printable and Virtual Number Bingo Card Generator",
+          "url": "https://myfreebingocards.com/numbers",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG_BXFri-S15MoRX-Kw7WFtXLVrdShPezEVABb_zLynmIPwFJ7NGt3HzU&s"
+         }
+        ],
+        "related_image_searches": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]",
+        "domain": "activityconnection.com",
+        "title": "Free Printable Bingo Cards—Double Card Design",
+        "url": "https://activityconnection.com/product/free-printable-bingo-cards-double-card-design/?srsltid=AU7gw4XcG8WSNXYsnBYmMyan7mQxRav06yBnwzJgP4JmUOmyN2aTnJa4",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://activityconnection.com › Marketplace",
+        "website_name": "Activity Connection",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Grab our FREE set of 75 traditional printable bingo cards, perfectly sized at 8.5\" x 11\" for easy reading. Each unique card allows up to 75 players to join the ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "FREE set of 75 traditional printable bingo cards"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://activityconnection.com/product/free-printable-bingo-cards-double-card-design/?srsltid=AU7gw4XcG8WSNXYsnBYmMyan7mQxRav06yBnwzJgP4JmUOmyN2aTnJa4#:~:text=Grab%20our%20FREE%20set%20of,to%20join%20the%20fun%20simultaneously.",
+          "domain": "activityconnection.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]",
+        "domain": "natashalh.com",
+        "title": "Free Printable Picture Bingo",
+        "url": "https://natashalh.com/category/printable/picture-bingo/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://natashalh.com › Printables",
+        "website_name": "The Artisan Life",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "This is where you'll find a collection of themed printable picture bingo boards for a variety of holidays and parties. Free printable bingo for families.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Free printable bingo for families"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]",
+        "domain": "www.pinterest.com",
+        "title": "Office Bingo - 16 Free PDF Printables | Printablee",
+        "url": "https://www.pinterest.com/pin/printable-office-bingo-card-template--405042560253994940/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "2 years ago",
+        "website_name": "Pinterest · victoriazulick",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Get ready for some office fun with this printable Bingo card template. Perfect for team building activities or just a break from work, ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "printable Bingo card template"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Free printable bingo cards pdf",
+         "Free printable bingo cards for adults",
+         "Free printable 100 bingo cards PDF",
+         "Free printable bingo cards 1-75 PDF",
+         "Bingo card generator",
+         "Free printable bingo cards for kids PDF",
+         "Free editable Bingo Template Word PDF",
+         "Free unlimited bingo card generator"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

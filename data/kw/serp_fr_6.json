@@ -1,0 +1,785 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "7.3556 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10180708-2588-0139-0000-15b4834f2ef1",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "7.2624 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "loto à imprimer",
+     "location_code": 2250,
+     "language_code": "fr",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "loto à imprimer",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2250,
+      "language_code": "fr",
+      "check_url": "https://www.google.com/search?q=loto%20%C3%A0%20imprimer&hl=fr&gl=FR&ie=UTF-8&uule=w+CAIQIFISCTFXeDMpoFQNEffZR8eWP_1r",
+      "datetime": "2026-10-18 07:08:46 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "images",
+       "organic",
+       "people_also_ask",
+       "related_searches"
+      ],
+      "se_results_count": 107,
+      "pages_count": 1,
+      "items_count": 12,
+      "items": [
+       {
+        "type": "images",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "title": "Jeu de loto à imprimer gratuit: la plage",
+        "url": null,
+        "items": [
+         {
+          "type": "images_element",
+          "alt": "Jeu de loto à imprimer gratuit: la plage",
+          "url": "https://www.familiscope.fr/activites-enfant/kits-imprimer-carterie/jeu-de-loto-a-imprimer-la-plage-29232",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180708-2588-0139-0000-15b4834f2ef1:0"
+         },
+         {
+          "type": "images_element",
+          "alt": "84 planches de loto de 6 grilles grand format I Cartons loto ...",
+          "url": "https://www.cartaloto.net/fr/cartons-loto-feuilles/293-84-planches-de-loto-feuille-6-grilles-grand-format.html",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180708-2588-0139-0000-15b4834f2ef1:1"
+         },
+         {
+          "type": "images_element",
+          "alt": "Impression de grilles de loto",
+          "url": "https://excel-pratique.com/fr/telechargements/loisirs/grilles-loto-excel-no590",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180708-2588-0139-0000-15b4834f2ef1:2"
+         },
+         {
+          "type": "images_element",
+          "alt": "63 Planches de loto de 8 grilles I Feuilles de loto ...",
+          "url": "https://www.cartaloto.net/fr/cartons-loto-feuilles/141-63-planches-de-loto-feuille-8-grilles.html",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180708-2588-0139-0000-15b4834f2ef1:3"
+         },
+         {
+          "type": "images_element",
+          "alt": "Jeu de loto à imprimer gratuit: Noël!",
+          "url": "https://www.familiscope.fr/activites-enfant/kits-imprimer-carterie/jeu-de-loto-a-imprimer-noel-30304",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180708-2588-0139-0000-15b4834f2ef1:4"
+         },
+         {
+          "type": "images_element",
+          "alt": "Grille de Loto à Imprimer Gratuit | PDF",
+          "url": "https://fr.scribd.com/document/672000887/Grille-loto",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180708-2588-0139-0000-15b4834f2ef1:5"
+         },
+         {
+          "type": "images_element",
+          "alt": "Imprimer les nombres pour le loto plaques minéralogiques ...",
+          "url": "https://teteamodeler.ouest-france.fr/boiteaoutils/decouvrirlemonde/fiche73g.htm",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180708-2588-0139-0000-15b4834f2ef1:6"
+         },
+         {
+          "type": "images_element",
+          "alt": "Monde des petits - Jeux de société",
+          "url": "https://www.mondedestitounis.fr/jeu-societe-imprimer.php?id=7",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180708-2588-0139-0000-15b4834f2ef1:7"
+         },
+         {
+          "type": "images_element",
+          "alt": "Carton de Loto Vierge | Plaque de 12 Cartes de Loto Projets ...",
+          "url": "https://www.projetsgagnants.fr/feuille-carte-carton-loto/plaques-de-12-cartes-de-loto-bristol-lot-de-83-66.html",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180708-2588-0139-0000-15b4834f2ef1:8"
+         },
+         {
+          "type": "images_element",
+          "alt": "333 grandes plaques de 3 cartons de loto pour votre loto au ...",
+          "url": "https://www.lepalaisduloto.fr/plaques-de-loto-80-g/826-333-grandes-plaques-de-3-cartons-de-loto.html",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180708-2588-0139-0000-15b4834f2ef1:9"
+         },
+         {
+          "type": "images_element",
+          "alt": "Carton de Loto Vierge | Plaque de 12 Cartes de Loto Projets ...",
+          "url": "https://www.projetsgagnants.fr/feuille-carte-carton-loto/plaques-de-12-cartes-de-loto-bristol-lot-de-83-66.html",
+          "image_url": "https://api.dataforseo.com/cdn/i/10180708-2588-0139-0000-15b4834f2ef1:10"
+         },
+         {
+          "type": "images_element",
+          "alt": "Jeu de loto à imprimer: les transports",
+          "url": "https://www.familiscope.fr/activites-enfant/kits-imprimer-carterie/jeu-de-loto-a-imprimer-les-transports-29230",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlbA5AYPaw6JOwNNklLSb_s7sgr5Euu6gU5rp3qPb-sbc9Hi3nY2qYLrY&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "166 grandes plaques de 6 cartons de loto 250 g (numérotation ...",
+          "url": "https://www.lepalaisduloto.fr/plaques-de-loto-bristol-250-g/840-166-grandes-plaques-de-6-cartons-de-loto-250-g-numerotation-aleatoire.html",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThzxCG_focXL_zykJZdOi5As-K1iVbYsIZLglydD9TZnpwqhejNiwayT8&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Monde des petits - Jeux de société",
+          "url": "https://www.mondedestitounis.fr/jeu-societe-imprimer.php?id=7",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBsJsOx2EqPGunLi6lVmlUCkOImJ4OwDQSJ21ll9NYwS4jW8oS7d5SRG8&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "500 feuilles de 3 cartons de loto grand modèle",
+          "url": "https://www.discountloto.fr/feuilles-loto/500-feuilles-de-3-cartons-loto-grand-modele/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsehpziYqYzpOVeAvMit3dAqjKmDbc9uIVYbJb3-iIUWYRM5N6HAu7TaE&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Divers lotos des nombres de 1 à 100",
+          "url": "https://www.dansmatrousse.com/divers-lotos-des-nombres-de-1-a-100/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZKAYiqf2IY7tsAC_A722BhLfO72QHeYedqNgbaJ3fyYSOhLEFZK_GbI&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "L'activité du mercredi : le loto de la mer - GraphiCK-Kids",
+          "url": "https://graphick-kids.fr/lactivite-mercredi-loto-de-mer/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5tuoZiHW4KrTMWGOt5kEwsR2UA4LL7XN6yaJTplOsgPAMlJ7Nkdj0ks0&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "250 planches 2 grilles en papier 80gr personnalisables I ...",
+          "url": "https://www.cartaloto.net/fr/cartons-loto-feuilles/135-250-planches-de-loto-feuille-2-grilles.html",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT43uTkwod60Fpcvb1qVdafOWG4ZGMEif4uCyBB7gIT6B6f8agNnJRVcEw&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Lot 83 Cartes de Loto Bristol | Plaque de 6 Cartes Rigides ...",
+          "url": "https://www.projetsgagnants.fr/feuille-carte-carton-loto/plaques-de-6-cartes-de-loto-bristol-lot-de-83-64.html",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVxIKzLJeThgYU203McuN89emzWeBVXMijmJ7UvX5u2jRdJvDy72L-EXk&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "loto familial - Le monde selon RAY ZAB",
+          "url": "http://www.certiferme.com/blog/article-619-78131-normale-loto-familial.html",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9N78INWJVu836a7mNMtUVwtDhniMB-dB9-f7rrMm-sVcg2qCAjuEi9Bc&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "166 grandes plaques de 6 cartons de loto (90 numéros) pour ...",
+          "url": "https://www.lepalaisduloto.fr/plaques-de-loto-80-g/828-166-grandes-plaques-de-6-cartons-de-loto-90-numeros.html",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ02Vuk0BAxp_XbloJity7RS6Fk_ez2DAR73Z9efA5HcIsJpUf-KTCkHq8&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Divers lotos des nombres de 1 à 100",
+          "url": "https://www.dansmatrousse.com/divers-lotos-des-nombres-de-1-a-100/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs4uH5eJ4Vr21n1ocQqDO4BduerF-ihN2HVP1l7ZYHE5OSxR0NVbKEQis&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Différentes planches de loto | BDRP",
+          "url": "https://www.bdrp.ch/lien-pedagogique/differentes-planches-de-loto-0",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXcpXfIrvXUH5tT310no4uFCqJ-K0cAjmIj6pnd-BmPZy6fciA58ToDs&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Jeu de loto à imprimer: les animaux de la ferme",
+          "url": "https://www.familiscope.fr/activites-enfant/kits-imprimer-carterie/jeu-de-loto-a-imprimer-les-animaux-de-la-ferme-29294",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoL3JdFe7Diz3Z4ec1-NWXM91sLUBKTli8LxoWBv-t--QSNVYr_ZM9zfk&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Lot 166 Cartes de Loto Bristol Personnalisable | Plaques de ...",
+          "url": "https://www.projetsgagnants.fr/feuille-carte-carton-loto/plaques-de-3-cartes-de-loto-bristol-personnalisees-lot-de166-63.html",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBrUEEnXbyyEGJvsUjMg38B_vz2ZvNR4hQkLLTtQKl-DzMFIPy-pDiLoE&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Divers lotos des nombres de 1 à 100",
+          "url": "https://www.dansmatrousse.com/divers-lotos-des-nombres-de-1-a-100/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7zj_4AdJvT3pM9BS3--gxfvk4CNGHDbqMhHgiseTnhRVf_WTGF5_TBUY&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "84 planches de 6 grilles grand format I Cartons de loto très ...",
+          "url": "https://www.cartaloto.net/fr/cartons-loto-tres-rigides/309-84-planches-de-loto-tres-rigide-6-grilles-grand-format.html",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_EhdcFCFbSERmGVb7x4HJMPjXGdpQZQ54NtAtTxuU_0I7oU1f0suyUrQ&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "1000 grilles de loto en couleur 250 g en plaque au Palais du ...",
+          "url": "https://www.lepalaisduloto.fr/accueil/109-1000-grilles-de-loto-couleurs-250-gr-en-plaque-.html",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTqz3t7LzjlYmnM6ctoIygjYRAfrfEIyOhOO3YXQPQsSazcAoCmQqlJO8&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Lot 83 Cartes de Loto Bristol | Plaque de 6 Cartes Rigides ...",
+          "url": "https://www.projetsgagnants.fr/feuille-carte-carton-loto/plaques-de-6-cartes-de-loto-bristol-lot-de-83-64.html",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Zkif3RgRCFF0kHSL2MPJXpyebIclDtakM0Fe2FDqxX86CrWfhQ3ahs8&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "42 planches de loto de 12 grilles I Feuilles de loto",
+          "url": "https://www.cartaloto.net/fr/cartons-loto-feuilles/144-42-planches-de-loto-feuille-12-grilles.html",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOtd16qkkZS_tDtjy1MCsOAiVHPxUH5-78lxUoGL3bRT0iPG-9J-TVI0g&s"
+         }
+        ],
+        "related_image_searches": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+        "domain": "www.canva.com",
+        "title": "Créez des grilles de loto & bingo gratuites à imprimer",
+        "url": "https://www.canva.com/fr_fr/creer/grille-loto-bingo/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.canva.com › fr_fr › creer › grille-loto-bingo",
+        "website_name": "Canva",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Créez vos grilles de loto et de bingo à imprimer en quelques minutes avec les modèles gratuits de Canva. 100% gratuit !",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Créez vos grilles de loto et de bingo à imprimer"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+        "domain": "fr.pinterest.com",
+        "title": "Carte Loto a Imprimer Gratuit",
+        "url": "https://fr.pinterest.com/ideas/carte-loto-a-imprimer-gratuit/919865395606/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://fr.pinterest.com › Explorer",
+        "website_name": "Pinterest",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Carte loto a imprimer gratuit · Planche de 6 cartons de loto thème trèfle avec grilles alternées bleu ciel et jaune, · Grille loto | Coupe de patrons, Carte de ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Carte loto a imprimer gratuit"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+        "domain": "dessinemoiunehistoire.net",
+        "title": "Jeux de loto à imprimer pour la maternelle : langage et ...",
+        "url": "https://dessinemoiunehistoire.net/category/lotos/page/3/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://dessinemoiunehistoire.net › category › lotos › page",
+        "website_name": "Dessine-moi une histoire",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jeux de loto à imprimer pour la maternelle : animaux, émotions, sons, lettres, saisons et découverte du monde. Des supports visuels pour apprendre en ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Jeux de loto à imprimer pour la maternelle"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+        "domain": "www.yakafaire.eu",
+        "title": "Générateur cartons loto - Générateur cartes de loto associatif",
+        "url": "https://www.yakafaire.eu/generateur-cartons-loto.php",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.yakafaire.eu › generateur-cartons-loto",
+        "website_name": "Yakafaire.eu",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Créez vos propres cartons de loto associatif en ligne grace à notre générateur de grilles. Imprimer vos grilles de loto en deux clics avec notre générateur ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Créez vos propres cartons de loto associatif en ligne"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]",
+        "domain": "momes.parents.fr",
+        "title": "Cartes, loto et Memory à imprimer pour enfants - parents momes",
+        "url": "https://momes.parents.fr/jeux/jeux-a-imprimer/cartes-lotos-memory",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://momes.parents.fr › Jeux › Jeux à imprimer",
+        "website_name": "MOMES",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Mômes vous dévoile ses cartes, loto et Memory à imprimer. Mémoire, réflexion, concentration; autant de capacités que vont développer vos enfants en ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "cartes, loto et Memory à imprimer"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "Où puis-je trouver une grille de loto gratuite à imprimer ?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Comment puis-je créer gratuitement des cartes de loto ?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Comment puis-je créer une grille de loto personnalisée ?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Où puis-je trouver des grilles de bingo gratuites à imprimer ?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]",
+        "domain": "tipirate.net",
+        "title": "Jeu de loto à imprimer",
+        "url": "https://tipirate.net/imprimer/jeux-de-societe/jeu-de-loto",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://tipirate.net › Imprimer › Jeux de société",
+        "website_name": "tipirate",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jeux de loto à imprimer gratuitement. Thèmes des jeux :les légumes et les animaux. Les noms des animaux et des légumes sont inscrits sur chaque petite carte ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Jeux de loto à imprimer gratuitement"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]",
+        "domain": "vsinel.fr",
+        "title": "Générateur de carton de loto",
+        "url": "https://vsinel.fr/apps/loto/loto",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://vsinel.fr › apps › loto › loto",
+        "website_name": "vsinel.fr",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Génération de carton : Générer une liste de carton ne supprime pas l'ancienne liste. Des cartons sont ajoutés pour completer la liste déjà chargé ou généré.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "Vous pouvez créer et imprimer des grilles gratuitement en utilisant le Générateur de cartons de loto Yakafaire ou concevoir des modèles personnalisés sur [Canva Grilles de loto](https://www.canva.com/fr_fr/creer/grille-loto-bingo/).[[1]](https://www.canva.com/fr_fr/creer/grille-loto-bingo/)[[2]](https://www.yakafaire.eu/generateur-cartons-loto.php)\n\n### Principales sources de loto et bingo à imprimer\n\n- **Pour les enfants et la maternelle :** Le site [Dessine-moi une histoire](https://dessinemoiunehistoire.net/category/lotos/) propose des lotos éducatifs (couleurs, animaux, sons, saisons).\n- **Pour les thèmes et loisirs créatifs :** Vous pouvez trouver des planches thématiques (trèfle, zen) sur [Pinterest Loto à imprimer](https://fr.pinterest.com/ideas/carte-loto-a-imprimer-gratuit/919865395606/).\n- **Pour les jeux traditionnels avec numéros :** Le [Générateur de carton de loto Vsinel](https://vsinel.fr/apps/loto/loto) permet de paramétrer et d'exporter des listes de cartons en PDF.\n- **Pour les jeux d'association simples :** Le site [Tipirate](https://tipirate.net/imprimer/jeux-de-societe/jeu-de-loto) propose des petits jeux de loto sur les animaux et les légumes.[[1]](https://fr.pinterest.com/ideas/carte-loto-a-imprimer-gratuit/919865395606/)[[2]](https://dessinemoiunehistoire.net/category/lotos/)[[3]](https://vsinel.fr/apps/loto/loto)[[4]](https://tipirate.net/imprimer/jeux-de-societe/jeu-de-loto)\n\nRecherchez-vous un type de loto particulier (par exemple : **pour l'école/maternelle** , des **grilles traditionnelles à numéros** pour une association, ou un **jeu de société familial**) ?",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Vous pouvez créer et imprimer des grilles gratuitement en utilisant le Générateur de cartons de loto Yakafaire ou concevoir des modèles personnalisés sur Canva Grilles de loto.",
+          "markdown": "Vous pouvez créer et imprimer des grilles gratuitement en utilisant le Générateur de cartons de loto Yakafaire ou concevoir des modèles personnalisés sur [Canva Grilles de loto](https://www.canva.com/fr_fr/creer/grille-loto-bingo/).[[1]](https://www.canva.com/fr_fr/creer/grille-loto-bingo/)[[2]](https://www.yakafaire.eu/generateur-cartons-loto.php)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Canva Grilles de loto",
+            "description": null,
+            "url": "https://www.canva.com/fr_fr/creer/grille-loto-bingo/",
+            "domain": "www.canva.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Canva",
+            "domain": "www.canva.com",
+            "url": "https://www.canva.com/fr_fr/creer/grille-loto-bingo/",
+            "title": "Créez des grilles de loto & bingo gratuites à imprimer | Canva",
+            "text": "Canva: générateur gratuit de grilles de loto/bingo numériques et imprimables. Éditeur glisser-déposer, 3M+ images gratuites, iOS/A..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Yakafaire.eu",
+            "domain": "www.yakafaire.eu",
+            "url": "https://www.yakafaire.eu/generateur-cartons-loto.php",
+            "title": "Générateur cartons loto - Imprimer vos grilles de loto - Yakafaire.eu",
+            "text": "Créez vos propres cartons de loto associatif en ligne grace à notre générateur de grilles. Imprimer vos grilles de loto en deux cl..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Principales sources de loto et bingo à imprimer",
+          "text": "Pour les enfants et la maternelle : Le site Dessine-moi une histoire propose des lotos éducatifs (couleurs, animaux, sons, saisons). Pour les thèmes et loisirs créatifs : Vous pouvez trouver des planches thématiques (trèfle, zen) sur Pinterest Loto à imprimer. Pour les jeux traditionnels avec numéros : Le Générateur de carton de loto Vsinel permet de paramétrer et d'exporter des listes de cartons en PDF. Pour les jeux d'association simples : Le site Tipirate propose des petits jeux de loto sur les animaux et les légumes.",
+          "markdown": "- **Pour les enfants et la maternelle :** Le site [Dessine-moi une histoire](https://dessinemoiunehistoire.net/category/lotos/) propose des lotos éducatifs (couleurs, animaux, sons, saisons).\n- **Pour les thèmes et loisirs créatifs :** Vous pouvez trouver des planches thématiques (trèfle, zen) sur [Pinterest Loto à imprimer](https://fr.pinterest.com/ideas/carte-loto-a-imprimer-gratuit/919865395606/).\n- **Pour les jeux traditionnels avec numéros :** Le [Générateur de carton de loto Vsinel](https://vsinel.fr/apps/loto/loto) permet de paramétrer et d'exporter des listes de cartons en PDF.\n- **Pour les jeux d'association simples :** Le site [Tipirate](https://tipirate.net/imprimer/jeux-de-societe/jeu-de-loto) propose des petits jeux de loto sur les animaux et les légumes.[[1]](https://fr.pinterest.com/ideas/carte-loto-a-imprimer-gratuit/919865395606/)[[2]](https://dessinemoiunehistoire.net/category/lotos/)[[3]](https://vsinel.fr/apps/loto/loto)[[4]](https://tipirate.net/imprimer/jeux-de-societe/jeu-de-loto)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Dessine-moi une histoire",
+            "description": null,
+            "url": "https://dessinemoiunehistoire.net/category/lotos/",
+            "domain": "dessinemoiunehistoire.net"
+           },
+           {
+            "type": "link_element",
+            "title": "Pinterest Loto à imprimer",
+            "description": null,
+            "url": "https://fr.pinterest.com/ideas/carte-loto-a-imprimer-gratuit/919865395606/",
+            "domain": "fr.pinterest.com"
+           },
+           {
+            "type": "link_element",
+            "title": "Générateur de carton de loto Vsinel",
+            "description": null,
+            "url": "https://vsinel.fr/apps/loto/loto",
+            "domain": "vsinel.fr"
+           },
+           {
+            "type": "link_element",
+            "title": "Tipirate",
+            "description": null,
+            "url": "https://tipirate.net/imprimer/jeux-de-societe/jeu-de-loto",
+            "domain": "tipirate.net"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Pinterest",
+            "domain": "fr.pinterest.com",
+            "url": "https://fr.pinterest.com/ideas/carte-loto-a-imprimer-gratuit/919865395606/",
+            "title": "Carte Loto a Imprimer Gratuit - Pinterest",
+            "text": "Carte loto a imprimer gratuit. Découvrez les meilleures idées et sources d'inspiration de Pinterest pour Carte loto a imprimer gra..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Dessine-moi une histoire",
+            "domain": "dessinemoiunehistoire.net",
+            "url": "https://dessinemoiunehistoire.net/category/lotos/",
+            "title": "Jeux de loto à imprimer pour la maternelle : langage et observation",
+            "text": "Jeux de loto à imprimer pour la maternelle : * Formats : visuels, sonores, sensoriels (lettres, émotions, couleurs, sons, saisons,"
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "vsinel.fr",
+            "domain": "vsinel.fr",
+            "url": "https://vsinel.fr/apps/loto/loto",
+            "title": "Générateur de carton de loto",
+            "text": "Ouvrir un fichier de carton : Ouvrir un fichier de carton n'est pas nécessaire mais permet de modifier/imprimer des cartons déjà g..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "tipirate",
+            "domain": "tipirate.net",
+            "url": "https://tipirate.net/imprimer/jeux-de-societe/jeu-de-loto",
+            "title": "Jeu de loto - tipirate",
+            "text": "Vous êtes ici : Imprimer · Jeux de société; Jeu de loto. Retour Jeux de loto à imprimer gratuitement. Thèmes des jeux :les légumes..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Recherchez-vous un type de loto particulier (par exemple : pour l'école/maternelle, des grilles traditionnelles à numéros pour une association, ou un jeu de société familial ) ?",
+          "markdown": "Recherchez-vous un type de loto particulier (par exemple : **pour l'école/maternelle** , des **grilles traditionnelles à numéros** pour une association, ou un **jeu de société familial**) ?",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]",
+        "domain": "fr.scribd.com",
+        "title": "Loto à Imprimer pour la Famille | PDF",
+        "url": "https://fr.scribd.com/document/798507401/LES-FICHES-LOTO-A-IMPRIMER-240313-135937",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://fr.scribd.com › document › LES-FICHES-LOTO...",
+        "website_name": "Scribd",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "LOTO EN FAMILLE ... Mélanger les numéros dans un sac opaque. ... Imprimer la page avec les numéros sur un papier cartonné aléatoire et l'annonce en le montrant aux ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "LOTO EN FAMILLE"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Plaque de loto à imprimer Gratuit PDF",
+         "Loto à imprimer PDF",
+         "Plaque de 12 cartons loto à imprimer gratuit",
+         "Loto à imprimer enfant",
+         "Carton loto personnalisé",
+         "Grille de LOTO FDJ",
+         "Carton de loto PDF",
+         "Générateur carton loto"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]
