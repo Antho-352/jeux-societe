@@ -676,7 +676,7 @@ def hangman() -> Path:
             c.drawString(x + 90, y + ph - 112, "Wrong guesses (6 = out):")
             for k in range(6):
                 c.rect(x + 90 + k * 16, y + ph - 130, 11, 11, stroke=1, fill=0)
-            c.drawString(x + 90, y + 18, "Guesser: __________   Setter: __________")
+            c.drawString(x + 90, y + 18, "Guesser: ________   Setter: ________")
     c.showPage()
     c.save()
     return path

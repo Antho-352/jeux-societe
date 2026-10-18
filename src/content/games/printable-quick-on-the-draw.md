@@ -1,32 +1,46 @@
 ---
 title: "Printable Quick on the Draw"
 type: "party"
-summary: "A quick drawing game sheet for a group. See the PDF for the rules."
-players_min: 2
-players_max: 2
-themes: ["drawing", "party"]
-mechanics: []
+subtype: "template"
+summary: "A free printable scorecard sheet for Quick on the Draw, a team drawing game in the style of Pictionary: four cards per page with five categories, from people and places to all-teams-play rounds."
+players_min: 4
+players_max: 10
+themes: ["drawing", "party", "team-game"]
+mechanics: ["drawing", "guessing", "timer"]
 languages: ["en"]
-components_included: ["game sheet with instructions"]
-components_needed: ["pencils"]
+components_included: ["Four Quick on the Draw cards with the five category rows and a key"]
+components_needed: ["A timer", "Your own list of words to draw", "Pencils and paper for drawing"]
 pages: 1
 paper: "letter"
 colour: "colour"
 creator: "printablepaper"
 designers: []
 artists: []
-publisher: "Savetz Publishing, Inc. (FreePrintable.net network)"
-year: 2014
-licence: "Permission is granted to download, modify, and print the designs that are available from this site. You may use the prin"
+publisher: "Savetz Publishing"
+licence: "Free for personal use, © Savetz Publishing"
 licence_url: "https://www.freeprintable.net/terms.php?s=PrintablePaper.net"
 hosting_mode: "link"
 source_url: "https://www.printablepaper.net/preview/Quick_on_the_Draw"
-status: "draft"
+status: "published"
 date_added: "2026-10-18"
+seo_title: "Quick on the Draw: printable drawing game score cards"
+seo_description: "Free printable Quick on the Draw cards from PrintablePaper.net: a one-page sheet of four category cards for a Pictionary-style team drawing game. You add a timer and your own word list."
 ---
+<!-- hand-edited -->
+## About these Quick on the Draw cards
 
-## About Printable Quick on the Draw
+Quick on the Draw from PrintablePaper.net (Savetz Publishing) is a one-page sheet of four cards for a team drawing game in the Pictionary style. Each card has five rows, one per category: P for person, place or animal, N for noun, V for vowel, H for hard words and AT for all teams play. A key at the bottom of the page explains the letters. The sheet is the scorecard and category guide only: there are no rules and no word list in the file, so you bring your own words and a timer.
 
-A quick drawing game sheet for a group. See the PDF for the rules.
+It is a lightweight way to run a drawing game at a party without buying a boxed one, especially if you already have a word list from a quiz book or an online generator.
 
-<!-- notes from the catalogue: Title on the category page: 'Quick on the Draw'. PDF footer brands the file 'www.PrintableBoardGames.net' / 'www.PrintablePaper.net' (Savetz Publishing network). Year = PDF CreationDate (20140514), i.e. when the file was generated, not necessarily when the design was first published. Colour determined from PDF colour operators (colour) and the site's preview image (colour). -->
+## How to use it
+
+1. Print the page and cut out the four cards, one per team.
+2. Prepare a word list sorted into the five categories, and agree a time limit per drawing (one minute is standard).
+3. Teams take turns: one player draws a word from the current category while teammates guess. On AT rows, every team draws and guesses the same word at once.
+4. Tick off each row as it is won; the first team to complete its card wins.
+
+## What's in the PDF
+
+- One page, US Letter, colour: four category cards and a key.
+- No rules or words. The download is on the PrintablePaper.net preview page.

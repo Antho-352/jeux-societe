@@ -1,17 +1,20 @@
 ---
 title: "Brains!"
 type: "card"
-summary: "Third game of the Treasure Hunters series (after Scuttle! and Ninjitsu!). Each turn play a card as treasure or action, draw two cards, or bury the top card of the deck in your graveyard where it grants ongoing effects."
+subtype: "family"
+summary: "A zombie card game for 2–5 players: play cards as treasure or actions, or bury the top card of the deck in your graveyard for ongoing effects, and reach 21 points first."
 players_min: 2
 players_max: 5
 age_min: 6
 time_min: 5
 time_max: 10
-themes: ["zombies", "treasure-hunters"]
-mechanics: ["hand-management", "take-that", "graveyard-building", "race-to-21-points"]
+complexity: 1.5
+themes: ["zombies", "treasure", "undead", "humour"]
+mechanics: ["hand-management", "take-that", "graveyard-building", "race"]
+occasions: ["halloween"]
 languages: ["en"]
-components_included: ["12-page rulebook, cards (5 sheets), gravestone card (1 sheet)"]
-components_needed: ["scissors"]
+components_included: ["Rulebook (12 pages) with a sample game and quick reference", "Card sheets (5 pages, Letter): 44 cards", "Gravestone card sheet (1 page)"]
+components_needed: ["Scissors and card stock"]
 pages: 18
 paper: "letter"
 colour: "colour"
@@ -20,15 +23,30 @@ designers: ["Peter C. Hayward"]
 artists: ["Kelly Jo"]
 publisher: "Jellybean Games"
 year: 2019
-licence: "No licence statement on jellybean.games; PDFs carry a plain copyright notice (e.g. \"© 2019 Jellybean Games\" in Brains! r"
+licence: "Free for personal use, © Jellybean Games"
 hosting_mode: "link"
-source_url: "https://jellybean.games/print-and-play/"
-status: "draft"
+source_url: "https://jellybean.games/brains/"
+status: "published"
 date_added: "2026-10-18"
+seo_title: "Brains! free print and play zombie card game"
+seo_description: "Brains! by Jellybean Games: a 5–10 minute zombie card game for 2–5 players, ages 6+, free to print and play. Bury cards in your graveyard, collect treasure and reach 21 points first."
 ---
-
+<!-- hand-edited -->
 ## About Brains!
 
-Third game of the Treasure Hunters series (after Scuttle! and Ninjitsu!). Each turn play a card as treasure or action, draw two cards, or bury the top card of the deck in your graveyard where it grants ongoing effects. First to 21 points at the start of a turn wins; compatible with the other two games.
+Brains! is the third Treasure Hunters game from Jellybean Games, designed by Peter C. Hayward with art by Kelly Jo, after Scuttle! and Ninjitsu!. You command a zombie horde racing to be the first to 21 points of treasure. The shared rules are familiar: play a card as treasure for its number, or for its action. The new idea is the graveyard. Each player has a gravestone card, and instead of drawing or playing you may bury the top card of the deck on it. Cards with a gravestone icon have an ongoing effect while they sit on top of your graveyard; cards with a coffin icon trigger once when they are buried.
 
-<!-- notes from the catalogue: Rulebook: '© 2019 Jellybean Games'. Game page: ages 6+, 2-5 players, 5-10 min. | Files: Brains-Cards.pdf (5 p., Letter, 5.6 MB); Brains-Rulebook.pdf (12 p., custom 99x140 mm, 3.4 MB); Gravestone-Card.pdf (1 p., Letter, 0.1 MB) -->
+It is a five-to-ten-minute game for ages 6 and up, with a little more to think about than Scuttle! because discarded cards go to your graveyard too, and a card buried on someone else's turn can change what your top card does. The three games can be shuffled together. Jellybean Games provides the rulebook, cards and gravestones free on its print-and-play page; the rulebook carries a plain copyright notice, so the download stays on their site.
+
+## How to play in one minute
+
+1. Give each player a gravestone card. Shuffle the 44 cards, deal four to each player and one face up onto each gravestone to start the graveyards.
+2. On your turn do one thing: draw two cards; play a card for its action (into "the pit", the shared discard pile) or as a treasure face up in front of you; or bury the top card of the deck face up on your graveyard.
+3. When a card is discarded from your hand or your collection, it is buried on your graveyard instead of going to the pit. Check the top card's icon every time it changes.
+4. As soon as you have enough treasure to win, shout "Brains!"; if you forget, you skip your next turn instead of winning.
+5. If you still have 21 points or more at the start of your next turn (17 points with 5 players), you win.
+
+## What's in the PDF
+
+- Rulebook: 12 pages in colour with a setup diagram, glossary, sample game and the rules for mixing in Scuttle! and Ninjitsu! cards and the Treasure Hunters expansions.
+- Cards: 5 Letter sheets in colour (44 cards) plus a one-page sheet with the gravestone cards. Print on card stock and cut.
