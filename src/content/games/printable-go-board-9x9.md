@@ -1,4 +1,5 @@
 ---
+cover: "/img/games/printable-go-board-9x9.png"
 title: "Printable Go Board 9x9"
 type: "board"
 summary: "A beginner-sized 9x9 Go board with 81 printable black and white stones."

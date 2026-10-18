@@ -1,4 +1,5 @@
 ---
+cover: "/img/games/printable-chess-board.png"
 title: "Printable Chess Board"
 type: "board"
 subtype: "template"

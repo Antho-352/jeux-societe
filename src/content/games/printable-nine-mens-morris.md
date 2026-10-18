@@ -1,4 +1,5 @@
 ---
+cover: "/img/games/printable-nine-mens-morris.png"
 title: "Printable Nine Mens Morris"
 type: "board"
 summary: "Nine Men's Morris (Cowboy Checkers), the classic mill game for two players; pieces can be cut out and re-used. Board and pieces included."

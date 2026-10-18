@@ -1,4 +1,5 @@
 ---
+cover: "/img/games/printable-snakes-and-ladders.png"
 title: "Printable Snakes and Ladders"
 type: "board"
 summary: "A classic Snakes and Ladders race board: roll a die, climb ladders and slide down snakes to reach square 100 first."

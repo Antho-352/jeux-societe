@@ -1,4 +1,5 @@
 ---
+cover: "/img/games/printable-reversi-board.png"
 title: "Printable Reversi Board"
 type: "board"
 summary: "A Reversi (Othello) board with printable two-sided discs for two players."

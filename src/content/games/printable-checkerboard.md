@@ -1,4 +1,5 @@
 ---
+cover: "/img/games/printable-checkerboard.png"
 title: "Printable Checkerboard"
 type: "board"
 subtype: "template"
