@@ -277,7 +277,8 @@ def render_book(out_pdf, title, difficulty, pages, seed, per_page=None):
             draw_grid(c, board, sol, x, y, size, label=f"Puzzle {idx + 1}", clues=[bool(v) for v in puzzle])
         c.showPage()
     c.save()
-    return total, total_pages
+    clue_counts = [p[2] for p in puzzles]
+    return total, total_pages, min(clue_counts), max(clue_counts)
 
 
 def main(argv=None):
@@ -290,7 +291,7 @@ def main(argv=None):
     ap.add_argument("--out", required=True)
     ap.add_argument("--cover")
     a = ap.parse_args(argv)
-    total, pages = render_book(a.out, a.title, a.difficulty, a.pages, a.seed, a.per_page)
+    total, pages, _, _ = render_book(a.out, a.title, a.difficulty, a.pages, a.seed, a.per_page)
     if a.cover:
         render_cover(a.out, a.cover)
     print(f"{a.out}: {total} puzzles, {pages} pages")
