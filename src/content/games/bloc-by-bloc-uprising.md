@@ -19,6 +19,7 @@ licence_url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
 hosting_mode: "mirror"
 source_url: "https://outlandishgames.com/blocbybloc/"
 download_url: "/pdf/bloc-by-bloc-uprising/bloc-by-bloc-uprising-rulebook.pdf"
+cover: "/img/games/bloc-by-bloc-uprising.png"
 download_size_mb: 24.4
 status: "published"
 date_added: "2026-10-18"
