@@ -1,15 +1,15 @@
 ---
 title: "Secret Hitler"
 type: "party"
-summary: "A hidden-role party game for 5-10 players set in 1932 Germany: liberals hold the majority but the hidden fascists try to get elected and pass fascist policies, or get Hitler elected Chancellor."
+summary: "Secret Hitler is a social-deduction party game for 5–10 players in which liberals try to stop hidden fascists from taking power."
 players_min: 5
 players_max: 10
 themes: ["1930s-germany", "politics", "fascism-vs-liberalism"]
-mechanics: ["social-deduction", "hidden-roles", "voting", "player-elimination"]
+mechanics: ["social-deduction", "hidden-roles", "voting"]
 languages: ["en"]
-components_included: ["print-and-play sheet set (13 Letter pages landscape: policy tiles, role & party cards, election tracker, boards, placards) and 7-page rules booklet"]
-components_needed: ["scissors, envelopes, card stock; a printer or $5 at a print shop (site estimate)"]
-pages: 20
+components_included: ["Official 13-page Letter print-and-play PDF"]
+components_needed: ["Printer", "scissors"]
+pages: 13
 paper: "letter"
 colour: "colour"
 creator: "goat-wolf-cabbage"
@@ -17,18 +17,35 @@ designers: ["Mike Boxleiter", "Tommy Maranges", "Mac Schubert"]
 artists: ["Mac Schubert"]
 publisher: "Goat, Wolf, & Cabbage"
 year: 2016
-licence: "Creative Commons license BY-NC-SA 4.0 (site: 'Secret Hitler is available for free under Creative Commons license BY–NC–S"
+licence: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"
 licence_url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
 hosting_mode: "mirror"
 source_url: "https://www.secrethitler.com/"
 download_url: "/pdf/secret-hitler/secret-hitler-print-and-play.pdf"
+cover: "/img/games/secret-hitler.png"
 download_size_mb: 3.5
-status: "draft"
+status: "published"
 date_added: "2026-10-18"
+seo_title: "Secret Hitler Print & Play | Official Free PDF"
+seo_description: "Download the official Secret Hitler print-and-play PDF under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
 ---
-
+<!-- hand-edited -->
 ## About Secret Hitler
 
-A hidden-role party game for 5-10 players set in 1932 Germany: liberals hold the majority but the hidden fascists try to get elected and pass fascist policies, or get Hitler elected Chancellor. Players propose governments, vote, and enact policies drawn from a shuffled deck.
+Secret Hitler is a social-deduction game by Mike Boxleiter, Tommy Maranges, and Mac Schubert. Set in 1930s Germany, it divides 5–10 players into a larger liberal team and a hidden fascist team. The liberals have the votes to steer elections if they can work out whom to trust; the fascists know one another and try to turn uncertainty to their advantage.
 
-<!-- notes from the catalogue: Rules PDF credits: 'Secret Hitler was created by Mike Boxleiter, Tommy Maranges, and Mac Schubert'; the rules also say the game 'was funded with Kickstarter' (34,565 backers). Site: 'Secret Hitler is a social deduction game for 5-10 people'; 'available everywhere that Blackbox ships'. Site footer: '© 2016-2021 Goat, Wolf, & Cabbage · CC SA–BY–NC 4.0' (publisher and first year taken from it). Age a -->
+Each government puts policy cards before the table, so players must read both the cards and the people who chose them. The official site describes the game as a contest to find and stop Hitler and a fascist takeover. This mirror is the publisher's official print-and-play PDF, retained with attribution under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## How to play in one minute
+
+1. Give every player a secret party and role card, then identify the current presidential candidate.
+2. The president nominates a chancellor and the table votes on the proposed government.
+3. If elected, the president and chancellor enact one policy from the cards they receive and explain their choices.
+4. Liberal policies move the liberal side toward victory; fascist policies unlock stronger presidential powers.
+5. The liberals win by completing their policy track or stopping Hitler; the fascists win by completing theirs or electing Hitler as chancellor at the right point in the game.
+
+## What's in the PDF
+
+- The official 13-page, colour Letter-format print-and-play set.
+- Printable boards, policy tiles, role and party cards, election tracker, and placards.
+- You provide a printer and scissors; the publisher also links a separate rules PDF from its official page.
