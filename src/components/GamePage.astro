@@ -7,7 +7,7 @@ import { gameItem } from '../lib/listing';
 import { relatedGames } from '../lib/related';
 import { breadcrumbLd, SITE_URL } from '../lib/seo';
 import { hubPathSet } from '../lib/hubs';
-import { ageLabel, coverColour, creatorUrl, gameUrl, hubUrl, playersLabel, SILO_BY_TYPE, timeLabel, TYPE_LABEL, titleCase } from '../lib/taxonomy';
+import { ageLabel, coverColour, creatorUrl, gameUrl, hubUrl, playersLabel, SILO_BY_TYPE, sizeLabel, timeLabel, TYPE_LABEL, titleCase } from '../lib/taxonomy';
 import type { Game } from '../lib/taxonomy';
 
 interface Props { game: Game }
@@ -95,7 +95,7 @@ const workLd = {
         {isMirror && <a class="btn btn-outline btn-lg" href={d.source_url} rel="noopener" target="_blank">Creator’s page</a>}
       </div>
       <p class="fileinfo">
-        PDF{d.pages ? ` · ${d.pages} pages` : ''}{d.download_size_mb ? ` · ${d.download_size_mb} MB` : ''} · {d.licence}{d.licence_url ? <> (<a href={d.licence_url} rel="noopener">licence</a>)</> : null}. {isMirror ? 'Hosted here with the creator’s permission.' : 'Download is on the creator’s website.'}
+        PDF{d.pages ? ` · ${d.pages} pages` : ''}{d.download_size_mb ? ` · ${sizeLabel(d.download_size_mb)}` : ''} · {d.licence}{d.licence_url ? <> (<a href={d.licence_url} rel="noopener">licence</a>)</> : null}. {isMirror ? 'Hosted here with the creator’s permission.' : 'Download is on the creator’s website.'}
       </p>
       {(d.components_needed.length > 0 || d.components_included.length > 0) && (
         <div class="need">

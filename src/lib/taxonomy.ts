@@ -139,3 +139,8 @@ export function ruleMatches(r: Rule, f: Record<string, any>): boolean {
   if (f.public_domain !== undefined && d.public_domain !== f.public_domain) return false;
   return true;
 }
+
+export function sizeLabel(mb?: number): string | undefined {
+  if (mb === undefined) return undefined;
+  return mb < 1 ? `${Math.max(1, Math.round(mb * 1024))} KB` : `${mb} MB`;
+}

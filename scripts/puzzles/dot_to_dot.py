@@ -228,7 +228,7 @@ def cover(pdf, png):
     import pypdfium2 as pdfium
     from PIL import Image
     doc = pdfium.PdfDocument(str(pdf))
-    img = doc[0].render(scale=1.6).to_pil().convert('RGB')
+    img = doc[1].render(scale=1.6).to_pil().convert('RGB')
     w, h = img.size; s = min(w, h)
     img = img.crop(((w - s) // 2, int(h * 0.12), (w - s) // 2 + s, int(h * 0.12) + s)).resize((600, 600), Image.LANCZOS)
     img.save(png, optimize=True)

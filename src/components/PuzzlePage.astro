@@ -6,7 +6,7 @@ import ItemCard from './ItemCard.astro';
 import { puzzleItem } from '../lib/listing';
 import { breadcrumbLd, SITE_URL } from '../lib/seo';
 import { hubPathSet } from '../lib/hubs';
-import { AGE_BAND_LABEL, ageBand, coverColour, hubUrl, PUZZLE_LABEL, PUZZLE_SILO, puzzleUrl, titleCase } from '../lib/taxonomy';
+import { AGE_BAND_LABEL, ageBand, coverColour, hubUrl, PUZZLE_LABEL, PUZZLE_SILO, puzzleUrl, sizeLabel, titleCase } from '../lib/taxonomy';
 import type { Puzzle } from '../lib/taxonomy';
 
 interface Props { puzzle: Puzzle }
@@ -62,7 +62,7 @@ const ld = {
           Download PDF
         </a>
       </div>
-      <p class="fileinfo">PDF · {d.pages} page{d.pages > 1 ? 's' : ''}{d.download_size_mb ? ` · ${d.download_size_mb} MB` : ''} · {d.licence}. Made by Print &amp; Play Game. Free for personal and classroom use.</p>
+      <p class="fileinfo">PDF · {d.pages} page{d.pages > 1 ? 's' : ''}{d.download_size_mb ? ` · ${sizeLabel(d.download_size_mb)}` : ''} · {d.licence}. Made by Print &amp; Play Game. Free for personal and classroom use.</p>
       <div class="need">
         <h2>What you need</h2>
         <ul><li>Any printer{d.colour === 'bw' ? ' (black & white)' : ''}</li><li>{d.pages} sheet{d.pages > 1 ? 's' : ''} of paper</li><li>A pencil</li></ul>

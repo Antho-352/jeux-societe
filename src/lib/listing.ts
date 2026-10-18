@@ -20,7 +20,7 @@ export function puzzleItem(p: Puzzle): ListingItem {
   const d = p.data;
   const band = d.age_band ?? ageBand(d.age_min);
   return {
-    href: puzzleUrl(p), title: d.title, by: d.count ? `${d.count} ${PUZZLE_LABEL[d.type].toLowerCase()}${d.count > 1 ? 's' : ''}` : undefined, typeLabel: PUZZLE_LABEL[d.type],
+    href: puzzleUrl(p), title: d.title, by: d.count && d.count > 1 ? `${d.count} ${PUZZLE_LABEL[d.type].toLowerCase()}s` : undefined, typeLabel: PUZZLE_LABEL[d.type],
     cover: d.cover, colour: coverColour(p.id),
     pills: [d.difficulty ? titleCase(d.difficulty) : undefined, band ? AGE_BAND_LABEL[band] : undefined, `${d.pages} page${d.pages > 1 ? 's' : ''}`].filter(Boolean) as string[],
     data: { difficulty: d.difficulty, age: band, theme: d.themes.join(','), occasion: d.occasions.join(','), colour: d.colour, answers: d.answers_included ? 'yes' : 'no' },
