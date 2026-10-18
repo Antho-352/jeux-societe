@@ -1,0 +1,30 @@
+---
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import PostCard from '../../components/blog/PostCard.astro';
+import { BLOG_CATEGORY_LABEL, blogCategoryUrl, livePosts, postUrl } from '../../lib/blog';
+import { breadcrumbLd, collectionLd } from '../../lib/seo';
+const posts = await livePosts();
+const cats = Object.keys(BLOG_CATEGORY_LABEL).filter((c) => posts.some((p) => p.data.category === c));
+const crumbs = [{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }];
+const [first, ...rest] = posts;
+---
+<Base title="Blog: printable games, rules and game night ideas" description="Guides, rules explained, printable activity ideas and game night tips from the Print & Play team. New articles every week." path="/blog/" active="blog" noindex={posts.length === 0}
+  jsonLd={[breadcrumbLd(crumbs), collectionLd('Print & Play blog', '/blog/', posts.map((p) => ({ name: p.data.title, url: postUrl(p) })))]}>
+  <section class="band" style="border-radius:0 0 40px 40px">
+    <div class="wrap stack" style="padding-block:8px 44px; --gap:16px">
+      <Breadcrumb items={crumbs} inline onDark />
+      <h1>The Print &amp; Play blog</h1>
+      <p class="lead">How to print and play, rules that settle arguments, activity ideas for every holiday, and the best free games we have found. New articles every week.</p>
+      {cats.length > 0 && <div class="facet-tabs">{cats.map((c) => <a class="chip" href={blogCategoryUrl(c)} style="background:transparent;color:var(--accent);border-color:var(--accent)">{BLOG_CATEGORY_LABEL[c]}</a>)}</div>}
+    </div>
+  </section>
+  <section class="section wrap">
+    {posts.length === 0 ? <p class="empty">The first articles are on their way.</p> : (
+      <>
+        <PostCard post={first} big />
+        {rest.length > 0 && <div class="post-grid" style="margin-top:24px">{rest.map((p) => <PostCard post={p} />)}</div>}
+      </>
+    )}
+  </section>
+</Base>

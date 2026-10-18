@@ -141,4 +141,53 @@ const hubs = defineCollection({
   }),
 });
 
-export const collections = { games, rules, puzzles, creators, hubs };
+
+export const BLOG_CATEGORIES = ['guides', 'game-rules', 'printables', 'holidays', 'classroom', 'game-night', 'best-of'] as const;
+
+const authors = defineCollection({
+  loader: glob({ pattern: '**/*.json', base: './src/content/authors' }),
+  schema: z.object({
+    name: z.string(),
+    role: z.string(),
+    bio: z.string(),
+    avatar: z.string().optional(),
+    url: z.string().url().optional(),
+  }),
+});
+
+const blog = defineCollection({
+  loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/blog' }),
+  schema: z.object({
+    title: z.string(),                         // H1
+    seo_title: z.string().max(60).optional(),  // <title>, falls back to title
+    description: z.string().max(165),          // meta description
+    excerpt: z.string().max(220),              // blog cards
+    category: z.enum(BLOG_CATEGORIES),
+    author: reference('authors'),
+    publish_at: z.coerce.date(),               // date AND time; the post is built only once this moment has passed
+    updated_at: z.coerce.date().optional(),
+    // SEO plan
+    target_keyword: z.string(),
+    secondary_keywords: z.array(z.string()).default([]),
+    keyword_volume: z.number().int().optional(),
+    keyword_difficulty: z.number().optional(),
+    silo: z.string(),                          // path of the parent (mother) page this post pushes, e.g. "puzzles/mazes"
+    pushes: z.array(z.string()).default([]),   // other internal targets, site paths like "/rules/go-fish/"
+    // Inverted pyramid
+    tldr: z.string(),                          // short answer shown first
+    key_takeaways: z.array(z.string()).default([]),
+    // Media
+    cover: z.string().optional(),              // /img/blog/<slug>.png (generated)
+    cover_alt: z.string().optional(),
+    cover_emoji: z.string().optional(),        // big glyph on the generated cover
+    // End matter
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
+    sources: z.array(z.object({ label: z.string(), url: z.string().url() })).default([]),
+    sources_checked: z.coerce.date().optional(),
+    resources: z.array(z.object({ label: z.string(), href: z.string() })).default([]),
+    related: z.array(z.string()).default([]),  // blog slugs; filled automatically when empty
+    status: z.enum(['published', 'draft']).default('published'),
+  }),
+});
+
+export const collections = { games, rules, puzzles, creators, hubs, authors, blog };

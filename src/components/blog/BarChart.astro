@@ -1,0 +1,19 @@
+---
+/** Horizontal bar infographic, pure SVG/CSS (no JS). items: [{ label, value }]; unit appended to values. */
+interface Props { items: { label: string; value: number }[]; unit?: string; caption?: string; title?: string }
+const { items, unit = '', caption, title } = Astro.props;
+const max = Math.max(...items.map((i) => i.value)) || 1;
+---
+<figure class="barchart">
+  {title && <p class="barchart-title">{title}</p>}
+  <ul>
+    {items.map((it) => (
+      <li>
+        <span class="bar-label">{it.label}</span>
+        <span class="bar-track"><span class="bar-fill" style={`width:${Math.max(4, (it.value / max) * 100)}%`}></span></span>
+        <span class="bar-value">{it.value.toLocaleString('en-US')}{unit}</span>
+      </li>
+    ))}
+  </ul>
+  {caption && <figcaption>{caption}</figcaption>}
+</figure>

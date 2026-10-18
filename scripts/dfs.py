@@ -12,6 +12,10 @@ Usage :
       → top 10 Google organique (DataForSEO SERP live advanced)
   python3 -I scripts/dfs.py domain [--loc 2840] [--lang en] [--out f.json] example.com
       → mots-clés classés d'un domaine (DataForSEO Labs ranked_keywords, 300 max)
+  python3 -I scripts/dfs.py kd     [--loc 2840] [--lang en] [--out f.json] "kw 1" "kw 2" ...
+      → keyword difficulty 0-100 (DataForSEO Labs bulk_keyword_difficulty, 1000 max par appel)
+  python3 -I scripts/dfs.py overview [--loc 2840] [--lang en] [--out f.json] "kw 1" ...
+      → volume, KD, intention de recherche et CPC (DataForSEO Labs keyword_overview, 700 max)
 
 Codes pays : US 2840, UK 2826, FR 2250, CA 2124. Sortie : tableau TSV trié par volume
 sur stdout, JSON brut complet dans --out.
@@ -38,7 +42,7 @@ def chunks(xs, n):
         yield xs[i:i + n]
 
 ap = argparse.ArgumentParser()
-ap.add_argument("mode", choices=["volume", "ideas", "serp", "domain"])
+ap.add_argument("mode", choices=["volume", "ideas", "serp", "domain", "kd", "overview"])
 ap.add_argument("--loc", type=int, default=2840)
 ap.add_argument("--lang", default="en")
 ap.add_argument("--out")
@@ -73,6 +77,19 @@ elif a.mode == "domain":
         kd, se = it["keyword_data"], it["ranked_serp_element"]["serp_item"]
         print(f"{kd['keyword_info'].get('search_volume')}\t{se.get('rank_absolute')}\t{kd['keyword']}\t{se.get('url')}")
 
+elif a.mode == "kd":
+    for c in chunks(a.args, 1000):
+        d = post("dataforseo_labs/google/bulk_keyword_difficulty/live", [{"keywords": c, "location_code": a.loc, "language_code": a.lang}])
+        raw.append(d)
+        for it in (d["tasks"][0]["result"][0].get("items") or []):
+            print(f"{it.get('keyword_difficulty')}\t{it['keyword']}")
+elif a.mode == "overview":
+    for c in chunks(a.args, 700):
+        d = post("dataforseo_labs/google/keyword_overview/live", [{"keywords": c, "location_code": a.loc, "language_code": a.lang, "include_serp_info": True}])
+        raw.append(d)
+        for it in (d["tasks"][0]["result"][0].get("items") or []):
+            ki = it.get("keyword_info") or {}; kp = it.get("keyword_properties") or {}; si = it.get("search_intent_info") or {}
+            print(f"{ki.get('search_volume')}\t{kp.get('keyword_difficulty')}\t{si.get('main_intent')}\t{ki.get('cpc')}\t{it['keyword']}")
 if a.mode in ("volume", "ideas"):
     seen = set()
     rows = []

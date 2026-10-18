@@ -1,0 +1,168 @@
+---
+title: "How to solve a maze: 5 tricks that work on any printable maze"
+seo_title: "How to solve a maze: 5 tricks that always work"
+description: "How to solve a maze fast: the right-hand rule, working backwards, dead-end filling and two more tricks, explained with free printable mazes to practise on."
+excerpt: "The right-hand rule, starting from the exit, filling dead ends: five simple tricks that get you through any paper maze, from a toddler's first maze to a 48×48 monster."
+category: "guides"
+author: "editorial-team"
+publish_at: 2026-10-18T21:40:00Z
+target_keyword: "how to solve a maze"
+secondary_keywords: ["right hand rule maze", "maze solving tips", "hard mazes to print"]
+keyword_volume: 170
+silo: "puzzles/mazes"
+pushes: ["/puzzles/mazes/hard/", "/puzzles/mazes/easy/"]
+tldr: "Put one finger on the wall at the entrance and never lift it: on a maze with no loops, which is every maze on this site, you will reach the exit. To go faster, start from the exit, shade the dead ends you can see, and look for the long corridor that crosses the middle of the grid."
+key_takeaways:
+  - "The right-hand rule always works on a maze with no loops, but it is the slowest method."
+  - "Working backwards from the exit is faster because mazes are usually designed to trap you near the start."
+  - "On paper, shading dead ends turns a hard maze into an easy one."
+cover: "/img/blog/how-to-solve-a-maze.png"
+cover_alt: "A printed maze with the solution path drawn in red"
+cover_emoji: "🧭"
+faq:
+  - q: "Does the right-hand rule work on every maze?"
+    a: "It works on every maze whose walls are all connected to the outer wall, called a simply connected or perfect maze, when the entrance and exit are on the outside. Mazes with loops or an exit in the centre can send you round in circles."
+  - q: "What is the fastest way to solve a maze on paper?"
+    a: "Start at the exit and work back towards the entrance, and shade every dead end you spot along the way. Together they remove most of the wrong turns before you draw your line."
+  - q: "Is it cheating to start from the end?"
+    a: "No. A maze only has one path between the entrance and the exit, so it is the same path whichever end you start from. Puzzle solvers do it all the time."
+  - q: "How do I make a maze harder for a child who finds them easy?"
+    a: "Move up one difficulty level, which means a bigger grid and thinner corridors, or add a time limit. Our medium mazes have 20 to 26 cells a side and suit most 6 to 9 year-olds."
+sources:
+  - label: "Maze-solving algorithm (Wikipedia)"
+    url: "https://en.wikipedia.org/wiki/Maze-solving_algorithm"
+  - label: "Maze generation algorithm (Wikipedia)"
+    url: "https://en.wikipedia.org/wiki/Maze_generation_algorithm"
+  - label: "Maze (Wikipedia)"
+    url: "https://en.wikipedia.org/wiki/Maze"
+sources_checked: 2026-10-18
+resources:
+  - label: "All printable mazes, easy to hard"
+    href: "/puzzles/mazes/"
+  - label: "Hard mazes for teens and adults"
+    href: "/puzzles/mazes/hard/"
+  - label: "Easy mazes for preschoolers"
+    href: "/puzzles/mazes/easy/"
+  - label: "Printable dot to dot puzzles"
+    href: "/puzzles/dot-to-dot/"
+---
+import Callout from '../../components/blog/Callout.astro';
+import StatGrid from '../../components/blog/StatGrid.astro';
+import BarChart from '../../components/blog/BarChart.astro';
+import ItemCallout from '../../components/blog/ItemCallout.astro';
+import Quiz from '../../components/blog/Quiz.astro';
+import Timer from '../../components/blog/Timer.astro';
+
+A paper maze looks like a test of luck, but it isn't. Every maze on this site is built the same way, and that structure gives you a handful of tricks that always find the way out. Here are the five we use, from the one a five-year-old can learn to the one that cracks a 48×48 grid in a few minutes.
+
+## Why every maze here can be solved with a rule
+
+Our mazes are what mathematicians call **perfect mazes**: there is exactly one path between any two points, and there are no loops. You can picture the corridors as the branches of a tree, with the entrance and the exit on two of its twigs. That is also why every wall is attached, directly or through other walls, to the outside edge.
+
+That one property is enough for the first trick to work every time. It also tells you something useful: every wrong turn is a dead end, so wrong turns can be spotted and crossed out.
+
+<StatGrid
+  caption="Grid sizes of the mazes in our collection, by difficulty."
+  items={[
+    { value: '9–14', label: 'cells a side on easy mazes', note: 'wide corridors, ages 3 to 6' },
+    { value: '20–26', label: 'cells a side on medium mazes', note: 'ages 6 to 12' },
+    { value: '36–48', label: 'cells a side on hard mazes', note: 'teens and adults' },
+    { value: '1', label: 'path from start to finish', note: 'every maze is a perfect maze' },
+  ]}
+/>
+
+## Trick 1: the right-hand rule
+
+Put the tip of your pencil, or your finger, against the wall on your right at the entrance. Now move forward without ever losing contact with that wall: into every dead end and back out again, round every corner. You will come out at the exit.
+
+It works because, in a perfect maze, all the walls form one continuous edge. Following it is like walking round the outside of a tree: you visit every branch, and sooner or later you reach the one with the exit. The left hand works just as well; just don't swap hands halfway.
+
+<Callout type="tip" title="Best for young children">
+The right-hand rule is the one to teach first. It needs no planning, it always works on our mazes, and children can do it with a finger before they hold a pencil well. Try it on an easy maze with wide paths.
+</Callout>
+
+<ItemCallout href="/puzzles/mazes/circle-maze-easy/" note="Wide corridors, perfect for a first try with the right-hand rule." />
+
+The catch is speed. On a hard maze, following the wall can mean walking almost every corridor in the grid. Tricks 2 to 4 are about skipping most of them.
+
+## Trick 2: start from the exit
+
+Maze designers, and maze generators, tend to put the hardest choices near the entrance. That is where you are tempted by long, promising corridors that go nowhere. The area around the exit is usually less tricky.
+
+Since there is only one path, it does not matter which end you start from. Put your pencil at the exit and work back towards the entrance. When the two ends of your line are close, the last few turns are obvious.
+
+<Callout type="note">
+Starting from the end is not cheating. It is the same single path, traced in the other direction. Speed solvers of printed mazes do it as a matter of course.
+</Callout>
+
+## Trick 3: fill the dead ends
+
+This is the trick for hard mazes on paper, where you can see the whole grid at once. Scan for any corridor that ends in a closed box. Shade it back to the point where it joins another corridor. Then look again: shading one dead end often turns the corridor it joined into a new dead end.
+
+After two or three passes, the shaded areas cover most of the page and the unshaded path is the solution. It is slower to start than the right-hand rule, but it scales much better as the grid grows.
+
+<BarChart
+  title="How many cells you may have to explore"
+  unit=" cells"
+  caption="Total cells in a typical maze from each difficulty level of our collection."
+  items={[
+    { label: 'Easy (12×12)', value: 144 },
+    { label: 'Medium (22×22)', value: 484 },
+    { label: 'Hard (40×40)', value: 1600 },
+    { label: 'Super hard (48×48)', value: 2304 },
+  ]}
+/>
+
+## Trick 4: look for the long corridor
+
+Hold the page at arm's length. In most hard mazes a few corridors run a long way across the grid without branching much. The solution often uses one of them to cross from one half of the maze to the other.
+
+Find a long corridor that connects to the region near the entrance and to the region near the exit, and you have split one big maze into two smaller ones.
+
+<Callout type="warning" title="Watch out for decoys">
+A long corridor that ends in a closed box is the most effective trap a maze can set. Before you commit to one, check both ends.
+</Callout>
+
+## Trick 5: mark your choices
+
+When you reach a junction and are not sure, put a small dot on the corridor you take. If it turns out to be a dead end, come back and cross out the dot. You never test the same corridor twice.
+
+This is a paper version of Trémaux's algorithm, a method from the 19th century that works even in mazes with loops. In practice it is what you end up doing naturally on a hard maze; marking it just keeps you honest.
+
+## Which trick to use when
+
+| Situation | Best trick | Why |
+|---|---|---|
+| A young child's first maze | Right-hand rule | No planning, always works on our mazes |
+| Medium maze, want to finish fast | Start from the exit | Skips the traps near the entrance |
+| Hard or super hard maze | Fill the dead ends | You see the whole page; shading scales well |
+| You are stuck mid-maze | Mark your choices | Never test the same corridor twice |
+| Race against a friend | Long corridor + exit start | Splits the maze in two |
+
+## Test yourself
+
+<Quiz
+  mode="score"
+  title="Maze solving: how much do you remember?"
+  intro="Five quick questions on the tricks above."
+  questions={[
+    { q: 'What does a "perfect" maze mean?', options: [{ label: 'It has no dead ends' }, { label: 'There is exactly one path between any two points', correct: true }, { label: 'It is perfectly square' }], explain: 'Perfect mazes have no loops, so there is a single path between any two points.' },
+    { q: 'The right-hand rule always works when…', options: [{ label: 'The maze is perfect and the exit is on the outside', correct: true }, { label: 'The maze is very small' }, { label: 'You switch hands at every junction' }], explain: 'All walls must be connected to the outer edge, and you must keep the same hand on the wall.' },
+    { q: 'Why start from the exit?', options: [{ label: 'It is a different path' }, { label: 'The trickiest choices are usually near the entrance', correct: true }, { label: 'The exit is always closer' }], explain: 'It is the same path, but you avoid the traps placed near the start.' },
+    { q: 'Which trick scales best to a 48×48 maze on paper?', options: [{ label: 'Right-hand rule' }, { label: 'Filling the dead ends', correct: true }, { label: 'Closing your eyes' }], explain: 'You can see the whole page, and every shaded dead end removes wrong turns for good.' },
+    { q: 'Trémaux\'s method asks you to…', options: [{ label: 'Mark each corridor you try', correct: true }, { label: 'Always turn left' }, { label: 'Start in the centre' }], explain: 'Marking corridors means you never explore the same one twice.' },
+  ]}
+/>
+
+## Try it on a hard maze
+
+Ready for a real test? Print one of our hard mazes, start the timer below, and use tricks 2 and 3 together. Most adults finish a 38×38 maze in under five minutes once they get the hang of dead-end filling.
+
+<ItemCallout href="/puzzles/mazes/hard-maze/" note="38×38 cells. Our most popular hard maze, solution on page 2." />
+<ItemCallout href="/puzzles/mazes/super-hard-maze/" note="48×48 cells, the biggest grid we make." />
+
+<Timer seconds={300} title="Maze stopwatch: can you beat 5 minutes?" />
+
+<Callout type="key" title="In one sentence">
+Follow the wall if you are learning, start from the exit if you are in a hurry, and **shade the dead ends** if the maze is huge.
+</Callout>

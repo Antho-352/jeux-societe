@@ -1,0 +1,29 @@
+---
+/** Score keeper for game night: add players, add points, see the leader. Kept in this browser only. */
+interface Props { title?: string; players?: string[] }
+const { title = 'Score keeper', players = ['Player 1', 'Player 2'] } = Astro.props;
+---
+<section class="tool score-tool" data-scores={JSON.stringify(players)}>
+  <p class="tool-kicker">Tool</p>
+  <h2 class="tool-title">{title}</h2>
+  <table class="score-table"><thead><tr><th>Player</th><th>Score</th><th><span class="visually-hidden">Add points</span></th></tr></thead><tbody data-body></tbody></table>
+  <div class="row" style="--gap:10px">
+    <button type="button" class="btn btn-outline" data-add-player>Add player</button>
+    <button type="button" class="btn btn-outline" data-reset>Reset scores</button>
+  </div>
+</section>
+<script>
+  for (const root of document.querySelectorAll<HTMLElement>('[data-scores]')) {
+    const body = root.querySelector<HTMLElement>('[data-body]')!;
+    let rows: { name: string; score: number }[] = JSON.parse(root.dataset.scores!).map((name: string) => ({ name, score: 0 }));
+    const render = () => {
+      const top = Math.max(...rows.map((r) => r.score));
+      body.innerHTML = rows.map((r, i) => `<tr class="${r.score === top && top > 0 ? 'is-lead' : ''}"><td><input aria-label="Player name" value="${r.name.replace(/"/g, '&quot;')}" data-name="${i}"></td><td class="score-num">${r.score}</td><td class="score-btns"><button type="button" data-d="${i}:-1">−1</button><button type="button" data-d="${i}:1">+1</button><button type="button" data-d="${i}:5">+5</button><button type="button" data-d="${i}:10">+10</button></td></tr>`).join('');
+    };
+    body.addEventListener('click', (e) => { const d = (e.target as HTMLElement).dataset.d; if (!d) return; const [i, n] = d.split(':').map(Number); rows[i].score += n; render(); });
+    body.addEventListener('change', (e) => { const el = e.target as HTMLInputElement; if (el.dataset.name) rows[Number(el.dataset.name)].name = el.value; });
+    root.querySelector('[data-add-player]')!.addEventListener('click', () => { rows.push({ name: `Player ${rows.length + 1}`, score: 0 }); render(); });
+    root.querySelector('[data-reset]')!.addEventListener('click', () => { rows = rows.map((r) => ({ ...r, score: 0 })); render(); });
+    render();
+  }
+</script>

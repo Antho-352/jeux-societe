@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import { hubListing, THIN_THRESHOLD } from '../lib/hubs';
 import { SITE_URL } from '../lib/seo';
 import { creatorUrl, gameUrl, hubUrl, puzzleUrl, rulesUrl } from '../lib/taxonomy';
+import { BLOG_CATEGORY_LABEL, blogCategoryUrl, livePosts, postUrl } from '../lib/blog';
 
 const fmt = (d: Date) => d.toISOString().slice(0, 10);
 
@@ -22,6 +23,11 @@ export const GET: APIRoute = async () => {
   for (const g of await getCollection('games')) if (g.data.status === 'published') urls.push({ loc: gameUrl(g), lastmod: fmt(g.data.date_added), priority: '0.6' });
   for (const p of await getCollection('puzzles')) if (p.data.status === 'published') urls.push({ loc: puzzleUrl(p), lastmod: fmt(p.data.date_added), priority: '0.6' });
   for (const r of await getCollection('rules')) if (r.data.status === 'published') urls.push({ loc: rulesUrl(r), lastmod: fmt(r.data.date_added), priority: '0.6' });
+  const posts = await livePosts();
+  if (posts.length) urls.push({ loc: '/blog/', lastmod: fmt(posts[0].data.publish_at), priority: '0.7' });
+  for (const p of posts) urls.push({ loc: postUrl(p), lastmod: fmt(p.data.updated_at ?? p.data.publish_at), priority: '0.6' });
+  for (const c of Object.keys(BLOG_CATEGORY_LABEL)) if (posts.filter((p) => p.data.category === c).length >= 3) urls.push({ loc: blogCategoryUrl(c), lastmod: today, priority: '0.4' });
+  urls.push({ loc: '/site-map/', lastmod: today, priority: '0.3' });
   const games = await getCollection('games');
   for (const c of await getCollection('creators')) {
     const n = games.filter((g) => g.data.creator?.id === c.id && g.data.status === 'published').length;

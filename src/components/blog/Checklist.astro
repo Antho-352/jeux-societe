@@ -1,0 +1,27 @@
+---
+/** Checklist the reader can tick; progress is kept in this browser only. */
+interface Props { id: string; title: string; items: string[] }
+const { id, title, items } = Astro.props;
+---
+<section class="tool checklist-tool" data-checklist={id}>
+  <p class="tool-kicker">Checklist</p>
+  <h2 class="tool-title">{title}</h2>
+  <ul>{items.map((it, i) => <li><label><input type="checkbox" data-i={i} /> <span>{it}</span></label></li>)}</ul>
+  <p class="checklist-count" data-count>0 / {items.length} done</p>
+</section>
+<script>
+  for (const root of document.querySelectorAll<HTMLElement>('[data-checklist]')) {
+    const key = 'checklist:' + root.dataset.checklist;
+    const boxes = Array.from(root.querySelectorAll<HTMLInputElement>('input[type=checkbox]'));
+    const count = root.querySelector<HTMLElement>('[data-count]')!;
+    let saved: number[] = [];
+    try { saved = JSON.parse(localStorage.getItem(key) ?? '[]'); } catch {}
+    boxes.forEach((b, i) => (b.checked = saved.includes(i)));
+    const update = () => {
+      const on = boxes.flatMap((b, i) => (b.checked ? [i] : []));
+      count.textContent = `${on.length} / ${boxes.length} done`;
+      try { localStorage.setItem(key, JSON.stringify(on)); } catch {}
+    };
+    boxes.forEach((b) => b.addEventListener('change', update)); update();
+  }
+</script>

@@ -1,0 +1,27 @@
+---
+/** Dice roller: pick how many dice and how many sides, roll, see the total. */
+interface Props { dice?: number; sides?: number; title?: string }
+const { dice = 2, sides = 6, title = 'Roll the dice' } = Astro.props;
+---
+<section class="tool dice-tool" data-dice data-n={dice} data-sides={sides}>
+  <p class="tool-kicker">Tool</p>
+  <h2 class="tool-title">{title}</h2>
+  <div class="row" style="--gap:10px">
+    <label>Dice <select data-count>{[1, 2, 3, 4, 5, 6].map((n) => <option value={n} selected={n === dice}>{n}</option>)}</select></label>
+    <label>Sides <select data-sides-sel>{[4, 6, 8, 10, 12, 20].map((n) => <option value={n} selected={n === sides}>d{n}</option>)}</select></label>
+    <button type="button" class="btn btn-primary" data-roll>Roll</button>
+  </div>
+  <div class="dice-out" data-out aria-live="polite"></div>
+</section>
+<script>
+  for (const root of document.querySelectorAll<HTMLElement>('[data-dice]')) {
+    const out = root.querySelector<HTMLElement>('[data-out]')!;
+    const count = root.querySelector<HTMLSelectElement>('[data-count]')!;
+    const sides = root.querySelector<HTMLSelectElement>('[data-sides-sel]')!;
+    const rand = (n: number) => { const a = new Uint32Array(1); crypto.getRandomValues(a); return (a[0] % n) + 1; };
+    root.querySelector('[data-roll]')!.addEventListener('click', () => {
+      const vals = Array.from({ length: Number(count.value) }, () => rand(Number(sides.value)));
+      out.innerHTML = vals.map((v) => `<span class="die">${v}</span>`).join('') + `<span class="dice-total">Total <strong>${vals.reduce((a, b) => a + b, 0)}</strong></span>`;
+    });
+  }
+</script>

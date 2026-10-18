@@ -1,0 +1,17 @@
+---
+/** Infographic: big numbers. items: [{ value, label, note? }] */
+interface Props { items: { value: string; label: string; note?: string }[]; caption?: string }
+const { items, caption } = Astro.props;
+---
+<figure class="statgrid">
+  <div class="statgrid-items">
+    {items.map((it, i) => (
+      <div class:list={['stat', `stat-${i % 4}`]}>
+        <span class="stat-value">{it.value}</span>
+        <span class="stat-label">{it.label}</span>
+        {it.note && <span class="stat-note">{it.note}</span>}
+      </div>
+    ))}
+  </div>
+  {caption && <figcaption>{caption}</figcaption>}
+</figure>

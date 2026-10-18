@@ -1,0 +1,16 @@
+---
+import type { Post } from '../../lib/blog';
+import { BLOG_CATEGORY_LABEL, fmtDate, postUrl } from '../../lib/blog';
+interface Props { post: Post; big?: boolean }
+const { post, big = false } = Astro.props;
+const d = post.data;
+---
+<a class:list={['post-card', { 'post-card-big': big }]} href={postUrl(post)}>
+  <span class="post-card-cover">{d.cover ? <img src={d.cover} alt="" width="1200" height="630" loading="lazy" /> : <span class="post-card-emoji" aria-hidden="true">{d.cover_emoji ?? '🎲'}</span>}</span>
+  <span class="post-card-body">
+    <span class="post-card-cat">{BLOG_CATEGORY_LABEL[d.category]}</span>
+    <span class="post-card-title">{d.title}</span>
+    <span class="post-card-excerpt">{d.excerpt}</span>
+    <span class="post-card-date">{fmtDate(d.publish_at)}</span>
+  </span>
+</a>

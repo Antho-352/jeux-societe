@@ -1,0 +1,24 @@
+---
+import Base from '../../../layouts/Base.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import PostCard from '../../../components/blog/PostCard.astro';
+import { BLOG_CATEGORY_LABEL, BLOG_CATEGORY_LEAD, blogCategoryUrl, livePosts, postUrl } from '../../../lib/blog';
+import { breadcrumbLd, collectionLd } from '../../../lib/seo';
+export async function getStaticPaths() {
+  const posts = await livePosts();
+  return Object.keys(BLOG_CATEGORY_LABEL).filter((c) => posts.some((p) => p.data.category === c)).map((cat) => ({ params: { cat }, props: { posts: posts.filter((p) => p.data.category === cat) } }));
+}
+const { cat } = Astro.params;
+const { posts } = Astro.props;
+const label = BLOG_CATEGORY_LABEL[cat!];
+const crumbs = [{ name: 'Home', href: '/' }, { name: 'Blog', href: '/blog/' }, { name: label, href: blogCategoryUrl(cat!) }];
+---
+<Base title={`${label}: articles`} description={`${BLOG_CATEGORY_LEAD[cat!]} Articles from the Print & Play blog.`} path={blogCategoryUrl(cat!)} active="blog" noindex={posts.length < 3}
+  jsonLd={[breadcrumbLd(crumbs), collectionLd(label, blogCategoryUrl(cat!), posts.map((p) => ({ name: p.data.title, url: postUrl(p) })))]}>
+  <Breadcrumb items={crumbs} />
+  <section class="wrap stack" style="--gap:12px; padding-bottom:24px">
+    <h1>{label}</h1>
+    <p class="lead">{BLOG_CATEGORY_LEAD[cat!]}</p>
+  </section>
+  <section class="section wrap" style="padding-top:0"><div class="post-grid">{posts.map((p) => <PostCard post={p} />)}</div></section>
+</Base>

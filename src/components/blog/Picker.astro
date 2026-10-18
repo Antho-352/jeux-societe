@@ -1,0 +1,27 @@
+---
+/** Random picker: "who goes first", "which game tonight". Items can be edited by the reader. */
+interface Props { title?: string; items: string[]; button?: string }
+const { title = 'Pick at random', items, button = 'Pick one' } = Astro.props;
+---
+<section class="tool picker-tool" data-picker>
+  <p class="tool-kicker">Tool</p>
+  <h2 class="tool-title">{title}</h2>
+  <label class="picker-label">One choice per line (edit me)
+    <textarea rows={Math.min(8, items.length + 1)} data-list>{items.join('\n')}</textarea>
+  </label>
+  <button type="button" class="btn btn-primary" data-go>{button}</button>
+  <p class="picker-out" data-out aria-live="polite"></p>
+</section>
+<script>
+  for (const root of document.querySelectorAll<HTMLElement>('[data-picker]')) {
+    const list = root.querySelector<HTMLTextAreaElement>('[data-list]')!;
+    const out = root.querySelector<HTMLElement>('[data-out]')!;
+    root.querySelector('[data-go]')!.addEventListener('click', () => {
+      const items = list.value.split('\n').map((s) => s.trim()).filter(Boolean);
+      if (!items.length) { out.textContent = 'Add at least one choice.'; return; }
+      let n = 0; const spins = 14;
+      const tick = () => { const a = new Uint32Array(1); crypto.getRandomValues(a); out.textContent = items[a[0] % items.length]; if (++n < spins) setTimeout(tick, 40 + n * 12); else out.classList.add('is-final'); };
+      out.classList.remove('is-final'); tick();
+    });
+  }
+</script>

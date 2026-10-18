@@ -1,0 +1,43 @@
+---
+/** HTML site map, rebuilt automatically on every deploy from the content collections. */
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import { hubListing, THIN_THRESHOLD } from '../lib/hubs';
+import { BLOG_CATEGORY_LABEL, livePosts, postUrl } from '../lib/blog';
+import { creatorUrl, gameUrl, hubUrl, puzzleUrl, rulesUrl, SILO_BY_TYPE, PUZZLE_SILO } from '../lib/taxonomy';
+import { breadcrumbLd } from '../lib/seo';
+
+const hubs = (await getCollection('hubs')).sort((a, b) => a.data.path.localeCompare(b.data.path));
+const liveHubs = [];
+for (const h of hubs) { const { items } = await hubListing(h); if (items.length >= Math.max(h.data.min_items, THIN_THRESHOLD)) liveHubs.push(h); }
+const games = (await getCollection('games')).filter((g) => g.data.status === 'published').sort((a, b) => a.data.title.localeCompare(b.data.title));
+const puzzles = (await getCollection('puzzles')).filter((p) => p.data.status === 'published').sort((a, b) => a.data.title.localeCompare(b.data.title));
+const rules = (await getCollection('rules')).filter((r) => r.data.status === 'published').sort((a, b) => a.data.game_name.localeCompare(b.data.game_name));
+const creators = (await getCollection('creators')).filter((c) => games.filter((g) => g.data.creator?.id === c.id).length >= 2);
+const posts = await livePosts();
+const gameSilos = [...new Set(Object.values(SILO_BY_TYPE))].map((s) => ({ silo: s, hub: hubs.find((h) => h.data.path === s), items: games.filter((g) => SILO_BY_TYPE[g.data.type] === s) })).filter((x) => x.items.length);
+const puzzleSilos = [...new Set(Object.values(PUZZLE_SILO))].map((s) => ({ silo: s, hub: hubs.find((h) => h.data.path === s), items: puzzles.filter((p) => PUZZLE_SILO[p.data.type] === s) })).filter((x) => x.items.length);
+const total = 6 + liveHubs.length + games.length + puzzles.length + rules.length + creators.length + posts.length;
+const crumbs = [{ name: 'Home', href: '/' }, { name: 'Site map', href: '/site-map/' }];
+---
+<Base title="Site map: every game, puzzle, rule and article" description={`All ${total} pages of Print & Play Game in one place: categories, free printable games, puzzles, game rules and blog articles.`} path="/site-map/" jsonLd={[breadcrumbLd(crumbs)]}>
+  <Breadcrumb items={crumbs} />
+  <section class="wrap stack sitemap" style="--gap:28px; padding-bottom:48px">
+    <div class="stack" style="--gap:10px"><h1>Site map</h1><p class="lead">Every page of the site, {total} in total, updated each time a game, puzzle or article is published.</p></div>
+    <section><h2>Main pages</h2><ul class="sm-cols"><li><a href="/">Home</a></li><li><a href="/find-a-game/">Find a game</a></li><li><a href="/how-to-print/">How to print and play</a></li><li><a href="/blog/">Blog</a></li><li><a href="/creators/">Creators</a></li><li><a href="/about/">About &amp; licences</a></li></ul></section>
+    <section><h2>Categories</h2><ul class="sm-cols">{liveHubs.map((h) => <li><a href={hubUrl(h.data.path)}>{h.data.h1}</a></li>)}</ul></section>
+    {gameSilos.map(({ silo, hub, items }) => (<section><h2><a href={hubUrl(silo)}>{hub?.data.h1 ?? silo}</a> <small>({items.length})</small></h2><ul class="sm-cols">{items.map((g) => <li><a href={gameUrl(g)}>{g.data.title}</a></li>)}</ul></section>))}
+    {puzzleSilos.map(({ silo, hub, items }) => (<section><h2><a href={hubUrl(silo)}>{hub?.data.h1 ?? silo}</a> <small>({items.length})</small></h2><ul class="sm-cols">{items.map((p) => <li><a href={puzzleUrl(p)}>{p.data.title}</a></li>)}</ul></section>))}
+    <section><h2><a href="/rules/">Game rules</a> <small>({rules.length})</small></h2><ul class="sm-cols">{rules.map((r) => <li><a href={rulesUrl(r)}>{r.data.game_name} rules</a></li>)}</ul></section>
+    {posts.length > 0 && <section><h2><a href="/blog/">Blog</a> <small>({posts.length})</small></h2><ul class="sm-cols">{posts.map((p) => <li><a href={postUrl(p)}>{p.data.title}</a> <small>· {BLOG_CATEGORY_LABEL[p.data.category]}</small></li>)}</ul></section>}
+    {creators.length > 0 && <section><h2><a href="/creators/">Creators</a></h2><ul class="sm-cols">{creators.map((c) => <li><a href={creatorUrl(c.id)}>{c.data.name}</a></li>)}</ul></section>}
+  </section>
+</Base>
+<style>
+  .sitemap h2 { font-size: 24px; margin-bottom: 10px; }
+  .sitemap h2 a { text-decoration: none; }
+  .sitemap small { font-family: var(--font-body); font-size: 14px; font-weight: 500; color: var(--muted); }
+  .sm-cols { columns: 260px 4; column-gap: 28px; margin: 0; padding: 0; list-style: none; font-size: 15px; line-height: 1.5; }
+  .sm-cols li { break-inside: avoid; padding: 3px 0; }
+</style>

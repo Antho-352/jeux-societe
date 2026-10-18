@@ -1,0 +1,71 @@
+---
+/**
+ * Interactive quiz. Two modes:
+ *  - mode="score": each option has `correct: true` on the right answer; shows score and explanations.
+ *  - mode="match": each option has `points: { outcomeKey: n }`; the highest outcome wins and its card is shown.
+ */
+interface Option { label: string; correct?: boolean; points?: Record<string, number> }
+interface Question { q: string; options: Option[]; explain?: string }
+interface Outcome { key: string; title: string; text: string; href?: string; cta?: string }
+interface Props { title: string; intro?: string; mode?: 'score' | 'match'; questions: Question[]; outcomes?: Outcome[] }
+const { title, intro, mode = 'match', questions, outcomes = [] } = Astro.props;
+const id = 'quiz-' + Math.abs([...title].reduce((h, c) => (h * 31 + c.charCodeAt(0)) | 0, 0)).toString(36);
+---
+<section class="tool quiz-tool" data-quiz={JSON.stringify({ mode, questions, outcomes })} id={id} aria-labelledby={`${id}-t`}>
+  <p class="tool-kicker">Interactive quiz</p>
+  <h2 class="tool-title" id={`${id}-t`}>{title}</h2>
+  {intro && <p class="tool-intro">{intro}</p>}
+  <div class="quiz-progress"><span data-step>Question 1 of {questions.length}</span><span data-pct>{Math.round(100 / questions.length)}%</span></div>
+  <div class="quiz-bar"><span data-bar style={`width:${100 / questions.length}%`}></span></div>
+  <div data-stage aria-live="polite"></div>
+  <noscript><p>This quiz needs JavaScript.</p></noscript>
+</section>
+<script>
+  type Opt = { label: string; correct?: boolean; points?: Record<string, number> };
+  for (const root of document.querySelectorAll<HTMLElement>('[data-quiz]')) {
+    const { mode, questions, outcomes } = JSON.parse(root.dataset.quiz!);
+    const stage = root.querySelector<HTMLElement>('[data-stage]')!;
+    const step = root.querySelector<HTMLElement>('[data-step]')!;
+    const pct = root.querySelector<HTMLElement>('[data-pct]')!;
+    const bar = root.querySelector<HTMLElement>('[data-bar]')!;
+    let i = 0, score = 0; const tally: Record<string, number> = {}; const answers: number[] = [];
+    const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
+    const progress = () => { const p = Math.round(((i + 1) / questions.length) * 100); step.textContent = `Question ${Math.min(i + 1, questions.length)} of ${questions.length}`; pct.textContent = `${p}%`; bar.style.width = `${p}%`; };
+    const render = () => {
+      if (i >= questions.length) return finish();
+      progress();
+      const q = questions[i];
+      stage.innerHTML = `<fieldset class="quiz-q"><legend>${esc(q.q)}</legend>${q.options.map((o: Opt, k: number) => `<label class="quiz-opt"><input type="radio" name="o" value="${k}"> <span>${esc(o.label)}</span></label>`).join('')}</fieldset><div class="quiz-feedback" hidden></div><button type="button" class="btn btn-dark" data-next disabled>${mode === 'score' ? 'Check' : 'Next'}</button>`;
+      const next = stage.querySelector<HTMLButtonElement>('[data-next]')!;
+      stage.querySelectorAll('input').forEach((inp) => inp.addEventListener('change', () => (next.disabled = false)));
+      let checked = false;
+      next.addEventListener('click', () => {
+        const k = Number(stage.querySelector<HTMLInputElement>('input:checked')!.value);
+        const o: Opt = q.options[k];
+        if (mode === 'score' && !checked) {
+          checked = true; if (o.correct) score++;
+          stage.querySelectorAll<HTMLLabelElement>('.quiz-opt').forEach((l, j) => { l.classList.toggle('is-right', !!q.options[j].correct); l.classList.toggle('is-wrong', j === k && !o.correct); l.querySelector('input')!.disabled = true; });
+          const fb = stage.querySelector<HTMLElement>('.quiz-feedback')!; fb.hidden = false;
+          fb.innerHTML = `<strong>${o.correct ? 'Right!' : 'Not quite.'}</strong> ${q.explain ? esc(q.explain) : ''}`;
+          next.textContent = i === questions.length - 1 ? 'See my score' : 'Next question'; return;
+        }
+        answers.push(k);
+        if (mode === 'match') for (const [key, n] of Object.entries(o.points ?? {})) tally[key] = (tally[key] ?? 0) + (n as number);
+        i++; render();
+      });
+    };
+    const finish = () => {
+      step.textContent = 'Done'; pct.textContent = '100%'; bar.style.width = '100%';
+      if (mode === 'score') {
+        const n = questions.length;
+        const verdict = score === n ? 'Perfect score.' : score >= n * 0.7 ? 'Great job.' : score >= n * 0.4 ? 'Not bad at all.' : 'Time for a rematch.';
+        stage.innerHTML = `<div class="quiz-result"><p class="quiz-score">${score} / ${n}</p><p>${verdict}</p><button type="button" class="btn btn-outline" data-again>Try again</button></div>`;
+      } else {
+        const best = outcomes.slice().sort((a: any, b: any) => (tally[b.key] ?? 0) - (tally[a.key] ?? 0))[0];
+        stage.innerHTML = `<div class="quiz-result"><p class="tool-kicker">Your match</p><p class="quiz-outcome">${esc(best.title)}</p><p>${esc(best.text)}</p>${best.href ? `<a class="btn btn-primary" href="${best.href}">${esc(best.cta ?? 'See it')}</a>` : ''} <button type="button" class="btn btn-outline" data-again>Start over</button></div>`;
+      }
+      stage.querySelector('[data-again]')!.addEventListener('click', () => { i = 0; score = 0; answers.length = 0; for (const k in tally) delete tally[k]; render(); });
+    };
+    render();
+  }
+</script>

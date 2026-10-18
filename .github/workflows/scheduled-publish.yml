@@ -1,0 +1,28 @@
+# Publishes scheduled blog posts: every hour, if a post's publish_at has just passed,
+# trigger a Cloudflare Pages rebuild through its deploy hook. Posts are filtered by date at build time.
+# Setup (once): Cloudflare dashboard → Workers & Pages → the project → Settings → Builds → Deploy hooks →
+# add a hook for the production branch, then GitHub → Settings → Secrets and variables → Actions →
+# New repository secret named CF_PAGES_DEPLOY_HOOK with the hook URL.
+name: Scheduled publish
+on:
+  schedule:
+    - cron: '7 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  publish-due-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Find posts that became due in the last hour
+        id: due
+        run: |
+          if python3 -I scripts/due_posts.py 65; then echo "due=true" >> "$GITHUB_OUTPUT"; else echo "due=false" >> "$GITHUB_OUTPUT"; fi
+      - name: Trigger Cloudflare Pages rebuild
+        if: steps.due.outputs.due == 'true' || github.event_name == 'workflow_dispatch'
+        env:
+          HOOK: ${{ secrets.CF_PAGES_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$HOOK" ]; then echo "::warning::CF_PAGES_DEPLOY_HOOK secret is not set"; exit 0; fi
+          curl -fsS -X POST "$HOOK" > /dev/null && echo "Rebuild triggered"

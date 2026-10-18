@@ -1,0 +1,16 @@
+---
+/** Call to action toward a parent (mother) page. */
+import { getCollection } from 'astro:content';
+interface Props { path: string; text?: string; button?: string }
+const { path, text, button } = Astro.props;
+const hub = (await getCollection('hubs')).find((h) => h.data.path === path);
+if (!hub) throw new Error(`HubCta: no hub at ${path}`);
+---
+<aside class="hub-cta">
+  <div>
+    <p class="hub-cta-kicker">Free on Print &amp; Play</p>
+    <p class="hub-cta-title">{hub.data.h1}</p>
+    <p class="hub-cta-text">{text ?? hub.data.lead}</p>
+  </div>
+  <a class="btn btn-primary" href={`/${path}/`}>{button ?? `Browse ${hub.data.title.toLowerCase()}`}</a>
+</aside>

@@ -1,0 +1,26 @@
+---
+/** Countdown timer for party games (charades, Pictionary-style rounds…). */
+interface Props { seconds?: number; title?: string }
+const { seconds = 60, title = 'Round timer' } = Astro.props;
+---
+<section class="tool timer-tool" data-timer={seconds}>
+  <p class="tool-kicker">Tool</p>
+  <h2 class="tool-title">{title}</h2>
+  <p class="timer-face" data-face aria-live="off">{Math.floor(seconds / 60)}:{String(seconds % 60).padStart(2, '0')}</p>
+  <div class="row" style="--gap:10px">
+    {[30, 60, 90, 120].map((s) => <button type="button" class="chip" data-set={s}>{s}s</button>)}
+    <button type="button" class="btn btn-primary" data-start>Start</button>
+    <button type="button" class="btn btn-outline" data-reset>Reset</button>
+  </div>
+</section>
+<script>
+  for (const root of document.querySelectorAll<HTMLElement>('[data-timer]')) {
+    const face = root.querySelector<HTMLElement>('[data-face]')!;
+    let total = Number(root.dataset.timer), left = total, t: number | undefined;
+    const show = () => { face.textContent = `${Math.floor(left / 60)}:${String(left % 60).padStart(2, '0')}`; face.classList.toggle('is-low', left <= 5 && left > 0); face.classList.toggle('is-done', left === 0); };
+    const stop = () => { if (t) clearInterval(t); t = undefined; };
+    root.querySelector('[data-start]')!.addEventListener('click', () => { if (t) return; t = window.setInterval(() => { left = Math.max(0, left - 1); show(); if (!left) { stop(); navigator.vibrate?.(300); } }, 1000); });
+    root.querySelector('[data-reset]')!.addEventListener('click', () => { stop(); left = total; show(); });
+    root.querySelectorAll<HTMLButtonElement>('[data-set]').forEach((b) => b.addEventListener('click', () => { stop(); total = left = Number(b.dataset.set); show(); }));
+  }
+</script>

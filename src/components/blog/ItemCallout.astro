@@ -1,0 +1,26 @@
+---
+/** Embed a game, puzzle or rules page as a card inside an article: <ItemCallout href="/rules/go-fish/" /> */
+import { getCollection } from 'astro:content';
+import { gameItem, puzzleItem, ruleItem } from '../../lib/listing';
+interface Props { href: string; note?: string }
+const { href, note } = Astro.props;
+const all = [
+  ...(await getCollection('games')).filter((g) => g.data.status === 'published').map((g) => gameItem(g)),
+  ...(await getCollection('puzzles')).filter((p) => p.data.status === 'published').map(puzzleItem),
+  ...(await getCollection('rules')).filter((r) => r.data.status === 'published').map(ruleItem),
+];
+const it = all.find((i) => i.href === href);
+if (!it) throw new Error(`ItemCallout: no published item at ${href}`);
+---
+<a class="item-callout" href={it.href}>
+  <span class="item-callout-cover" style={`background:${it.colour}`}>
+    {it.cover ? <img src={it.cover} alt="" width="120" height="120" loading="lazy" /> : <span class="initial" aria-hidden="true">{it.title[0]}</span>}
+  </span>
+  <span class="item-callout-body">
+    <span class="item-callout-type">{it.typeLabel} · free PDF</span>
+    <strong>{it.title}</strong>
+    {note && <span class="item-callout-note">{note}</span>}
+    <span class="item-callout-meta">{it.pills.join(' · ')}</span>
+  </span>
+  <span class="item-callout-arrow" aria-hidden="true">→</span>
+</a>
