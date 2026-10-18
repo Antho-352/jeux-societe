@@ -29,17 +29,18 @@ seo_description: "Free printable playing cards from PrintablePaper.net: a full 5
 <!-- hand-edited -->
 ## About this printable deck of cards
 
-This printable playing card deck from PrintablePaper.net (Savetz Publishing) is a complete standard deck: ace to king in spades, hearts, diamonds and clubs, plus two jokers, laid out four to a page across 14 Letter pages. The design is simple, with large pips and index corners, which makes it easy to read in a child's hand or on a crowded table.
+This printable playing card deck from PrintablePaper.net (Savetz Publishing) is a complete standard deck, ace to king in four suits plus two jokers, four cards to a page across 14 Letter pages. Large pips and corner indexes make it easy to read for children.
 
-A printed deck will never shuffle like a plastic-coated one, but it has its moments: a spare deck for a holiday house, a set for a classroom, or a deck you can draw on for a custom game. For something to play, our rules pages cover classic deck games such as [Go Fish](/rules/go-fish/), [Crazy Eights](/rules/crazy-eights/), [War](/rules/war/) and [Old Maid](/rules/old-maid/), and the solo games [Picklock!](/card-games/picklock/) and [Ripples and Branches](/card-games/ripples-and-branches-a-solo-game-of-haiku/) need nothing else.
+A paper deck will not shuffle like a coated one, but it makes a spare deck for a holiday house, a classroom set, or cards you can draw on for a custom game. For something to play, see our rules for [Go Fish](/rules/go-fish/), [Crazy Eights](/rules/crazy-eights/) and [War](/rules/war/), or try the solo games [Picklock!](/card-games/picklock/) and [Ripples and Branches](/card-games/ripples-and-branches-a-solo-game-of-haiku/).
 
 ## How to use it
 
-1. Print all 14 pages on card stock, single-sided; a patterned sheet glued to the back hides the faces.
-2. Cut along the card edges with a trimmer for straight sides, or round the corners with a punch so they last longer.
-3. Shuffle gently. A rubber band keeps the deck together between games.
+1. Print all 14 pages on card stock, single-sided.
+2. Glue a patterned sheet to the back if you want to hide the faces.
+3. Cut with a trimmer for straight edges; round the corners with a punch so they last.
 
 ## What's in the PDF
 
-- 14 pages, US Letter, colour: 52 cards and 2 jokers, four per page.
-- No card backs. The download is on the PrintablePaper.net preview page.
+- 52 cards and 2 jokers, four per page.
+- No card backs.
+- US Letter, 14 pages, colour.

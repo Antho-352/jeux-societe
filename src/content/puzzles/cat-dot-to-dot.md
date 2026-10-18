@@ -18,7 +18,7 @@ cover: "/img/puzzles/cat-dot-to-dot.png"
 licence: "CC BY-NC 4.0"
 status: "published"
 date_added: "2026-10-18"
-seo_title: "Cat dot to dot printable (free PDF)"
+seo_title: "Cat dot to dot (36 dots) \u2013 free printable"
 ---
 <!-- hand-edited -->
 ## About this dot to dot

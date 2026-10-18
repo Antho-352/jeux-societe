@@ -29,18 +29,18 @@ seo_description: "Free printable Pachisi board from PrintablePaper.net: the cros
 <!-- hand-edited -->
 ## About this printable Pachisi board
 
-Pachisi is the national game of India and the ancestor of Ludo, Parcheesi and Sorry!. This printable Pachisi board from PrintablePaper.net (Savetz Publishing) gives you the cross-and-circle track on one Letter page, four pawns in each of four colours, and a page of rules written in the Parcheesi style: roll two dice, enter a pawn on a five, race counter-clockwise around the cross, capture by landing on an opponent, and bring all four pawns home with exact rolls.
+Pachisi is the national game of India and the ancestor of Ludo and Parcheesi. This printable Pachisi board from PrintablePaper.net (Savetz Publishing) gives you the cross-and-circle track, four pawns in each of four colours and rules in the Parcheesi style: two dice, a five to enter, captures and blockades.
 
-If you grew up with Ludo you will recognise almost everything; the main differences are the two dice, the bonus for a capture and the blockades two pawns of one colour can form. Our [Ludo rules page](/rules/ludo/) compares the family and explains the simpler single-die version children usually learn.
+If you grew up with Ludo you will recognise almost everything. Our [Ludo rules page](/rules/ludo/) compares the family and explains the simpler one-die version children usually learn.
 
 ## How to use it
 
-1. Print both pages and cut out the pawns, or use coloured counters.
-2. Each player keeps four pawns in the nest of their colour. Roll two dice on your turn; a total of five brings a pawn out.
-3. Move one or two pawns by the dice; doubles move you extra. Landing on a lone enemy pawn sends it back to its nest and earns you a 20-space bonus, except on safe spaces.
-4. The first player to bring all four pawns into the home column by exact count wins.
+1. Print both pages and cut out the pawns.
+2. Each player starts with four pawns in their nest. Roll two dice; a total of five brings a pawn out.
+3. Move counter-clockwise by the dice. Landing on a lone enemy pawn sends it home and earns a 20-space bonus, except on safe spaces.
+4. The first player to bring all four pawns home by exact count wins.
 
 ## What's in the PDF
 
-- Page 1: the board in colour. Page 2: pawns and rules.
-- US Letter, 2 pages. The download is on the PrintablePaper.net preview page.
+- Page 1: the board. Page 2: pawns and rules.
+- US Letter, 2 pages, colour.

@@ -29,19 +29,19 @@ seo_description: "Free printable Chinese checkers board from PrintablePaper.net:
 <!-- hand-edited -->
 ## About this printable Chinese checkers set
 
-This printable Chinese checkers board from PrintablePaper.net (Savetz Publishing) puts the familiar six-pointed star on one Letter page, with a second page of coloured pieces and the rules. It is sized for a table, not a pocket, and it works best glued to card.
+This printable Chinese checkers board from PrintablePaper.net (Savetz Publishing) puts the six-pointed star on one Letter page, with a second page of coloured pieces and the rules. Glue it to card for a sturdier board.
 
-Chinese checkers is neither Chinese nor checkers: it was invented in Germany in 1892 as Stern-Halma, a star-shaped version of the American game Halma. Two to six players race their ten pieces from one point of the star to the opposite point, hopping over any piece in the way. Nothing is ever captured, which makes it a gentle first strategy game for children from about six.
+Chinese checkers is neither Chinese nor checkers: it was invented in Germany in 1892 as Stern-Halma, a star-shaped Halma. Two to six players race ten pieces each to the opposite point of the star, hopping over any piece in the way. Nothing is ever captured, which makes it a gentle first strategy game for children.
 
 ## How to use it
 
-1. Print both pages and cut out the pieces, or use marbles, buttons or coins in six colours.
-2. Each player fills one point of the star with pieces of their colour; with two or three players use opposite points.
-3. On your turn move one piece a single step or a chain of jumps over neighbouring pieces, in roughly the same direction.
-4. The first player to fill the opposite point wins; the others play on for the places.
+1. Cut out the pieces, or use marbles or buttons in six colours.
+2. Each player fills one point of the star; with two or three players use opposite points.
+3. On your turn move one piece a single step, or make a chain of jumps over neighbouring pieces.
+4. The first player to fill the opposite point wins.
 
 ## What's in the PDF
 
-- Page 1: the star board in colour.
+- Page 1: the star board.
 - Page 2: pieces and instructions.
-- US Letter, 2 pages, colour. The download is on the PrintablePaper.net preview page.
+- US Letter, 2 pages, colour.

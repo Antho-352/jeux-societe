@@ -29,18 +29,18 @@ seo_description: "Free printable shogi set from PrintablePaper.net: 9x9 board, c
 <!-- hand-edited -->
 ## About this printable shogi set
 
-This printable shogi set from PrintablePaper.net (Savetz Publishing) is a three-page introduction to Japanese chess: a 9x9 board, a sheet of pieces with their promoted forms printed in red, and a page that explains setup, movement, promotion, drops and checkmate. The pieces carry symbols rather than kanji only, which helps beginners.
+This printable shogi set from PrintablePaper.net (Savetz Publishing) is a three-page introduction to Japanese chess: a 9x9 board, pieces with their promoted forms printed in red, and a page covering setup, movement, promotion, drops and checkmate.
 
-Shogi is a cousin of Western chess with one big twist: captured pieces change sides. Instead of moving, you can drop a captured piece back onto the board as your own, so the game never thins out and an attack can come from anywhere. Pieces that reach the far three ranks may promote, gaining new moves. As in chess, the goal is to checkmate the opposing king.
+Shogi is a cousin of Western chess with one big twist: captured pieces change sides. Instead of moving, you may drop a captured piece back onto the board as your own,. Pieces reaching the far three ranks may promote. As in chess, you win by checkmating the king.
 
 ## How to use it
 
-1. Print all three pages and cut out the pieces. Both players use the same pieces and show ownership by pointing the narrow end at the opponent.
-2. Set up as the guide shows: king in the centre of the back row, flanked by gold and silver generals, knights and lances; bishop and rook on the second row; nine pawns on the third.
-3. Black moves first. On your turn move a piece, capture by landing on an enemy, or drop a captured piece on an empty square.
+1. Print the three pages and cut out the pieces. Both players use the same pieces, pointing the narrow end at the opponent.
+2. Set up as the guide shows: king in the centre of the back row; bishop and rook on the second row; nine pawns on the third.
+3. Black moves first. Move a piece, capture by landing on an enemy, or drop a captured piece on an empty square.
 4. Checkmate the king to win.
 
 ## What's in the PDF
 
-- Page 1: the board. Page 2: pieces and promoted pieces with a guide. Page 3: rules.
-- US Letter, 3 pages, colour. The download is on the PrintablePaper.net preview page.
+- Page 1: board. Page 2: pieces and guide. Page 3: rules.
+- US Letter, 3 pages, colour.

@@ -18,7 +18,7 @@ cover: "/img/puzzles/house-dot-to-dot-easy.png"
 licence: "CC BY-NC 4.0"
 status: "published"
 date_added: "2026-10-18"
-seo_title: "House dot to dot printable (free PDF)"
+seo_title: "House dot to dot (12 dots) \u2013 free printable"
 ---
 <!-- hand-edited -->
 ## About this dot to dot

@@ -18,7 +18,7 @@ cover: "/img/puzzles/rocket-dot-to-dot-easy.png"
 licence: "CC BY-NC 4.0"
 status: "published"
 date_added: "2026-10-18"
-seo_title: "Rocket dot to dot printable (free PDF)"
+seo_title: "Rocket dot to dot (18 dots) \u2013 free printable"
 ---
 <!-- hand-edited -->
 ## About this dot to dot

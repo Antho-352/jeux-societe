@@ -29,19 +29,19 @@ seo_description: "Free printable Three Men's Morris board from PrintablePaper.ne
 <!-- hand-edited -->
 ## About this printable Three Men's Morris board
 
-This printable Three Men's Morris board from PrintablePaper.net (Savetz Publishing) gives you the board, 3 black and 3 white pieces to cut out, and the rules, on two black-and-white Letter pages. It is part of a set of four morris boards from the same publisher; the best known is [Nine Men's Morris](/board-games/printable-nine-mens-morris/).
+This printable Three Men's Morris board from PrintablePaper.net (Savetz Publishing) gives you the board, 3 black and 3 white pieces to cut out, and the rules, on two black-and-white Letter pages. It is one of four morris boards from the same publisher; the best known is [Nine Men's Morris](/board-games/printable-nine-mens-morris/).
 
-Three Men's Morris is the oldest and smallest member of the family: a 3x3 grid of points where each player has three pieces, so it plays like tic-tac-toe with movement. The first player to line up three pieces wins; if nobody does while placing, players slide pieces to adjacent points until someone does. The morris games are among the oldest board games in Europe, and all of them share the same idea: get three of your pieces in a line, called a mill. Our [Nine Men's Morris rules page](/rules/nine-mens-morris/) explains the family in more detail.
+Three Men's Morris is the oldest and smallest of the family: a 3x3 grid of points and three pieces each, like tic-tac-toe with movement. All the morris games share one idea: get three pieces in a line, called a mill. Our [Nine Men's Morris rules page](/rules/nine-mens-morris/) explains the family in detail.
 
 ## How to use it
 
-1. Print both pages and cut out the pieces, or use coins and buttons in two colours.
+1. Cut out the pieces, or use coins and buttons in two colours.
 2. Start with an empty board and decide who goes first.
 3. Take turns placing one piece on any empty point.
-4. Once all six pieces are down, slide one piece to an adjacent empty point along a line (some players allow a move to any empty point).
-5. Three in a row, horizontally or vertically, wins at once, whether made while placing or while moving.
+4. Once all six pieces are down, slide one piece to an adjacent empty point along a line.
+5. Three in a row wins, whether made while placing or moving.
 
 ## What's in the PDF
 
-- Page 1: the board. Page 2: pieces and rules.
-- US Letter, 2 pages, black and white. The download is on the PrintablePaper.net preview page.
+- Page 1: board. Page 2: pieces and rules.
+- US Letter, 2 pages, black and white.

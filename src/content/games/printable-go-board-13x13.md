@@ -29,18 +29,18 @@ seo_description: "Free printable 13x13 Go board from PrintablePaper.net with 169
 <!-- hand-edited -->
 ## About this printable 13x13 Go board
 
-This printable Go board from PrintablePaper.net (Savetz Publishing) is a 13x13 grid, the medium size for learners who have outgrown 9x9, with a matching sheet of 169 black and white stones that you cut out or, faster, remove with a hole punch. It fits on a single Letter page.
+This printable Go board from PrintablePaper.net (Savetz Publishing) is a 13x13 grid, the medium size for players who have outgrown 9x9, with 169 black and white stones to cut out or remove with a hole punch. It fits on a single Letter page.
 
-Go is the oldest board game still played in its original form, some 2,500 years old and still unsolved. Two players take turns placing stones on the intersections to surround territory and capture enemy groups; the player with more territory at the end wins. The rules fit on a postcard, the strategy fills libraries. Beginners should start on a 9x9 board and move up as games stop feeling cramped. Our [Go rules page](/rules/go/) covers liberties, capture, ko, scoring and handicaps. The same grid also plays Gomoku (five in a row).
+Go is about 2,500 years old and still played in its original form. Two players take turns placing stones on the intersections to surround territory and capture enemy groups. Beginners should start on 9x9 and move up as games stop feeling cramped. Our [Go rules page](/rules/go/) covers liberties, capture, ko and scoring.
 
 ## How to use it
 
-1. Print the board on card stock.
-2. Punch out or cut the stones; keep each colour in its own cup. Buttons or dried beans in two colours work too.
-3. Black plays first, placing one stone per turn on an empty intersection. Stones with no free neighbouring points are captured.
-4. Pass when there is nothing useful left to play; two passes in a row end the game. Count territory plus captures.
+1. Print on card stock.
+2. Punch out the stones, or use buttons or beans in two colours.
+3. Black plays first, one stone per turn on an empty intersection; stones with no free neighbouring points are captured.
+4. Two passes in a row end the game. Count territory plus captures.
 
 ## What's in the PDF
 
 - One page, US Letter, colour: the 13x13 board and 169 paper stones.
-- No rules in the file. The download is on the PrintablePaper.net preview page.
+- No rules in the file.

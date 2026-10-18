@@ -29,18 +29,18 @@ seo_description: "Free printable Siege of Paris game from PrintablePaper.net: de
 <!-- hand-edited -->
 ## About this printable Siege of Paris game
 
-Siege of Paris is an old asymmetric war game themed on the siege of 1870 to 1871, when German armies surrounded the French capital. One side holds the citadel in the centre of the board with a small French force; two invading armies, black and silver, close in from opposite ends. This printable from PrintablePaper.net (Savetz Publishing) supplies the board on two pages, the pieces for all three sides and two pages explaining how generals, colonels, captains, lieutenants and soldiers move.
+Siege of Paris is an asymmetric war game themed on the siege of 1870 to 1871. A small French force holds the central citadel against two invading armies. This printable from PrintablePaper.net (Savetz Publishing) supplies the board on two pages, pieces for all three sides and a guide to how each rank moves.
 
-It belongs to the same family as [Fox and Geese](/board-games/printable-fox-and-geese/): a small, mobile defence against a large, slow attack. The turn order gives the defender a move before each invading army, so it plays well with three people (one per side) or two, with one player commanding both invaders.
+Like [Fox and Geese](/board-games/printable-fox-and-geese/), it pits a small, mobile defence against a large attack. The defender moves before each invading army, so it plays with three people, or two with one commanding both invaders.
 
 ## How to use it
 
-1. Print the four pages, tape the two board halves together and cut out the pieces.
-2. Set the invaders' black pieces on dark squares and silver pieces on light squares at their ends; arrange the red defenders inside the citadel.
-3. The defender moves first, then silver, then the defender, then black. Capture by landing on an enemy piece.
-4. The invaders win by getting one officer and three soldiers into the citadel, or by trapping the defenders inside. The defender wins by capturing 24 soldiers and 6 officers.
+1. Tape the two board halves together and cut out the pieces.
+2. Set black invaders on dark squares and silver on light squares at their ends; put the red defenders inside the citadel.
+3. Turns go defender, silver, defender, black. Capture by landing on an enemy piece.
+4. Invaders win with one officer and three soldiers inside the citadel; the defender wins by capturing 24 soldiers and 6 officers.
 
 ## What's in the PDF
 
-- Pages 1 and 2: the board. Page 3: pieces and piece guide. Page 4: rules.
-- US Letter, 4 pages, colour. The download is on the PrintablePaper.net preview page.
+- Board (2 pages), pieces and guide, rules.
+- US Letter, 4 pages, colour.

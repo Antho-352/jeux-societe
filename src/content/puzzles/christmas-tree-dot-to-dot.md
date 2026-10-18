@@ -18,7 +18,7 @@ cover: "/img/puzzles/christmas-tree-dot-to-dot.png"
 licence: "CC BY-NC 4.0"
 status: "published"
 date_added: "2026-10-18"
-seo_title: "Christmas tree dot to dot printable (free PDF)"
+seo_title: "Christmas tree dot to dot (20 dots) \u2013 free printable"
 ---
 <!-- hand-edited -->
 ## About this dot to dot

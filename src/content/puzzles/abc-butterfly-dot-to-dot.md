@@ -18,7 +18,7 @@ cover: "/img/puzzles/abc-butterfly-dot-to-dot.png"
 licence: "CC BY-NC 4.0"
 status: "published"
 date_added: "2026-10-18"
-seo_title: "Alphabet dot to dot: butterfly printable (free PDF)"
+seo_title: "Alphabet dot to dot: butterfly (A to Z) \u2013 free printable"
 ---
 <!-- hand-edited -->
 ## About this dot to dot

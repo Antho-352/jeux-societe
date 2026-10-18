@@ -18,7 +18,7 @@ cover: "/img/puzzles/snowman-dot-to-dot.png"
 licence: "CC BY-NC 4.0"
 status: "published"
 date_added: "2026-10-18"
-seo_title: "Snowman dot to dot printable (free PDF)"
+seo_title: "Snowman dot to dot (45 dots) \u2013 free printable"
 ---
 <!-- hand-edited -->
 ## About this dot to dot

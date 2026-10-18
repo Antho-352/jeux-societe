@@ -30,18 +30,18 @@ seo_description: "Free mancala board printable from PrintablePaper.net: a colour
 <!-- hand-edited -->
 ## About this printable mancala board
 
-This mancala board printable from PrintablePaper.net (Savetz Publishing) draws the familiar wooden board on paper: six yellow cups on one side, six blue cups on the other, a long store cup at each end, and a sheet of green paper stones. The rules on the same page cover sowing, the free turn when your last stone lands in your store, and capturing from an empty cup.
+This mancala board printable from PrintablePaper.net (Savetz Publishing) draws the wooden board on paper: six yellow cups, six blue cups, a long store at each end and a sheet of green paper stones. The rules cover sowing, the free turn when your last stone lands in your store, and captures from an empty cup.
 
-Mancala is a family of sowing games played across Africa and Asia for well over a thousand years; the version here, often sold as Kalah, is the one most people in Europe and North America learn. Each player starts with four stones in each of their six cups and tries to collect the most in their store. Our [mancala rules page](/rules/mancala/) has the complete rules, variants and tips for first games.
+Mancala is a family of sowing games played across Africa and Asia for over a thousand years; this version, often sold as Kalah, is the one most people learn first. Our [mancala rules page](/rules/mancala/) has the full rules, variants and tips.
 
 ## How to use it
 
-1. Print the board on card stock; the stones can be cut out, but beans, pebbles or glass beads are quicker and more satisfying.
-2. Put four stones in each of the twelve small cups, store cups empty. Players sit with their store on their right.
-3. On your turn, lift all the stones from one of your cups and drop one in each cup counter-clockwise, including your own store but skipping the opponent's.
-4. The game ends when one side is empty; the player with more stones in their store wins.
+1. Print the board on card stock. Beans, pebbles or glass beads beat paper stones.
+2. Put four stones in each small cup; stores start empty.
+3. On your turn, lift all the stones from one of your cups and sow them one by one counter-clockwise, including your own store.
+4. When one side is empty, the player with more stones in their store wins.
 
 ## What's in the PDF
 
 - Page 1: board and rules. Page 2: paper stones.
-- US Letter, 2 pages, colour. The download is on the PrintablePaper.net preview page.
+- US Letter, 2 pages, colour.

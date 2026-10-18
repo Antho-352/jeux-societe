@@ -29,18 +29,18 @@ seo_description: "Free printable Shut the Box sheet from PrintablePaper.net: cro
 <!-- hand-edited -->
 ## About this printable Shut the Box sheet
 
-Shut the Box is a traditional dice game, long played in pubs in England and France and on fishing boats, with a wooden box of hinged tiles numbered 1 to 9. This printable Shut the Box game from PrintablePaper.net (Savetz Publishing) replaces the box with a pencil: each player gets a row of numbers from 1 to 9 to cross out and a score box, three players per sheet, plus a page of rules.
+Shut the Box is a traditional dice game, usually played with a wooden box of hinged tiles numbered 1 to 9. This printable Shut the Box game from PrintablePaper.net (Savetz Publishing) replaces the box with a pencil: each player gets a row of numbers to cross out and a score box, three players per sheet, plus a page of rules.
 
-It is a quick maths game for children (every roll is a little addition problem) and a satisfying solo game for adults, since the only opponent is the dice. Print a stack of sheets and keep them with a pair of dice in the car or the holiday bag.
+Every roll is a small addition problem, which makes it a good maths game for children, and it works as a solo game too. Keep a stack of sheets with a pair of dice in the holiday bag.
 
 ## How to use it
 
 1. Roll two dice and add them up.
-2. Cross out one or more of your remaining numbers that add up to the total: a roll of 6 can cross out 6, or 5 and 1, or 4 and 2, or 1, 2 and 3.
-3. Keep rolling until you cannot make the total with the numbers left. Add up the numbers you did not cross out and write it in the score box.
-4. The next player takes their turn. The lowest score wins; crossing out all nine numbers ("shutting the box") wins outright.
+2. Cross out remaining numbers that make that total: a 6 can be 6, or 5 and 1, or 4 and 2, or 1, 2 and 3.
+3. Keep rolling until you cannot make the total, then write the sum of your uncrossed numbers as your score.
+4. Lowest score wins; crossing out all nine ("shutting the box") wins outright.
 
 ## What's in the PDF
 
-- Page 1: the sheet for three players. Page 2: rules.
-- US Letter, 2 pages, black and white. The download is on the PrintablePaper.net preview page.
+- Page 1: sheet for three players. Page 2: rules.
+- US Letter, 2 pages, black and white.

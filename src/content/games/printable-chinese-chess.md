@@ -29,19 +29,18 @@ seo_description: "Free printable Chinese chess set from PrintablePaper.net: xian
 <!-- hand-edited -->
 ## About this printable Chinese chess set
 
-This printable Chinese chess board from PrintablePaper.net (Savetz Publishing) is a three-page xiangqi set: the board with its river and two palaces, a sheet of red and black pieces marked with the traditional Chinese characters, and a page that explains each piece and the basic rules. It is a handy way to try the game before buying a wooden set.
+This printable Chinese chess board from PrintablePaper.net (Savetz Publishing) is a three-page xiangqi set: the board with its river and two palaces, red and black pieces marked with the traditional characters, and a guide to each piece and the rules. It is a cheap way to try the game before buying a wooden set.
 
-Xiangqi is the most played board game in China and a cousin of Western chess. Pieces stand on the intersections rather than in the squares, the general is confined to a palace, elephants cannot cross the river, and cannons capture by jumping over another piece. The goal is the same: checkmate the opposing general.
+Xiangqi is the most played board game in China and a cousin of Western chess. Pieces stand on the intersections, the general stays in its palace, elephants cannot cross the river and cannons capture by jumping over one piece. The goal is to checkmate the opposing general.
 
 ## How to use it
 
-1. Print all three pages and cut out the 32 pieces; card stock helps.
-2. Set up as the piece guide shows: chariots in the corners, then horses, elephants, advisors and the general in the middle of the back row; cannons two rows forward; five soldiers along the river bank.
-3. Red moves first. Move along the lines to the next intersection, capture by landing on an enemy piece, and announce check.
+1. Print the three pages and cut out the 32 pieces.
+2. Set up as the guide shows: chariots in the corners, then horses, elephants, advisors and the general; cannons and five soldiers in front.
+3. Red moves first. Move along the lines and capture by landing on an enemy piece.
 4. Checkmate the general to win.
 
 ## What's in the PDF
 
-- Page 1: the board.
-- Page 2: pieces and a guide to their moves.
-- Page 3: rules. US Letter, 3 pages, colour. The download is on the PrintablePaper.net preview page.
+- Page 1: the board. Page 2: pieces and piece guide. Page 3: rules.
+- US Letter, 3 pages, colour.

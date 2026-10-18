@@ -29,18 +29,18 @@ seo_description: "Free printable Jungle game from PrintablePaper.net: Dou Shou Q
 <!-- hand-edited -->
 ## About this printable Jungle game
 
-The Jungle Game, also called Dou Shou Qi or animal chess, is a traditional Chinese board game and one of the best first strategy games for children. This printable from PrintablePaper.net (Savetz Publishing) gives you the 7x9 board with its two rivers, three traps around each den, eight animal pieces per side, and a page that ranks the animals and explains the rules.
+The Jungle Game, also called Dou Shou Qi or animal chess, is a traditional Chinese board game and one of the best first strategy games for children. This printable from PrintablePaper.net (Savetz Publishing) gives you the 7x9 board with two rivers and a den guarded by three traps at each end, eight animals per side, and a page ranking the animals and explaining the rules.
 
-Each animal captures animals of equal or lower rank: the elephant beats everything except the rat, and the rat, the weakest piece, is the only one that can swim and the only one that can take the elephant. Lions and tigers leap across the rivers. The ranking is easy to remember because it follows a child's idea of the food chain, yet the game has real tactics around the traps.
+Each animal captures animals of equal or lower rank. The elephant beats everything except the rat; the rat, the weakest, is the only one that swims and the only one that can take the elephant. Lions and tigers leap across the rivers.
 
 ## How to use it
 
 1. Print the three pages and cut out the sixteen animals.
-2. Place each animal on its matching picture square; after setup those squares have no special meaning.
-3. Red moves first. Move one animal one square up, down or sideways. Capture by moving onto an animal of equal or lower rank; any animal standing in an enemy trap can be captured.
-4. Win by moving any animal into the opponent's den, or by capturing all their pieces.
+2. Place each animal on its matching picture square.
+3. Red moves first. Move one animal one square orthogonally; capture an animal of equal or lower rank. Any animal in an enemy trap can be captured.
+4. Win by entering the opponent's den or capturing all their animals.
 
 ## What's in the PDF
 
-- Page 1: the board. Page 2: animal pieces and ranking guide. Page 3: rules.
-- US Letter, 3 pages, colour. The download is on the PrintablePaper.net preview page.
+- Page 1: board. Page 2: animals and ranking guide. Page 3: rules.
+- US Letter, 3 pages, colour.

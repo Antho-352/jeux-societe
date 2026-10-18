@@ -30,19 +30,19 @@ seo_description: "Free cribbage board printable from PrintablePaper.net: a one-p
 <!-- hand-edited -->
 ## About this printable cribbage board
 
-This cribbage board printable from PrintablePaper.net (Savetz Publishing) replaces the wooden board that every cribbage game needs. Page one is the scoring track, with the familiar groups of five holes for pegging to 61 or 121; page two is a compact set of instructions covering the deal, the crib, pegging to 31 and the scoring combinations.
+This cribbage board printable from PrintablePaper.net (Savetz Publishing) replaces the wooden board every cribbage game needs. Page one is the scoring track, with groups of five holes for pegging to 61 or 121; page two covers the deal, the crib, pegging to 31 and the scoring combinations.
 
-Cribbage is a two-player card game (three can play, and the sheet says so) dating from 17th-century England. Players score for fifteens, pairs and runs both while playing cards to a running total and when counting their hands, and the dealer also scores the crib, a spare hand built from the cards both players discard. The board exists because scoring happens constantly and a notepad would slow the game down.
+Cribbage is a 17th-century English card game for two (three can play). Players score for fifteens, pairs and runs while playing cards and again when counting their hands, so points come constantly and a pegboard keeps the game moving. Our [cribbage rules page](/rules/cribbage/) explains every step and the scoring in detail.
 
 ## How to use it
 
-1. Print page one on card stock so pins or pegs will hold.
-2. Use map pins, golf tees or matchsticks as pegs, two per player, in different colours.
-3. Deal six cards each, discard two to the crib, cut for the starter card, play to 31, then count hands and crib and peg the points.
-4. First to the end of the track (61 or 121) wins.
+1. Print the board on card stock so pegs hold.
+2. Use map pins, golf tees or matchsticks as pegs, two per player.
+3. Deal, discard to the crib, play to 31, count hands and crib, and peg the points.
+4. First to the end of the track wins.
 
 ## What's in the PDF
 
-- Page 1: the cribbage board in colour.
+- Page 1: the cribbage board.
 - Page 2: instructions.
-- US Letter, 2 pages. The download is on the PrintablePaper.net preview page.
+- US Letter, 2 pages, colour.

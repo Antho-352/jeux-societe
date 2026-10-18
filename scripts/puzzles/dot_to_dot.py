@@ -288,7 +288,7 @@ cover: "/img/puzzles/{slug}.png"
 licence: "CC BY-NC 4.0"
 status: "published"
 date_added: "{today}"
-seo_title: {json.dumps((title.split(' (')[0] + ' printable (free PDF)')[:60])}
+seo_title: {json.dumps((title + ' – free printable')[:60])}
 ---
 <!-- hand-edited -->
 ## About this dot to dot

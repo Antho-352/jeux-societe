@@ -30,19 +30,19 @@ seo_description: "Free printable chess board and pieces from PrintablePaper.net:
 <!-- hand-edited -->
 ## About this printable chess board
 
-This printable chess board from PrintablePaper.net (Savetz Publishing) is a complete paper chess set: a red-and-blue checkered board split over two Letter pages so the squares come out a usable size, a sheet of black and white pieces to cut out, and a page of instructions that explains the starting position and how each piece moves.
+This printable chess board from PrintablePaper.net (Savetz Publishing) is a complete paper chess set: a red-and-blue board split over two Letter pages so the squares are a usable size, black and white pieces to cut out, and a page explaining the setup and how each piece moves.
 
-Chess needs no introduction, but a paper set has its uses: a travel game that weighs nothing, a classroom set for a chess club, or a quick replacement when a knight has gone missing. For the full rules, including castling, en passant, promotion and how a game ends, read our [chess rules page](/rules/chess/).
+A paper set is handy as a travel game, a classroom set for a chess club, or a stand-in when a knight goes missing. For castling, en passant, promotion and how a game ends, read our [chess rules page](/rules/chess/).
 
 ## How to use it
 
 1. Print all three pages; card stock makes the pieces easier to handle.
-2. Tape the two board halves together so you get a square 8x8 board, with a light square at each player's bottom right.
+2. Tape the two board halves together, with a light square at each player's bottom right.
 3. Cut out the sixteen white and sixteen black pieces.
-4. Set up as the instructions show (rooks in the corners, queen on her own colour) and play; white moves first.
+4. Set up as the instructions show (queen on her own colour) and play; white moves first.
 
 ## What's in the PDF
 
 - Pages 1 and 2: the board, in colour.
 - Page 3: the pieces and a summary of how they move.
-- US Letter, 3 pages, colour. The download is on the PrintablePaper.net preview page.
+- US Letter, 3 pages.

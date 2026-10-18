@@ -30,18 +30,18 @@ seo_description: "Free printable Reversi board from PrintablePaper.net: an 8x8 b
 <!-- hand-edited -->
 ## About this printable Reversi board
 
-This printable Reversi board from PrintablePaper.net (Savetz Publishing) gives you an 8x8 board, a sheet of discs to cut out and a page of rules. The discs are printed dark on one half and light on the other, so instead of flipping them you turn them around to change colour.
+This printable Reversi board from PrintablePaper.net (Savetz Publishing) gives you an 8x8 board, discs to cut out and a page of rules. The discs are dark on one half and light on the other, so you turn them around instead of flipping them.
 
-Reversi is a two-player abstract game from 19th-century England, sold today under the trademark Othello. Every move must trap a line of the opponent's discs between the disc you place and one of yours, and every trapped disc changes colour. A game can swing wildly in the last few moves, which is why it is said to take a minute to learn and a lifetime to master. Our [Reversi rules page](/rules/reversi/) explains the opening position, legal moves, passing and strategy for beginners.
+Reversi is a 19th-century English game, sold today under the trademark Othello. Every move must trap a line of opposing discs between the disc you place and one of yours, and the trapped discs change colour, so a game can swing wildly in the last few moves. Our [Reversi rules page](/rules/reversi/) explains the opening position, legal moves and beginner strategy.
 
 ## How to use it
 
-1. Print the three pages; card stock makes the discs easier to handle. Coins with heads and tails also work.
-2. Place two dark and two light discs diagonally in the four centre squares.
-3. Dark moves first. Place a disc so that it traps one or more opponent discs in a straight or diagonal line, then turn them to your colour.
-4. If you have no legal move, pass. When neither player can move, the player with more discs wins.
+1. Print the three pages and cut out the discs; coins with heads and tails also work.
+2. Place two dark and two light discs diagonally in the centre.
+3. Dark moves first. Place a disc that traps opposing discs in a line and turn them to your colour.
+4. With no legal move, pass. When neither player can move, most discs wins.
 
 ## What's in the PDF
 
-- Page 1: the board. Page 2: discs. Page 3: rules.
-- US Letter, 3 pages, colour. The download is on the PrintablePaper.net preview page.
+- Page 1: board. Page 2: discs. Page 3: rules.
+- US Letter, 3 pages, colour.

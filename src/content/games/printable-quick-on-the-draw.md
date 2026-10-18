@@ -29,18 +29,18 @@ seo_description: "Free printable Quick on the Draw cards from PrintablePaper.net
 <!-- hand-edited -->
 ## About these Quick on the Draw cards
 
-Quick on the Draw from PrintablePaper.net (Savetz Publishing) is a one-page sheet of four cards for a team drawing game in the Pictionary style. Each card has five rows, one per category: P for person, place or animal, N for noun, V for vowel, H for hard words and AT for all teams play. A key at the bottom of the page explains the letters. The sheet is the scorecard and category guide only: there are no rules and no word list in the file, so you bring your own words and a timer.
+Quick on the Draw from PrintablePaper.net (Savetz Publishing) is a one-page sheet of four cards for a team drawing game in the Pictionary style. Each card has five category rows: P for person, place or animal, N for noun, V for vowel, H for hard words and AT for all teams play, with a key at the bottom.
 
-It is a lightweight way to run a drawing game at a party without buying a boxed one, especially if you already have a word list from a quiz book or an online generator.
+The sheet is the category card only. There are no rules and no word list in the file, so you bring your own words and a timer. It is a cheap way to run a drawing game at a party without buying a boxed one.
 
 ## How to use it
 
-1. Print the page and cut out the four cards, one per team.
-2. Prepare a word list sorted into the five categories, and agree a time limit per drawing (one minute is standard).
-3. Teams take turns: one player draws a word from the current category while teammates guess. On AT rows, every team draws and guesses the same word at once.
-4. Tick off each row as it is won; the first team to complete its card wins.
+1. Cut out the four cards, one per team.
+2. Prepare a word list for the five categories and agree a time limit (one minute is usual).
+3. Teams take turns: one player draws a word while teammates guess. On AT rows every team draws the same word at once.
+4. Tick each row as it is won; the first team to complete its card wins.
 
 ## What's in the PDF
 
-- One page, US Letter, colour: four category cards and a key.
-- No rules or words. The download is on the PrintablePaper.net preview page.
+- Four category cards and a key.
+- US Letter, 1 page, colour.

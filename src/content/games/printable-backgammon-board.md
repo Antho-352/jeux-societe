@@ -29,19 +29,18 @@ seo_description: "Free printable backgammon board PDF from PrintablePaper.net: t
 <!-- hand-edited -->
 ## About this printable backgammon board
 
-This backgammon board printable from PrintablePaper.net (Savetz Publishing) is a plain, good-looking template: a tan-and-black board split across two Letter pages, a sheet of white and red checkers to cut out, and a page of instructions. It is the quickest way to get a backgammon set on the table when you are travelling or teaching the game and do not own one.
+This backgammon board printable from PrintablePaper.net (Savetz Publishing) is a tan-and-black board split across two Letter pages, a sheet of white and red checkers to cut out, and a page of instructions. It is a quick way to get a set on the table when travelling or teaching the game.
 
-Backgammon is a 5,000-year-old race game for two players. Each side moves fifteen checkers around the board by the roll of two dice and tries to bear them all off first. Our full rules, with setup diagram, hitting, bearing off and the doubling cube, are on the [backgammon rules page](/rules/backgammon/).
+Backgammon is an ancient race game for two: each side moves fifteen checkers around the board by the roll of two dice and tries to bear them all off first. Full rules, including hitting, bearing off and the doubling cube, are on our [backgammon rules page](/rules/backgammon/).
 
 ## How to use it
 
-1. Print the three pages on plain paper or light card.
-2. Tape pages one and two together along the long edge so the 24 points line up; the bar runs down the middle.
-3. Cut out the fifteen white and fifteen red checkers, or use coins and buttons.
-4. Set up as the instructions show (2, 5, 3 and 5 checkers per side), roll two dice and play.
+1. Print the three pages and tape the two board halves together along the long edge.
+2. Cut out the checkers, or use coins and buttons.
+3. Set up as the instructions show, roll two dice and play.
 
 ## What's in the PDF
 
-- Pages 1 and 2: the board, in colour, with the points numbered for both players.
-- Page 3: the checkers and a short rules summary.
-- US Letter, 3 pages, colour. The download is on the PrintablePaper.net preview page.
+- Pages 1 and 2: the board, with points numbered for both players.
+- Page 3: checkers and a short rules summary.
+- US Letter, 3 pages, colour.

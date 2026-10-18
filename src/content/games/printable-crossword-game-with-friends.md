@@ -29,18 +29,18 @@ seo_description: "Free printable Scrabble-style crossword game from PrintablePap
 <!-- hand-edited -->
 ## About this printable crossword word game
 
-Crossword Game with Friends from PrintablePaper.net (Savetz Publishing) is a paper version of the classic tile-laying word game: a 15x15 board with double and triple letter (DL, TL) and double and triple word (DW, TW) squares, a sheet of letter tiles with point values from 1 for an E to 10 for a Q or Z, and a page of rules. It plays like Scrabble (a trademark of Hasbro and Mattel), which this template is not affiliated with.
+Crossword Game with Friends from PrintablePaper.net (Savetz Publishing) is a paper version of the classic tile-laying word game: a 15x15 board with double and triple letter and word squares, 100 letter tiles with point values (1 for an E, 10 for a Q or Z) and a page of rules. It plays like Scrabble, a trademark of Hasbro and Mattel, with which this template is not affiliated.
 
-It is a practical print for holidays, classrooms and anyone who wants a spare set: the tiles are small, so cut carefully and keep them in a bag.
+It suits holidays and classrooms, or anyone who wants a spare set. The tiles are small, so cut carefully and keep them in a bag.
 
 ## How to use it
 
-1. Print the board on page 1 and the tiles on page 2; card stock for the tiles is strongly recommended.
-2. Cut out the tiles and put them face down in a bag. Each player draws seven.
-3. The first word must cross the centre star. Later words connect to tiles already on the board, reading left to right or top to bottom. Draw back to seven after each turn.
-4. Score each turn by adding the tile values, applying letter bonuses before word bonuses. The game ends when the tiles run out; the highest score wins.
+1. Print the board and tiles; card stock is best for the tiles.
+2. Put the tiles face down in a bag; each player draws seven.
+3. The first word crosses the centre star; later words connect to tiles already played. Draw back to seven after each turn.
+4. Add tile values, apply letter bonuses before word bonuses, and play until the tiles run out.
 
 ## What's in the PDF
 
-- Page 1: the board. Page 2: letter tiles. Page 3: rules and scoring.
-- US Letter, 3 pages, colour. The download is on the PrintablePaper.net preview page.
+- Page 1: board. Page 2: tiles. Page 3: rules and scoring.
+- US Letter, 3 pages, colour.

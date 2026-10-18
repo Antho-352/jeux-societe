@@ -30,18 +30,18 @@ seo_description: "Free printable snakes and ladders game from PrintablePaper.net
 <!-- hand-edited -->
 ## About this printable snakes and ladders board
 
-This printable snakes and ladders game from PrintablePaper.net (Savetz Publishing) is a bright one-page board: squares 1 to 100 snaking up the page, ten wooden ladders and ten cartoon snakes in different colours. There is nothing to cut out and no rules page, because the game needs none beyond what a five-year-old already knows: climb the ladders, slide down the snakes, be first to 100.
+This printable snakes and ladders game from PrintablePaper.net (Savetz Publishing) is a bright one-page board: squares 1 to 100 winding up the page, wooden ladders and cartoon snakes in different colours. There is nothing to cut out and no rules page, because a five-year-old already knows them: climb the ladders, slide down the snakes, be first to 100.
 
-Snakes and ladders comes from ancient India, where it was a moral lesson (ladders for virtues, snakes for vices). It is pure luck, which is exactly why it works for young children: nobody can be blamed for losing, and counting the squares is good practice. Our [snakes and ladders rules page](/rules/snakes-and-ladders/) covers the house rules families argue about, such as exact rolls to finish and extra turns on a six.
+The game comes from ancient India, where ladders stood for virtues and snakes for vices. It is pure luck, which suits young children, and counting squares is good practice. Our [snakes and ladders rules page](/rules/snakes-and-ladders/) covers the house rules families argue about, such as needing an exact roll to finish.
 
 ## How to use it
 
-1. Print the board, on card stock if you want it to last; laminating it is even better.
-2. Each player puts a counter before square 1. Take turns rolling one die and moving forward.
-3. Land at the foot of a ladder and climb to its top; land on a snake's head and slide down to its tail.
+1. Print the board, on card stock or laminated if you want it to last.
+2. Each player puts a counter before square 1 and rolls one die in turn.
+3. Land at the foot of a ladder to climb it; land on a snake's head to slide to its tail.
 4. The first player to reach square 100 wins.
 
 ## What's in the PDF
 
 - One page, US Letter, colour: the 100-square board.
-- No rules or counters. The download is on the PrintablePaper.net preview page.
+- No rules or counters.

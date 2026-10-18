@@ -30,19 +30,19 @@ seo_description: "Free printable Battleship game board from PrintablePaper.net: 
 <!-- hand-edited -->
 ## About this printable Battleship board
 
-This Battleship game board printable from PrintablePaper.net (Savetz Publishing) gives each player a sheet with two 10x10 grids, labelled A to J and 1 to 10: one to place your own fleet and one to record your shots at the opponent. A key lists the five ships and their lengths, from the five-square aircraft carrier to the two-square patrol boat. A third page explains the rules.
+This Battleship game board printable from PrintablePaper.net (Savetz Publishing) gives each player a sheet with two 10x10 grids, lettered A to J and numbered 1 to 10: one for your own fleet, one to track your shots. A key lists the five ships, from the five-square aircraft carrier to the two-square patrol boat, and a third page has the rules.
 
-Battleship is the classic pencil-and-paper guessing game: hide your ships, call out coordinates, and sink the enemy fleet before yours goes down. See our [Battleship rules page](/rules/battleship/) for the full rules, strategy tips and variants such as salvo mode.
+Battleship is the classic pencil-and-paper guessing game: hide your ships, call coordinates and sink the enemy fleet first. Our [Battleship rules page](/rules/battleship/) covers the rules, strategy tips and the salvo variant.
 
 ## How to use it
 
-1. Print page 1 for one player and page 2 for the other; both are identical. Print extras for rematches.
-2. Each player draws their five ships on the "my board" grid, horizontally or vertically, hidden from the other player.
-3. Take turns calling a coordinate such as "E-7". Mark hits and misses on the "my opponent" grid; announce when a ship is sunk.
-4. The first player to sink all five enemy ships wins.
+1. Print page 1 for one player and page 2 for the other; print extras for rematches.
+2. Each player secretly draws five ships on "my board", horizontally or vertically.
+3. Take turns calling a square such as "E-7"; mark hits and misses on "my opponent".
+4. Sink all five enemy ships to win.
 
 ## What's in the PDF
 
-- Pages 1 and 2: player sheets with ocean and target grids and the fleet list.
+- Pages 1 and 2: player sheets with both grids and the fleet list.
 - Page 3: rules.
-- US Letter, 3 pages, black and white (prints fine on any printer). The download is on the PrintablePaper.net preview page.
+- US Letter, 3 pages, black and white.

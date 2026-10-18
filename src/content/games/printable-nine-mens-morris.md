@@ -30,18 +30,18 @@ seo_description: "Free Nine Men's Morris printable from PrintablePaper.net: the 
 <!-- hand-edited -->
 ## About this printable Nine Men's Morris board
 
-This Nine Men's Morris printable from PrintablePaper.net (Savetz Publishing) is the classic three-square board with 24 points, a set of nine black and nine white pieces to cut out, and the rules on the same sheet. It prints in black and white and is one of the cheapest board games you can put on a table.
+This Nine Men's Morris printable from PrintablePaper.net (Savetz Publishing) is the classic three-square board with 24 points, nine black and nine white pieces to cut out, and the rules, in black and white.
 
-Nine Men's Morris, also known as Mill or, in the United States, Cowboy Checkers, was scratched into Roman tiles and medieval cathedral cloisters. Players first place their nine pieces, then slide them along the lines, trying to form a mill of three in a row; every mill lets you remove an enemy piece. Reduce the other player to two pieces, or block every move, and you win. Our [Nine Men's Morris rules page](/rules/nine-mens-morris/) explains the placing, moving and flying phases in full, and PrintablePaper also offers the [three](/board-games/printable-three-mens-morris/), [six](/board-games/printable-six-mens-morris/) and [twelve](/board-games/printable-twelve-mens-morris/) men's variants.
+Nine Men's Morris, also called Mill or Cowboy Checkers, was scratched into Roman tiles and cathedral cloisters. Players place their pieces, then slide them along the lines to form mills of three in a row; each mill removes an enemy piece. Our [Nine Men's Morris rules page](/rules/nine-mens-morris/) explains every phase, and the same publisher offers [three](/board-games/printable-three-mens-morris/), [six](/board-games/printable-six-mens-morris/) and [twelve](/board-games/printable-twelve-mens-morris/) men's boards.
 
 ## How to use it
 
-1. Print both pages; use card stock for the pieces or substitute coins and buttons.
-2. Start with an empty board and take turns placing one piece on any free point.
-3. Once all pieces are placed, move one piece per turn to an adjacent point along a line. A player down to three pieces may fly to any free point.
-4. Each new mill removes an opponent's piece that is not in a mill. Two pieces left, or no legal move, loses.
+1. Cut out the pieces, or use coins and buttons.
+2. Take turns placing one piece on any empty point.
+3. Then slide one piece per turn to an adjacent point; with three pieces left you may fly anywhere.
+4. Each new mill removes an opponent's piece. Two pieces left, or no legal move, loses.
 
 ## What's in the PDF
 
-- Page 1: the board. Page 2: pieces and rules.
-- US Letter, 2 pages, black and white. The download is on the PrintablePaper.net preview page.
+- Page 1: board. Page 2: pieces and rules.
+- US Letter, 2 pages, black and white.

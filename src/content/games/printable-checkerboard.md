@@ -30,17 +30,17 @@ seo_description: "Free checkers board printable from PrintablePaper.net: a one-p
 <!-- hand-edited -->
 ## About this printable checkerboard
 
-This checkers board printable from PrintablePaper.net (Savetz Publishing) is exactly what it says: one Letter page with a coloured 8x8 checkerboard and nothing else. It is the fastest way to replace a lost board, set up a quick game on holiday, or hand a class of children a board each.
+This checkers board printable from PrintablePaper.net (Savetz Publishing) is one Letter page with a coloured 8x8 checkerboard and nothing else. It is the fastest way to replace a lost board, set up a game on holiday or give a class a board each.
 
-The same 64 squares serve two classic games. Checkers (draughts outside North America) is played on the dark squares with twelve pieces per side; see our [checkers rules page](/rules/checkers/) for moves, jumps, kings and the most common house rules. The board also works for chess with your own pieces; our [chess rules page](/rules/chess/) explains every piece, check and checkmate, and PrintablePaper's separate [chess board with cut-out pieces](/board-games/printable-chess-board/) is the better pick if you own none.
+The same 64 squares serve two classic games. Checkers (draughts outside North America) is played on the dark squares with twelve pieces per side; see our [checkers rules page](/rules/checkers/). The board also works for chess with your own pieces, as explained on our [chess rules page](/rules/chess/); if you have no pieces, the [printable chess board](/board-games/printable-chess-board/) includes them.
 
 ## How to use it
 
-1. Print on card stock if you can; plain paper works for a one-off game.
-2. For checkers, place twelve pieces per side on the dark squares of the three rows nearest each player. Coins, buttons or bottle caps make fine pieces.
-3. For chess, add any set of pieces; the board has no coordinates, so set the queens on their own colour.
+1. Print on card stock if you can; plain paper is fine for a one-off game.
+2. For checkers, place twelve pieces per side on the dark squares of the three rows nearest each player. Coins, buttons or bottle caps make good pieces.
+3. For chess, add any set of pieces.
 
 ## What's in the PDF
 
-- One page: a colour 8x8 board, US Letter.
-- No pieces or rules. The download is on the PrintablePaper.net preview page.
+- One page, US Letter, colour: the 8x8 board.
+- No pieces or rules.
