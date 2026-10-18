@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/left-right-center.png"
 title: "Left Right Center rules: how to play LCR"
 game_name: "Left Right Center"
 aliases: ["LCR", "Left Center Right"]

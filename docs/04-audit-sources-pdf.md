@@ -141,3 +141,10 @@ Les éditeurs créditent designer + illustrateur. Good Little Games nomme le des
 
 ### Recommandation pour le modèle de données
 Pour chaque jeu, stocker : `licence` (CC-BY / CC-BY-NC / CC-BY-NC-SA / CC0 / domaine public / gratuit tous droits réservés / unclear), `hosting_mode` (mirror | link-only), `source_url`, `creator`, `publisher`, `contest_award`, `languages_available`, `print_specs` (pages, couleur / N&B, recto-verso, papier), `extra_components`, `app_required`, `ai_art`.
+
+## Mise à jour du 18 octobre 2026 (soir)
+
+- **Good Little Games est compromis.** Le domaine goodlittlegames.co.uk affiche désormais une page de casino (« Non Gamstop Casino ») et tous les liens de téléchargement renvoient vers l'accueil. Ne plus l'utiliser comme source ni y faire de lien.
+- **Asmodee Print & Play** exige un compte gratuit « My asmodee » pour télécharger. Les fiches pointent vers les pages officielles ; les métadonnées viennent de BoardGameGeek.
+- **Écartés faute de fichier vérifiable :** Rolling Realms (dossier Dropbox de 7 Go), Deep Space D-6 (site en veille), Maquis (site protégé par mot de passe), Sneaky Cards (PDF généré dans le navigateur, crédit incertain), Cathedraw (passage en caisse obligatoire).
+- **Retirés :** Alchemist's Apprentice (contrat d'édition), Rome in a Day et Emmet and the Spider's Web (liens Drive morts).

@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/pig.png"
 title: "Pig dice game rules: how to play pig"
 game_name: "Pig"
 aliases: ["Pig dice game"]

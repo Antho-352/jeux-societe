@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/chess.png"
 title: "Chess rules: how to play chess"
 game_name: "Chess"
 aliases: ["international chess", "Western chess"]

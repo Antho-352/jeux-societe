@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/bunco.png"
 title: "Bunco rules: how to play bunco"
 game_name: "Bunco"
 aliases: ["Bunko", "Bonko"]

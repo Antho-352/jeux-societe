@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/mancala.png"
 title: "Mancala rules: how to play mancala (Kalah)"
 game_name: "Mancala"
 aliases: ["Kalah", "Kalaha", "Kalahari"]

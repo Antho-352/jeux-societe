@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/nine-mens-morris.png"
 title: "Nine men's morris rules: how to play nine men's morris"
 game_name: "Nine men's morris"
 aliases: ["mill", "the mill game", "merels", "merrills", "cowboy checkers"]

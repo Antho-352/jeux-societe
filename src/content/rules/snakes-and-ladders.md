@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/snakes-and-ladders.png"
 title: "Snakes and ladders rules: how to play snakes and ladders"
 game_name: "Snakes and ladders"
 aliases: ["Chutes and Ladders", "Moksha Patam"]

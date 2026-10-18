@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/ludo.png"
 title: "Ludo rules: how to play ludo"
 game_name: "Ludo"
 aliases: ["Parcheesi", "Pachisi", "Mensch ärgere Dich nicht", "Sorry!"]

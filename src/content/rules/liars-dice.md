@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/liars-dice.png"
 title: "Liar's dice rules: how to play liar's dice"
 game_name: "Liar's dice"
 aliases: ["Dudo", "Bluff", "Doubting dice"]

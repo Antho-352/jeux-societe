@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/dominoes.png"
 title: "Dominoes rules: how to play block and draw dominoes"
 game_name: "Dominoes"
 aliases: ["block dominoes", "draw dominoes", "double-six dominoes", "bones"]

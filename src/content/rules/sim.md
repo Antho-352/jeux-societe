@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/sim.png"
 title: "Sim rules: how to play the pencil game Sim"
 game_name: "Sim"
 aliases: ["Sim pencil game", "game of Sim"]

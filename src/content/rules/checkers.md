@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/checkers.png"
 title: "Checkers rules: how to play checkers"
 game_name: "Checkers"
 aliases: ["draughts", "English draughts", "American checkers", "straight checkers"]

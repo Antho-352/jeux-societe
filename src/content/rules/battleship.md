@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/battleship.png"
 title: "Battleship rules: how to play battleship on paper"
 game_name: "Battleship"
 aliases: ["Battleships", "Sea Battle", "Salvo"]

@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/reversi.png"
 title: "Reversi rules: how to play reversi (Othello)"
 game_name: "Reversi"
 aliases: ["Othello"]

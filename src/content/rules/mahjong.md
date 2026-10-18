@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/mahjong.png"
 title: "Mahjong rules: how to play mahjong (Hong Kong style)"
 game_name: "Mahjong"
 aliases: ["mah-jongg", "mah jong", "Hong Kong mahjong", "majiang"]

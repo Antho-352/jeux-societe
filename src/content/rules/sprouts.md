@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/sprouts.png"
 title: "Sprouts rules: how to play the game of sprouts"
 game_name: "Sprouts"
 aliases: ["game of sprouts", "Brussels sprouts"]

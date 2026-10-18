@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/chinese-checkers.png"
 title: "Chinese checkers rules: how to play Chinese checkers"
 game_name: "Chinese checkers"
 aliases: ["Chinese chequers", "Sternhalma", "Stern-Halma", "tiaoqi"]

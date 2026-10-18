@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/go.png"
 title: "Go rules: how to play go on a 9×9 board"
 game_name: "Go"
 aliases: ["weiqi", "baduk", "igo"]

@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/yacht.png"
 title: "Yacht rules: how to play the yacht dice game"
 game_name: "Yacht"
 aliases: ["Yacht dice game", "Yot", "Cheerio"]

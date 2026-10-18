@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/hangman.png"
 title: "Hangman rules: how to play hangman"
 game_name: "Hangman"
 aliases: ["hangman word game"]

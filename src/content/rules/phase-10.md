@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/phase-10.png"
 title: "Phase 10 rules: how to play Phase 10"
 game_name: "Phase 10"
 aliases: ["Phase Ten"]

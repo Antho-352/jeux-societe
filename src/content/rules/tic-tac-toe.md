@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/tic-tac-toe.png"
 title: "Tic-tac-toe rules: how to play tic-tac-toe"
 game_name: "Tic-tac-toe"
 aliases: ["noughts and crosses", "Xs and Os", "ticktacktoe"]

@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/dots-and-boxes.png"
 title: "Dots and boxes rules: how to play dots and boxes"
 game_name: "Dots and boxes"
 aliases: ["boxes", "dots and dashes", "pigs in a pen", "la pipopipette"]

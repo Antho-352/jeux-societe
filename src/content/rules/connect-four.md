@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/connect-four.png"
 title: "Connect Four rules: how to play Connect 4"
 game_name: "Connect Four"
 aliases: ["Connect 4", "Four in a Row", "Captain's Mistress", "Plot Four"]

@@ -1,4 +1,5 @@
 ---
+cover: "/img/rules/farkle.png"
 title: "Farkle rules: how to play farkle"
 game_name: "Farkle"
 aliases: ["Farkel", "Ten Thousand", "Dix Mille", "Zilch", "Greed", "Hot Dice"]
