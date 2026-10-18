@@ -1,37 +1,47 @@
 ---
 title: "Bloc by Bloc: Uprising"
 type: "board"
-summary: "A cooperative and semi-cooperative strategy game of 21st-century uprisings: each player leads a faction (Workers, Students, Neighbors, Prisoners) fighting the police in a modular city, building barricades, occupying di."
+summary: "Bloc by Bloc: Uprising is a 1–4 player cooperative and semi-cooperative strategy game about revolutionary politics and street-level tactics."
 players_min: 1
 players_max: 4
 age_min: 14
 time_min: 60
-time_max: 180
 themes: ["insurrection", "protest-movements", "police", "city-uprising", "revolutionary-politics"]
-mechanics: ["cooperative-semi-cooperative", "area-control", "dice-rolling", "modular-board", "hidden-agendas", "action-points"]
+mechanics: ["cooperative-semi-cooperative", "area-control", "modular-board", "action-points"]
 languages: ["en"]
-components_included: ["24-page rulebook; A4 and Letter zips each containing README/assembly instructions, cards (19 p.), liberation cards (13 p.), faction cards (7 p.), district tiles (15 p.), occupation tokens, loot/condition tokens + police vans, panels (police morale / countdown)"]
-components_needed: ["10 wood cubes each in yellow, orange, purple, green + 30 white cubes (8 mm), 30 neutral wood sticks (barricades), 3 markers/pawns, 6 small D6 dice; optional 32 mm disc tokens and vehicle tokens; the fabric playing mat is replaced by printed panels"]
-pages: 175
-paper: "both"
+components_included: ["Official 24-page Uprising Rulebook", "Official 15-page A4 district-tile PDF"]
+components_needed: ["Printer", "scissors"]
 colour: "colour"
-creator: "outlandish-games"
 designers: ["Greg Loring-Albright", "T.L. Simons"]
-artists: []
 publisher: "Outlandish Games"
-year: 2022
-licence: "Bloc by Bloc by Outlandish Games is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Internati"
-licence_url: "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+licence: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"
+licence_url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
 hosting_mode: "mirror"
 source_url: "https://outlandishgames.com/blocbybloc/"
-download_url: "/pdf/bloc-by-bloc-uprising/bxb3-pnp-a4-districttiles.pdf"
-download_size_mb: 21.9
-status: "draft"
+download_url: "/pdf/bloc-by-bloc-uprising/bloc-by-bloc-uprising-rulebook.pdf"
+download_size_mb: 24.4
+status: "published"
 date_added: "2026-10-18"
+seo_title: "Bloc by Bloc: Uprising Print & Play Rules PDF"
+seo_description: "Read the official Bloc by Bloc: Uprising rulebook and print its A4 district tiles under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
 ---
-
+<!-- hand-edited -->
 ## About Bloc by Bloc: Uprising
 
-A cooperative and semi-cooperative strategy game of 21st-century uprisings: each player leads a faction (Workers, Students, Neighbors, Prisoners) fighting the police in a modular city, building barricades, occupying districts, looting and setting up mutual-aid networks before the military arrives. Third, definitive edition.
+Bloc by Bloc: Uprising is a cooperative and semi-cooperative strategy game by Greg Loring-Albright and T.L. Simons. Players lead the Workers, Students, Neighbors, or Prisoners through a city that changes from game to game, balancing shared resistance against their faction's own ambitions.
 
-<!-- notes from the catalogue: Site: Players 1-4, Time 1-2+ hours, Ages 14+; rulebook: 1 hour for 1-2 players, 2-3 hours for 3-4. Rulebook credits: 'Game Design: Greg Loring-Albright & T.L. Simons'; year 2022 inferred from the site's linked Space Biff review dated 2022-01-29 (site itself gives no release year for the 3rd edition). The two Drive rulebook copies (folder + direct link) are byte-near-identical. Zips extracted into  -->
+The official third-edition overview frames the game around revolutionary politics and street-level tactics. Players build barricades, confront police, occupy districts, establish mutual-aid networks, and try to liberate the city before the military arrives. Outlandish Games licenses Bloc by Bloc under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, so these official files can be mirrored with attribution and under the same terms.
+
+## How to play in one minute
+
+1. Set up the changing city, choose a faction, and place the police and shared tracks.
+2. Take turns using your faction's actions to move through districts, build barricades, and pursue liberation.
+3. Work together against police pressure while deciding when to advance your own faction's goals.
+4. Use the game's evolving city and narrative choices to adapt your plans.
+5. Liberate and defend enough of the city before the military arrives to achieve the game's victory conditions.
+
+## What's in the PDF
+
+- The official 24-page Uprising Rulebook, which is the primary download on this page.
+- The official 15-page A4 district-tile file already included here for printing the city tiles.
+- The publisher also links A4 and Letter print-and-play archive files; those archives exceed the site's 25 MiB deployment-file limit, so they are not mirrored. Use the publisher's Print & Play Files link for them.
