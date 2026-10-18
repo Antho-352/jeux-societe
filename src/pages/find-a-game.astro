@@ -1,21 +1,60 @@
 ---
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
-import { gameItem } from '../lib/listing';
-import { ageBand } from '../lib/taxonomy';
+import { gameItem, puzzleItem, ruleItem } from '../lib/listing';
+
 const games = (await getCollection('games')).filter((g) => g.data.status === 'published');
-const data = games.map((g) => {
-  const it = gameItem(g);
-  return { href: it.href, title: it.title, type: g.data.type, pills: it.pills, pmin: g.data.players_min, pmax: g.data.players_max, age: g.data.age_min ?? 0, band: ageBand(g.data.age_min), time: g.data.time_max ?? g.data.time_min ?? 30, mech: g.data.mechanics, themes: g.data.themes, colour: it.colour, summary: g.data.summary };
-});
+const puzzles = (await getCollection('puzzles')).filter((p) => p.data.status === 'published');
+const rules = (await getCollection('rules')).filter((r) => r.data.status === 'published');
+
+function needsFrom(text: string) {
+  const s = text.toLowerCase();
+  return {
+    dice: /\bdice\b|\bdie\b/.test(s),
+    tokens: /token|coin|counter|chip/.test(s),
+    colour: /colou?r printer/.test(s),
+  };
+}
+function ageNumber(band?: string, ageMin?: number) {
+  if (ageMin) return ageMin;
+  return { preschool: 4, kids: 7, tweens: 10, teens: 14, adults: 18 }[band ?? ''] ?? 0;
+}
+
+const data = [
+  ...games.map((g) => {
+    const it = gameItem(g);
+    const need = needsFrom(g.data.components_needed.join(' '));
+    if (g.data.colour === 'colour') need.colour = true;
+    return { kind: 'game', href: it.href, title: it.title, type: g.data.type, pills: it.pills, pmin: g.data.players_min, pmax: g.data.players_max, age: g.data.age_min ?? 0, time: g.data.time_max ?? g.data.time_min ?? 30, mech: g.data.mechanics, themes: g.data.themes, colour: it.colour, summary: g.data.summary, need };
+  }),
+  ...puzzles.map((p) => {
+    const it = puzzleItem(p);
+    return { kind: 'puzzle', href: it.href, title: it.title, type: 'puzzle', pills: it.pills, pmin: 1, pmax: 1, age: ageNumber(p.data.age_band, p.data.age_min), time: 15, mech: [], themes: p.data.themes, colour: it.colour, summary: p.data.summary, need: { dice: false, tokens: false, colour: p.data.colour === 'colour' } };
+  }),
+  ...rules.map((r) => {
+    const it = ruleItem(r);
+    const type = r.data.category === 'card' ? 'card' : r.data.category === 'board' ? 'board' : r.data.category;
+    return { kind: 'rule', href: it.href, title: it.title, type, pills: it.pills, pmin: r.data.players_min, pmax: r.data.players_max, age: r.data.age_min ?? 0, time: r.data.time_max ?? r.data.time_min ?? 30, mech: [], themes: [], colour: it.colour, summary: r.data.summary, need: needsFrom(r.data.equipment.join(' ')) };
+  }),
+];
 ---
-<Base title="Find a game: which print and play game should I print tonight?" description="Answer five quick questions (players, age, time, mood, what you have at home) and get the three free printable games that fit." path="/find-a-game/" active="find">
+<Base title="Find a game: which print and play game should I print tonight?" description="Answer a few questions (type, players, age, time, mood, what you have at home) and get three free printable games or puzzles that fit." path="/find-a-game/" active="find">
   <section class="wrap stack" style="--gap:20px; padding-block:24px 48px; max-width:860px">
     <h1>Find my game</h1>
-    <p class="lead">Five questions, sixty seconds, three games. No account.</p>
+    <p class="lead">Six questions, sixty seconds, three games. No account.</p>
     <form class="quiz panel stack" style="--gap:24px" data-quiz>
       <fieldset>
-        <legend>1. Who's playing?</legend>
+        <legend>1. What do you want to play?</legend>
+        <div class="row" style="--gap:10px">
+          <label><input type="radio" name="kind" value="any" checked /> No preference</label>
+          <label><input type="radio" name="kind" value="card" /> Card game</label>
+          <label><input type="radio" name="kind" value="board" /> Board game</label>
+          <label><input type="radio" name="kind" value="escape" /> Escape game</label>
+          <label><input type="radio" name="kind" value="puzzle" /> Puzzles</label>
+        </div>
+      </fieldset>
+      <fieldset>
+        <legend>2. Who's playing?</legend>
         <div class="row" style="--gap:10px">
           <label><input type="radio" name="who" value="solo" /> Just me</label>
           <label><input type="radio" name="who" value="2" checked /> Two of us</label>
@@ -24,7 +63,7 @@ const data = games.map((g) => {
         </div>
       </fieldset>
       <fieldset>
-        <legend>2. How old is the youngest player?</legend>
+        <legend>3. How old is the youngest player?</legend>
         <div class="row" style="--gap:10px">
           <label><input type="radio" name="age" value="4" /> 3–5</label>
           <label><input type="radio" name="age" value="7" /> 6–8</label>
@@ -34,8 +73,9 @@ const data = games.map((g) => {
         </div>
       </fieldset>
       <fieldset>
-        <legend>3. How much time do you have?</legend>
+        <legend>4. How much time do you have?</legend>
         <div class="row" style="--gap:10px">
+          <label><input type="radio" name="time" value="any" /> No preference</label>
           <label><input type="radio" name="time" value="15" /> 15 minutes</label>
           <label><input type="radio" name="time" value="30" checked /> 30 minutes</label>
           <label><input type="radio" name="time" value="60" /> An hour</label>
@@ -43,8 +83,9 @@ const data = games.map((g) => {
         </div>
       </fieldset>
       <fieldset>
-        <legend>4. What mood?</legend>
+        <legend>5. What mood?</legend>
         <div class="row" style="--gap:10px">
+          <label><input type="radio" name="mood" value="any" /> No preference</label>
           <label><input type="radio" name="mood" value="coop" /> Work together</label>
           <label><input type="radio" name="mood" value="brain" checked /> Think hard</label>
           <label><input type="radio" name="mood" value="laugh" /> Laugh and bluff</label>
@@ -52,11 +93,12 @@ const data = games.map((g) => {
         </div>
       </fieldset>
       <fieldset>
-        <legend>5. What's in the drawer?</legend>
-        <div class="row" style="--gap:10px">
+        <legend>6. What's in the drawer?</legend>
+        <div class="row" style="--gap:10px" data-drawer>
           <label><input type="checkbox" name="have" value="dice" checked /> Dice</label>
           <label><input type="checkbox" name="have" value="tokens" checked /> Coins or tokens</label>
           <label><input type="checkbox" name="have" value="colour" /> Colour printer</label>
+          <label><input type="checkbox" name="have" value="nothing" /> Nothing</label>
         </div>
       </fieldset>
       <button type="submit" class="btn btn-primary btn-lg" style="align-self:flex-start">Show me my games</button>
@@ -69,21 +111,47 @@ const data = games.map((g) => {
     const form = document.querySelector<HTMLFormElement>('[data-quiz]')!;
     const out = document.getElementById('results')!;
     const MOOD: Record<string, string[]> = { coop: ['cooperative', 'co-op'], brain: ['strategy', 'deduction', 'puzzle', 'engine building', 'tile placement', 'dice placement'], laugh: ['bluffing', 'party', 'social deduction', 'take that', 'real time'], story: ['escape', 'mystery', 'narrative', 'adventure'] };
+    form.querySelector('[data-drawer]')!.addEventListener('change', (event) => {
+      const box = event.target as HTMLInputElement;
+      if (box.name !== 'have') return;
+      const boxes = [...form.querySelectorAll<HTMLInputElement>('input[name="have"]')];
+      if (box.value === 'nothing' && box.checked) boxes.forEach((b) => { if (b !== box) b.checked = false; });
+      if (box.value !== 'nothing' && box.checked) boxes.forEach((b) => { if (b.value === 'nothing') b.checked = false; });
+    });
     form.addEventListener('submit', (e) => {
       e.preventDefault();
       const f = new FormData(form);
-      const who = String(f.get('who')), age = Number(f.get('age')), time = Number(f.get('time')), mood = String(f.get('mood'));
-      const scored = games.map((g: any) => {
+      const kind = String(f.get('kind'));
+      const who = String(f.get('who'));
+      const age = Number(f.get('age'));
+      const timeRaw = String(f.get('time'));
+      const time = timeRaw === 'any' ? null : Number(timeRaw);
+      const mood = String(f.get('mood'));
+      const have = new Set(f.getAll('have').map(String));
+      const nothing = have.has('nothing');
+      const hasDice = !nothing && have.has('dice');
+      const hasTokens = !nothing && have.has('tokens');
+      const hasColour = !nothing && have.has('colour');
+      const pool = games.filter((g: any) => kind === 'any' || (kind === 'puzzle' ? g.kind === 'puzzle' : g.type === kind));
+      const scored = pool.map((g: any) => {
         let s = 0;
         const n = who === 'solo' ? 1 : who === '2' ? 2 : who === '3-5' ? 4 : 6;
         if (g.pmin <= n && g.pmax >= n) s += 40; else if (who === '6+' && g.pmax >= 5) s += 20;
         if (!g.age || g.age <= age) s += 25; else if (g.age <= age + 2) s += 8;
-        if (g.time <= time) s += 20; else if (g.time <= time * 1.5) s += 8;
-        const words = MOOD[mood] ?? [];
-        if (g.mech.some((m: string) => words.some((w) => m.includes(w))) || g.themes.some((t: string) => words.some((w) => t.includes(w))) || (mood === 'story' && g.type === 'escape') || (mood === 'laugh' && g.type === 'party')) s += 25;
+        if (time !== null) {
+          if (g.time <= time) s += 20; else if (g.time <= time * 1.5) s += 8;
+        }
+        if (mood !== 'any') {
+          const words = MOOD[mood] ?? [];
+          if (g.mech.some((m: string) => words.some((w) => m.includes(w))) || g.themes.some((t: string) => words.some((w) => t.includes(w))) || (mood === 'story' && g.type === 'escape') || (mood === 'laugh' && g.type === 'party') || (mood === 'brain' && g.kind === 'puzzle')) s += 25;
+        }
+        if (g.need.dice && !hasDice) s -= 25;
+        if (g.need.tokens && !hasTokens) s -= 25;
+        if (g.need.colour && !hasColour) s -= 25;
+        if (!g.need.dice && !g.need.tokens && !g.need.colour) s += 8;
         return { g, s };
       }).sort((a: any, b: any) => b.s - a.s).slice(0, 3);
-      out.innerHTML = '<h2>Your three games</h2>' + scored.map(({ g }: any) => `<a class="panel" href="${g.href}" style="text-decoration:none; display:flex; gap:18px; align-items:center"><span class="display" style="width:72px;height:72px;border-radius:18px;background:${g.colour};display:grid;place-items:center;font-size:36px" aria-hidden="true">${g.title[0]}</span><span><strong style="font-size:20px">${g.title}</strong><br><span style="color:var(--muted)">${g.summary}</span><br><span style="font-size:13px;font-weight:700">${g.pills.join(' · ')}</span></span></a>`).join('');
+      out.innerHTML = '<h2>Your three games</h2>' + (scored.length ? scored.map(({ g }: any) => `<a class="panel" href="${g.href}" style="text-decoration:none; display:flex; gap:18px; align-items:center"><span class="display" style="width:72px;height:72px;border-radius:18px;background:${g.colour};display:grid;place-items:center;font-size:36px" aria-hidden="true">${g.title[0]}</span><span><strong style="font-size:20px">${g.title}</strong><br><span style="color:var(--muted)">${g.summary}</span><br><span style="font-size:13px;font-weight:700">${g.pills.join(' · ')}</span></span></a>`).join('') : '<p>Nothing in the catalogue matches that combination yet.</p>');
       out.scrollIntoView({ behavior: 'smooth', block: 'start' });
     });
   </script>
