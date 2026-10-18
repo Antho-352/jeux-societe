@@ -1,31 +1,52 @@
 ---
 title: "Crisis Imperator"
 type: "card"
-summary: "Best Overall #12, Best Graphic Design and Best Complex Game."
+subtype: "solo"
+summary: "A solo state-of-siege card game: as Imperator of a decaying galactic empire you spend action points on tech, fleets and troops to hold four fronts and defeat one enemy within 12 rounds."
 players_min: 1
 players_max: 1
-themes: ["science-fiction", "galactic-empire", "rebellion", "fleets"]
-mechanics: ["state-of-siege", "area-defence", "dice", "cube-management"]
+age_min: 13
+time_min: 30
+time_max: 60
+themes: ["science-fiction", "space", "empire", "rebellion"]
+mechanics: ["action-points", "dice-rolling", "state-of-siege", "resource-management", "card-splaying"]
 languages: ["en"]
-components_included: ["71 cards (70 x 70 mm), 70 cubes and 4 specialty dice on 25 sheets (A4 and Letter), 64-card expansion (22 sheets), rulebook v1.2 (print 20 p., screen 11 p.), low-ink set"]
-components_needed: ["scissors, card stock; 8 mm cubes if not using the printed ones"]
-pages: 239
+components_included: ["Rulebook v1.2 (20-page print booklet, 11-page screen version, low-ink version)", "71 cards (70 x 70 mm), 70 printable cubes and 4 dice on 25 pages, A4 or Letter, colour or low ink", "64-card expansion on 22 pages"]
+components_needed: ["Scissors, card stock and glue for the dice nets", "Optional: 40 small cubes instead of the printed ones"]
+pages: 45
 paper: "both"
 colour: "both"
 designers: ["Brian Athey"]
-artists: ["AI generated (Disco Diffusion / Stable Diffusion, prompts by Brian Athey); icons by Freepik"]
-publisher: "(self-published / web published)"
+artists: []
 year: 2022
-licence: "'Crisis Imperator Copyright 2022 Brian Athey' (rulebook and WIP thread) + contest copyright rule"
-licence_url: "https://boardgamegeek.com/thread/2875719/2022-solitaire-print-and-play-contest (post 'COPYRIGHT (details)', article 40175530)"
+award: "BGG 2022 Solitaire PnP Contest, Best Overall #12"
+licence: "Free for personal use, © 2022 Brian Athey"
+licence_url: "https://boardgamegeek.com/thread/2875719/article/40175530"
 hosting_mode: "link"
-source_url: "https://boardgamegeek.com/thread/2908829"
-status: "draft"
+source_url: "https://boardgamegeek.com/boardgame/404325/crisis-imperator"
+status: "published"
 date_added: "2026-10-18"
+seo_title: "Crisis Imperator: free solo print and play sci-fi game"
+seo_description: "Crisis Imperator is a free solo print and play sci-fi card game by Brian Athey: hold four fronts of a decaying galactic empire with fleets, troops and action points. Best Complex Game, BGG 2022."
 ---
-
+<!-- hand-edited -->
 ## About Crisis Imperator
 
-Best Overall #12, Best Graphic Design and Best Complex Game. A sci-fi state-of-siege game inspired by Defenders of the Realm: command fleets to stop alien invasions and rebel mutinies across a decaying empire while keeping the Senate from deposing you.
+Crisis Imperator is a solo card game by Brian Athey, set in a galactic empire rotting from the inside. Alien races attack, governors mutiny and the Grand Senate, unable to agree, has handed you dictatorial powers as Imperator. You have twelve rounds to crush one of the four enemies without losing the Senate's support, or you will be deposed.
 
-<!-- notes from the catalogue: Files updated to v1.2 on 2023-10-28. Art is AI generated (declared by the designer). No BGG game page id found. Files: Crisis Imperator - Cards + Dice + Cubes - 1_2 - A4.pdf (25 p., A4, 31.1 MB); Crisis Imperator - Cards + Dice + Cubes - 1_2 - Letter.pdf (25 p., Letter, 31.1 MB); Crisis Imperator - Expansion Cards - 1_2 - A4.pdf (22 p., A4, 18.3 MB); Crisis Imperator - Expansion Cards - 1_2 - Lett -->
+The game won Best Complex Game, Best Graphic Design, Best Sci-Fi Game and Best Game Designed in the Contest Timeframe at the BoardGameGeek 2022 Solitaire Print and Play Contest, and placed 12th overall. It is the heaviest game in this batch, inspired by state-of-siege designs such as Defenders of the Realm, and it needs a long evening and a fair amount of cutting. The card art was produced with AI image tools, as the designer states in the thread. The files were updated to v1.2 in October 2023 and are now also hosted on the game's BGG page.
+
+## How to play in one minute
+
+1. Set up the Empire card with its tech and build cubes, two enemy theatres on each side, the Starship Fleet and Invasion Legion cards and five Imperator decks of 12 cards.
+2. Each round, take the top card of every Imperator deck, activate one for its political effect and keep the other four for battle.
+3. Spend action points on tech (improve a force to the next Mark or develop a new one) and build (add unit cubes to your forces).
+4. Fight in each theatre: allocate ship strength, and troop strength for an invasion, then rotate the battle card to the level you reached and apply casualties, lost sectors or damage to the enemy's resilience.
+5. Win by reducing one enemy's resilience to zero within 12 rounds. Lose if your support hits zero or an enemy takes too many sectors.
+
+## What's in the PDF
+
+- Rulebook v1.2 as a 20-page A5 booklet for print or an 11-page screen version, plus a low-ink edition.
+- Core set: 71 cards, cube and dice nets on 25 pages (A4 and Letter layouts, colour and low ink).
+- Expansion cards (64 cards, 22 pages).
+- All files are on the designer's Google Drive via the BGG thread; low-quality versions of the main files are also on the BGG game page.

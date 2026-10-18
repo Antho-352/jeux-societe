@@ -6,7 +6,7 @@ category: "card"
 summary: "Crazy Eights is a quick shedding game where you match the top discard by suit or rank, eights are wild, and the first player to empty their hand wins the round."
 players_min: 2
 players_max: 8
-age_min: 5
+age_min: 4
 time_min: 10
 time_max: 20
 equipment: ["Standard 52-card deck (two decks for 6 or more players)"]

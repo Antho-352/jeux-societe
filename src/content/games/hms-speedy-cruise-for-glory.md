@@ -1,34 +1,51 @@
 ---
-title: "HMS Speedy - Cruise for Glory"
+title: "HMS Speedy: Cruise for Glory"
 type: "card"
-summary: "Best Overall #8."
+subtype: "solo"
+summary: "A solo Age of Sail card game: command the brig HMS Speedy through boons, misfortunes and missions, keeping ship and crew fit for the final duel with a privateer frigate."
 players_min: 1
 players_max: 1
 age_min: 13
 time_min: 30
 time_max: 30
-themes: ["age-of-sail", "royal-navy-1800-1801", "naval-adventure", "history"]
-mechanics: ["card-driven-missions", "custom-dice-as-resources", "push-your-luck"]
+themes: ["age-of-sail", "naval", "history", "royal-navy"]
+mechanics: ["card-melding", "card-splaying", "mission-cards", "push-your-luck"]
 languages: ["en"]
-components_included: ["31 cards (70 x 70 mm) with custom dice on 11 sheets (A4 and Letter, colour and low-ink), rulebook v1.1 (print 16 p., screen 9 p., low-ink)"]
-components_needed: ["scissors, card stock; dice assembly"]
-pages: 85
+components_included: ["Rulebook v1.1 (16-page A5 booklet for print, 9-page screen version, low-ink version)", "Ship card and 30 encounter cards (70 x 70 mm) on 11 pages, A4 or Letter, colour or low ink"]
+components_needed: ["Scissors and card stock"]
+pages: 27
 paper: "both"
 colour: "both"
 designers: ["Brian Athey"]
-artists: ["Brian Athey (graphic design; icons by Freepik, Smashicons, max.icons)"]
-publisher: "(self-published / web published)"
+artists: []
 year: 2022
-licence: "'HMS Speedy —Cruise for Glory— Copyright 2022 Brian Athey' (rulebook and WIP thread) + contest copyright rule"
-licence_url: "https://boardgamegeek.com/thread/2875719/2022-solitaire-print-and-play-contest (post 'COPYRIGHT (details)', article 40175530)"
+award: "BGG 2022 Solitaire PnP Contest, Best Overall #8"
+licence: "Free for personal use, © 2022 Brian Athey"
+licence_url: "https://boardgamegeek.com/thread/2875719/article/40175530"
 hosting_mode: "link"
 source_url: "https://boardgamegeek.com/thread/2898411"
-status: "draft"
+status: "published"
 date_added: "2026-10-18"
+seo_title: "HMS Speedy: free solo print and play Age of Sail card game"
+seo_description: "HMS Speedy, Cruise for Glory is a free solo print and play card game by Brian Athey about Thomas Cochrane's 1800-1801 cruise. 31 cards, 30 minutes, 8th overall at the BGG 2022 solo contest."
 ---
+<!-- hand-edited -->
+## About HMS Speedy: Cruise for Glory
 
-## About HMS Speedy - Cruise for Glory
+HMS Speedy: Cruise for Glory is a solo card game by Brian Athey that retells the 1800 to 1801 Mediterranean cruise of a 14-gun Royal Navy brig under Lieutenant Thomas Cochrane. You escort convoys, raid shipping, knock out shore batteries and train your crew, until the enemy sends a privateer frigate with seven times your broadside to stop you. Beat it and you make the captain's list.
 
-Best Overall #8. Relive the 1800-1801 cruise of the brig HMS Speedy: each turn draw a boon, misfortune or mission card with three versions and outcomes, manage crew and ship with dice that regulate what you can do, and finally defeat the privateer frigate.
+The game placed 8th overall at the BoardGameGeek 2022 Solitaire Print and Play Contest and second for Best Rule Book. It is a melding and splaying game: every card you resolve is turned so that its result edge lines up with the ship card, and the row of overlapping cards is your running record of manpower, provisions, seaworthiness, speed, morale, gunnery, sailing and leadership. The rulebook is short, illustrated and sprinkled with Cochrane's real exploits.
 
-<!-- notes from the catalogue: Explicit copyright notice by the designer; Best Rule Book #2. No BGG game page id found. Files: HMS Speedy Cards 1_1 A4 LowInk.pdf (11 p., A4, 6.7 MB); HMS Speedy Cards 1_1 A4.pdf (11 p., A4, 16.3 MB); HMS Speedy Cards 1_1 Letter LowInk.pdf (11 p., Letter, 6.7 MB); HMS Speedy Cards 1_1 Letter.pdf (11 p., Letter, 16.3 MB); HMS Speedy Rules 1_1 For Print.pdf (16 p., custom 148x210 mm, 19.6 MB); HMS  -->
+## How to play in one minute
+
+1. Place the ship card, shuffle the difficulty-0 encounter cards and deal three in a row next to the deck.
+2. Each turn choose one encounter card and use it one of three ways: a boon (if its blue markers match a neighbour), a mission (if an arrow on a neighbour points to one of its flags) or, failing both, a knock, which is always a misfortune.
+3. For a mission, flip the card, compare its requirements with your current traits, and count every shortfall; discard other cards from the row to buy traits and lower the result.
+4. Rotate the card to the result you got and add it to the ship row; when leadership reaches 1 and later 4, shuffle in the harder encounter decks.
+5. Win by scoring the best result on a difficulty-4 card. Lose if a ship trait drops to zero, a result says so, or the deck runs dry.
+
+## What's in the PDF
+
+- Rulebook v1.1 (A5): 16-page print booklet, 9-page screen version and a low-ink edition.
+- 31 cards on 11 pages, in A4 and Letter layouts, full colour or low ink; cards are square, 70 x 70 mm.
+- A playingcards.io file for online play. Everything is on the designer's Google Drive via the BGG thread.

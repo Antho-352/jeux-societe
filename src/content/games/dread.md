@@ -1,34 +1,51 @@
 ---
 title: "Dread"
 type: "card"
-summary: "Best Overall #10, Best Horror game and Best Explore & Experience game."
+subtype: "solo"
+summary: "A solo monster-hunter card game: move across map cards, play overlapping action cards to attack ghouls and vampires, and reach your objectives before you are overwhelmed. Ten minutes a mission."
 players_min: 1
 players_max: 1
 age_min: 12
 time_min: 10
 time_max: 10
-themes: ["monster-hunter", "horror", "vampires"]
-mechanics: ["grid-movement", "action-selection", "enemy-spawning", "mission-scenarios"]
+themes: ["horror", "vampires", "monster-hunter", "gothic"]
+mechanics: ["grid-movement", "action-selection", "enemy-spawning", "scenario-missions", "campaign"]
 languages: ["en"]
-components_included: ["9-page rulebook v1.02, all cards in colour (16 p. double-sided) and low ink (8 p. single-sided): maps, spawn deck, action deck"]
-components_needed: ["scissors; tokens optional ('fancy tokens not required')"]
-pages: 33
+components_included: ["Rulebook v1.02 (9 pages) with a training exercise and three campaigns", "72 cards: 24 action cards, 24 spawn cards, 12 map cards and boss cards, in colour (16 pages, double-sided) or low ink (8 pages)"]
+components_needed: ["1 pawn, 3 flat tokens, about 10 tokens for ghouls and 5 for vampires, 3 dice", "Scissors and card stock"]
+pages: 25
 paper: "letter"
 colour: "both"
 designers: ["Michael Erceg"]
 artists: ["Vera Danilina"]
-publisher: "(self-published / web published)"
 year: 2022
-licence: "Contest rule (thread post 'COPYRIGHT (details)'): \"At all times all the rights to your game stay with you. [...] anyone "
-licence_url: "https://boardgamegeek.com/thread/2875719/2022-solitaire-print-and-play-contest (post 'COPYRIGHT (details)', article 40175530)"
+award: "BGG 2022 Solitaire PnP Contest, Best Overall #10"
+licence: "Free for personal use, © Michael Erceg"
+licence_url: "https://boardgamegeek.com/thread/2875719/article/40175530"
 hosting_mode: "link"
 source_url: "https://boardgamegeek.com/thread/2876121"
-status: "draft"
+status: "published"
 date_added: "2026-10-18"
+seo_title: "Dread: free solo print and play monster-hunter card game"
+seo_description: "Dread is a free solo print and play card game by Michael Erceg: hunt ghouls and vampires across map cards in 10-minute missions. Best Horror Game at the BGG 2022 Solitaire PnP Contest."
 ---
-
+<!-- hand-edited -->
 ## About Dread
 
-Best Overall #10, Best Horror game and Best Explore & Experience game. You are the last Hunter: move across map cards toward objectives, dispatch spawning enemies and bosses with a limited action system, about 10 minutes per mission.
+Dread is a solo card game by Michael Erceg, with art by Vera Danilina. You are the last hunter of your kind, alone in a graveyard at night, and the ghouls and vampires keep coming out of the ground. Each mission takes about ten minutes: cross the map, reach your objectives, and never let an enemy step onto your square.
 
-<!-- notes from the catalogue: Rulebook: 'Dread By Michael Erceg V1.02 ~ 2022.09.23'. No BGG game page id found (designer's other game Cave-In is on BGG). Files: Dread - All Cards - Color - 2 sided.pdf (16 p., Letter, 25.0 MB); Dread - All Cards - Low Ink - 1 sided.pdf (8 p., Letter, 3.5 MB); Dread - Rulebook 2022-09-23.pdf (9 p., Letter, 1.1 MB) -->
+It won Best Horror Game and Best Explore and Experience Game at the BoardGameGeek 2022 Solitaire Print and Play Contest, and finished 10th overall. The clever part is the action deck: you play one or two cards a turn, and when you overlap two, the middle action is hidden, so you get three actions out of two cards. The deck never reshuffles during a mission, so it is also your energy and ammunition. A training exercise teaches the rules, then three campaigns (graveyard, crypts and mansion) add bosses such as the Vampire Sisters and the Ghoul Queen.
+
+## How to play in one minute
+
+1. Shuffle six map cards into a 3x2 grid, shuffle the action deck and draw five cards face up, and roll a die for your starting waypoint.
+2. Spawn: turn over three spawn cards; each puts a ghoul or vampire on the matching map card's spawn point.
+3. Act: play zero, one or two action cards and resolve the visible actions in order, moving one square per move icon or attacking with sword, stake, revolver or crossbow. Ghouls die to one hit, vampires need two.
+4. Move enemies: ghouls lurch two squares towards you, vampires move two squares in any direction. If one enters your square, you are overwhelmed.
+5. Reach both objective tokens to win the mission; a boss mission ends when the boss is dead and the map cleared.
+
+## What's in the PDF
+
+- Rulebook (9 pages, Letter) with basic rules, figures and campaign rules.
+- All cards in colour on 16 double-sided Letter pages, or a low-ink single-sided set on 8 pages: action deck, spawn deck, graveyard and crypt map cards, boss cards.
+- You add a pawn, a few tokens and three dice. The files are on the designer's Google Drive, linked from the BGG thread.

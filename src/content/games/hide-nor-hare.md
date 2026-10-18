@@ -1,34 +1,51 @@
 ---
 title: "Hide nor Hare"
 type: "roll-and-write"
-summary: "Best Overall #18 and Best PnP winner."
+subtype: "solo"
+summary: "A solo dice puzzle of hide and seek in the park: roll three dice and place a friend, a tree and a pigeon so that every row and column works out, like a sudoku with line of sight."
 players_min: 1
 players_max: 1
 age_min: 10
 time_min: 15
 time_max: 30
-themes: ["animals", "hide-and-seek", "park"]
+themes: ["animals", "hide-and-seek", "park", "logic-puzzle"]
 mechanics: ["dice-rolling", "tile-placement", "logic-puzzle", "roll-and-write"]
 languages: ["en"]
-components_included: ["4-page rules, full-colour board + 40 tiles (2 A4 p.), low-ink roll-and-write sheet"]
-components_needed: ["3 six-sided dice, pencil for the roll-and-write version"]
+components_included: ["Rules (4 pages, A4) with six bonus Rabbits logic puzzles", "Board and 40 tiles in full colour (2 pages)", "Low-ink roll-and-write sheet (1 page)"]
+components_needed: ["3 six-sided dice", "10 star markers (coins or cubes) for the tile version, or a pencil for the roll-and-write sheet", "Scissors"]
 pages: 7
 paper: "a4"
 colour: "both"
 designers: ["D. Teuber"]
-artists: ["D. Teuber (graphic design)"]
-publisher: "(Self-Published)"
+artists: []
 year: 2022
-licence: "'Hide nor Hare © D. Teuber 2022' (rules) + contest copyright rule"
-licence_url: "https://boardgamegeek.com/thread/2875719/2022-solitaire-print-and-play-contest (post 'COPYRIGHT (details)', article 40175530)"
+award: "BGG 2022 Solitaire PnP Contest, Best PnP #1 and Best Overall #18"
+licence: "Free for personal use, © D. Teuber 2022"
+licence_url: "https://boardgamegeek.com/thread/2875719/article/40175530"
 hosting_mode: "link"
-source_url: "https://boardgamegeek.com/thread/2894105"
-status: "draft"
+source_url: "https://boardgamegeek.com/boardgame/372844/hide-nor-hare"
+status: "published"
 date_added: "2026-10-18"
+seo_title: "Hide nor Hare: free solo print and play dice puzzle game"
+seo_description: "Hide nor Hare is a free solo print and play dice puzzle by D. Teuber: place friends, trees and pigeons on a 6x6 park grid so every line adds up. Winner of Best PnP at the BGG 2022 solo contest."
 ---
-
+<!-- hand-edited -->
 ## About Hide nor Hare
 
-Best Overall #18 and Best PnP winner. Roll three dice each turn and place a Friend, a Tree and a Pigeon on a 6x6 park grid; each row and column must end with exactly one Tree and one Friend while Pigeons must correctly count visible Friends.
+Hide nor Hare is a solo dice puzzle by D. Teuber. Hattie Hare has gathered her friends in the park for hide and seek, and you place them, the trees they hide behind and the pigeons that count what they can see, on a 6x6 grid. The game is based on Rabbits, a logic puzzle by Andrea Sabbatini, and the rules reproduce six of his puzzles as an appendix.
 
-<!-- notes from the catalogue: BGG page 372844: 1 player, 15-30 min, age 10+. Explicit copyright notice. Files: Hide nor Hare Low-Ink Roll & Write V220831.pdf (1 p., A4, 0.1 MB); Hide nor Hare PnP V220831.pdf (2 p., A4, 0.4 MB); Hide nor Hare Rules V220831.pdf (4 p., A4, 0.5 MB) -->
+It won Best PnP at the BoardGameGeek 2022 Solitaire Print and Play Contest and came second among dice-based games. The whole game is seven A4 pages, and the one-page low-ink sheet turns it into a roll and write you can play with a pencil. It is a good pick for sudoku fans who want dice to push them around a little: every row and column must end with exactly one friend and one tree, and each pigeon must show the number of friends it can see in a straight line, with trees blocking the view.
+
+## How to play in one minute
+
+1. Sort the 40 tiles by type next to the board and keep your three flower tiles.
+2. Each turn roll three dice; each die stands for a row or column of its number.
+3. Place one friend, one tree and one pigeon (a 0, 1 or 2) in the row or column of a die each, never doubling a friend, tree or pigeon type in a line. If you cannot place a friend or tree, place a pigeon; if you cannot place a pigeon, cover a pigeon with a stone.
+4. Spend a flower to reroll, clear the stones from a line, or move a tile.
+5. You win when 6 friends, 6 trees and 10 pigeons are placed and every pigeon's count is right. Score 3 points per pigeon and 1 per unused flower; 37 or more is the top tier.
+
+## What's in the PDF
+
+- Rules (4 pages, A4, colour) with a worked example, difficulty settings and the bonus Rabbits puzzles.
+- Board and 40 tiles on two A4 pages in full colour.
+- A one-page low-ink roll-and-write sheet. The files are on the designer's Google Drive via the BGG thread, and on the game's BGG page for logged-in users.
