@@ -5,9 +5,9 @@ import Base from '../layouts/Base.astro';
 import Breadcrumb from './Breadcrumb.astro';
 import Listing from './Listing.astro';
 import Faq from './Faq.astro';
-import { gameFacets, gameItem, puzzleFacets, puzzleItem, ruleFacets, ruleItem } from '../lib/listing';
+import { hubListing, THIN_THRESHOLD } from '../lib/hubs';
 import { breadcrumbLd, collectionLd, faqLd } from '../lib/seo';
-import { gameMatches, hubUrl, puzzleMatches, ruleMatches, titleCase } from '../lib/taxonomy';
+import { hubUrl, titleCase } from '../lib/taxonomy';
 import type { Hub } from '../lib/taxonomy';
 
 interface Props { hub: Hub }
@@ -15,27 +15,8 @@ const { hub } = Astro.props;
 const d = hub.data;
 const { Content } = await render(hub);
 const hubs = await getCollection('hubs');
-const creators = await getCollection('creators');
-const byId = new Map(creators.map((c) => [c.id, c.data.name]));
 
-let items;
-let facets;
-let noun = 'games';
-if (d.collection === 'games') {
-  const games = (await getCollection('games')).filter((g) => gameMatches(g, d.filter));
-  items = games.map((g) => gameItem(g, g.data.creator ? byId.get(g.data.creator.id) : undefined));
-  facets = gameFacets(items);
-} else if (d.collection === 'puzzles') {
-  const puzzles = (await getCollection('puzzles')).filter((p) => puzzleMatches(p, d.filter));
-  items = puzzles.map(puzzleItem);
-  facets = puzzleFacets(items);
-  noun = 'puzzles';
-} else {
-  const rules = (await getCollection('rules')).filter((r) => ruleMatches(r, d.filter));
-  items = rules.map(ruleItem);
-  facets = ruleFacets(items);
-  noun = 'games';
-}
+const { items, facets, noun } = await hubListing(hub);
 items.sort((a, b) => b.sortDate - a.sortDate);
 
 // Breadcrumb from path segments that have a hub
@@ -51,7 +32,7 @@ const children = hubs.filter((h) => h.data.path.startsWith(d.path + '/') && h.da
 const parentPath = segs.slice(0, -1).join('/');
 const siblings = segs.length > 1 ? hubs.filter((h) => h.data.path !== d.path && h.data.path.startsWith(parentPath + '/') && h.data.path.split('/').length === segs.length) : [];
 const parent = segs.length > 1 ? hubs.find((h) => h.data.path === parentPath) : undefined;
-const thin = items.length < Math.max(d.min_items, 4);
+const thin = items.length < Math.max(d.min_items, THIN_THRESHOLD);
 const active = segs[0] === 'puzzles' || segs[0] === 'bingo' ? 'puzzles' : segs[0];
 const jsonLd = [breadcrumbLd(crumbs), collectionLd(d.h1, hubUrl(d.path), items.map((i) => ({ name: i.title, url: i.href })))];
 if (d.faq.length) jsonLd.push(faqLd(d.faq));

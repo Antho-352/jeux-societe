@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /*?
 Disallow: /search/
-Sitemap: https://printandplaygame.com/sitemap-index.xml
+Sitemap: https://printandplaygame.com/sitemap.xml

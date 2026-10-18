@@ -5,6 +5,7 @@ import Breadcrumb from './Breadcrumb.astro';
 import ItemCard from './ItemCard.astro';
 import { puzzleItem } from '../lib/listing';
 import { breadcrumbLd, SITE_URL } from '../lib/seo';
+import { hubPathSet } from '../lib/hubs';
 import { AGE_BAND_LABEL, ageBand, coverColour, hubUrl, PUZZLE_LABEL, PUZZLE_SILO, puzzleUrl, titleCase } from '../lib/taxonomy';
 import type { Puzzle } from '../lib/taxonomy';
 
@@ -16,6 +17,7 @@ const silo = PUZZLE_SILO[d.type];
 const hubs = await getCollection('hubs');
 const siloHub = hubs.find((h) => h.data.path === silo);
 const facetHub = d.difficulty ? hubs.find((h) => h.data.path === `${silo}/${d.difficulty}`) : undefined;
+const hubPaths = await hubPathSet();
 const path = puzzleUrl(puzzle);
 const band = d.age_band ?? ageBand(d.age_min);
 const colour = coverColour(puzzle.id);
@@ -71,8 +73,8 @@ const ld = {
     <article class="prose">
       <Content />
       <div class="row" style="margin-top:20px">
-        {d.themes.map((t) => <a class="tag" href={`/themes/${t}/`}>{titleCase(t)}</a>)}
-        {d.occasions.map((o) => <a class="tag" href={`/occasions/${o}/`}>{titleCase(o)}</a>)}
+        {d.themes.map((t) => hubPaths.has(`themes/${t}`) ? <a class="tag" href={`/themes/${t}/`}>{titleCase(t)}</a> : <span class="tag">{titleCase(t)}</span>)}
+        {d.occasions.map((o) => hubPaths.has(`occasions/${o}`) ? <a class="tag" href={`/occasions/${o}/`}>{titleCase(o)}</a> : <span class="tag">{titleCase(o)}</span>)}
       </div>
     </article>
     <aside>
