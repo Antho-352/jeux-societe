@@ -1,4 +1,5 @@
 ---
+cover: "/img/games/printable-mancala-board.png"
 title: "Printable Mancala Board"
 type: "board"
 summary: "A printable Mancala board, the traditional sowing count-and-capture game, with coloured basins and green playing tiles."

@@ -1,4 +1,5 @@
 ---
+cover: "/img/games/printable-battleship-board.png"
 title: "Printable Battleship Board"
 type: "board"
 subtype: "template"

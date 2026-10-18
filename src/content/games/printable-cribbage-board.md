@@ -1,4 +1,5 @@
 ---
+cover: "/img/games/printable-cribbage-board.png"
 title: "Printable Cribbage Board"
 type: "board"
 subtype: "template"
