@@ -34,18 +34,18 @@ seo_description: "HMS Speedy, Cruise for Glory is a free solo print and play car
 
 HMS Speedy: Cruise for Glory is a solo card game by Brian Athey that retells the 1800 to 1801 Mediterranean cruise of a 14-gun Royal Navy brig under Lieutenant Thomas Cochrane. You escort convoys, raid shipping, knock out shore batteries and train your crew, until the enemy sends a privateer frigate with seven times your broadside to stop you. Beat it and you make the captain's list.
 
-The game placed 8th overall at the BoardGameGeek 2022 Solitaire Print and Play Contest and second for Best Rule Book. It is a melding and splaying game: every card you resolve is turned so that its result edge lines up with the ship card, and the row of overlapping cards is your running record of manpower, provisions, seaworthiness, speed, morale, gunnery, sailing and leadership. The rulebook is short, illustrated and sprinkled with Cochrane's real exploits.
+The game placed 8th overall at the BoardGameGeek 2022 Solitaire Print and Play Contest and second for Best Rule Book. It is a melding and splaying game: every card you resolve is turned so that its result edge lines up with the ship card, and the row of overlapping cards is your running record of manpower, provisions, seaworthiness, speed, morale, gunnery, sailing and leadership.
 
 ## How to play in one minute
 
-1. Place the ship card, shuffle the difficulty-0 encounter cards and deal three in a row next to the deck.
+1. Place the ship card, shuffle the difficulty-0 encounter cards and deal three in a row.
 2. Each turn choose one encounter card and use it one of three ways: a boon (if its blue markers match a neighbour), a mission (if an arrow on a neighbour points to one of its flags) or, failing both, a knock, which is always a misfortune.
-3. For a mission, flip the card, compare its requirements with your current traits, and count every shortfall; discard other cards from the row to buy traits and lower the result.
-4. Rotate the card to the result you got and add it to the ship row; when leadership reaches 1 and later 4, shuffle in the harder encounter decks.
+3. For a mission, flip the card, count every trait that falls short of its requirements, and discard other row cards to buy traits and lower the result.
+4. Rotate the card to the result you got and add it to the ship row; when leadership reaches 1 and later 4, shuffle in the harder encounter cards.
 5. Win by scoring the best result on a difficulty-4 card. Lose if a ship trait drops to zero, a result says so, or the deck runs dry.
 
 ## What's in the PDF
 
 - Rulebook v1.1 (A5): 16-page print booklet, 9-page screen version and a low-ink edition.
-- 31 cards on 11 pages, in A4 and Letter layouts, full colour or low ink; cards are square, 70 x 70 mm.
-- A playingcards.io file for online play. Everything is on the designer's Google Drive via the BGG thread.
+- 31 square cards (70 x 70 mm) on 11 pages, in A4 and Letter layouts, full colour or low ink.
+- Everything is on the designer's Google Drive via the BGG thread.

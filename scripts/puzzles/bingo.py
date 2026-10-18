@@ -205,8 +205,9 @@ def cards_page(c, title, cards, page_no, total, header, header_letters, start_in
     top = page_header(c, title, f"Cards {start_index + 1} and {start_index + 2} · each card is unique", page_no, total)
     x0, y0, w, h = free_area(top)
     card_w = 400
-    gap = 22
-    cell_h = min(54, (h - gap - 2 * 54 * 0.62) / 10)
+    gap = 20
+    # two cards: each is a 12 pt label + header (0.62 cell) + 5 rows
+    cell_h = min(54, (h - gap - 2 * 12) / (2 * 5.62))
     x = x0 + (w - card_w) / 2
     y = y0 + h
     for i, grid in enumerate(cards):

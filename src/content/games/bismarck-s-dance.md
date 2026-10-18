@@ -31,21 +31,20 @@ seo_description: "Bismarck's Dance is a free solo print and play card game about
 <!-- hand-edited -->
 ## About Bismarck's Dance
 
-Bismarck's Dance is a historical solitaire card game by Nils (7quark on BoardGameGeek). You play Otto von Bismarck as chancellor of the newly founded German Empire, from 1870 to 1890. Your job is to keep France isolated, pull Britain, Russia, Austria-Hungary and Italy into the German sphere and hold the support of the parties in parliament, while crises in the Balkans, Africa and Asia keep erupting from the event row.
+Bismarck's Dance is a historical solitaire card game by Nils (7quark on BoardGameGeek). You play Otto von Bismarck as chancellor of the new German Empire, 1870 to 1890: keep France isolated, pull Britain, Russia, Austria-Hungary and Italy into the German sphere and keep parliament on your side, while crises in the Balkans, Africa and Asia erupt from the event row.
 
-It finished second overall in the BoardGameGeek 2022 Solitaire Print and Play Contest and first in the card-based and historical categories. It suits players who like tight, card-driven solo games with a real sense of history: the rulebook ends with four pages of historical notes, and the designer has kept updating the files since the contest (v1.2 in 2026).
+It finished second overall in the BoardGameGeek 2022 Solitaire Print and Play Contest and first in the card-based and historical categories. The rulebook ends with four pages of historical notes, and the files have been updated since the contest (v1.2, 2026).
 
 ## How to play in one minute
 
 1. Lay out the board, place the five power flags on the diplomacy track, draw five event cards into the event row and keep seven influence discs in your pool.
 2. Each turn, split your influence between the event, diplomacy and politics pools.
-3. Roll two dice. Doubles trigger a balance-of-power event; then the smaller die picks which event card fires. A crisis forces you to side with one power and lose ground with every other power involved.
+3. Roll two dice: doubles trigger a balance-of-power event, then the smaller die picks which event card fires. A crisis makes you side with one power and lose ground with the others involved.
 4. Spend influence to cancel upcoming cards, move a power one step towards Germany, or win back a party's support.
 5. You win when all five flags sit in the German sphere and the whole parliament backs you. You lose on a failed crisis check, a lost majority, an assassination, or when the 1880s deck runs out.
 
 ## What's in the PDF
 
-- Rulebook (10 pages, A4, colour) with a worked setup example and historical notes.
-- Deck and tokens: 62 cards, 5 flags and the A4 board on 8 pages, plus 7 pages of optional card backs for duplex printing.
-- One-page player aid with the full turn structure.
-- You add 7 discs and two dice. The files sit on the designer's GitHub and are linked from the BGG thread.
+- Rulebook (10 pages, A4, colour) with a setup example and historical notes.
+- 62 cards, 5 flags and the A4 board on 8 pages, plus 7 pages of optional card backs.
+- One-page player aid. You add 7 discs and two dice; files are on the designer's GitHub, linked from the BGG thread.

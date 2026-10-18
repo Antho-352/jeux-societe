@@ -32,13 +32,13 @@ seo_description: "Crisis Imperator is a free solo print and play sci-fi card gam
 <!-- hand-edited -->
 ## About Crisis Imperator
 
-Crisis Imperator is a solo card game by Brian Athey, set in a galactic empire rotting from the inside. Alien races attack, governors mutiny and the Grand Senate, unable to agree, has handed you dictatorial powers as Imperator. You have twelve rounds to crush one of the four enemies without losing the Senate's support, or you will be deposed.
+Crisis Imperator is a solo card game by Brian Athey set in a galactic empire rotting from the inside. Alien races attack, governors mutiny, and the Grand Senate has handed you dictatorial powers as Imperator. You have twelve rounds to crush one of the four enemies without losing the Senate's support, or you will be deposed.
 
-The game won Best Complex Game, Best Graphic Design, Best Sci-Fi Game and Best Game Designed in the Contest Timeframe at the BoardGameGeek 2022 Solitaire Print and Play Contest, and placed 12th overall. It is the heaviest game in this batch, inspired by state-of-siege designs such as Defenders of the Realm, and it needs a long evening and a fair amount of cutting. The card art was produced with AI image tools, as the designer states in the thread. The files were updated to v1.2 in October 2023 and are now also hosted on the game's BGG page.
+The game won Best Complex Game, Best Graphic Design, Best Sci-Fi Game and Best Game Designed in the Contest Timeframe at the BoardGameGeek 2022 Solitaire Print and Play Contest, and placed 12th overall. It is the heaviest game in this batch, inspired by state-of-siege designs such as Defenders of the Realm. The card art was made with AI image tools, as the designer states in the thread. The files were updated to v1.2 in October 2023.
 
 ## How to play in one minute
 
-1. Set up the Empire card with its tech and build cubes, two enemy theatres on each side, the Starship Fleet and Invasion Legion cards and five Imperator decks of 12 cards.
+1. Set up the Empire card, two enemy theatres on each side, your starting fleet and legion cards and five Imperator decks of 12 cards.
 2. Each round, take the top card of every Imperator deck, activate one for its political effect and keep the other four for battle.
 3. Spend action points on tech (improve a force to the next Mark or develop a new one) and build (add unit cubes to your forces).
 4. Fight in each theatre: allocate ship strength, and troop strength for an invasion, then rotate the battle card to the level you reached and apply casualties, lost sectors or damage to the enemy's resilience.
@@ -47,6 +47,5 @@ The game won Best Complex Game, Best Graphic Design, Best Sci-Fi Game and Best G
 ## What's in the PDF
 
 - Rulebook v1.2 as a 20-page A5 booklet for print or an 11-page screen version, plus a low-ink edition.
-- Core set: 71 cards, cube and dice nets on 25 pages (A4 and Letter layouts, colour and low ink).
-- Expansion cards (64 cards, 22 pages).
-- All files are on the designer's Google Drive via the BGG thread; low-quality versions of the main files are also on the BGG game page.
+- Core set: 71 cards, cube and dice nets on 25 pages (A4 and Letter, colour and low ink); expansion cards on 22 pages.
+- Files are on the designer's Google Drive via the BGG thread, and on the BGG game page.

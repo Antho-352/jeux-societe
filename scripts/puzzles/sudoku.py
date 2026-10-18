@@ -195,7 +195,6 @@ def draw_grid(c, board: Board, grid, x, y_top, size, label=None, clues=None, bol
         c.drawString(x, y_top + 4, label)
     c.setStrokeColorRGB(*INK)
     for i in range(n + 1):
-        thick = (i % board.br == 0) if True else False
         c.setLineWidth(1.8 if i % board.br == 0 else 0.5)
         c.line(x, y_top - i * cell, x + size, y_top - i * cell)
         c.setLineWidth(1.8 if i % board.bc == 0 else 0.5)
@@ -221,7 +220,7 @@ def layout(count_per_page, box, n):
     elif count_per_page == 4:
         cols, rows = 2, 2
     elif count_per_page == 6:
-        cols, rows = 3, 2 if n == 4 else 3
+        cols, rows = (2, 3) if n == 4 else (3, 2)
     elif count_per_page == 9:
         cols, rows = 3, 3
     else:

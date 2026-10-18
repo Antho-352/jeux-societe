@@ -1,34 +1,51 @@
 ---
 title: "Purzon: The Travelling Merchant"
 type: "board"
-summary: "Best Overall #11. A hex-tile-laying solo game: lay path cards so buildings connect and goods can be placed and sold; special item cards let you play otherwise unplayable goods."
+subtype: "solo"
+summary: "A solo hex tile-laying game for ages 6 and up: lay road tiles ahead of Purzon the cat merchant, connect matching buildings and sell every cube of goods before the tiles run out."
 players_min: 1
 players_max: 1
 age_min: 6
 time_min: 10
 time_max: 15
-themes: ["fantasy", "medieval", "merchant", "exploration"]
-mechanics: ["tile-placement", "hexagon-grid", "modular-board", "pattern-building", "move-through-deck"]
+themes: ["fantasy", "medieval", "merchant", "cats"]
+mechanics: ["tile-placement", "hexagon-grid", "modular-board", "pattern-building"]
 languages: ["en"]
-components_included: ["24 hexagonal cards and 11 hexagonal tokens in several print formats (colour, low ink, home, mini, large 5-sheet sets), box, 3-page rules"]
-components_needed: ["30 cubes (10 red/blue/yellow), 1 pawn (STL provided), optional bag"]
-pages: 33
+components_included: ["Rules (3 pages)", "24 hexagonal map cards and 11 specialty-item tokens, in full colour or low ink (6 pages), a mini version (2 pages) and a box"]
+components_needed: ["30 cubes: 10 red, 10 yellow, 10 blue", "1 pawn (a 3D-print file is provided)", "Scissors"]
+pages: 9
 paper: "letter"
 colour: "both"
 designers: ["Lachlan Kadick"]
 artists: ["Lachlan Kadick"]
-publisher: "(Web published)"
 year: 2022
-licence: "Contest rule (thread post 'COPYRIGHT (details)'): \"At all times all the rights to your game stay with you. [...] anyone "
-licence_url: "https://boardgamegeek.com/thread/2875719/2022-solitaire-print-and-play-contest (post 'COPYRIGHT (details)', article 40175530)"
+award: "BGG 2022 Solitaire PnP Contest, Best Overall #11"
+licence: "Free for personal use, © Lachlan Kadick"
+licence_url: "https://boardgamegeek.com/thread/2875719/article/40175530"
 hosting_mode: "link"
-source_url: "https://boardgamegeek.com/thread/2884254"
-status: "draft"
+source_url: "https://boardgamegeek.com/boardgame/398700/purzon-the-travelling-merchant"
+status: "published"
 date_added: "2026-10-18"
+seo_title: "Purzon: free solo print and play hex tile game for ages 6+"
+seo_description: "Purzon: The Travelling Merchant is a free solo print and play tile-laying game by Lachlan Kadick for ages 6+. Lay hex roads, connect buildings and sell all your goods in 10 minutes."
 ---
-
+<!-- hand-edited -->
 ## About Purzon: The Travelling Merchant
 
-Best Overall #11. A hex-tile-laying solo game: lay path cards so buildings connect and goods can be placed and sold; special item cards let you play otherwise unplayable goods. Win by selling all goods before time runs out.
+Purzon is a cat merchant with a cart full of food, knowledge and technology goods, and a solo tile-laying game by Lachlan Kadick. You lay hexagonal road tiles in front of Purzon as he travels the realm, and wherever two buildings of the same kind end up side by side he can sell a matching cube. Sell everything before the tiles run out and the day is a success.
 
-<!-- notes from the catalogue: BGG page 398700: 1 player, 10-15 min, age 6+, family 'Contests: Solitaire Print & Play'. The 'Resources' and 'STLS' Drive subfolders (3D pawn) were not downloaded; the .pcio file was skipped. Files: Purzon Box.pdf (2 p., Letter, 0.4 MB); PurzonColor.pdf (6 p., Letter, 122.5 MB); PurzonHome.pdf (1 p., Letter, 10.8 MB); PurzonLowInk.pdf (6 p., Letter, 44.8 MB); PurzonMini.pdf (2 p., Letter, 114.5 MB -->
+It placed 11th overall at the BoardGameGeek 2022 Solitaire Print and Play Contest and second in the explore-and-experience category. With a 6+ age rating and a ten-minute play time it is one of the easiest contest games to bring to the family table, and the colourful art is by the designer.
+
+## How to play in one minute
+
+1. Shuffle the 24 hex tiles, place one with Purzon on it, draw three specialty-item tokens at random and keep the 30 cubes as your inventory.
+2. Each turn move Purzon along his road to show where he is heading, then draw a tile and place it so every road connects or leads to open ground. A tile that cannot be placed is discarded.
+3. Move Purzon along the new road to the next intersection.
+4. If three connected buildings match a specialty item and you have the goods, place the item there. If two buildings of the same type touch, sell a matching cube on the intersection.
+5. Win if every cube is sold before the tiles run out; the number of specialty items sold rates your day, from "time for a new cat-alogue" to "a purr-fect day".
+
+## What's in the PDF
+
+- Rules (3 pages, Letter) with four variants, including a Home tile mode.
+- Tiles and tokens on 6 pages in full colour or low ink, a 2-page mini version, large 5-sheet sets and a box.
+- You add 30 cubes and a pawn (an STL file is provided). Files are on the designer's Google Drive via the BGG thread.

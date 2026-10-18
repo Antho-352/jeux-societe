@@ -34,18 +34,18 @@ seo_description: "Dread is a free solo print and play card game by Michael Erceg
 
 Dread is a solo card game by Michael Erceg, with art by Vera Danilina. You are the last hunter of your kind, alone in a graveyard at night, and the ghouls and vampires keep coming out of the ground. Each mission takes about ten minutes: cross the map, reach your objectives, and never let an enemy step onto your square.
 
-It won Best Horror Game and Best Explore and Experience Game at the BoardGameGeek 2022 Solitaire Print and Play Contest, and finished 10th overall. The clever part is the action deck: you play one or two cards a turn, and when you overlap two, the middle action is hidden, so you get three actions out of two cards. The deck never reshuffles during a mission, so it is also your energy and ammunition. A training exercise teaches the rules, then three campaigns (graveyard, crypts and mansion) add bosses such as the Vampire Sisters and the Ghoul Queen.
+It won Best Horror Game and Best Explore and Experience Game at the BoardGameGeek 2022 Solitaire Print and Play Contest, and finished 10th overall. The clever part is the action deck: you play one or two cards a turn, and when you overlap two, the middle action is hidden, so you get three actions out of two cards. The deck never reshuffles during a mission, so it is also your energy and ammunition. Three campaigns add bosses such as the Vampire Sisters and the Ghoul Queen.
 
 ## How to play in one minute
 
-1. Shuffle six map cards into a 3x2 grid, shuffle the action deck and draw five cards face up, and roll a die for your starting waypoint.
+1. Shuffle six map cards into a 3x2 grid, draw five action cards face up, and roll a die for your starting waypoint.
 2. Spawn: turn over three spawn cards; each puts a ghoul or vampire on the matching map card's spawn point.
 3. Act: play zero, one or two action cards and resolve the visible actions in order, moving one square per move icon or attacking with sword, stake, revolver or crossbow. Ghouls die to one hit, vampires need two.
 4. Move enemies: ghouls lurch two squares towards you, vampires move two squares in any direction. If one enters your square, you are overwhelmed.
-5. Reach both objective tokens to win the mission; a boss mission ends when the boss is dead and the map cleared.
+5. Reach both objective tokens to win a mission; a boss mission ends when the boss is dead and the map is cleared.
 
 ## What's in the PDF
 
 - Rulebook (9 pages, Letter) with basic rules, figures and campaign rules.
-- All cards in colour on 16 double-sided Letter pages, or a low-ink single-sided set on 8 pages: action deck, spawn deck, graveyard and crypt map cards, boss cards.
-- You add a pawn, a few tokens and three dice. The files are on the designer's Google Drive, linked from the BGG thread.
+- All cards in colour on 16 double-sided Letter pages, or a low-ink set on 8 pages: action deck, spawn deck, map cards, boss cards.
+- You add a pawn, a few tokens and three dice. Files are on the designer's Google Drive via the BGG thread.

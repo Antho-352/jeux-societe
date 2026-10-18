@@ -31,12 +31,12 @@ seo_description: "Garden Builder is a free solo print and play board game: draft
 
 Garden Builder is a solo board game by Janine "Doc" Viglietti and mle_, the second game in their Builder series. Grass, who needs it? You turn a bare yard into a garden of tomatoes, peppers, squash, corn, beans and marigolds, decorated with a path, garden gnomes and plastic flamingos, while pests nibble at anything the marigolds do not protect.
 
-It finished 5th overall at the BoardGameGeek 2022 Solitaire Print and Play Contest and won the point-salad category. It plays like a light pattern-building puzzle: every plant has a seed pattern you must lay with coloured cubes before it grows, and the plants interact (beans make neighbours cheaper, marigolds multiply tomatoes, the Three Sisters bonus rewards squash, corn and beans together). A quick Balcony Mode uses a corner of the board for a shorter game. Full-art and low-ink versions are both provided.
+It finished 5th overall at the BoardGameGeek 2022 Solitaire Print and Play Contest and won the point-salad category. Every plant has a seed pattern you must lay with coloured cubes before it grows, and the plants interact: beans make neighbours cheaper, marigolds multiply tomatoes, squash, corn and beans together earn a bonus. A quick Balcony Mode uses a corner of the board.
 
 ## How to play in one minute
 
 1. Shuffle the garden cards and reveal three in the display. In round one only a 2x3 patch of the yard is open; rounds two and three open more of the board.
-2. On your turn refill the display, resolve any pest card (remove a seed or plant, unless a marigold protects it) or water card, then pick one card and take one of its two options: place a seed cube, or place a path, gnome or flamingo token.
+2. On your turn refill the display, resolve any pest card (remove a seed or plant unless a marigold protects it) or water card, then pick one card and take one of its two options: place a seed cube, or place a path, gnome or flamingo token.
 3. When seeds on the board match a plant's pattern, swap them for that plant token.
 4. When the deck runs out, take one more turn, reshuffle and start the next round.
 5. After three rounds score plants, gnome sets, flamingo pairs, bonuses and a completed path. 65 points or more earns the Blue Ribbon.
@@ -44,5 +44,5 @@ It finished 5th overall at the BoardGameGeek 2022 Solitaire Print and Play Conte
 ## What's in the PDF
 
 - Rules v1.1 (9 pages, Letter) in the low-ink folder; rules v2.0 as a DOCX in the full-art folder.
-- Board on two pages, plant cards, garden cards and token sheets, in full colour or a low-ink layout (9 pages).
-- Upgrade sheets for players who printed version 1. You add 18 cubes. Both Google Drive folders are linked from the BGG thread.
+- Board on two pages, plant cards, garden cards and token sheets, in full colour or a 9-page low-ink layout.
+- You add 18 cubes. Both Google Drive folders are linked from the BGG thread.
