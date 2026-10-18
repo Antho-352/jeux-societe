@@ -133,7 +133,7 @@ const hubs = defineCollection({
     lead: z.string(),
     seo_title: z.string(),
     seo_description: z.string().max(165),
-    collection: z.enum(['games', 'puzzles', 'rules']),
+    collection: z.enum(['games', 'puzzles', 'rules', 'mixed']),
     filter: z.record(z.string(), z.any()).default({}),
     related: z.array(z.object({ label: z.string(), href: z.string() })).default([]),
     faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),

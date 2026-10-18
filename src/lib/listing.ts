@@ -9,7 +9,7 @@ export function gameItem(g: Game, byName?: string): ListingItem {
     cover: d.cover, colour: d.cover_colour ?? coverColour(g.id),
     pills: [playersLabel(d.players_min, d.players_max), timeLabel(d.time_min, d.time_max), ageLabel(d.age_min)].filter(Boolean) as string[],
     data: {
-      'players-min': d.players_min, 'players-max': d.players_max, age: ageBand(d.age_min), colour: d.colour, lang: d.languages.join(','),
+      kind: d.type, 'players-min': d.players_min, 'players-max': d.players_max, age: ageBand(d.age_min), colour: d.colour, lang: d.languages.join(','),
       theme: d.themes.join(','), occasion: d.occasions.join(','), mechanic: d.mechanics.join(','), hosting: d.hosting_mode, paper: d.paper,
       components: d.components_needed.length ? 'needed' : 'none',
     },
@@ -23,7 +23,7 @@ export function puzzleItem(p: Puzzle): ListingItem {
     href: puzzleUrl(p), title: d.title, by: d.count && d.count > 1 ? `${d.count} ${PUZZLE_LABEL[d.type].toLowerCase()}s` : undefined, typeLabel: PUZZLE_LABEL[d.type],
     cover: d.cover, colour: coverColour(p.id),
     pills: [d.difficulty ? titleCase(d.difficulty) : undefined, band ? AGE_BAND_LABEL[band] : undefined, `${d.pages} page${d.pages > 1 ? 's' : ''}`].filter(Boolean) as string[],
-    data: { difficulty: d.difficulty, age: band, theme: d.themes.join(','), occasion: d.occasions.join(','), colour: d.colour, answers: d.answers_included ? 'yes' : 'no' },
+    data: { kind: d.type, difficulty: d.difficulty, age: band, theme: d.themes.join(','), occasion: d.occasions.join(','), colour: d.colour, answers: d.answers_included ? 'yes' : 'no' },
     sortTitle: d.title, sortDate: d.date_added.getTime(),
   };
 }
@@ -88,5 +88,15 @@ export function ruleFacets(items: ListingItem[]) {
     ].filter((o) => o.count > 0) },
     { key: 'equipment', label: 'What you need', options: countBy(items, 'equipment', titleCase) },
     { key: 'printable', label: 'Printable', options: countBy(items, 'printable', (v) => (v === 'yes' ? 'PDF included' : 'Rules only')) },
+  ];
+}
+
+export function mixedFacets(items: ListingItem[]) {
+  const label = (v: string) => (TYPE_LABEL as Record<string, string>)[v] ?? (PUZZLE_LABEL as Record<string, string>)[v] ?? titleCase(v);
+  return [
+    { key: 'kind', label: 'Type', options: countBy(items, 'kind', label) },
+    { key: 'age', label: 'Age', options: countBy(items, 'age', (v) => AGE_BAND_LABEL[v] ?? v, AGE_ORDER) },
+    { key: 'difficulty', label: 'Difficulty', options: countBy(items, 'difficulty', titleCase, ['easy', 'medium', 'hard']) },
+    { key: 'theme', label: 'Theme', options: countBy(items, 'theme', titleCase) },
   ];
 }

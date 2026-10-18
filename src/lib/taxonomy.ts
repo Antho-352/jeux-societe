@@ -114,6 +114,7 @@ export function gameMatches(g: Game, f: Record<string, any>): boolean {
   if (f.players === 'party' && d.players_max < 6) return false;
   if (f.time_max !== undefined && (d.time_max ?? d.time_min ?? 999) > f.time_max) return false;
   if (f.occasion && !d.occasions.includes(f.occasion)) return false;
+  if (f.any_occasion && d.occasions.length === 0) return false;
   if (f.theme && !d.themes.includes(f.theme)) return false;
   if (f.mechanic && !d.mechanics.includes(f.mechanic)) return false;
   if (f.hosting_mode && d.hosting_mode !== f.hosting_mode) return false;
@@ -127,6 +128,7 @@ export function puzzleMatches(p: Puzzle, f: Record<string, any>): boolean {
   if (f.difficulty && d.difficulty !== f.difficulty) return false;
   if (f.age_band && (d.age_band ?? ageBand(d.age_min)) !== f.age_band) return false;
   if (f.occasion && !d.occasions.includes(f.occasion)) return false;
+  if (f.any_occasion && d.occasions.length === 0) return false;
   if (f.theme && !d.themes.includes(f.theme)) return false;
   return true;
 }

@@ -1,5 +1,5 @@
 import { getCollection } from 'astro:content';
-import { gameFacets, gameItem, puzzleFacets, puzzleItem, ruleFacets, ruleItem } from './listing';
+import { gameFacets, gameItem, mixedFacets, puzzleFacets, puzzleItem, ruleFacets, ruleItem } from './listing';
 import type { ListingItem } from '../components/Listing.astro';
 import { gameMatches, puzzleMatches, ruleMatches } from './taxonomy';
 import type { Hub } from './taxonomy';
@@ -15,6 +15,14 @@ export async function hubListing(hub: Hub): Promise<{ items: ListingItem[]; face
     const games = (await getCollection('games')).filter((g) => gameMatches(g, d.filter));
     const items = games.map((g) => gameItem(g, g.data.creator ? byId.get(g.data.creator.id) : undefined));
     return { items, facets: gameFacets(items), noun: 'games' };
+  }
+  if (d.collection === 'mixed') {
+    const creators = await getCollection('creators');
+    const byId = new Map(creators.map((c) => [c.id, c.data.name]));
+    const games = (await getCollection('games')).filter((g) => gameMatches(g, d.filter)).map((g) => gameItem(g, g.data.creator ? byId.get(g.data.creator.id) : undefined));
+    const puzzles = (await getCollection('puzzles')).filter((p) => puzzleMatches(p, d.filter)).map(puzzleItem);
+    const items = [...games, ...puzzles];
+    return { items, facets: mixedFacets(items), noun: 'games and puzzles' };
   }
   if (d.collection === 'puzzles') {
     const puzzles = (await getCollection('puzzles')).filter((p) => puzzleMatches(p, d.filter));
