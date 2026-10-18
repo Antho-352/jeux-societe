@@ -1,33 +1,51 @@
 ---
-title: "Show & Tile"
-type: "party"
-summary: "A creative party game played with tangram tiles: everyone secretly picks a word, builds it with two tangram sets in 90 seconds, then the table guesses each other's words. No drawing skills needed."
+title: Show & Tile
+type: party
+summary: Show & Tile is a 3–6 player tangram party game where players build secret words in 90 seconds and guess one another’s creations.
 players_min: 3
 players_max: 6
+themes:
+- tangrams
+- creativity
+mechanics:
+- real-time
+- guessing
+- tile-placement
+languages:
+- en
+components_included:
+- Jellybean Games links a Rules & Tiles PDF and a Cards PDF for Show & Tile.
+creator: jellybean-games
+designers:
+- Isaac Shalev
+- Matt Loomis
+artists: []
+licence: All rights reserved
+hosting_mode: link
+source_url: https://jellybean.games/show-tile/
+status: published
+date_added: "2026-10-18"
+seo_title: Show & Tile Print and Play
 age_min: 8
 time_min: 30
 time_max: 30
-themes: ["tangrams", "creativity"]
-mechanics: ["tangram-building", "real-time", "guessing"]
-languages: ["en"]
-components_included: ["rules + tangram tile sheets (18 Letter pages), word cards (4 sheets)"]
-components_needed: ["scissors/card stock; 90-second timer (phone alarm)"]
-pages: 22
-paper: "letter"
-colour: "colour"
-creator: "jellybean-games"
-designers: ["Isaac Shalev", "Matt Loomis"]
-artists: []
-publisher: "Jellybean Games"
-licence: "No licence statement on jellybean.games; PDFs carry a plain copyright notice (e.g. \"© 2019 Jellybean Games\" in Brains! r"
-hosting_mode: "link"
-source_url: "https://jellybean.games/print-and-play/"
-status: "draft"
-date_added: "2026-10-18"
 ---
+
+<!-- hand-edited -->
 
 ## About Show & Tile
 
-A creative party game played with tangram tiles: everyone secretly picks a word, builds it with two tangram sets in 90 seconds, then the table guesses each other's words. No drawing skills needed.
+Show & Tile is a tangram party game for 3–6 players. Instead of drawing, players use tangram pieces to build a word they chose, then invite the table to guess what each creation represents.
 
-<!-- notes from the catalogue: PDF notes the published game includes a sand timer; tiles can be coloured by hand on a print of page 15. Game page: ages 8+, 3-6 players, 30 min. | Files: ShowTileCards.pdf (4 p., Letter, 14.5 MB); ShowTilePrint-and-play.pdf (18 p., Letter, 14.5 MB) -->
+The publisher describes a 90-second building window and says no drawing ability is required. Its print-and-play listing links a rules-and-tiles file and a separate cards file.
+
+## How to play in one minute
+
+1. Give each player two sets of tangram tiles.
+2. Secretly choose a word to build.
+3. Build it with tiles during the 90-second round.
+4. Put the tiles down and guess the other players’ words.
+
+## What's in the PDF
+
+Jellybean Games links a Rules & Tiles PDF and a Cards PDF for Show & Tile. The official files are not copied into this repository. Use the publisher links to obtain the current rules, tiles, and card material. The source page is the current version.

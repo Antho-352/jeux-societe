@@ -1,34 +1,52 @@
 ---
-title: "Village Pillage"
-type: "card"
-summary: "Each turn every player plays one card against each neighbour - farmer, wall, raider or merchant - then all cards flip and resolve simultaneously."
+title: Village Pillage
+type: card
+summary: Village Pillage is a 2–5 player simultaneous-action card game where farmers, walls, raiders, and merchants compete for three relics.
 players_min: 2
 players_max: 5
+themes:
+- villages
+- raiders
+- turnips
+mechanics:
+- simultaneous-action-selection
+- hand-management
+- take-that
+languages:
+- en
+components_included:
+- The official print-and-play page links base cards and rules, plus Surf & Turf and Cannoneer material. These publisher-hosted files are linked, not mirrored. Check the source page to choose the base game or optional material before printing.
+creator: jellybean-games
+designers:
+- Tom Lang
+- Peter C. Hayward
+artists: []
+licence: All rights reserved
+hosting_mode: link
+source_url: https://jellybean.games/village-pillage/
+status: published
+date_added: "2026-10-18"
+seo_title: Village Pillage Print and Play
 age_min: 10
 time_min: 10
 time_max: 15
-themes: ["medieval-villages", "turnips", "raiders"]
-mechanics: ["simultaneous-action-selection", "hand-management", "take-that", "market-buying"]
-languages: ["en"]
-components_included: ["16-page rulebook, all base cards full art (6 sheets), Surf & Turf expansion cards (4 sheets), Cannoneer promo card"]
-components_needed: ["scissors; turnip/relic tokens (any counters)"]
-pages: 27
-paper: "letter"
-colour: "colour"
-creator: "jellybean-games"
-designers: ["Tom Lang", "Peter C. Hayward"]
-artists: ["Tania Walker"]
-publisher: "Jellybean Games"
-year: 2018
-licence: "No licence statement on jellybean.games; PDFs carry a plain copyright notice (e.g. \"© 2019 Jellybean Games\" in Brains! r"
-hosting_mode: "link"
-source_url: "https://jellybean.games/print-and-play/"
-status: "draft"
-date_added: "2026-10-18"
 ---
+
+<!-- hand-edited -->
 
 ## About Village Pillage
 
-Each turn every player plays one card against each neighbour - farmer, wall, raider or merchant - then all cards flip and resolve simultaneously. Earn turnips, protect them, steal them, and be the first to trade for three royal relics.
+Village Pillage is a 2–5 player game of cunning, chaos, and betrayal. Every player deploys cards against both neighbours, then the table reveals and resolves them simultaneously.
 
-<!-- notes from the catalogue: Rulebook credits: Design Tom Lang & Peter C. Hayward; Art & Graphic Design Tania Walker; rulebook file dated 29/6/18. Game page: ages 10+, 2-5 players, 10-15 min. | Files: Cannoneer-Corrected.pdf (1 p., custom 57x87 mm, 0.6 MB); Surf-and-Turf-Cards.pdf (4 p., Letter, 37.1 MB); VP_Rulebook.pdf (16 p., custom 104x159 mm, 43.1 MB); Village-Pillage-all-cards-full-art.pdf (6 p., Letter, 26.1 MB) -->
+Farmers earn turnips, walls protect them, raiders steal them, and merchants buy new cards. Trade enough turnips for relics; the first player to collect three becomes the winner. The official listing also links Surf & Turf material.
+
+## How to play in one minute
+
+1. Set up the market, hands, and turnip supply.
+2. Play a card against each neighbour.
+3. Reveal all cards and resolve them simultaneously.
+4. Trade turnips for relics and collect three to win.
+
+## What's in the PDF
+
+The official print-and-play page links base cards and rules, plus Surf & Turf and Cannoneer material. These publisher-hosted files are linked, not mirrored. Check the source page to choose the base game or optional material before printing. The source controls its current files.

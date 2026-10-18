@@ -1,33 +1,51 @@
 ---
-title: "Night of the Mummy"
-type: "card"
-summary: "A standalone sequel to Dracula's Feast in the Masquerade series."
+title: Night of the Mummy
+type: card
+summary: Night of the Mummy is a 4–8 player deduction card game about identifying cursed museum guests at a masquerade ball.
 players_min: 4
 players_max: 8
+themes:
+- mummies
+- museum
+- masquerade
+mechanics:
+- deduction
+- hidden-identities
+languages:
+- en
+components_included:
+- The official listing includes a rulebook link and a cards link for Night of the Mummy. Both are publisher-hosted downloads and are linked rather than copied.
+creator: jellybean-games
+designers:
+- Peter C. Hayward
+artists:
+- Michael Dashow
+licence: All rights reserved
+hosting_mode: link
+source_url: https://jellybean.games/night-of-the-mummy/
+status: published
+date_added: "2026-10-18"
+seo_title: Night of the Mummy Print and Play
 age_min: 10
 time_min: 15
 time_max: 20
-themes: ["monsters", "masquerade-ball", "museum", "horror-comedy"]
-mechanics: ["deduction", "hidden-identities", "simultaneous-guessing"]
-languages: ["en"]
-components_included: ["rulebook (16 p.) and full-art guest/accusation cards (9 Letter sheets)"]
-components_needed: ["scissors; optional sleeves"]
-pages: 25
-paper: "letter"
-colour: "colour"
-creator: "jellybean-games"
-designers: ["Peter C. Hayward"]
-artists: ["Michael Dashow"]
-publisher: "Jellybean Games"
-licence: "No licence statement on jellybean.games; PDFs carry a plain copyright notice (e.g. \"© 2019 Jellybean Games\" in Brains! r"
-hosting_mode: "link"
-source_url: "https://jellybean.games/print-and-play/"
-status: "draft"
-date_added: "2026-10-18"
 ---
+
+<!-- hand-edited -->
 
 ## About Night of the Mummy
 
-A standalone sequel to Dracula's Feast in the Masquerade series. The Mummy has brought the museum exhibits to life for a masquerade ball; each player holds a secret identity and dances with other guests to deduce who everyone is, then makes a grand accusation to win.
+Night of the Mummy is a logical deduction game for 4–8 players and the second game in the Masquerade series. The Mummy’s curse brings museum exhibits to life at the Museum of Unnatural History’s annual ball.
 
-<!-- notes from the catalogue: Game page: https://jellybean.games/night-of-the-mummy/ (Ages 10+, 4-8 players, 15-20 min). Year not stated (PDF uploaded 2020/03, rulebook v4). | Files: Night-of-the-Mummy-Full-art-print-and-play.pdf (9 p., Letter, 8.3 MB); Rulebook-v4.pdf (16 p., custom 130x180 mm, 17.7 MB) -->
+Players dance with guests, infer their identities, and accuse when the puzzle is solved. Jellybean Games describes it as a standalone expansion to Dracula’s Feast: New Blood and links both a rulebook and a cards file for print and play.
+
+## How to play in one minute
+
+1. Prepare the guest and accusation cards.
+2. Dance with other guests and collect identity clues.
+3. Combine the clues to determine who is at the ball.
+4. Make accusations after you have broken the curse’s puzzle.
+
+## What's in the PDF
+
+The official listing includes a rulebook link and a cards link for Night of the Mummy. Both are publisher-hosted downloads and are linked rather than copied.

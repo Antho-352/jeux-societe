@@ -1,34 +1,51 @@
 ---
-title: "Scuttle!"
-type: "card"
-summary: "A fast pirate card game: each turn either draw a card or play one, as treasure or as an action - steal a chest, draw two, wipe the board. First to 21 doubloons wins. A French print-and-play deck is available."
+title: Scuttle!
+type: card
+summary: Scuttle! is a fast pirate card game for 1–5 players who race to collect 21 doubloons with treasure and action cards.
 players_min: 1
 players_max: 5
+themes:
+- pirates
+- treasure
+mechanics:
+- hand-management
+- take-that
+- set-collection
+languages:
+- en
+components_included:
+- The official print-and-play page links English rules and cards, plus French, German, Slovenian, and Spanish material. All files remain at the publisher’s source. Check that page for the language and version you want before printing.
+creator: jellybean-games
+designers:
+- Peter C. Hayward
+artists:
+- Kelly Jo
+licence: All rights reserved
+hosting_mode: link
+source_url: https://jellybean.games/scuttle/
+status: published
+date_added: "2026-10-18"
+seo_title: Scuttle! Print and Play
 age_min: 6
 time_min: 5
 time_max: 10
-themes: ["pirates", "treasure"]
-mechanics: ["hand-management", "take-that", "race-to-21-doubloons"]
-languages: ["en", "fr", "de", "sl", "es"]
-components_included: ["10-page rulebook, cards (6 Letter sheets, EN); complete card decks in French, German, Slovenian and Spanish (10 A4 pages each, 2016 versions)"]
-components_needed: ["scissors"]
-pages: 56
-paper: "both"
-colour: "colour"
-creator: "jellybean-games"
-designers: ["Peter C. Hayward"]
-artists: ["Kelly Jo"]
-publisher: "Jellybean Games"
-year: 2016
-licence: "No licence statement on jellybean.games; PDFs carry a plain copyright notice (e.g. \"© 2019 Jellybean Games\" in Brains! r"
-hosting_mode: "link"
-source_url: "https://jellybean.games/print-and-play/"
-status: "draft"
-date_added: "2026-10-18"
 ---
+
+<!-- hand-edited -->
 
 ## About Scuttle!
 
-A fast pirate card game: each turn either draw a card or play one, as treasure or as an action - steal a chest, draw two, wipe the board. First to 21 doubloons wins. A French print-and-play deck is available.
+Scuttle! is a pirate card game for 1–5 players. On a turn, choose between drawing a card and playing one, then use cards as valuable treasure or disruptive actions.
 
-<!-- notes from the catalogue: Game page: ages 6+, 1-5 players, 5-10 min. Year taken from the translated PnP file names dated 09.18.16 (2016). | Files: Scuttle-rulebook.pdf (10 p., custom 95x119 mm, 2.5 MB); ScuttlePrintNPlayFRENCH09.18.16.pdf (10 p., A4, 1.4 MB); ScuttlePrintNPlayGERMAN09.18.16.pdf (10 p., A4, 1.4 MB); ScuttlePrintNPlaySLOVENIAN09.18.16.pdf (10 p., A4, 1.5 MB); ScuttlePrintNPlaySPANISH09.18.16.pdf (10 p., A4,  -->
+The objective is to collect 21 doubloons before the other pirates. The official page highlights stealing, battling, and protecting booty, while the print-and-play catalogue links English rules and cards plus several translated versions.
+
+## How to play in one minute
+
+1. Set up the deck and deal cards.
+2. Draw a card or play one on your turn.
+3. Use cards as treasure or actions to protect or steal booty.
+4. Collect 21 doubloons before the other pirates.
+
+## What's in the PDF
+
+The official print-and-play page links English rules and cards, plus French, German, Slovenian, and Spanish material. All files remain at the publisher’s source. Check that page for the language and version you want before printing. It is the source of record.

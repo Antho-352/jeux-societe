@@ -1,33 +1,49 @@
 ---
-title: "Meow!"
-type: "card"
-summary: "A party game of secret rules inspired by Mao: you are a cat cultist trying to complete the initiation ritual without breaking the hidden rule cards held by the other players."
+title: Meow!
+type: party
+summary: Meow! is a secret-rules card party game for 3–12 players who try to complete a cat-cult initiation ritual.
 players_min: 3
 players_max: 12
+themes:
+- cats
+- ritual
+mechanics:
+- deduction
+- secret-rules
+languages:
+- en
+components_included:
+- The official listing links the rules plus separate Kitten Cabal and Cult of Cat card files. The content remains on Jellybean Games’ own pages. Check the publisher page before printing to choose the version you want to use.
+creator: jellybean-games
+designers:
+- Peter C. Hayward
+artists: []
+licence: All rights reserved
+hosting_mode: link
+source_url: https://jellybean.games/meow/
+status: published
+date_added: "2026-10-18"
+seo_title: Meow! Print and Play
 age_min: 6
 time_min: 5
 time_max: 10
-themes: ["cats", "cult", "ritual"]
-mechanics: ["secret-rules", "deduction", "mao-style-play"]
-languages: ["en"]
-components_included: ["2-page rulebook, Kitten Cabal card set (6 sheets), The Cult of Cat card set (6 sheets)"]
-components_needed: ["scissors"]
-pages: 14
-paper: "letter"
-colour: "colour"
-creator: "jellybean-games"
-designers: ["Peter C. Hayward"]
-artists: ["Tina Bongorno"]
-publisher: "Jellybean Games"
-licence: "No licence statement on jellybean.games; PDFs carry a plain copyright notice (e.g. \"© 2019 Jellybean Games\" in Brains! r"
-hosting_mode: "link"
-source_url: "https://jellybean.games/print-and-play/"
-status: "draft"
-date_added: "2026-10-18"
 ---
+
+<!-- hand-edited -->
 
 ## About Meow!
 
-A party game of secret rules inspired by Mao: you are a cat cultist trying to complete the initiation ritual without breaking the hidden rule cards held by the other players. Two printable versions exist - the family-friendly Kitten Cabal and the gamer version The Cult of Cat - which can be mixed.
+Meow! is a card game of secret rules and deduction based on Mao. Players are cat cultists trying to complete an initiation ritual without breaking the hidden rule cards held by others.
 
-<!-- notes from the catalogue: Print-and-play page says 3-12 players; game page https://jellybean.games/meow/ says 2-5 players, 5-10 min, ages 6+ (site is inconsistent; both recorded). Rulebook credits: Game Design Peter C. Hayward, Illustration Tina Bongorno, Graphic Design Spire Eaton. | Files: Cult-Of-Cat-Cards.pdf (6 p., Letter, 36.2 MB); Kitten-Cabal-Cards.pdf (6 p., Letter, 32.5 MB); Meow-Rulebook.pdf (2 p., custom 245x25 -->
+The publisher’s print-and-play page offers two versions: Kitten Cabal for families and younger players, and The Cult of Cat as the gamer version. They can be tried separately or mixed for more replayability.
+
+## How to play in one minute
+
+1. Choose Kitten Cabal, The Cult of Cat, or a mixed set.
+2. Deal the required cards and keep your rule information secret.
+3. Take turns while following every rule you have deduced.
+4. Complete the ritual without breaking a secret rule to win.
+
+## What's in the PDF
+
+The official listing links the rules plus separate Kitten Cabal and Cult of Cat card files. The content remains on Jellybean Games’ own pages. Check the publisher page before printing to choose the version you want to use.

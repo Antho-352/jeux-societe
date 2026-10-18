@@ -1,33 +1,50 @@
 ---
-title: "Hidden Panda"
-type: "party"
-summary: "A light social deduction game: players are secretly Pandas or Bandits and pass baby-panda cards around the table, trying to get them to their own team without revealing their role. Simple rules, about 20 minutes."
+title: Hidden Panda
+type: party
+summary: Hidden Panda is a 5–8 player social deduction game in which Pandas and Bandits secretly pass baby pandas to their teams.
 players_min: 5
 players_max: 8
+themes:
+- pandas
+- animals
+mechanics:
+- social-deduction
+- hidden-teams
+- card-passing
+languages:
+- en
+components_included:
+- The official print-and-play listing links rules, cards, and tokens for Hidden Panda. Those files stay on the publisher’s site and are available through the source link.
+creator: jellybean-games
+designers:
+- Peter C. Hayward
+artists: []
+licence: All rights reserved
+hosting_mode: link
+source_url: https://jellybean.games/hidden-panda/
+status: published
+date_added: "2026-10-18"
+seo_title: Hidden Panda Print and Play
 age_min: 8
 time_min: 20
 time_max: 30
-themes: ["pandas", "bandits", "cute-animals"]
-mechanics: ["social-deduction", "hidden-teams", "card-passing"]
-languages: ["en"]
-components_included: ["12-page rulebook, role/panda cards (2 sheets), tokens (2 sheets)"]
-components_needed: ["scissors"]
-pages: 16
-paper: "letter"
-colour: "colour"
-creator: "jellybean-games"
-designers: ["Peter C. Hayward"]
-artists: ["Kelly Jo"]
-publisher: "Jellybean Games"
-licence: "No licence statement on jellybean.games; PDFs carry a plain copyright notice (e.g. \"© 2019 Jellybean Games\" in Brains! r"
-hosting_mode: "link"
-source_url: "https://jellybean.games/print-and-play/"
-status: "draft"
-date_added: "2026-10-18"
 ---
+
+<!-- hand-edited -->
 
 ## About Hidden Panda
 
-A light social deduction game: players are secretly Pandas or Bandits and pass baby-panda cards around the table, trying to get them to their own team without revealing their role. Simple rules, about 20 minutes.
+Hidden Panda is a social deduction game for 5–8 players. Everyone belongs secretly to the Panda or Bandit team, and both sides want baby panda cards to reach their own people without revealing their role.
 
-<!-- notes from the catalogue: Game page https://jellybean.games/hidden-panda/: ages 8+, 5-8 players, 20-30 min. Year not stated (PDF uploads 2021). | Files: HP-Tokens.pdf (2 p., Letter, 2.0 MB); Hidden-Panda-Cards.pdf (2 p., Letter, 1.5 MB); Rulebook-Hidden-Panda.pdf (12 p., custom 93x134 mm, 5.1 MB) -->
+The game is presented by Jellybean Games as easy to learn and about 20 minutes long. Watch how cards move around the table, judge whose choices make sense, and protect your team’s information.
+
+## How to play in one minute
+
+1. Give players their hidden team roles and prepare the baby panda cards.
+2. Choose a player and pass a baby panda according to the rules.
+3. Watch each decision for evidence of a player’s team.
+4. Help your own side receive baby pandas without exposing your role.
+
+## What's in the PDF
+
+The official print-and-play listing links rules, cards, and tokens for Hidden Panda. Those files stay on the publisher’s site and are available through the source link.

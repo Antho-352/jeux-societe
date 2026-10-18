@@ -1,34 +1,50 @@
 ---
-title: "Brains!"
-type: "card"
-summary: "Third game of the Treasure Hunters series (after Scuttle! and Ninjitsu!). Each turn play a card as treasure or action, draw two cards, or bury the top card of the deck in your graveyard where it grants ongoing effects."
+title: Brains!
+type: card
+summary: Brains! is a quick zombie card game in which players race to 21 points by playing, drawing, or burying cards.
 players_min: 2
 players_max: 5
+themes:
+- zombies
+- graveyard
+mechanics:
+- hand-management
+- set-collection
+languages:
+- en
+components_included:
+- The publisher’s print-and-play page links to a rules file, card sheets, and a gravestone card. These are hosted by Jellybean Games; this listing links to the source rather than copying them.
+creator: jellybean-games
+designers:
+- Peter C. Hayward
+artists:
+- Kelly Jo
+licence: All rights reserved
+hosting_mode: link
+source_url: https://jellybean.games/brains/
+status: published
+date_added: "2026-10-18"
+seo_title: Brains! Print and Play
 age_min: 6
 time_min: 5
 time_max: 10
-themes: ["zombies", "treasure-hunters"]
-mechanics: ["hand-management", "take-that", "graveyard-building", "race-to-21-points"]
-languages: ["en"]
-components_included: ["12-page rulebook, cards (5 sheets), gravestone card (1 sheet)"]
-components_needed: ["scissors"]
-pages: 18
-paper: "letter"
-colour: "colour"
-creator: "jellybean-games"
-designers: ["Peter C. Hayward"]
-artists: ["Kelly Jo"]
-publisher: "Jellybean Games"
-year: 2019
-licence: "No licence statement on jellybean.games; PDFs carry a plain copyright notice (e.g. \"© 2019 Jellybean Games\" in Brains! r"
-hosting_mode: "link"
-source_url: "https://jellybean.games/print-and-play/"
-status: "draft"
-date_added: "2026-10-18"
 ---
+
+<!-- hand-edited -->
 
 ## About Brains!
 
-Third game of the Treasure Hunters series (after Scuttle! and Ninjitsu!). Each turn play a card as treasure or action, draw two cards, or bury the top card of the deck in your graveyard where it grants ongoing effects. First to 21 points at the start of a turn wins; compatible with the other two games.
+Brains! is a stand-alone card game for 2–5 zombie players. It follows the fast treasure-or-action rhythm of Scuttle! and Ninjitsu!, but adds a graveyard where buried cards can create ongoing effects or trigger abilities.
 
-<!-- notes from the catalogue: Rulebook: '© 2019 Jellybean Games'. Game page: ages 6+, 2-5 players, 5-10 min. | Files: Brains-Cards.pdf (5 p., Letter, 5.6 MB); Brains-Rulebook.pdf (12 p., custom 99x140 mm, 3.4 MB); Gravestone-Card.pdf (1 p., Letter, 0.1 MB) -->
+The official game page describes a race to 21 or more points. Its print-and-play listing links to the rules, card sheets, and a gravestone card, so players can prepare the game from the publisher’s own files.
+
+## How to play in one minute
+
+1. Give each player cards and make a draw deck.
+2. On your turn, play a card, draw two cards, or bury the top card.
+3. Use treasure, action, and graveyard effects to improve your position.
+4. Reach 21 or more points to win.
+
+## What's in the PDF
+
+The publisher’s print-and-play page links to a rules file, card sheets, and a gravestone card. These are hosted by Jellybean Games; this listing links to the source rather than copying them.

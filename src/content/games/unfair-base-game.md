@@ -1,34 +1,46 @@
 ---
-title: "Unfair - base game"
-type: "card"
-summary: "Try-before-you-buy print-and-play of the full retail game Unfair: build the best theme park with attractions, upgrades and staff while playing dirty tricks on rivals."
+title: Unfair - base game
+type: card
+summary: Unfair is a theme-park card game; its official print-and-play page offers the base-game rulebook, six theme packs, extras, board, reference sheets, scorepad, and token sheet.
 players_min: 2
 players_max: 5
-age_min: 14
-time_min: 50
-time_max: 125
-themes: ["theme-park-building"]
-mechanics: ["engine-building", "hand-management", "take-that", "set-collection"]
-languages: ["en"]
-components_included: ["20-page rulebook (2023 revision), six theme packs of cards (Gangster, Jungle, Ninja, Pirate, Robot, Vampire; 8-up fronts + reverses), update cards #1, Blueprint Closure + Game Changer cards, A2 board (2 sides), 2-page player reference, scorepad, A3 coin token sheets, printer test page"]
-components_needed: ["starting-player marker, money (poker chips suggested, values 1/5/25/125), a current-step marker (large die), card stock, scissors"]
-pages: 141
-colour: "colour"
-creator: "2am-gameworks"
-designers: ["Joel Finch"]
-artists: ["Mr Cuddington (David Forest, Lina Cossette)", "Philippe Poirier (additional cards)", "Nicole Castles (card backs)"]
-publisher: "2am Gameworks"
-year: 2018
-licence: "These files are provided for personal use only. They may be printed on your own printer or at a commercial copy / printi"
-licence_url: "https://www.unfair-game.com/print-and-play"
-hosting_mode: "link"
-source_url: "https://www.unfair-game.com/pnp-GJNPRV"
-status: "draft"
+themes:
+- theme-parks
+mechanics:
+- engine-building
+- hand-management
+languages:
+- en
+components_included:
+- "20-page rulebook; Update #1 cards; Gangster, Jungle, Ninja, Pirate, Robot, and Vampire card packs with reverses; extra cards with reverses; two-sided A2 board; player reference; scorepad; A3 coin tokens."
+creator: 2am-gameworks
+designers: []
+artists: []
+licence: These files are provided for personal use only. They may be printed on your own printer or at a commercial copy / printing centre, providing the copies are for your own use and not for sale.
+hosting_mode: link
+source_url: https://www.unfair-game.com/pnp-GJNPRV
+status: draft
 date_added: "2026-10-18"
+seo_title: Unfair - base game Print and Play
+publisher: 2am Gameworks
+licence_url: https://www.unfair-game.com/print-and-play
 ---
+
+<!-- hand-edited -->
 
 ## About Unfair - base game
 
-Try-before-you-buy print-and-play of the full retail game Unfair: build the best theme park with attractions, upgrades and staff while playing dirty tricks on rivals. Complete base game with all six original theme packs; designed by Joel Finch.
+Unfair is a theme-park card game; its official print-and-play page offers the base-game rulebook, six theme packs, extras, board, reference sheets, scorepad, and token sheet.
 
-<!-- notes from the catalogue: Site says 'Unfair is available now in retail stores... these Print & Play files are for you'. Rulebook: Ages 14+, 2-5 players, 25 min per player; credits 'Game design & development: Joel Finch'. Rulebook: 'Copyright © 2018 2am Gameworks. All rights reserved.' (Version 20230725); site footer 'Copyright © 2016-2025 2am Gameworks'. | Files: Unfair-GJNPRV-board-v1.2.3.web.pdf (2 p., custom 285x598 mm, -->
+The files are intended for trying the game or printing for personal use. This entry points to the official Unfair page only; it does not copy any publisher files or images.
+
+## How to play in one minute
+
+1. Set up the base-game materials listed by the publisher.
+2. Build your park using the selected theme packs and available cards.
+3. Follow the official rulebook for turns, scoring, and interactions.
+4. Use the official reference and scorepad as needed.
+
+## What's in the PDF
+
+20-page rulebook; Update #1 cards; Gangster, Jungle, Ninja, Pirate, Robot, and Vampire card packs with reverses; extra cards with reverses; two-sided A2 board; player reference; scorepad; A3 coin tokens. The official page gives print guidance for its linked PDFs; this catalogue entry keeps those downloads with the publisher.
