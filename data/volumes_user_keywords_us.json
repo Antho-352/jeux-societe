@@ -1,0 +1,2074 @@
+{
+    "version": "0.1.20260917",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "1.6581 sec.",
+    "cost": 0.09,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "10180652-2588-0367-0000-d58389e0de1e",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "1.5979 sec.",
+            "cost": 0.09,
+            "result_count": 30,
+            "path": [
+                "v3",
+                "keywords_data",
+                "google_ads",
+                "search_volume",
+                "live"
+            ],
+            "data": {
+                "api": "keywords_data",
+                "function": "search_volume",
+                "se": "google_ads",
+                "keywords": [
+                    "safe kid games",
+                    "connect the dots printable",
+                    "dot to dot sheets",
+                    "rebus puzzles with answers printable",
+                    "board games and rules",
+                    "custom poker cards",
+                    "fun games to play at school",
+                    "children's mazes to print",
+                    "classroom resources games online",
+                    "games to play in class",
+                    "board game rules",
+                    "dot marker printables",
+                    "hard mazes",
+                    "input output games",
+                    "whiteboard games",
+                    "christmas printable games free",
+                    "printable dice games",
+                    "difficult maze",
+                    "difficult rebus puzzles",
+                    "easy maze",
+                    "printable mazes",
+                    "mazes for kids printable",
+                    "halloween printable games",
+                    "easter printable games",
+                    "harry potter printable games",
+                    "printable rebus puzzles",
+                    "dot to dot printable",
+                    "printable classroom games",
+                    "printable puzzles for kids",
+                    "word search printable"
+                ],
+                "location_code": 2840,
+                "language_code": "en",
+                "search_partners": false
+            },
+            "result": [
+                {
+                    "keyword": "safe kid games",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "connect the dots printable",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 9,
+                    "search_volume": 9900,
+                    "low_top_of_page_bid": 0.57,
+                    "high_top_of_page_bid": 2,
+                    "cpc": 1.89,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 9900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 9900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 12100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 12100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 12100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 9900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 12100
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 9900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 9900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 9900
+                        }
+                    ]
+                },
+                {
+                    "keyword": "dot to dot sheets",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 9,
+                    "search_volume": 9900,
+                    "low_top_of_page_bid": 0.57,
+                    "high_top_of_page_bid": 2,
+                    "cpc": 1.89,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 9900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 9900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 12100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 12100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 12100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 9900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 12100
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 9900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 9900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 9900
+                        }
+                    ]
+                },
+                {
+                    "keyword": "rebus puzzles with answers printable",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 15,
+                    "search_volume": 480,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": 0.01,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 260
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 390
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 320
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 210
+                        }
+                    ]
+                },
+                {
+                    "keyword": "board games and rules",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 2,
+                    "search_volume": 4400,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": 0.01,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 720
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 590
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 2400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 1900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 1600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 18100
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 18100
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 1600
+                        }
+                    ]
+                },
+                {
+                    "keyword": "custom poker cards",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "HIGH",
+                    "competition_index": 100,
+                    "search_volume": 5400,
+                    "low_top_of_page_bid": 0.58,
+                    "high_top_of_page_bid": 3.57,
+                    "cpc": 3.22,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 5400
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 9900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 5400
+                        }
+                    ]
+                },
+                {
+                    "keyword": "fun games to play at school",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "children's mazes to print",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "MEDIUM",
+                    "competition_index": 48,
+                    "search_volume": 4400,
+                    "low_top_of_page_bid": 0.54,
+                    "high_top_of_page_bid": 1.76,
+                    "cpc": 0.9,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 4400
+                        }
+                    ]
+                },
+                {
+                    "keyword": "classroom resources games online",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 1,
+                    "search_volume": 2900,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 2400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 22200
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 320
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 320
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 0
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 0
+                        }
+                    ]
+                },
+                {
+                    "keyword": "games to play in class",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 3,
+                    "search_volume": 2900,
+                    "low_top_of_page_bid": 0.61,
+                    "high_top_of_page_bid": 4.32,
+                    "cpc": 4.62,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 480
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 3600
+                        }
+                    ]
+                },
+                {
+                    "keyword": "board game rules",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 2,
+                    "search_volume": 4400,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": 0.01,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 720
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 590
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 2400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 1900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 1600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 18100
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 18100
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 1600
+                        }
+                    ]
+                },
+                {
+                    "keyword": "dot marker printables",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 31,
+                    "search_volume": 2900,
+                    "low_top_of_page_bid": 0.31,
+                    "high_top_of_page_bid": 1.76,
+                    "cpc": 0.44,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 1900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 2400
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 2900
+                        }
+                    ]
+                },
+                {
+                    "keyword": "hard mazes",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 5,
+                    "search_volume": 2900,
+                    "low_top_of_page_bid": 1.29,
+                    "high_top_of_page_bid": 8.17,
+                    "cpc": 1.06,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 2400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 1600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 1600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 1900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 4400
+                        }
+                    ]
+                },
+                {
+                    "keyword": "input output games",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 1,
+                    "search_volume": 135000,
+                    "low_top_of_page_bid": 0.08,
+                    "high_top_of_page_bid": 0.88,
+                    "cpc": 0.51,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 135000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 90500
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 60500
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 90500
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 165000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 165000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 165000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 165000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 165000
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 165000
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 201000
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 201000
+                        }
+                    ]
+                },
+                {
+                    "keyword": "whiteboard games",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 3,
+                    "search_volume": 2900,
+                    "low_top_of_page_bid": 0.22,
+                    "high_top_of_page_bid": 2.18,
+                    "cpc": 0.36,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 2400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 1900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 2400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 2400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 2900
+                        }
+                    ]
+                },
+                {
+                    "keyword": "christmas printable games free",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 31,
+                    "search_volume": 1600,
+                    "low_top_of_page_bid": 0.04,
+                    "high_top_of_page_bid": 0.79,
+                    "cpc": 0.47,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 14800
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 1900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 390
+                        }
+                    ]
+                },
+                {
+                    "keyword": "printable dice games",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "MEDIUM",
+                    "competition_index": 65,
+                    "search_volume": 170,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": 0.17,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 210
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 390
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 170
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 140
+                        }
+                    ]
+                },
+                {
+                    "keyword": "difficult maze",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 5,
+                    "search_volume": 2900,
+                    "low_top_of_page_bid": 1.29,
+                    "high_top_of_page_bid": 8.17,
+                    "cpc": 1.06,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 2400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 1600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 1600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 1900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 4400
+                        }
+                    ]
+                },
+                {
+                    "keyword": "difficult rebus puzzles",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 1,
+                    "search_volume": 2400,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": 0.03,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 2400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 2400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 1900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 2400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 2400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 2400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 2400
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 1900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 1900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 2400
+                        }
+                    ]
+                },
+                {
+                    "keyword": "easy maze",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 14,
+                    "search_volume": 2400,
+                    "low_top_of_page_bid": 0.28,
+                    "high_top_of_page_bid": 1.64,
+                    "cpc": 0.25,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 2400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 1600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 2900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 3600
+                        }
+                    ]
+                },
+                {
+                    "keyword": "printable mazes",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 9,
+                    "search_volume": 6600,
+                    "low_top_of_page_bid": 0.59,
+                    "high_top_of_page_bid": 1.4,
+                    "cpc": 1.14,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 5400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 5400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 5400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 5400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 5400
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 6600
+                        }
+                    ]
+                },
+                {
+                    "keyword": "mazes for kids printable",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "halloween printable games",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "HIGH",
+                    "competition_index": 99,
+                    "search_volume": 390,
+                    "low_top_of_page_bid": 0.29,
+                    "high_top_of_page_bid": 1.56,
+                    "cpc": 0.21,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 480
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 50
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 4400
+                        }
+                    ]
+                },
+                {
+                    "keyword": "easter printable games",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "HIGH",
+                    "competition_index": 100,
+                    "search_volume": 170,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 10
+                        }
+                    ]
+                },
+                {
+                    "keyword": "harry potter printable games",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 12,
+                    "search_volume": 20,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 40
+                        }
+                    ]
+                },
+                {
+                    "keyword": "printable rebus puzzles",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 9,
+                    "search_volume": 1600,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": 0.3,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 2400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 2400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 3600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 880
+                        }
+                    ]
+                },
+                {
+                    "keyword": "dot to dot printable",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 9,
+                    "search_volume": 9900,
+                    "low_top_of_page_bid": 0.57,
+                    "high_top_of_page_bid": 2,
+                    "cpc": 1.89,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 9900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 9900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 12100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 12100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 12100
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 9900
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 12100
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 9900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 9900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 9900
+                        }
+                    ]
+                },
+                {
+                    "keyword": "printable classroom games",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 32,
+                    "search_volume": 10,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": 0.01,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 30
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 10
+                        }
+                    ]
+                },
+                {
+                    "keyword": "printable puzzles for kids",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "word search printable",
+                    "spell": null,
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 5,
+                    "search_volume": 60500,
+                    "low_top_of_page_bid": 0.64,
+                    "high_top_of_page_bid": 2.72,
+                    "cpc": 2.12,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 60500
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 49500
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 40500
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 49500
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 74000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 74000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 60500
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 49500
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 60500
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 49500
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 49500
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 49500
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
