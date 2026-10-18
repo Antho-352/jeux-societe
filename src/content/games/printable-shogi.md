@@ -1,32 +1,46 @@
 ---
 title: "Printable Shogi"
 type: "board"
-summary: "Shogi (Japanese chess): a printable 9x9 board and cut-out pieces for two players."
+subtype: "template"
+summary: "A free printable shogi set: the 9x9 board, cut-out pieces with their promoted versions in red, a piece guide and a page of rules for Japanese chess."
 players_min: 2
 players_max: 2
-themes: ["shogi", "chess", "classic", "japanese"]
-mechanics: []
+themes: ["classic", "abstract", "chess", "japan"]
+mechanics: ["grid-movement", "capture", "drop"]
 languages: ["en"]
-components_included: ["9x9 board and pieces"]
-components_needed: ["scissors"]
+components_included: ["9x9 shogi board", "Cut-out pieces for both players, with red promoted pieces", "Piece guide and rules"]
+components_needed: ["Scissors"]
 pages: 3
 paper: "letter"
 colour: "colour"
 creator: "printablepaper"
 designers: []
 artists: []
-publisher: "Savetz Publishing, Inc. (FreePrintable.net network)"
-year: 2014
-licence: "Permission is granted to download, modify, and print the designs that are available from this site. You may use the prin"
+publisher: "Savetz Publishing"
+licence: "Free for personal use, © Savetz Publishing"
 licence_url: "https://www.freeprintable.net/terms.php?s=PrintablePaper.net"
 hosting_mode: "link"
 source_url: "https://www.printablepaper.net/preview/Shogi"
-status: "draft"
+status: "published"
 date_added: "2026-10-18"
+seo_title: "Printable shogi board and pieces: free Japanese chess PDF"
+seo_description: "Free printable shogi set from PrintablePaper.net: 9x9 board, cut-out wedge pieces with red promoted versions, a piece guide and the rules of Japanese chess. Three Letter pages."
 ---
+<!-- hand-edited -->
+## About this printable shogi set
 
-## About Printable Shogi
+This printable shogi set from PrintablePaper.net (Savetz Publishing) is a three-page introduction to Japanese chess: a 9x9 board, a sheet of pieces with their promoted forms printed in red, and a page that explains setup, movement, promotion, drops and checkmate. The pieces carry symbols rather than kanji only, which helps beginners.
 
-Shogi (Japanese chess): a printable 9x9 board and cut-out pieces for two players.
+Shogi is a cousin of Western chess with one big twist: captured pieces change sides. Instead of moving, you can drop a captured piece back onto the board as your own, so the game never thins out and an attack can come from anywhere. Pieces that reach the far three ranks may promote, gaining new moves. As in chess, the goal is to checkmate the opposing king.
 
-<!-- notes from the catalogue: Title on the category page: 'Shogi'. PDF footer brands the file 'www.PrintableBoardGames.net' / 'www.PrintablePaper.net' (Savetz Publishing network). Year = PDF CreationDate (20140702), i.e. when the file was generated, not necessarily when the design was first published. Colour determined from PDF colour operators (colour) and the site's preview image (bw). -->
+## How to use it
+
+1. Print all three pages and cut out the pieces. Both players use the same pieces and show ownership by pointing the narrow end at the opponent.
+2. Set up as the guide shows: king in the centre of the back row, flanked by gold and silver generals, knights and lances; bishop and rook on the second row; nine pawns on the third.
+3. Black moves first. On your turn move a piece, capture by landing on an enemy, or drop a captured piece on an empty square.
+4. Checkmate the king to win.
+
+## What's in the PDF
+
+- Page 1: the board. Page 2: pieces and promoted pieces with a guide. Page 3: rules.
+- US Letter, 3 pages, colour. The download is on the PrintablePaper.net preview page.

@@ -45,12 +45,12 @@ THEMES: dict[str, list[str]] = {
     "halloween": ["Pumpkin", "Ghost", "Witch", "Vampire", "Zombie", "Skeleton", "Spider", "Bat", "Candy", "Costume",
                   "Haunted", "Cauldron", "Broom", "Mummy", "Werewolf", "Lantern", "Spooky", "Trick", "Treat", "Cobweb"],
     "thanksgiving": ["Turkey", "Pilgrim", "Harvest", "Gravy", "Stuffing", "Cranberry", "Pumpkin pie", "Feast",
-                     "Family", "Thankful", "Corn", "Autumn", "Parade", "Mayflower", "Cornucopia", "Potatoes",
+                     "Family", "Thankful", "Apples", "Autumn", "Parade", "Mayflower", "Cornucopia", "Potatoes",
                      "Leaves", "Gratitude", "Football", "November"],
     "easter": ["Bunny", "Egg", "Basket", "Chick", "Lily", "Hunt", "Spring", "Candy", "Lamb", "Tulip", "Hop", "Nest",
                "Bonnet", "Jellybean", "Carrot"],
     "valentines": ["Heart", "Love", "Cupid", "Roses", "Chocolate", "Card", "Arrow", "Hug", "Kiss", "Friend",
-                   "Sweetheart", "Flowers", "Pink", "Red", "Candy", "Romance", "Valentine", "Secret", "Admirer",
+                   "Darling", "Flowers", "Pink", "Red", "Candy", "Romance", "Valentine", "Secret", "Admirer",
                    "February"],
     "summer": ["Beach", "Sunshine", "Swimming", "Popsicle", "Sandcastle", "Vacation", "Lemonade", "Sunglasses",
                "Picnic", "Camping", "Watermelon", "Flip flops", "Surfing", "Barbecue", "Pool", "Seashell", "Hammock",
@@ -58,13 +58,13 @@ THEMES: dict[str, list[str]] = {
     "winter": ["Snowflake", "Mittens", "Scarf", "Icicle", "Sledding", "Frost", "Blizzard", "Hot cocoa", "Snowman",
                "Skating", "Fireplace", "January", "Snowball", "Boots", "Chilly", "Igloo", "Penguin", "Skiing",
                "Sweater", "Freeze"],
-    "weather": ["Rain", "Snow", "Sunny", "Cloud", "Wind", "Storm", "Fog", "Hail", "Thunder", "Rainbow", "Sleet",
+    "weather": ["Drizzle", "Snow", "Sunny", "Cloud", "Wind", "Storm", "Fog", "Hail", "Thunder", "Rainbow", "Sleet",
                 "Hot", "Cold", "Breeze", "Ice"],
     "colours": ["Red", "Blue", "Green", "Yellow", "Orange", "Purple", "Pink", "Brown", "Black", "White", "Gray",
                 "Gold", "Silver", "Teal", "Violet"],
     "body": ["Head", "Shoulder", "Knee", "Toes", "Elbow", "Finger", "Stomach", "Heart", "Lungs", "Brain", "Skeleton",
-             "Muscle", "Ankle", "Wrist", "Tongue", "Eyebrow", "Ear", "Nose", "Neck", "Thumb"],
-    "transport": ["Car", "Bus", "Train", "Boat", "Plane", "Bike", "Truck", "Taxi", "Ship", "Subway", "Scooter",
+             "Muscle", "Ankle", "Wrist", "Tongue", "Eyebrow", "Chin", "Nose", "Neck", "Thumb"],
+    "transport": ["Car", "Bus", "Train", "Boat", "Plane", "Bike", "Truck", "Taxi", "Ship", "Metro", "Scooter",
                   "Tram", "Ferry", "Rocket", "Van"],
     "music": ["Guitar", "Piano", "Drums", "Violin", "Trumpet", "Flute", "Melody", "Rhythm", "Chorus", "Singer",
               "Orchestra", "Concert", "Tempo", "Harmony", "Banjo", "Cello", "Lyrics", "Notes", "Saxophone", "Clarinet"],
@@ -74,7 +74,7 @@ THEMES: dict[str, list[str]] = {
     "science": ["Molecule", "Gravity", "Experiment", "Hypothesis", "Microscope", "Chemistry", "Biology", "Physics",
                 "Electron", "Photosynthesis", "Evolution", "Atom", "Energy", "Magnet", "Ecosystem", "Laboratory",
                 "Volcano", "Telescope", "Genetics", "Velocity"],
-    "math": ["Addition", "Subtract", "Multiply", "Divide", "Fraction", "Decimal", "Angle", "Triangle", "Equation",
+    "math": ["Addition", "Subtract", "Multiply", "Divide", "Fraction", "Decimal", "Ratio", "Triangle", "Equation",
              "Number", "Graph", "Perimeter", "Area", "Sum", "Product", "Digit", "Even", "Odd", "Measure", "Geometry"],
     "sight-words": ["The", "And", "You", "Said", "Like", "Look", "Can", "See", "Play", "Come", "Here", "Little", "Big",
                     "Run", "Jump"],
@@ -150,16 +150,41 @@ def place_words(words, n, dirs, rng: random.Random):
     return grid, placements
 
 
-def fill_grid(grid, words, rng: random.Random, max_tries=60):
+def _creates_match(grid, r, c, words):
+    """True if the letter just written at (r, c) completes an extra copy of a word."""
+    n = len(grid)
+    ch = grid[r][c]
+    for w in words:
+        L = len(w)
+        for i, wc in enumerate(w):
+            if wc != ch:
+                continue
+            for dc, dr in ALL_DIRS:
+                sr, sc = r - dr * i, c - dc * i
+                er, ec = sr + dr * (L - 1), sc + dc * (L - 1)
+                if not (0 <= sr < n and 0 <= sc < n and 0 <= er < n and 0 <= ec < n):
+                    continue
+                if all(grid[sr + dr * k][sc + dc * k] == w[k] for k in range(L)):
+                    return True
+    return False
+
+
+def fill_grid(grid, words, rng: random.Random):
+    """Fill blanks with random letters, never completing an extra copy of a listed word."""
     n = len(grid)
     blanks = [(r, c) for r in range(n) for c in range(n) if grid[r][c] is None]
-    alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-    for _ in range(max_tries):
-        for r, c in blanks:
-            grid[r][c] = rng.choice(alphabet)
-        if all(count_occurrences(grid, w) == 1 for w in words):
-            return True
-    return False
+    rng.shuffle(blanks)
+    alphabet = list("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+    for r, c in blanks:
+        letters_ = alphabet[:]
+        rng.shuffle(letters_)
+        for ch in letters_:
+            grid[r][c] = ch
+            if not _creates_match(grid, r, c, words):
+                break
+        else:
+            return False
+    return all(count_occurrences(grid, w) == 1 for w in words)
 
 
 def generate(theme_words, difficulty, seed):
@@ -168,6 +193,9 @@ def generate(theme_words, difficulty, seed):
     for w in words:
         if len(w) > n:
             raise ValueError(f"'{w}' is longer than the {n}x{n} grid")
+        for other in words:
+            if other != w and (w in other or w[::-1] in other):
+                raise ValueError(f"'{w}' is hidden inside '{other}', so it cannot appear exactly once")
     for attempt in range(400):
         rng = random.Random(seed * 10007 + attempt)
         res = place_words(words, n, dirs, rng)

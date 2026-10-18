@@ -6,7 +6,6 @@ category: "board"
 summary: "Checkers (English draughts) is a two-player game on the dark squares of an 8×8 board where pieces move diagonally, jumps are compulsory and the last player able to move wins."
 players_min: 2
 players_max: 2
-age_min: 6
 time_min: 10
 time_max: 30
 equipment: ["8×8 board", "12 pieces per player in two colours"]

@@ -23,6 +23,12 @@ licence: "Free for personal use, © Nils"
 licence_url: "https://boardgamegeek.com/thread/2875719/article/40175530"
 hosting_mode: "link"
 source_url: "https://boardgamegeek.com/thread/2878068"
+files:
+  - { label: "Rules (PDF)", url: "https://raw.githubusercontent.com/nilsgeilen/public-doc/master/bismarcksdance/rules.pdf" }
+  - { label: "Cards and tokens (PDF)", url: "https://raw.githubusercontent.com/nilsgeilen/public-doc/master/bismarcksdance/deck.pdf" }
+  - { label: "Card backs (PDF)", url: "https://raw.githubusercontent.com/nilsgeilen/public-doc/master/bismarcksdance/back.pdf" }
+  - { label: "Player aid (PDF)", url: "https://raw.githubusercontent.com/nilsgeilen/public-doc/master/bismarcksdance/overview.pdf" }
+  - { label: "Board (PNG)", url: "https://raw.githubusercontent.com/nilsgeilen/public-doc/master/bismarcksdance/board.png" }
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Bismarck's Dance: free solo print and play card game"
@@ -33,7 +39,7 @@ seo_description: "Bismarck's Dance is a free solo print and play card game about
 
 Bismarck's Dance is a historical solitaire card game by Nils (7quark on BoardGameGeek). You play Otto von Bismarck as chancellor of the new German Empire, 1870 to 1890: keep France isolated, pull Britain, Russia, Austria-Hungary and Italy into the German sphere and keep parliament on your side, while crises in the Balkans, Africa and Asia erupt from the event row.
 
-It finished second overall in the BoardGameGeek 2022 Solitaire Print and Play Contest and first in the card-based and historical categories. The rulebook ends with four pages of historical notes, and the files have been updated since the contest (v1.2, 2026).
+It finished second overall in the BoardGameGeek 2022 Solitaire Print and Play Contest and first in the card-based and historical categories. The rulebook ends with four pages of historical notes, and.
 
 ## How to play in one minute
 
@@ -47,4 +53,4 @@ It finished second overall in the BoardGameGeek 2022 Solitaire Print and Play Co
 
 - Rulebook (10 pages, A4, colour) with a setup example and historical notes.
 - 62 cards, 5 flags and the A4 board on 8 pages, plus 7 pages of optional card backs.
-- One-page player aid. You add 7 discs and two dice; files are on the designer's GitHub, linked from the BGG thread.
+- One-page player aid. You add 7 discs and two dice;

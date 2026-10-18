@@ -24,6 +24,9 @@ licence: "Free for personal use, © Kevin Privalle"
 licence_url: "https://boardgamegeek.com/thread/2875719/article/40175530"
 hosting_mode: "link"
 source_url: "https://boardgamegeek.com/thread/2879216"
+files:
+  - { label: "Rules, board and cards (Google Drive)", url: "https://drive.google.com/drive/u/1/folders/1UjxRHgZ8jXFFqYJMhaNvVFjZHd2D4LYC" }
+  - { label: "Low-ink files and dice sheet (Google Drive)", url: "https://drive.google.com/drive/folders/1PxkxKvEkikxP0R30gakBz1iMDQjZnUGC" }
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Tubbataha: free solo print and play coral reef board game"
@@ -32,15 +35,15 @@ seo_description: "Tubbataha is a free solo print and play board game by Kevin Pr
 <!-- hand-edited -->
 ## About Tubbataha
 
-Tubbataha is a solo board game by Kevin Privalle about restoring the reef of the Tubbataha Natural Park in the Philippines. You are a marine biologist with two restoration labs, one for fish and one for coral. Coloured dice are your species and their value is their health; white dice are plankton, the food every tank and reef area needs each round; black cubes are invasive species that multiply and spread if you ignore them.
+Tubbataha is a solo board game by Kevin Privalle about restoring the reef of the Tubbataha Natural Park in the Philippines. You are a marine biologist. Coloured dice are your species and their value is their health; white dice are plankton, the food every tank and reef area needs each round.
 
-It won Best Board-Based Game at the BoardGameGeek 2022 Solitaire Print and Play Contest and finished 9th overall. It is the longest game in this batch, a puzzle of dice manipulation and worker placement where every card gives you two options and the realm you draw it from (fish or coral) limits where you may act.
+It won Best Board-Based Game at the BoardGameGeek 2022 Solitaire Print and Play Contest and finished 9th overall. It is the longest game in this batch, a puzzle of dice manipulation and worker placement.
 
 ## How to play in one minute
 
 1. Place 12 species chips in the reef, set the coloured dice in the research lab at 3, 2 and 1, and deal the 24 cards into a fish deck, a coral deck and a discard pile.
 2. Each round, play cards, place tool cubes or use research discoveries in any order: move a species die into a tank, raise a die by one, feed an area with a plankton die, reintroduce a die to a matching chip, or remove an invasive cube.
-3. Invasive species cards must be resolved at once: add a black cube where the card's table says; three cubes on a chip spread to its neighbours.
+3. Invasive species cards add a black cube to the reef; three cubes on a chip spread to its neighbours.
 4. At the end of the round, unfed species leave the reef or lose health, invasive cubes multiply, then reroll used plankton and reshuffle the cards.
 5. Win the moment all 12 species are in the reef, fed, with no invasive cubes. Lose if cubes fill all seven areas or round eight ends.
 
@@ -48,4 +51,4 @@ It won Best Board-Based Game at the BoardGameGeek 2022 Solitaire Print and Play 
 
 - Rulebook (9 pages, Letter) with a full example of a round.
 - Print-and-play file (11 pages): board, 24 cards, 12 species chips; plus a low-ink set, card backs and a dice sheet.
-- You add 20 dice and 29 cubes. Files are on the designer's Google Drive via the BGG thread.
+- You add 20 dice and 29 cubes.

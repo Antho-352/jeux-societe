@@ -23,6 +23,8 @@ licence: "Free for personal use, © Austin Charlie"
 licence_url: "https://boardgamegeek.com/thread/2875719/article/40175530"
 hosting_mode: "link"
 source_url: "https://boardgamegeek.com/thread/2885285"
+files:
+  - { label: "Rules, cards and printing guide (Google Drive)", url: "https://drive.google.com/drive/folders/1mI43Fp5QTr8zsGuvhCTUJNddYot9woAA" }
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Concrete Jungle: free solo print and play card game"
@@ -33,13 +35,13 @@ seo_description: "Concrete Jungle is a free solo print and play card game about 
 
 Concrete Jungle is a solo card game about free-running by Austin Charlie (acharlie1377 on BoardGameGeek), entered in the 2022 Solitaire Print and Play Contest, where it placed 19th overall. You are an ape that has just escaped from poachers and must cross the rooftops of a strange city to reach the trees before you are caught.
 
-What makes it worth printing is the double-sided deck. One face of every card is a stretch of rooftop, a 5x7 grid of run, swing, blocked and midair points; the other face is a movement skill such as Leap, Run or Kong Leap. The same deck is your map, your hand and your timer. Five apes and three game lengths (16, 32 or 48 cards) add replay value.
+The hook is the double-sided deck: one face of every card is a stretch of rooftop, a 5x7 grid of run, swing, blocked and midair points; the other is a movement skill. The same deck is your map, your hand and your timer.
 
 ## How to play in one minute
 
 1. Pick an ape, deal four map cards in a row, draw four skill cards and place your active cube at the left of the map.
 2. Each turn play one action skill (plus any reflexes) and move your cube along the points exactly as the card says, or scramble: lose 1 lead, bury a card and make one basic move.
-3. If a movement ends in midair, resolve freefall: land on a solid point or drop off the bottom of the map and get caught.
+3. A movement ending in midair triggers freefall; dropping off the bottom of the map gets you caught.
 4. At the end of the turn adjust momentum, slide the map left and add new cards, then the pursuers advance: too few cards in play costs you 1 lead.
 5. You lose when your lead reaches 0. You win by moving past the right edge of the last map card once the deck is empty.
 
@@ -47,4 +49,4 @@ What makes it worth printing is the double-sided deck. One face of every card is
 
 - Rules v3.0 (10 pages, Letter), printing instructions and a reference card.
 - 54 cards for duplex printing on 12 Letter pages, in colour or low ink. The first 4 pages (18 cards) are enough for a short game as the Chimpanzee.
-- You add 5 cubes. The files are on the designer's Google Drive, linked from the BGG thread.
+- You add 5 cubes.

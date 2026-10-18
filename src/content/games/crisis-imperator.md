@@ -24,6 +24,8 @@ licence: "Free for personal use, © 2022 Brian Athey"
 licence_url: "https://boardgamegeek.com/thread/2875719/article/40175530"
 hosting_mode: "link"
 source_url: "https://boardgamegeek.com/boardgame/404325/crisis-imperator"
+files:
+  - { label: "Rules, cards and expansion (Google Drive)", url: "https://drive.google.com/drive/folders/1vwK5P6vkazMBSsK01zV7cRbVJLgK02AX" }
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Crisis Imperator: free solo print and play sci-fi game"
@@ -32,9 +34,9 @@ seo_description: "Crisis Imperator is a free solo print and play sci-fi card gam
 <!-- hand-edited -->
 ## About Crisis Imperator
 
-Crisis Imperator is a solo card game by Brian Athey set in a galactic empire rotting from the inside. Alien races attack, governors mutiny, and the Grand Senate has handed you dictatorial powers as Imperator. You have twelve rounds to crush one of the four enemies without losing the Senate's support, or you will be deposed.
+Crisis Imperator is a solo card game by Brian Athey set in a galactic empire rotting from the inside. Alien races attack, governors mutiny, and the Senate has made you Imperator. You have twelve rounds to crush one of four enemies without losing the Senate's support.
 
-The game won Best Complex Game, Best Graphic Design, Best Sci-Fi Game and Best Game Designed in the Contest Timeframe at the BoardGameGeek 2022 Solitaire Print and Play Contest, and placed 12th overall. It is the heaviest game in this batch, inspired by state-of-siege designs such as Defenders of the Realm. The card art was made with AI image tools, as the designer states in the thread. The files were updated to v1.2 in October 2023.
+The game won Best Complex Game, Best Graphic Design and Best Sci-Fi Game at the BoardGameGeek 2022 Solitaire Print and Play Contest, and placed 12th overall. It is the heaviest game in this batch, inspired by state-of-siege designs such as Defenders of the Realm. The card art was made with AI image tools, as the designer states.
 
 ## How to play in one minute
 
@@ -46,6 +48,5 @@ The game won Best Complex Game, Best Graphic Design, Best Sci-Fi Game and Best G
 
 ## What's in the PDF
 
-- Rulebook v1.2 as a 20-page A5 booklet for print or an 11-page screen version, plus a low-ink edition.
+- Rulebook v1.2: 20-page A5 print booklet, 11-page screen version, low-ink edition.
 - Core set: 71 cards, cube and dice nets on 25 pages (A4 and Letter, colour and low ink); expansion cards on 22 pages.
-- Files are on the designer's Google Drive via the BGG thread, and on the BGG game page.

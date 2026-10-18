@@ -1,33 +1,47 @@
 ---
-cover: "/img/games/printable-reversi-board.png"
 title: "Printable Reversi Board"
 type: "board"
-summary: "A Reversi (Othello) board with printable two-sided discs for two players."
+subtype: "template"
+summary: "A free printable Reversi board: an 8x8 board, a sheet of two-tone discs to cut out and a page of rules for the classic flipping game also sold as Othello."
 players_min: 2
 players_max: 2
-themes: ["reversi", "othello", "abstract"]
-mechanics: []
+themes: ["classic", "abstract", "reversi"]
+mechanics: ["flipping", "area-control"]
 languages: ["en"]
-components_included: ["8x8 board and two-sided discs"]
-components_needed: ["scissors"]
+components_included: ["8x8 board", "Two-tone discs to cut out (dark on one half, light on the other)", "Rules"]
+components_needed: ["Scissors"]
 pages: 3
 paper: "letter"
 colour: "colour"
 creator: "printablepaper"
 designers: []
 artists: []
-publisher: "Savetz Publishing, Inc. (FreePrintable.net network)"
-year: 2014
-licence: "Permission is granted to download, modify, and print the designs that are available from this site. You may use the prin"
+publisher: "Savetz Publishing"
+licence: "Free for personal use, © Savetz Publishing"
 licence_url: "https://www.freeprintable.net/terms.php?s=PrintablePaper.net"
 hosting_mode: "link"
 source_url: "https://www.printablepaper.net/preview/Reversi_Board"
-status: "draft"
+cover: "/img/games/printable-reversi-board.png"
+status: "published"
 date_added: "2026-10-18"
+seo_title: "Printable Reversi board and discs (free PDF)"
+seo_description: "Free printable Reversi board from PrintablePaper.net: an 8x8 board, two-tone discs to cut out and a page of rules for the classic flipping game. Three Letter pages, colour."
 ---
+<!-- hand-edited -->
+## About this printable Reversi board
 
-## About Printable Reversi Board
+This printable Reversi board from PrintablePaper.net (Savetz Publishing) gives you an 8x8 board, a sheet of discs to cut out and a page of rules. The discs are printed dark on one half and light on the other, so instead of flipping them you turn them around to change colour.
 
-A Reversi (Othello) board with printable two-sided discs for two players.
+Reversi is a two-player abstract game from 19th-century England, sold today under the trademark Othello. Every move must trap a line of the opponent's discs between the disc you place and one of yours, and every trapped disc changes colour. A game can swing wildly in the last few moves, which is why it is said to take a minute to learn and a lifetime to master. Our [Reversi rules page](/rules/reversi/) explains the opening position, legal moves, passing and strategy for beginners.
 
-<!-- notes from the catalogue: Title on the category page: 'Reversi Board'. PDF footer brands the file 'www.PrintableBoardGames.net' / 'www.PrintablePaper.net' (Savetz Publishing network). Year = PDF CreationDate (20140514), i.e. when the file was generated, not necessarily when the design was first published. Colour determined from PDF colour operators (bw) and the site's preview image (colour). -->
+## How to use it
+
+1. Print the three pages; card stock makes the discs easier to handle. Coins with heads and tails also work.
+2. Place two dark and two light discs diagonally in the four centre squares.
+3. Dark moves first. Place a disc so that it traps one or more opponent discs in a straight or diagonal line, then turn them to your colour.
+4. If you have no legal move, pass. When neither player can move, the player with more discs wins.
+
+## What's in the PDF
+
+- Page 1: the board. Page 2: discs. Page 3: rules.
+- US Letter, 3 pages, colour. The download is on the PrintablePaper.net preview page.

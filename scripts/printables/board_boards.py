@@ -558,15 +558,15 @@ def farkle_score() -> Path:
     c.drawString(MARGIN + 8, top - 22, "Scoring (dice from one roll only)")
     left = [
         "Single 1 ............ 100", "Single 5 ............. 50",
-        "Three 1s ............ 300 (house rules: 1,000)", "Three 2s ............ 200",
+        "Three 1s .......... 1,000", "Three 2s ............ 200",
         "Three 3s ............ 300", "Three 4s ............ 400",
         "Three 5s ............ 500", "Three 6s ............ 600",
     ]
     right = [
         "Four of a kind ........... 1,000", "Five of a kind ........... 2,000",
-        "Six of a kind ............ 3,000", "Straight 1-2-3-4-5-6 ..... 1,500",
-        "Three pairs .............. 1,500", "Four of a kind + a pair .. 1,500",
-        "Two triplets ............. 2,500", "Opening turn: bank 500 or more first",
+        "Six of a kind ............ 3,000", "Three pairs .............. 1,500",
+        "Straight 1-2-3-4-5-6 ..... 2,500", "Boxed-game rules: three 1s 300,",
+        "  straight 1,500, two triplets 2,500", "Agree house rules before you start",
     ]
     c.setFont("Courier", 8.2)
     for i, line in enumerate(left):

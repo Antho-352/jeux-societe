@@ -6,9 +6,6 @@ category: "tile"
 summary: "Dominoes is a tile game for 2 to 4 players: match the pips on the ends of a line of tiles, be the first to empty your hand, and score the pips left in your opponents' hands."
 players_min: 2
 players_max: 4
-age_min: 5
-time_min: 10
-time_max: 30
 equipment: ["double-six domino set (28 tiles)", "paper and pencil for scoring"]
 public_domain: true
 sources:

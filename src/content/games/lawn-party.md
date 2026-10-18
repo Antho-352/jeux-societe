@@ -24,6 +24,8 @@ licence: "Free for personal use, © Michael Erceg"
 licence_url: "https://boardgamegeek.com/thread/2875719/article/40175530"
 hosting_mode: "link"
 source_url: "https://boardgamegeek.com/thread/2881537"
+files:
+  - { label: "Rules and cards (Google Drive)", url: "https://drive.google.com/drive/folders/1UFRnKSEQ4CqdoM58GOkdTzV_K-z39q6C" }
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Lawn Party: free 18-card solo print and play game"
@@ -34,7 +36,7 @@ seo_description: "Lawn Party is a free 18-card solo print and play game by Micha
 
 Lawn Party is an 18-card solo game by Michael Erceg, illustrated by Lucas Bertolucci. The party is a week away and the lawn is a mess. Each day the grass grows and you mow twice, and the trick is that short grass reveals the wildlife underneath: snails, flowers, mushrooms and the odd rock that stops your mower dead.
 
-It placed 20th overall at the BoardGameGeek 2022 Solitaire Print and Play Contest and 4th for Best Use of Theme. It is the quickest print in this batch: six pages for the cards, two pages of rules, fifteen minutes to play. The lawn cards are flipped and rotated to show grass at levels 1 to 4, so the whole lawn is on the table and the game is mostly planning.
+It placed 20th overall at the BoardGameGeek 2022 Solitaire Print and Play Contest and 4th for Best Use of Theme. The lawn cards are flipped and rotated to show grass at levels 1 to 4, so the whole lawn is on the table and the game is mostly planning.
 
 ## How to play in one minute
 
@@ -48,4 +50,4 @@ It placed 20th overall at the BoardGameGeek 2022 Solitaire Print and Play Contes
 
 - Rulebook (2 pages, Letter) with an example of scoring.
 - 18 cards on 6 pages, in full colour or low ink, to print double-sided.
-- A 3-page example game. The files are on the designer's Google Drive via the BGG thread.
+- A 3-page example game.

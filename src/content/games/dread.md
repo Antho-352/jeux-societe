@@ -24,6 +24,8 @@ licence: "Free for personal use, © Michael Erceg"
 licence_url: "https://boardgamegeek.com/thread/2875719/article/40175530"
 hosting_mode: "link"
 source_url: "https://boardgamegeek.com/thread/2876121"
+files:
+  - { label: "Rules and cards (Google Drive)", url: "https://drive.google.com/drive/folders/1nkRsngUnVJnVrNSueOr6p0ts0bU1iwML" }
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Dread: free solo print and play monster-hunter card game"
@@ -32,9 +34,9 @@ seo_description: "Dread is a free solo print and play card game by Michael Erceg
 <!-- hand-edited -->
 ## About Dread
 
-Dread is a solo card game by Michael Erceg, with art by Vera Danilina. You are the last hunter of your kind, alone in a graveyard at night, and the ghouls and vampires keep coming out of the ground. Each mission takes about ten minutes: cross the map, reach your objectives, and never let an enemy step onto your square.
+Dread is a solo card game by Michael Erceg, with art by Vera Danilina. You are the last hunter of your kind, and ghouls and vampires keep rising from the graves.
 
-It won Best Horror Game and Best Explore and Experience Game at the BoardGameGeek 2022 Solitaire Print and Play Contest, and finished 10th overall. The clever part is the action deck: you play one or two cards a turn, and when you overlap two, the middle action is hidden, so you get three actions out of two cards. The deck never reshuffles during a mission, so it is also your energy and ammunition. Three campaigns add bosses such as the Vampire Sisters and the Ghoul Queen.
+It won Best Horror Game and Best Explore and Experience Game at the BoardGameGeek 2022 Solitaire Print and Play Contest, and finished 10th overall. The clever part is the action deck: you play one or two cards a turn, and when you overlap two, the middle action is hidden, so you get three actions out of two cards. The deck never reshuffles during a mission. Three campaigns add bosses such as the Vampire Sisters and the Ghoul Queen.
 
 ## How to play in one minute
 
@@ -48,4 +50,4 @@ It won Best Horror Game and Best Explore and Experience Game at the BoardGameGee
 
 - Rulebook (9 pages, Letter) with basic rules, figures and campaign rules.
 - All cards in colour on 16 double-sided Letter pages, or a low-ink set on 8 pages: action deck, spawn deck, map cards, boss cards.
-- You add a pawn, a few tokens and three dice. Files are on the designer's Google Drive via the BGG thread.
+- You add a pawn, a few tokens and three dice.

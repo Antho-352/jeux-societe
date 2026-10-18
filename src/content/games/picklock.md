@@ -24,6 +24,8 @@ licence: "Free for personal use, © Steven Tondeur"
 licence_url: "https://boardgamegeek.com/thread/2875719/article/40175530"
 hosting_mode: "link"
 source_url: "https://boardgamegeek.com/boardgame/476115/picklock"
+files:
+  - { label: "Rules v3.2 (Google Doc)", url: "https://docs.google.com/document/d/1QewiUASKOLe9wObO2oTqM3nL67uFr_xQWE0ZSJ2TLlQ/edit" }
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Picklock!: free solo game for a standard deck of cards"
@@ -32,9 +34,9 @@ seo_description: "Picklock! is a free solo card game by Steven Tondeur played wi
 <!-- hand-edited -->
 ## About Picklock!
 
-Picklock! is a solo game by Steven Tondeur that needs nothing but a standard deck of cards and the rules. Henry the burglar is stuck in an alley with sirens closing in, and the only thing between him and his safe house is one last tumbler lock. You play number cards to probe the four pins, work out which one binds next, and lift it to exactly the right height.
+Picklock! is a solo game by Steven Tondeur that needs nothing but a standard deck of cards and the rules. Henry the burglar needs to open one last tumbler lock before the police arrive.
 
-It placed 13th overall at the BoardGameGeek 2022 Solitaire Print and Play Contest, second for Best Use of Theme and third among new solo designers. The theme does real work: face cards set the binding strength and noise limit, suits lock a pin to one colour while you probe it, and the last three cards you played as noise must stay under the limit or the neighbours hear you. The rules include easier and harder variants.
+It placed 13th overall at the BoardGameGeek 2022 Solitaire Print and Play Contest and second for Best Use of Theme. The theme does real work: face cards set the noise limit, and the last three cards you played as noise must stay under it or the neighbours hear you. The rules include easier and harder variants.
 
 ## How to play in one minute
 

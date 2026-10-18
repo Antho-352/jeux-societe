@@ -24,6 +24,8 @@ licence: "Free for personal use, © 2022 Brian Athey"
 licence_url: "https://boardgamegeek.com/thread/2875719/article/40175530"
 hosting_mode: "link"
 source_url: "https://boardgamegeek.com/thread/2898411"
+files:
+  - { label: "Rules and cards (Google Drive)", url: "https://drive.google.com/drive/folders/1In5lcFV4jJq7_JzOUuQNXTvOsu_CYD8L" }
 status: "published"
 date_added: "2026-10-18"
 seo_title: "HMS Speedy: free solo print and play Age of Sail card game"
@@ -32,9 +34,9 @@ seo_description: "HMS Speedy, Cruise for Glory is a free solo print and play car
 <!-- hand-edited -->
 ## About HMS Speedy: Cruise for Glory
 
-HMS Speedy: Cruise for Glory is a solo card game by Brian Athey that retells the 1800 to 1801 Mediterranean cruise of a 14-gun Royal Navy brig under Lieutenant Thomas Cochrane. You escort convoys, raid shipping, knock out shore batteries and train your crew, until the enemy sends a privateer frigate with seven times your broadside to stop you. Beat it and you make the captain's list.
+HMS Speedy: Cruise for Glory is a solo card game by Brian Athey that retells the 1800 to 1801 Mediterranean cruise of a 14-gun Royal Navy brig under Lieutenant Thomas Cochrane. You raid shipping and train your crew until the enemy sends a privateer frigate to stop you.
 
-The game placed 8th overall at the BoardGameGeek 2022 Solitaire Print and Play Contest and second for Best Rule Book. It is a melding and splaying game: every card you resolve is turned so that its result edge lines up with the ship card, and the row of overlapping cards is your running record of manpower, provisions, seaworthiness, speed, morale, gunnery, sailing and leadership.
+The game placed 8th overall at the BoardGameGeek 2022 Solitaire Print and Play Contest and second for Best Rule Book. Every card you resolve is turned so that its result edge lines up with the ship card, and the row of overlapping cards tracks your ship and crew traits.
 
 ## How to play in one minute
 
@@ -48,4 +50,3 @@ The game placed 8th overall at the BoardGameGeek 2022 Solitaire Print and Play C
 
 - Rulebook v1.1 (A5): 16-page print booklet, 9-page screen version and a low-ink edition.
 - 31 square cards (70 x 70 mm) on 11 pages, in A4 and Letter layouts, full colour or low ink.
-- Everything is on the designer's Google Drive via the BGG thread.

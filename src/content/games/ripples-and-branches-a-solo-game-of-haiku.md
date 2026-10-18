@@ -23,6 +23,9 @@ licence: "Free for personal use, © Matt Hanna"
 licence_url: "https://boardgamegeek.com/thread/2875719/article/40175530"
 hosting_mode: "link"
 source_url: "https://boardgamegeek.com/thread/2861040"
+files:
+  - { label: "Rules v2 (PDF)", url: "https://drive.google.com/file/d/1hgktpfZSCMImITpJXKxSp2Nz6co1jS05/view" }
+  - { label: "Player aid (PDF)", url: "https://drive.google.com/file/d/1har9bv3ZTegFc0L4Fxryqww8P5qQYWb7/view" }
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Ripples and Branches: free solo haiku game for a card deck"
@@ -31,9 +34,9 @@ seo_description: "Ripples and Branches is a free solo game for a standard deck o
 <!-- hand-edited -->
 ## About Ripples and Branches: A Solo Game of Haiku
 
-Ripples and Branches is a solo game by Matt Hanna that turns an ordinary deck of cards into a poet's walk. You have just arrived in a village and want to win over a patron of the arts. By playing cards against an inspiration pile you either collect ideas, which wait for you at the location matching their suit, or move on to the next place. Back in the village you hand over lines of poetry whose values add up to 5, 7 and 5 syllables.
+Ripples and Branches is a solo game by Matt Hanna that turns an ordinary deck of cards into a poet's walk. You want to win over a patron of the arts. By playing cards against an inspiration pile you either collect ideas, which wait for you at the location matching their suit, or move on to the next place. Back in the village you hand over lines of poetry whose values add up to 5, 7 and 5 syllables.
 
-It won Most Original Theme at the BoardGameGeek 2022 Solitaire Print and Play Contest and placed 7th overall. There is nothing to cut out. Face cards are patrons or fellow poets who ask for inspiration, jokers are friends who let you rearrange the deck, and a two-patron variant raises the challenge.
+It won Most Original Theme at the BoardGameGeek 2022 Solitaire Print and Play Contest and placed 7th overall. A two-patron variant raises the challenge.
 
 ## How to play in one minute
 
@@ -47,4 +50,3 @@ It won Most Original Theme at the BoardGameGeek 2022 Solitaire Print and Play Co
 
 - Rules v2 (6 pages, Letter, colour) with setup diagrams and a two-patron variant.
 - A one-page player aid.
-- Both are on the designer's Google Drive, linked from the BGG thread.

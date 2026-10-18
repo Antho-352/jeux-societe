@@ -24,6 +24,8 @@ licence: "Free for personal use, © Lachlan Kadick"
 licence_url: "https://boardgamegeek.com/thread/2875719/article/40175530"
 hosting_mode: "link"
 source_url: "https://boardgamegeek.com/boardgame/398700/purzon-the-travelling-merchant"
+files:
+  - { label: "Rules and tiles (Google Drive)", url: "https://drive.google.com/drive/folders/1hcTNyGpqW5QBE7Gd_UGsLN_jvIju0xIm" }
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Purzon: free solo print and play hex tile game for ages 6+"
@@ -32,9 +34,9 @@ seo_description: "Purzon: The Travelling Merchant is a free solo print and play 
 <!-- hand-edited -->
 ## About Purzon: The Travelling Merchant
 
-Purzon is a cat merchant with a cart full of food, knowledge and technology goods, and a solo tile-laying game by Lachlan Kadick. You lay hexagonal road tiles in front of Purzon as he travels the realm, and wherever two buildings of the same kind end up side by side he can sell a matching cube. Sell everything before the tiles run out and the day is a success.
+Purzon is a cat merchant with a cart full of food, knowledge and technology goods, and a solo tile-laying game by Lachlan Kadick. You lay hexagonal road tiles in front of Purzon as he travels the realm, and wherever two buildings of the same kind end up side by side he can sell a matching cube.
 
-It placed 11th overall at the BoardGameGeek 2022 Solitaire Print and Play Contest and second in the explore-and-experience category. With a 6+ age rating and a ten-minute play time it is one of the easiest contest games to bring to the family table, and the colourful art is by the designer.
+It placed 11th overall at the BoardGameGeek 2022 Solitaire Print and Play Contest. With a 6+ age rating and a ten-minute play time it is an easy family pick.
 
 ## How to play in one minute
 
@@ -48,4 +50,4 @@ It placed 11th overall at the BoardGameGeek 2022 Solitaire Print and Play Contes
 
 - Rules (3 pages, Letter) with four variants, including a Home tile mode.
 - Tiles and tokens on 6 pages in full colour or low ink, a 2-page mini version, large 5-sheet sets and a box.
-- You add 30 cubes and a pawn (an STL file is provided). Files are on the designer's Google Drive via the BGG thread.
+- You add 30 cubes and a pawn (an STL file is provided).

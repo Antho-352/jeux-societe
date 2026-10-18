@@ -6,8 +6,7 @@ category: "board"
 summary: "Chess is a two-player strategy game on an 8×8 board where each side moves 16 pieces with their own ways of moving and the aim is to checkmate the opposing king."
 players_min: 2
 players_max: 2
-age_min: 6
-time_min: 10
+time_min: 20
 time_max: 90
 equipment: ["8×8 board", "16 white and 16 black pieces", "optional chess clock"]
 public_domain: true
@@ -24,13 +23,13 @@ seo_description: "Chess rules explained simply: setting up the board, how every 
 <!-- hand-edited -->
 ## What you need
 
-A board of 64 squares, alternately light and dark, and two sets of 16 pieces: a king, a queen, two rooks, two bishops, two knights and eight pawns per side. A clock is used in clubs but is not needed at home. Our printable gives you the board with coordinates and a strip of lettered tokens if you have no set.
+A board of 64 squares, alternately light and dark, and two sets of 16 pieces: a king, a queen, two rooks, two bishops, two knights and eight pawns per side. A clock is optional at home. Our printable gives you the board with coordinates and a strip of lettered tokens if you have no set.
 
 ## Setup
 
 Place the board so that each player has a light square in their right-hand corner. White's pieces go on the first two ranks (rows): rooks in the corners, then knights, then bishops, with the queen on her own colour (the white queen on the light square d1) and the king beside her on e1. The eight pawns fill the second rank. Black mirrors this on ranks 7 and 8, queen on the dark square d8.
 
-White always moves first. Players then alternate, one move per turn, and passing is not allowed.
+White always moves first. Players then alternate, one move each; passing is not allowed.
 
 ## How to play
 
@@ -74,14 +73,13 @@ In tournaments a win scores 1 point, a draw ½ and a loss 0.
 
 - **Blitz and rapid**: the same rules played with a clock, typically 3 to 5 minutes per player for blitz and 10 to 60 minutes for rapid.
 - **Chess960 (Fischer random)**: the back-rank pieces are shuffled into one of 960 starting positions and castling is adapted accordingly.
-- **Touch-move**: a club habit written into the FIDE Laws. If you deliberately touch a piece you must move it; say "I adjust" (or the French "j'adoube") before straightening one.
+- **Touch-move**: under the FIDE Laws a piece you deliberately touch must be moved if it can; say "I adjust" before straightening one.
 
 ## Tips for first games
 
 - Bring your knights and bishops out early and castle within the first ten moves.
 - Fight for the four centre squares with pawns and pieces.
 - Before every move, ask what your opponent's last move threatens.
-- Keep the queen at home at first; brought out too early it gets chased around and loses you time.
 - Learn the rough piece values (pawn 1, knight and bishop 3, rook 5, queen 9) to judge exchanges.
 
 ## Frequently asked questions
@@ -89,8 +87,6 @@ In tournaments a win scores 1 point, a draw ½ and a loss 0.
 **Can the king capture pieces?** Yes, like any other piece, as long as the square it lands on is not attacked.
 
 **Can a pawn move backwards or capture straight ahead?** No. Pawns only move forward and only capture diagonally.
-
-**What happens if I touch a piece by accident?** In a friendly game, nothing. Under FIDE rules you must move the piece you touched if it has a legal move, unless you announced "I adjust" first.
 
 **Is stalemate a win for the stronger side?** No. Stalemate is a draw, which is why a beginner with a big material lead should keep checking that the opponent still has a move.
 

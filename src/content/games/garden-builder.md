@@ -21,6 +21,9 @@ licence: "Free for personal use, © Janine Viglietti and mle_"
 licence_url: "https://boardgamegeek.com/thread/2875719/article/40175530"
 hosting_mode: "link"
 source_url: "https://boardgamegeek.com/thread/2882023"
+files:
+  - { label: "Full art files and rules v2 (Google Drive)", url: "https://drive.google.com/drive/folders/1xHtnf9-LdJqAUUb2HPzDZgDDs7IzeWQP" }
+  - { label: "Low-ink files and rules v1.1 (Google Drive)", url: "https://drive.google.com/drive/folders/1FQkTaZZFHzolK-2RBBJE0zG63xyBV5lc" }
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Garden Builder: free solo print and play board game"
@@ -29,9 +32,9 @@ seo_description: "Garden Builder is a free solo print and play board game: draft
 <!-- hand-edited -->
 ## About Garden Builder
 
-Garden Builder is a solo board game by Janine "Doc" Viglietti and mle_, the second game in their Builder series. Grass, who needs it? You turn a bare yard into a garden of tomatoes, peppers, squash, corn, beans and marigolds, decorated with a path, garden gnomes and plastic flamingos, while pests nibble at anything the marigolds do not protect.
+Garden Builder is a solo board game by Janine "Doc" Viglietti and mle_, the second game in their Builder series. You turn a bare yard into a garden of tomatoes, peppers, squash, corn, beans and marigolds, with a path, gnomes and plastic flamingos, while pests nibble at your plants.
 
-It finished 5th overall at the BoardGameGeek 2022 Solitaire Print and Play Contest and won the point-salad category. Every plant has a seed pattern you must lay with coloured cubes before it grows, and the plants interact: beans make neighbours cheaper, marigolds multiply tomatoes, squash, corn and beans together earn a bonus. A quick Balcony Mode uses a corner of the board.
+It finished 5th overall at the BoardGameGeek 2022 Solitaire Print and Play Contest and won the point-salad category. Every plant has a seed pattern you must lay with coloured cubes before it grows, and the plants interact: beans make neighbours cheaper, marigolds multiply tomatoes, squash, corn and beans together earn a bonus.
 
 ## How to play in one minute
 
@@ -45,4 +48,4 @@ It finished 5th overall at the BoardGameGeek 2022 Solitaire Print and Play Conte
 
 - Rules v1.1 (9 pages, Letter) in the low-ink folder; rules v2.0 as a DOCX in the full-art folder.
 - Board on two pages, plant cards, garden cards and token sheets, in full colour or a 9-page low-ink layout.
-- You add 18 cubes. Both Google Drive folders are linked from the BGG thread.
+- You add 18 cubes.

@@ -49,7 +49,7 @@ def write_entry(item, type_, folder, pages, grid, count, body_pdf, difficulty=No
         fm.append(f"age_band: {q(age)}")
     fm += [
         f"themes: {json.dumps(item['themes'])}",
-        f"occasions: {json.dumps(item['occasions'])}",
+        f"occasions: {json.dumps(item.get('occasions', []))}",
         f"pages: {pages}",
         'paper: "both"',
         'colour: "bw"',

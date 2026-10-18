@@ -24,6 +24,8 @@ licence: "Free for personal use, © D. Teuber 2022"
 licence_url: "https://boardgamegeek.com/thread/2875719/article/40175530"
 hosting_mode: "link"
 source_url: "https://boardgamegeek.com/boardgame/372844/hide-nor-hare"
+files:
+  - { label: "Rules, board and tiles (Google Drive)", url: "https://drive.google.com/drive/folders/1gvuOEqUStvOiH1o2RO4Odup4DxnPrd1d" }
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Hide nor Hare: free solo print and play dice puzzle game"
@@ -32,20 +34,20 @@ seo_description: "Hide nor Hare is a free solo print and play dice puzzle by D. 
 <!-- hand-edited -->
 ## About Hide nor Hare
 
-Hide nor Hare is a solo dice puzzle by D. Teuber. Hattie Hare has gathered her friends in the park for hide and seek, and you place them, the trees they hide behind and the pigeons that count what they can see, on a 6x6 grid. The game is based on Rabbits, a logic puzzle by Andrea Sabbatini, and the rules reproduce six of his puzzles as an appendix.
+Hide nor Hare is a solo dice puzzle by D. Teuber. Hattie Hare's friends are playing hide and seek, and you place them, the trees they hide behind and the pigeons that watch them on a 6x6 grid. The game is based on Rabbits, a logic puzzle by Andrea Sabbatini.
 
-It won Best PnP at the BoardGameGeek 2022 Solitaire Print and Play Contest and came second among dice-based games. The whole game is seven A4 pages, and the one-page low-ink sheet turns it into a roll and write. It is a good pick for sudoku fans: every row and column must end with exactly one friend and one tree, and each pigeon must show the number of friends it can see in a straight line, with trees blocking the view.
+It won Best PnP at the BoardGameGeek 2022 Solitaire Print and Play Contest and came second among dice-based games. The low-ink sheet turns it into a roll and write. It is a good pick for sudoku fans: every row and column must end with exactly one friend and one tree, and each pigeon must show the number of friends it can see in a straight line, with trees blocking the view.
 
 ## How to play in one minute
 
 1. Sort the 40 tiles by type next to the board and keep your three flower tiles.
 2. Each turn roll three dice; each die stands for a row or column of its number.
 3. Place one friend, one tree and one pigeon (a 0, 1 or 2) in the row or column of a die each, never doubling a friend, tree or pigeon type in a line. If you cannot place a friend or tree, place a pigeon; if you cannot place a pigeon, cover one with a stone.
-4. Spend a flower to reroll, clear the stones from a line, or move a tile.
+4. Spend a flower to reroll, clear stones or move a tile.
 5. You win when 6 friends, 6 trees and 10 pigeons are placed and every pigeon's count is right. Score 3 points per pigeon and 1 per unused flower.
 
 ## What's in the PDF
 
-- Rules (4 pages, A4, colour) with an example, difficulty settings and the bonus puzzles.
+- Rules (4 pages, A4, colour) with difficulty settings and bonus puzzles.
 - Board and 40 tiles on two A4 pages in full colour.
-- A one-page low-ink roll-and-write sheet. Files are on the designer's Google Drive via the BGG thread and on the BGG game page.
+- A one-page low-ink roll-and-write sheet.
