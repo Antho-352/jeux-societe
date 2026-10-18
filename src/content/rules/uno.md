@@ -27,8 +27,6 @@ seo_description: "The official UNO rules in plain words: setup, matching by colo
 
 An UNO deck and 2 to 10 players. The classic deck has 108 cards: for each of the four colours (red, yellow, green, blue) one 0, two each of 1 to 9, two Skip, two Reverse and two Draw Two; plus four Wild and four Wild Draw Four cards. Decks sold since 2015 add a Wild Swap Hands or Wild Shuffle Hands card and three blank customisable Wild cards; you can leave those out for the classic game.
 
-Pen and paper if you play to 500 points. For a single round, nothing else.
-
 ## Setup
 
 Everyone draws a card; the highest number deals (symbol cards count as zero). The dealer gives 7 cards to each player, puts the rest face down as the draw pile and turns the top card over to start the discard pile.
@@ -72,16 +70,13 @@ Mattel's current rules (since 2022, per Wikipedia) make winning the round the wh
 - **Two players.** Reverse acts as Skip; after a Skip you play again at once; after a Draw Two or Wild Draw Four, the turn comes straight back to you.
 - **Partners.** Four players in two teams sitting opposite. The round ends when either partner goes out; the team scores the opponents' cards.
 - **Stacking.** House rule: a player hit by a Draw Two may play their own Draw Two to pass the penalty on, cumulatively. Not in the official rules.
-- **Jump-in.** House rule: a player holding the exact same card as the top discard may play it out of turn.
-- **Seven-O.** House rule: a 7 swaps hands with a player of your choice, a 0 passes every hand one seat along.
 - **Swap Hands and Shuffle Hands.** The newer Wild cards: swap your hand with any player, or collect every hand, shuffle and redeal.
 
 ## Tips for first games
 
-- Keep a Wild for when you are stuck, not for show; drawing is what loses rounds.
-- Play action cards when the next player is low on cards.
-- Shed your 50-point and 20-point cards before anyone looks like going out.
-- Say "UNO" loudly and early. Every group has one player who lives to catch the others.
+- Keep a Wild for when you are stuck; drawing is what loses rounds.
+- Play action cards when the next player is low on cards, and shed high-scoring cards early.
+- Say "UNO" loudly and early.
 
 ## Frequently asked questions
 
@@ -97,5 +92,3 @@ No. You may draw instead, but then you may only play the card you drew.
 **What happens if you forget to say UNO?**
 If you are caught before the next player's turn, you draw two cards.
 
-**How many points do you play to?**
-500 in the classic game. Many families simply play single rounds.

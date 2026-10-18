@@ -52,7 +52,7 @@ A meld is three or more cards of the same rank (4 up to ace), with at least two 
 
 ### The initial meld
 
-Your partnership's first meld of the hand must reach a minimum card count based on your score at the start of the hand: 50 points for 0 to 1,495; 90 for 1,500 to 2,995; 120 for 3,000 or more; 15 if your score is negative. Several melds laid at once may be added together. Bonuses do not count.
+Your partnership's first meld of the hand must reach a minimum card count based on your score at the start of the hand: 50 points for 0 to 1,495; 90 for 1,500 to 2,995; 120 for 3,000 or more; 15 if your score is negative. Several melds laid at once count together.
 
 ### Taking the discard pile
 
@@ -82,24 +82,15 @@ The game ends when a side reaches 5,000 at the end of a hand; the higher total w
 
 - **Two players.** 15 cards each, draw two cards and discard one, two canastas needed to go out.
 - **Three players.** 13 cards each, everyone for themselves.
-- **Six players.** Three partnerships or two teams of three, with three decks.
-- **Always frozen pile.** Only a natural pair can ever take the pile.
 - **Modern American Canasta.** Initial meld from hand only, special hands, wild card canastas and different bonuses. A different game in practice; see pagat.com.
 
 ## Tips for first games
 
-- Early on, do not discard cards your opponents can obviously use; a big pile taken against you is hard to recover from.
-- Freeze the pile with a wild card when the opponents are melding freely and you are not.
-- Keep pairs. They are the key to taking a frozen pile.
-- Do not rush to go out: a canasta is worth more than the 100 for going out, and your partner's hand counts against you.
+- Do not discard cards your opponents can obviously use; a big pile taken against you is hard to recover from.
+- Keep pairs: they are the key to taking a frozen pile.
+- Do not rush to go out; your partner's cards in hand count against you.
 
 ## Frequently asked questions
-
-**How many cards are used in Canasta?**
-108: two full decks plus four jokers. With six players, use three decks.
-
-**Can you meld runs in Canasta?**
-No. Only sets of the same rank count; sequences are not melds.
 
 **What is a frozen discard pile?**
 A pile you can take only with a natural pair matching its top card. It is frozen for your side until you make your initial meld, and for everyone when a wild card lies in it.

@@ -121,9 +121,12 @@ def draw_sheet(path: Path, game: str, row_label: str, columns: list[tuple[str, f
     y -= 12
 
     # Table geometry
-    label_w = 0.75
-    total_rel = label_w + sum(w for _, w in columns)
-    col_ws = [width * label_w / total_rel] + [width * w / total_rel for _, w in columns]
+    # first column wide enough for the longest row label (footer labels can be long)
+    longest = max([c.stringWidth(f"{row_label} {rows}", "Helvetica", 8.5)]
+                  + [c.stringWidth(t, "Helvetica-Bold", 8.5) for t in footer_rows]) + 10
+    label_abs = max(longest, width * 0.08)
+    rel_sum = sum(w for _, w in columns)
+    col_ws = [label_abs] + [(width - label_abs) * w / rel_sum for _, w in columns]
     header_h = 24
     n_rows = rows + len(footer_rows)
     note_h = 44 if note else 14

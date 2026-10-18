@@ -25,7 +25,7 @@ seo_description: "Official Phase 10 rules: the list of all ten phases, sets, run
 
 A Phase 10 deck and 2 to 6 players. The deck has 108 cards: 24 each of red, blue, yellow and green numbered 1 to 12, four Skip cards and eight Wild cards, plus reference cards listing the phases. Keep paper and a pencil for the running score.
 
-Phase 10 is a form of contract rummy, created by Kenneth Johnson in 1982. Each hand, you try to complete one specific combination (a "phase"); you cannot move on to the next phase until you have made the current one.
+Phase 10 is a contract rummy created by Kenneth Johnson in 1982: each hand you try to complete one combination (a "phase") before moving on.
 
 ## Setup
 
@@ -54,11 +54,11 @@ A **set** is two or more cards of the same number, in any colours (two sets may 
 
 A **Wild** card stands for any number or any colour. You may use several Wilds in a phase as long as it contains at least one natural card. Once laid down, a Wild stays where it is. If the dealer turns a Wild to start the discard pile, the first player may pick it up.
 
-A **Skip** card makes a player of your choice miss their next turn. Discard it on your turn (you may discard it the moment you draw it or keep it for later) and name the victim. A Skip can never be part of a phase and can never be picked up from the discard pile. Only one Skip per player per round around the table. If the dealer turns a Skip to start the pile, the first player's first turn is skipped.
+A **Skip** card, discarded on your turn, makes a player of your choice miss their next turn. It can never be part of a phase or picked up from the discard pile, and each player can be skipped only once per round of the table.
 
 ### Making your phase
 
-When you hold the complete phase, lay it down face up during your turn, before discarding. You may lay down more than the minimum (five cards in a run of four, for instance), but only the whole phase at once, and only one phase per hand. You get credit for the phase as soon as it is on the table, whether or not you win the hand. Phases must be made in order from 1 to 10: a run of 7 laid down while you are on Phase 1 does not count for Phase 4.
+When you hold the complete phase, lay it down face up before discarding. You may lay down more than the minimum, but only one phase per hand, and phases must be made in order from 1 to 10. You get credit as soon as it is on the table, whether or not you win the hand.
 
 ### Hitting
 
@@ -82,25 +82,16 @@ Three variations come from the official sheet:
 - **Fewer phases.** Agree before play to win with 5 or 7 phases, still in order.
 - **Even phases only.** Play phases 2, 4, 6, 8 and 10.
 
-Other common house rules: letting players pick any phase in any order, or two Skips in a round. The Masters Edition of the game adds its own rules.
-
 ## Tips for first games
 
-- Decide early what you will keep: for a run, hold on to middle numbers; for a set, hold pairs.
-- Wilds are precious, but 25 points if you are caught with one. Use them to finish a phase rather than saving them.
-- Watch which numbers the player on your left discards; they are the cards you will be able to pick up.
-- Hit aggressively once your phase is down. Shedding your last cards quickly is what wins hands.
+- For a run, keep middle numbers; for a set, keep pairs.
+- A Wild left in hand costs 25 points. Use it to finish a phase.
+- Hit aggressively once your phase is down; shedding cards quickly wins hands.
 
 ## Frequently asked questions
 
-**What are the 10 phases in Phase 10?**
-Two sets of 3; a set of 3 and a run of 4; a set of 4 and a run of 4; a run of 7; a run of 8; a run of 9; two sets of 4; seven cards of one colour; a set of 5 and a set of 2; a set of 5 and a set of 3.
-
 **Can a run be in different colours?**
 Yes. Runs and sets ignore colour; only Phase 8 cares about colour.
-
-**Can you lay down more than one phase in a hand?**
-No. One phase per hand, in order.
 
 **Can you pick up a Skip from the discard pile?**
 No. Skips are never picked up and never used in a phase.
