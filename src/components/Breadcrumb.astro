@@ -1,0 +1,12 @@
+---
+interface Props { items: { name: string; href: string }[]; inline?: boolean; onDark?: boolean }
+const { items, inline = false, onDark = false } = Astro.props;
+---
+<nav class:list={['crumbs', { wrap: !inline, dark: onDark }]} aria-label="Breadcrumb">
+  {items.map((it, i) => (
+    <>
+      {i > 0 && <span aria-hidden="true">/</span>}
+      {i < items.length - 1 ? <a href={it.href}>{it.name}</a> : <span aria-current="page">{it.name}</span>}
+    </>
+  ))}
+</nav>

@@ -1,0 +1,12 @@
+---
+import { getCollection } from 'astro:content';
+import GamePage from '../../components/GamePage.astro';
+import { SILO_BY_TYPE } from '../../lib/taxonomy';
+
+export async function getStaticPaths() {
+  const games = (await getCollection('games')).filter((g) => g.data.status === 'published');
+  return games.map((game) => ({ params: { silo: SILO_BY_TYPE[game.data.type], slug: game.id }, props: { game } }));
+}
+const { game } = Astro.props;
+---
+<GamePage game={game} />

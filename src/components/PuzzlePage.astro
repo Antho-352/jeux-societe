@@ -1,0 +1,89 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Breadcrumb from './Breadcrumb.astro';
+import ItemCard from './ItemCard.astro';
+import { puzzleItem } from '../lib/listing';
+import { breadcrumbLd, SITE_URL } from '../lib/seo';
+import { AGE_BAND_LABEL, ageBand, coverColour, hubUrl, PUZZLE_LABEL, PUZZLE_SILO, puzzleUrl, titleCase } from '../lib/taxonomy';
+import type { Puzzle } from '../lib/taxonomy';
+
+interface Props { puzzle: Puzzle }
+const { puzzle } = Astro.props;
+const d = puzzle.data;
+const { Content } = await render(puzzle);
+const silo = PUZZLE_SILO[d.type];
+const hubs = await getCollection('hubs');
+const siloHub = hubs.find((h) => h.data.path === silo);
+const facetHub = d.difficulty ? hubs.find((h) => h.data.path === `${silo}/${d.difficulty}`) : undefined;
+const path = puzzleUrl(puzzle);
+const band = d.age_band ?? ageBand(d.age_min);
+const colour = coverColour(puzzle.id);
+const all = (await getCollection('puzzles')).filter((p) => p.id !== puzzle.id && p.data.status === 'published' && p.data.type === d.type);
+const related = all.sort((a, b) => (a.data.difficulty === d.difficulty ? -1 : 1) - (b.data.difficulty === d.difficulty ? -1 : 1)).slice(0, 4);
+const title = d.seo_title ?? `${d.title} – free printable ${PUZZLE_LABEL[d.type].toLowerCase()} PDF`;
+const description = d.seo_description ?? `${d.summary} ${d.pages} page${d.pages > 1 ? 's' : ''}, ${d.colour === 'bw' ? 'black and white' : 'colour'}, ${d.answers_included ? 'answers included' : 'no answer key'}. Free PDF.`;
+const crumbs = [{ name: 'Home', href: '/' }, { name: 'Puzzles', href: '/puzzles/' }, { name: siloHub?.data.h1 ?? PUZZLE_LABEL[d.type], href: hubUrl(silo) }, { name: d.title, href: path }];
+const ld = {
+  '@context': 'https://schema.org', '@type': 'CreativeWork', name: d.title, url: SITE_URL + path, license: d.licence, numberOfPages: d.pages,
+  encodingFormat: 'application/pdf', isAccessibleForFree: true, author: { '@type': 'Organization', name: 'Print & Play Game' },
+};
+---
+<Base title={title} description={description} path={path} active="puzzles" jsonLd={[breadcrumbLd(crumbs), ld]} noindex={d.status !== 'published'}>
+  <Breadcrumb items={crumbs} />
+  <section class="product wrap">
+    <div class="stack">
+      <div class="cover-main" style={`background:${colour}`}>
+        {d.cover ? <img src={d.cover} alt={`${d.title} preview`} width="900" height="900" /> : <span class="initial" aria-hidden="true">{d.title.trim()[0]}</span>}
+        <span class="free-badge" aria-hidden="true">Free<br />PDF</span>
+      </div>
+    </div>
+    <div class="stack" style="--gap:18px">
+      <div class="row" style="--gap:8px">
+        <span class="pill pill-ink">{PUZZLE_LABEL[d.type]}</span>
+        {d.difficulty && <a class="pill pill-accent" href={facetHub ? hubUrl(facetHub.data.path) : hubUrl(silo)}>{titleCase(d.difficulty)}</a>}
+        {band && <span class="pill pill-tint">{AGE_BAND_LABEL[band]}</span>}
+        {d.colour === 'bw' && <span class="pill pill-outline">Black &amp; white</span>}
+      </div>
+      <h1>{d.title}</h1>
+      <p class="lead">{d.summary}</p>
+      <dl class="facts">
+        <div><dt>Pages</dt><dd>{d.pages}</dd></div>
+        {d.count && <div><dt>Puzzles</dt><dd>{d.count}</dd></div>}
+        {d.grid && <div><dt>Grid</dt><dd>{d.grid}</dd></div>}
+        <div><dt>Answers</dt><dd>{d.answers_included ? 'Included' : 'No'}</dd></div>
+        <div><dt>Paper</dt><dd>{d.paper === 'both' ? 'A4 · Letter' : d.paper === 'a4' ? 'A4' : 'US Letter'}</dd></div>
+      </dl>
+      <div class="row">
+        <a class="btn btn-primary btn-lg" href={d.download_url} download>
+          <svg aria-hidden="true" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="m7 10 5 5 5-5"/><path d="M4 21h16"/></svg>
+          Download PDF
+        </a>
+      </div>
+      <p class="fileinfo">PDF · {d.pages} page{d.pages > 1 ? 's' : ''}{d.download_size_mb ? ` · ${d.download_size_mb} MB` : ''} · {d.licence}. Made by Print &amp; Play Game. Free for personal and classroom use.</p>
+      <div class="need">
+        <h2>What you need</h2>
+        <ul><li>Any printer{d.colour === 'bw' ? ' (black & white)' : ''}</li><li>{d.pages} sheet{d.pages > 1 ? 's' : ''} of paper</li><li>A pencil</li></ul>
+      </div>
+    </div>
+  </section>
+  <section class="content wrap">
+    <article class="prose">
+      <Content />
+      <div class="row" style="margin-top:20px">
+        {d.themes.map((t) => <a class="tag" href={`/themes/${t}/`}>{titleCase(t)}</a>)}
+        {d.occasions.map((o) => <a class="tag" href={`/occasions/${o}/`}>{titleCase(o)}</a>)}
+      </div>
+    </article>
+    <aside>
+      <div class="aside-box mint"><h2>Print tips</h2><p>Print at 100%, no page scaling. Plain 80 g paper is fine. The answer key is on the last page, so print one page fewer if you want to keep the solution hidden.</p></div>
+      <div class="aside-box sky"><h2>Licence</h2><p>{d.licence}: print as many copies as you like for home or classroom use, share the link rather than the file, and don’t sell it.</p></div>
+    </aside>
+  </section>
+  {related.length > 0 && (
+    <section class="section wrap">
+      <div class="section-head"><h2>More {PUZZLE_LABEL[d.type].toLowerCase()}s</h2><a href={hubUrl(silo)}>All {PUZZLE_LABEL[d.type].toLowerCase()}s</a></div>
+      <div class="grid">{related.map((p) => { const it = puzzleItem(p); return <ItemCard href={it.href} title={it.title} by={it.by} typeLabel={it.typeLabel} cover={it.cover} colour={it.colour} pills={it.pills} />; })}</div>
+    </section>
+  )}
+</Base>

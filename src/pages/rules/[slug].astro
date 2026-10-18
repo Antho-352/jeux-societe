@@ -1,0 +1,86 @@
+---
+import { getCollection, getEntry, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import ItemCard from '../../components/ItemCard.astro';
+import { gameItem, ruleItem } from '../../lib/listing';
+import { breadcrumbLd, SITE_URL } from '../../lib/seo';
+import { playersLabel, RULES_CATEGORY_LABEL, rulesUrl, timeLabel } from '../../lib/taxonomy';
+
+export async function getStaticPaths() {
+  const rules = (await getCollection('rules')).filter((r) => r.data.status === 'published');
+  return rules.map((rule) => ({ params: { slug: rule.id }, props: { rule } }));
+}
+const { rule } = Astro.props;
+const d = rule.data;
+const { Content, headings } = await render(rule);
+const path = rulesUrl(rule);
+const relatedGame = d.related_game ? await getEntry(d.related_game) : undefined;
+const others = (await getCollection('rules')).filter((r) => r.id !== rule.id && r.data.status === 'published' && r.data.category === d.category).slice(0, 4);
+const title = d.seo_title ?? `${d.game_name} rules: how to play ${d.game_name}${d.printable ? ' (free printable)' : ''}`;
+const description = d.seo_description ?? `${d.summary} ${playersLabel(d.players_min, d.players_max)}${d.time_max ? `, ${timeLabel(d.time_min, d.time_max)}` : ''}${d.age_min ? `, age ${d.age_min}+` : ''}. Setup, turn by turn rules, scoring and variants.`;
+const crumbs = [{ name: 'Home', href: '/' }, { name: 'Game rules', href: '/rules/' }, { name: d.game_name, href: path }];
+const articleLd = { '@context': 'https://schema.org', '@type': 'Article', headline: title, description, url: SITE_URL + path, author: { '@type': 'Organization', name: 'Print & Play Game' }, datePublished: d.date_added.toISOString().slice(0, 10) };
+---
+<Base title={title} description={description} path={path} active="rules" ogType="article" jsonLd={[breadcrumbLd(crumbs), articleLd]} noindex={d.status !== 'published'}>
+  <Breadcrumb items={crumbs} />
+  <section class="product wrap" style="padding-top:0">
+    <div class="stack" style="--gap:18px; flex: 1 1 100%">
+      <div class="row" style="--gap:8px">
+        <span class="pill pill-ink">{RULES_CATEGORY_LABEL[d.category]}</span>
+        {d.public_domain && <span class="pill pill-accent">Public domain</span>}
+        {d.printable && <span class="pill pill-tint">Printable included</span>}
+      </div>
+      <h1>{d.title}</h1>
+      <p class="lead">{d.summary}</p>
+      <dl class="facts" style="max-width:720px">
+        <div><dt>Players</dt><dd>{playersLabel(d.players_min, d.players_max)}</dd></div>
+        {d.time_max && <div><dt>Play time</dt><dd>{timeLabel(d.time_min, d.time_max)}</dd></div>}
+        {d.age_min && <div><dt>Age</dt><dd>{d.age_min}+</dd></div>}
+        <div><dt>You need</dt><dd style="font-size:16px; font-family:var(--font-body); font-weight:600">{d.equipment.join(', ') || 'Nothing special'}</dd></div>
+      </dl>
+      {d.printable && (
+        <div class="row">
+          <a class="btn btn-primary btn-lg" href={d.printable} download>
+            <svg aria-hidden="true" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="m7 10 5 5 5-5"/><path d="M4 21h16"/></svg>
+            {d.printable_label ?? 'Download the printable PDF'}
+          </a>
+          {relatedGame && <a class="btn btn-outline btn-lg" href={`/${relatedGame.data.type === 'board' ? 'board-games' : 'card-games'}/${relatedGame.id}/`}>Print and play edition</a>}
+        </div>
+      )}
+      {d.trademark_note && <p class="fileinfo">{d.trademark_note}</p>}
+    </div>
+  </section>
+  <section class="content wrap">
+    <article class="prose">
+      {headings.length > 3 && (
+        <nav class="panel" aria-label="On this page" style="margin-bottom:24px; padding:18px 22px">
+          <strong>On this page</strong>
+          <ul style="margin:8px 0 0; columns: 2; column-gap: 24px">{headings.filter((h) => h.depth === 2).map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ul>
+        </nav>
+      )}
+      <Content />
+      {d.sources.length > 0 && (
+        <>
+          <h2>Sources</h2>
+          <ul>{d.sources.map((s) => <li><a href={s.url} rel="noopener nofollow">{s.label}</a></li>)}</ul>
+        </>
+      )}
+    </article>
+    <aside>
+      {relatedGame && (
+        <div class="aside-box mint">
+          <h2>Print and play</h2>
+          <p>We have a free printable edition of {d.game_name}: <a href={`/${relatedGame.data.type === 'board' ? 'board-games' : 'card-games'}/${relatedGame.id}/`}>{relatedGame.data.title}</a>.</p>
+        </div>
+      )}
+      <div class="aside-box"><h2>About these rules</h2><p>Written by Print &amp; Play Game from the sources listed at the end of the article. Rules of traditional games vary by region; we note the common variants. Spotted a mistake? <a href="/about/#contact">Tell us</a>.</p></div>
+    </aside>
+  </section>
+  {others.length > 0 && (
+    <section class="section wrap">
+      <div class="section-head"><h2>More {RULES_CATEGORY_LABEL[d.category].toLowerCase()} rules</h2><a href="/rules/">All game rules</a></div>
+      <div class="grid">{others.map((r) => { const it = ruleItem(r); return <ItemCard href={it.href} title={it.title} by={it.by} typeLabel={it.typeLabel} colour={it.colour} pills={it.pills} free={false} />; })}</div>
+    </section>
+  )}
+</Base>

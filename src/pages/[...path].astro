@@ -1,0 +1,17 @@
+---
+import { getCollection } from 'astro:content';
+import HubPage from '../components/HubPage.astro';
+import PuzzlePage from '../components/PuzzlePage.astro';
+import { PUZZLE_SILO } from '../lib/taxonomy';
+
+export async function getStaticPaths() {
+  const hubs = await getCollection('hubs');
+  const puzzles = (await getCollection('puzzles')).filter((p) => p.data.status === 'published');
+  return [
+    ...hubs.map((hub) => ({ params: { path: hub.data.path }, props: { kind: 'hub', hub } })),
+    ...puzzles.map((puzzle) => ({ params: { path: `${PUZZLE_SILO[puzzle.data.type]}/${puzzle.id}` }, props: { kind: 'puzzle', puzzle } })),
+  ];
+}
+const { kind, hub, puzzle } = Astro.props;
+---
+{kind === 'hub' ? <HubPage hub={hub} /> : <PuzzlePage puzzle={puzzle} />}

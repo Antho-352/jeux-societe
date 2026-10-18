@@ -1,0 +1,35 @@
+---
+import Base from '../layouts/Base.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import Faq from '../components/Faq.astro';
+import { breadcrumbLd, faqLd } from '../lib/seo';
+const crumbs = [{ name: 'Home', href: '/' }, { name: 'How to print and play', href: '/how-to-print/' }];
+const faq = [
+  { q: 'A4 or US Letter?', a: 'Most PDFs on this site are laid out to print on either. Set your printer to 100% (no scaling, no "fit to page") and the cards keep their real size on both paper formats.' },
+  { q: 'Do I need a colour printer?', a: 'No. Many games include a low-ink black-and-white version, and we flag it on each game page. Colour is nicer for boards and escape games, but never required.' },
+  { q: 'What paper should I use?', a: 'Plain 80 g paper works for boards and rules. For cards, 160 to 200 g card stock shuffles better. Or print on plain paper and slip the cards into sleeves with an old playing card behind.' },
+  { q: 'How do I cut cards cleanly?', a: 'A craft knife and a ruler on a cutting mat give the straightest edges. With scissors, cut the sheet into strips first, then each strip into cards. A corner punch rounds the corners in seconds.' },
+];
+---
+<Base title="How to print and play: paper, printer settings, cutting and sleeving" description="A short guide to printing print-and-play games at home: A4 vs Letter, 100% scaling, black-and-white versions, card stock, sleeves and clean cutting." path="/how-to-print/" jsonLd={[breadcrumbLd(crumbs), faqLd(faq)]}>
+  <Breadcrumb items={crumbs} />
+  <section class="wrap" style="max-width:860px; padding-bottom:24px">
+    <article class="prose stack" style="--gap:0">
+      <h1 style="margin-bottom:18px">How to print and play</h1>
+      <p class="lead" style="margin-bottom:24px">Printing a game takes five minutes once you know three settings. Here they are, plus what to do with the paper afterwards.</p>
+      <h2>1. Printer settings</h2>
+      <p>Open the PDF in a real PDF reader (Adobe Reader, Preview on Mac, or your browser) and choose <strong>Actual size</strong> or <strong>100%</strong>. Turn off "Fit to page". That single setting keeps cards at their intended size so they match sleeves and each other. If the file is double-sided, pick <strong>flip on long edge</strong> for portrait pages.</p>
+      <h2>2. Paper</h2>
+      <p>Plain 80 g office paper is fine for rules, boards and score sheets. For cards and tiles, heavier paper (160 to 200 g) feels much better in the hand. Photo paper is overkill and curls. If you only have plain paper, glue two sheets back to back, or put each card in a sleeve with an old playing card for stiffness.</p>
+      <h2>3. Colour or black and white</h2>
+      <p>Most designers provide a low-ink version. On each game page we tell you whether black and white is fine. Boards look better in colour, but a laser printer in grey does the job for cards and rules.</p>
+      <h2>4. Cutting</h2>
+      <p>Cut on the dotted lines. For many cards, cut the page into strips first, then the strips into cards. A paper trimmer or a craft knife with a metal ruler gives clean edges; a corner punch rounds the corners. Kids can do the cutting with safety scissors while you read the rules.</p>
+      <h2>5. Components you supply</h2>
+      <p>Many games assume you have a few bits at home: six-sided dice, coins or buttons for tokens, a pencil, and sometimes pawns borrowed from another game. The "What you need" box on each game page lists them so there is no surprise mid-setup.</p>
+      <h2>6. Keep it</h2>
+      <p>A sandwich bag or a small envelope per game, labelled with the title and player count, and a shoebox. That is a print-and-play library.</p>
+    </article>
+  </section>
+  <Faq items={faq} />
+</Base>

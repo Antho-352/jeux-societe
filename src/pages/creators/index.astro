@@ -1,0 +1,26 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import { creatorUrl } from '../../lib/taxonomy';
+const creators = await getCollection('creators');
+const games = await getCollection('games');
+const rows = creators.map((c) => ({ c, n: games.filter((g) => g.data.creator?.id === c.id && g.data.status === 'published').length })).filter((r) => r.n > 0).sort((a, b) => b.n - a.n);
+const crumbs = [{ name: 'Home', href: '/' }, { name: 'Creators', href: '/creators/' }];
+---
+<Base title="Game creators and publishers" description="The designers, studios and publishers behind the free print and play games on this site, with links to support them." path="/creators/">
+  <Breadcrumb items={crumbs} />
+  <section class="wrap stack" style="padding-bottom:48px; --gap:24px">
+    <h1>Creators</h1>
+    <p class="lead">Every game here exists because someone designed it and chose to share it. Here is who they are.</p>
+    <div class="grid-2">
+      {rows.map(({ c, n }) => (
+        <a class="panel" href={creatorUrl(c.id)} style="text-decoration:none">
+          <h2 style="font-size:24px">{c.data.name}</h2>
+          <p style="margin-top:6px; color:var(--muted)">{c.data.bio.slice(0, 140)}{c.data.bio.length > 140 ? '…' : ''}</p>
+          <p style="margin-top:10px; font-weight:700">{n} game{n > 1 ? 's' : ''} →</p>
+        </a>
+      ))}
+    </div>
+  </section>
+</Base>

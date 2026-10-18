@@ -1,0 +1,158 @@
+---
+import { getCollection, getEntry, render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Breadcrumb from './Breadcrumb.astro';
+import ItemCard from './ItemCard.astro';
+import { gameItem } from '../lib/listing';
+import { relatedGames } from '../lib/related';
+import { breadcrumbLd, SITE_URL } from '../lib/seo';
+import { ageLabel, coverColour, creatorUrl, gameUrl, hubUrl, playersLabel, SILO_BY_TYPE, timeLabel, TYPE_LABEL, titleCase } from '../lib/taxonomy';
+import type { Game } from '../lib/taxonomy';
+
+interface Props { game: Game }
+const { game } = Astro.props;
+const d = game.data;
+const { Content } = await render(game);
+const creator = d.creator ? await getEntry(d.creator) : undefined;
+const silo = SILO_BY_TYPE[d.type];
+const siloHub = (await getCollection('hubs', (h) => h.data.path === silo))[0];
+const all = await getCollection('games');
+const related = relatedGames(game, all);
+const path = gameUrl(game);
+const isMirror = d.hosting_mode === 'mirror' && d.download_url;
+const downloadHref = d.download_url ?? d.source_url;
+const colour = d.cover_colour ?? coverColour(game.id);
+const title = d.seo_title ?? `${d.title} – free print and play ${TYPE_LABEL[d.type].toLowerCase()} (PDF)`;
+const description = d.seo_description ?? `${d.summary} ${playersLabel(d.players_min, d.players_max)}${d.time_max ? `, ${timeLabel(d.time_min, d.time_max)}` : ''}${d.age_min ? `, age ${d.age_min}+` : ''}. Free PDF by ${d.designers[0] ?? creator?.data.name ?? d.publisher ?? 'its creator'}.`;
+const crumbs = [{ name: 'Home', href: '/' }, { name: siloHub?.data.h1 ?? titleCase(silo), href: hubUrl(silo) }, { name: d.title, href: path }];
+const productLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Product',
+  name: d.title,
+  description: d.summary,
+  url: SITE_URL + path,
+  image: d.cover ? SITE_URL + d.cover : undefined,
+  brand: d.publisher ? { '@type': 'Organization', name: d.publisher } : undefined,
+  offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD', availability: 'https://schema.org/InStock', url: SITE_URL + path },
+  additionalProperty: [
+    { '@type': 'PropertyValue', name: 'Players', value: playersLabel(d.players_min, d.players_max) },
+    d.time_max ? { '@type': 'PropertyValue', name: 'Play time', value: timeLabel(d.time_min, d.time_max) } : undefined,
+    d.age_min ? { '@type': 'PropertyValue', name: 'Minimum age', value: d.age_min } : undefined,
+  ].filter(Boolean),
+};
+const workLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CreativeWork',
+  name: d.title,
+  url: SITE_URL + path,
+  author: d.designers.map((n) => ({ '@type': 'Person', name: n })),
+  publisher: d.publisher ? { '@type': 'Organization', name: d.publisher } : undefined,
+  datePublished: d.year ? String(d.year) : undefined,
+  license: d.licence_url ?? d.licence,
+  inLanguage: d.languages,
+  numberOfPages: d.pages,
+  encodingFormat: 'application/pdf',
+  isAccessibleForFree: true,
+};
+---
+<Base title={title} description={description} path={path} ogType="product" active={silo} jsonLd={[breadcrumbLd(crumbs), productLd, workLd]} noindex={d.status !== 'published'}>
+  <Breadcrumb items={crumbs} />
+  <section class="product wrap">
+    <div class="stack">
+      <div class="cover-main" style={`background:${colour}`}>
+        {d.cover ? <img src={d.cover} alt={`${d.title} cover`} width="900" height="900" /> : <span class="initial" aria-hidden="true">{d.title.trim()[0]}</span>}
+        <span class="free-badge" aria-hidden="true">Free<br />PDF</span>
+      </div>
+    </div>
+    <div class="stack" style="--gap:18px">
+      <div class="row" style="--gap:8px">
+        <span class="pill pill-ink">{TYPE_LABEL[d.type]}</span>
+        {d.subtype && <span class="pill pill-accent">{titleCase(d.subtype)}</span>}
+        {d.colour !== 'colour' && d.colour && <span class="pill pill-outline">Black &amp; white OK</span>}
+        {d.award && <span class="pill pill-tint">{d.award}</span>}
+      </div>
+      <h1>{d.title}</h1>
+      <p style="font-size:17px">
+        {d.designers.length > 0 && <>Designed by <strong>{d.designers.join(', ')}</strong></>}
+        {d.artists.length > 0 && <> · Art by <strong>{d.artists.join(', ')}</strong></>}
+        {(d.publisher || creator) && <> · Published by {creator ? <a href={creatorUrl(creator.id)}><strong>{creator.data.name}</strong></a> : <strong>{d.publisher}</strong>}</>}
+      </p>
+      <dl class="facts">
+        <div><dt>Players</dt><dd>{playersLabel(d.players_min, d.players_max)}</dd></div>
+        {d.time_max && <div><dt>Play time</dt><dd>{timeLabel(d.time_min, d.time_max)}</dd></div>}
+        {d.age_min && <div><dt>Age</dt><dd>{d.age_min}+</dd></div>}
+        {d.pages && <div><dt>Pages</dt><dd>{d.pages}</dd></div>}
+        {d.paper && <div><dt>Paper</dt><dd>{d.paper === 'both' ? 'A4 · Letter' : d.paper === 'a4' ? 'A4' : 'US Letter'}</dd></div>}
+        <div><dt>Language</dt><dd>{d.languages.map((l) => l.toUpperCase()).join(' ')}</dd></div>
+      </dl>
+      <div class="row">
+        <a class="btn btn-primary btn-lg" href={downloadHref} rel={isMirror ? undefined : 'nofollow noopener'} target={isMirror ? undefined : '_blank'} download={isMirror ? '' : undefined}>
+          <svg aria-hidden="true" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="m7 10 5 5 5-5"/><path d="M4 21h16"/></svg>
+          {isMirror ? 'Download PDF' : 'Get the PDF on the creator’s site'}
+        </a>
+        {isMirror && <a class="btn btn-outline btn-lg" href={d.source_url} rel="noopener" target="_blank">Creator’s page</a>}
+      </div>
+      <p class="fileinfo">
+        PDF{d.pages ? ` · ${d.pages} pages` : ''}{d.download_size_mb ? ` · ${d.download_size_mb} MB` : ''} · {d.licence}{d.licence_url ? <> (<a href={d.licence_url} rel="noopener">licence</a>)</> : null}. {isMirror ? 'Hosted here with the creator’s permission.' : 'Download is on the creator’s website.'}
+      </p>
+      {(d.components_needed.length > 0 || d.components_included.length > 0) && (
+        <div class="need">
+          <h2>What you need</h2>
+          <ul>
+            <li>A printer{d.colour === 'colour' ? ' (colour recommended)' : ' (black & white is fine)'}</li>
+            {d.pages && <li>{d.pages} sheet{d.pages > 1 ? 's' : ''} of {d.paper === 'a4' ? 'A4' : d.paper === 'letter' ? 'US Letter' : 'A4 or Letter'} paper</li>}
+            {d.components_needed.map((c) => <li>{c}</li>)}
+            {d.app_required && <li>A smartphone or tablet (companion app)</li>}
+          </ul>
+        </div>
+      )}
+    </div>
+  </section>
+
+  <section class="content wrap">
+    <article class="prose">
+      <Content />
+      {d.components_included.length > 0 && (
+        <>
+          <h2>In the PDF</h2>
+          <ul>{d.components_included.map((c) => <li>{c}</li>)}</ul>
+        </>
+      )}
+      <div class="row" style="margin-top:20px">
+        {d.themes.map((t) => <a class="tag" href={`/themes/${t}/`}>{titleCase(t)}</a>)}
+        {d.mechanics.map((m) => <span class="tag">{titleCase(m)}</span>)}
+        {d.occasions.map((o) => <a class="tag" href={`/occasions/${o}/`}>{titleCase(o)}</a>)}
+      </div>
+    </article>
+    <aside>
+      <div class="aside-box">
+        <h2>Credits</h2>
+        <p>
+          {d.designers.length > 0 && <><strong>Design</strong> {d.designers.join(', ')}<br /></>}
+          {d.artists.length > 0 && <><strong>Art</strong> {d.artists.join(', ')}<br /></>}
+          {(creator || d.publisher) && <><strong>Publisher</strong> {creator ? <a href={creatorUrl(creator.id)}>{creator.data.name}</a> : d.publisher}<br /></>}
+          {d.year && <><strong>Released</strong> {d.year}<br /></>}
+          <strong>Source</strong> <a href={d.source_url} rel="noopener">{new URL(d.source_url).hostname.replace('www.', '')}</a>
+        </p>
+        {creator?.data.support_url && <p style="margin-top:10px"><a class="btn btn-outline" href={creator.data.support_url} rel="noopener">{creator.data.support_label ?? 'Support the creator'}</a></p>}
+      </div>
+      <div class="aside-box mint">
+        <h2>Print tips</h2>
+        <p>Print at 100% (no page scaling). {d.colour === 'bw' ? 'Designed for black-and-white printing.' : d.colour === 'both' ? 'A low-ink black-and-white version is included.' : 'Colour printing recommended.'} Thicker paper (160 g) makes cards easier to shuffle. <a href="/how-to-print/">Full printing guide</a>.</p>
+      </div>
+      <div class="aside-box sky">
+        <h2>Licence</h2>
+        <p>{d.licence}. Free for personal use; please don’t sell or redistribute the file. Credit {d.designers[0] ?? creator?.data.name ?? d.publisher}.</p>
+      </div>
+    </aside>
+  </section>
+
+  {related.length > 0 && (
+    <section class="section wrap">
+      <div class="section-head"><h2>You might also like</h2><a href={hubUrl(silo)}>All {siloHub?.data.h1.toLowerCase() ?? titleCase(silo).toLowerCase()}</a></div>
+      <div class="grid">
+        {related.map((g) => { const it = gameItem(g); return <ItemCard href={it.href} title={it.title} by={it.by} typeLabel={it.typeLabel} cover={it.cover} colour={it.colour} pills={it.pills} />; })}
+      </div>
+    </section>
+  )}
+</Base>

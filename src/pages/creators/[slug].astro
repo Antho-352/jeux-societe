@@ -1,0 +1,34 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import ItemCard from '../../components/ItemCard.astro';
+import { gameItem } from '../../lib/listing';
+import { breadcrumbLd } from '../../lib/seo';
+import { creatorUrl } from '../../lib/taxonomy';
+
+export async function getStaticPaths() {
+  const creators = await getCollection('creators');
+  return creators.map((creator) => ({ params: { slug: creator.id }, props: { creator } }));
+}
+const { creator } = Astro.props;
+const d = creator.data;
+const games = (await getCollection('games')).filter((g) => g.data.creator?.id === creator.id && g.data.status === 'published');
+const path = creatorUrl(creator.id);
+const crumbs = [{ name: 'Home', href: '/' }, { name: 'Creators', href: '/creators/' }, { name: d.name, href: path }];
+---
+<Base title={`${d.name}: free print and play games`} description={`${games.length} free printable game${games.length === 1 ? '' : 's'} by ${d.name}. ${d.bio.slice(0, 120)}`} path={path} jsonLd={[breadcrumbLd(crumbs)]} noindex={games.length < 2}>
+  <Breadcrumb items={crumbs} />
+  <section class="wrap stack" style="--gap:16px; padding-bottom:32px; max-width:860px">
+    <h1>{d.name}</h1>
+    <p class="lead">{d.bio}</p>
+    <div class="row">
+      {d.url && <a class="btn btn-outline" href={d.url} rel="noopener">Website</a>}
+      {d.support_url && <a class="btn btn-primary" href={d.support_url} rel="noopener">{d.support_label ?? 'Support the creator'}</a>}
+    </div>
+  </section>
+  <section class="section wrap" style="padding-top:0">
+    <div class="section-head"><h2>Games by {d.name}</h2></div>
+    <div class="grid">{games.map((g) => { const it = gameItem(g, d.name); return <ItemCard href={it.href} title={it.title} by={it.by} typeLabel={it.typeLabel} cover={it.cover} colour={it.colour} pills={it.pills} />; })}</div>
+  </section>
+</Base>

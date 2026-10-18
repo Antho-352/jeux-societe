@@ -1,0 +1,124 @@
+---
+/**
+ * Listing with client-side secondary filters. Items are rendered server-side (all of them),
+ * data-* attributes carry facet values; a small script hides non-matching cards.
+ */
+import ItemCard from './ItemCard.astro';
+export interface ListingItem {
+  href: string; title: string; by?: string; typeLabel: string; cover?: string; colour: string; pills: string[];
+  data: Record<string, string | number | undefined>;
+  sortTitle: string; sortDate: number; sortTime?: number;
+}
+interface Props {
+  items: ListingItem[];
+  facets: { key: string; label: string; options: { value: string; label: string; count: number }[]; kind?: 'checkbox' }[];
+  noun?: string;
+}
+const { items, facets, noun = 'items' } = Astro.props;
+const activeFacets = facets.filter((f) => f.options.length > 1);
+---
+<div class="listing wrap" data-listing>
+  {activeFacets.length > 0 && (
+    <aside class="filters collapsed" id="filters" aria-label="Filters">
+      <div class="row" style="justify-content:space-between">
+        <span class="display" style="font-size:22px">Filters</span>
+        <button type="button" class="tag" data-clear>Clear all</button>
+      </div>
+      {activeFacets.map((f) => (
+        <fieldset data-facet={f.key}>
+          <legend>{f.label}</legend>
+          {f.options.map((o) => (
+            <label><input type="checkbox" value={o.value} /> <span>{o.label}</span><span class="count">{o.count}</span></label>
+          ))}
+        </fieldset>
+      ))}
+    </aside>
+  )}
+  <div class="results">
+    <div class="results-head">
+      <div class="row" style="--gap:8px">
+        <strong><span data-count>{items.length}</span> {noun}</strong>
+        {activeFacets.length > 0 && <button type="button" class="chip filter-toggle" aria-controls="filters" aria-expanded="false" data-toggle>Filters</button>}
+        <span class="row" data-active-chips style="--gap:6px"></span>
+      </div>
+      <label>Sort by
+        <select data-sort>
+          <option value="date">Newest</option>
+          <option value="title">A to Z</option>
+          <option value="time">Shortest first</option>
+        </select>
+      </label>
+    </div>
+    <div class="grid" data-grid>
+      {items.map((it) => (
+        <ItemCard href={it.href} title={it.title} by={it.by} typeLabel={it.typeLabel} cover={it.cover} colour={it.colour} pills={it.pills}
+          data={{ ...it.data, 'sort-title': it.sortTitle, 'sort-date': it.sortDate, 'sort-time': it.sortTime ?? 9999 }} />
+      ))}
+    </div>
+    <p class="empty" data-empty hidden>No {noun} match these filters. <button type="button" class="tag" data-clear>Clear filters</button></p>
+  </div>
+</div>
+<script>
+  for (const root of document.querySelectorAll<HTMLElement>('[data-listing]')) {
+    const grid = root.querySelector<HTMLElement>('[data-grid]')!;
+    const cards = Array.from(grid.querySelectorAll<HTMLElement>('.card'));
+    const count = root.querySelector<HTMLElement>('[data-count]')!;
+    const empty = root.querySelector<HTMLElement>('[data-empty]')!;
+    const chips = root.querySelector<HTMLElement>('[data-active-chips]')!;
+    const sort = root.querySelector<HTMLSelectElement>('[data-sort]')!;
+    const filters = root.querySelector<HTMLElement>('#filters');
+    const toggle = root.querySelector<HTMLButtonElement>('[data-toggle]');
+    toggle?.addEventListener('click', () => {
+      const open = filters!.classList.toggle('collapsed') === false;
+      toggle.setAttribute('aria-expanded', String(open));
+    });
+    const selected = (): Record<string, string[]> => {
+      const out: Record<string, string[]> = {};
+      root.querySelectorAll<HTMLElement>('[data-facet]').forEach((fs) => {
+        const vals = Array.from(fs.querySelectorAll<HTMLInputElement>('input:checked')).map((i) => i.value);
+        if (vals.length) out[fs.dataset.facet!] = vals;
+      });
+      return out;
+    };
+    const matches = (card: HTMLElement, sel: Record<string, string[]>) =>
+      Object.entries(sel).every(([k, vals]) => {
+        const raw = card.dataset[k] ?? '';
+        if (k === 'players') {
+          const min = Number(card.dataset.playersMin ?? 1), max = Number(card.dataset.playersMax ?? 99);
+          return vals.some((v) => (v === 'solo' ? min === 1 : v === '2' ? min <= 2 && max >= 2 : v === 'party' ? max >= 6 : true));
+        }
+        if (k === 'time') {
+          const t = Number(card.dataset.sortTime ?? 9999);
+          return vals.some((v) => (v === '15' ? t <= 15 : v === '30' ? t <= 30 : v === '60' ? t <= 60 : t > 60));
+        }
+        const have = raw.split(',').filter(Boolean);
+        return vals.some((v) => have.includes(v));
+      });
+    const apply = () => {
+      const sel = selected();
+      let n = 0;
+      for (const c of cards) { const ok = matches(c, sel); c.hidden = !ok; if (ok) n++; }
+      count.textContent = String(n);
+      empty.hidden = n > 0;
+      chips.innerHTML = '';
+      for (const [k, vals] of Object.entries(sel)) for (const v of vals) {
+        const label = root.querySelector<HTMLInputElement>(`[data-facet="${k}"] input[value="${v}"]`)?.parentElement?.querySelector('span')?.textContent ?? v;
+        const b = document.createElement('button'); b.type = 'button'; b.className = 'pill pill-accent'; b.textContent = `${label} ×`;
+        b.addEventListener('click', () => { const i = root.querySelector<HTMLInputElement>(`[data-facet="${k}"] input[value="${v}"]`); if (i) { i.checked = false; apply(); } });
+        chips.appendChild(b);
+      }
+    };
+    const resort = () => {
+      const key = sort.value;
+      const sorted = [...cards].sort((a, b) => {
+        if (key === 'title') return (a.dataset.sortTitle ?? '').localeCompare(b.dataset.sortTitle ?? '');
+        if (key === 'time') return Number(a.dataset.sortTime) - Number(b.dataset.sortTime);
+        return Number(b.dataset.sortDate) - Number(a.dataset.sortDate);
+      });
+      for (const c of sorted) grid.appendChild(c);
+    };
+    root.addEventListener('change', (e) => { if ((e.target as HTMLElement).matches('[data-facet] input')) apply(); });
+    sort.addEventListener('change', resort);
+    root.querySelectorAll('[data-clear]').forEach((b) => b.addEventListener('click', () => { root.querySelectorAll<HTMLInputElement>('[data-facet] input').forEach((i) => (i.checked = false)); apply(); }));
+  }
+</script>

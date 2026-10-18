@@ -1,0 +1,86 @@
+---
+import { getCollection } from 'astro:content';
+import { render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Breadcrumb from './Breadcrumb.astro';
+import Listing from './Listing.astro';
+import Faq from './Faq.astro';
+import { gameFacets, gameItem, puzzleFacets, puzzleItem, ruleFacets, ruleItem } from '../lib/listing';
+import { breadcrumbLd, collectionLd, faqLd } from '../lib/seo';
+import { gameMatches, hubUrl, puzzleMatches, ruleMatches, titleCase } from '../lib/taxonomy';
+import type { Hub } from '../lib/taxonomy';
+
+interface Props { hub: Hub }
+const { hub } = Astro.props;
+const d = hub.data;
+const { Content } = await render(hub);
+const hubs = await getCollection('hubs');
+const creators = await getCollection('creators');
+const byId = new Map(creators.map((c) => [c.id, c.data.name]));
+
+let items;
+let facets;
+let noun = 'games';
+if (d.collection === 'games') {
+  const games = (await getCollection('games')).filter((g) => gameMatches(g, d.filter));
+  items = games.map((g) => gameItem(g, g.data.creator ? byId.get(g.data.creator.id) : undefined));
+  facets = gameFacets(items);
+} else if (d.collection === 'puzzles') {
+  const puzzles = (await getCollection('puzzles')).filter((p) => puzzleMatches(p, d.filter));
+  items = puzzles.map(puzzleItem);
+  facets = puzzleFacets(items);
+  noun = 'puzzles';
+} else {
+  const rules = (await getCollection('rules')).filter((r) => ruleMatches(r, d.filter));
+  items = rules.map(ruleItem);
+  facets = ruleFacets(items);
+  noun = 'games';
+}
+items.sort((a, b) => b.sortDate - a.sortDate);
+
+// Breadcrumb from path segments that have a hub
+const segs = d.path.split('/');
+const crumbs = [{ name: 'Home', href: '/' }];
+for (let i = 1; i <= segs.length; i++) {
+  const p = segs.slice(0, i).join('/');
+  const h = hubs.find((x) => x.data.path === p);
+  crumbs.push({ name: h ? h.data.h1 : titleCase(segs[i - 1]), href: hubUrl(p) });
+}
+// Child hubs (one level below) become facet tabs; sibling hubs appear as related
+const children = hubs.filter((h) => h.data.path.startsWith(d.path + '/') && h.data.path.split('/').length === segs.length + 1);
+const parentPath = segs.slice(0, -1).join('/');
+const siblings = segs.length > 1 ? hubs.filter((h) => h.data.path !== d.path && h.data.path.startsWith(parentPath + '/') && h.data.path.split('/').length === segs.length) : [];
+const parent = segs.length > 1 ? hubs.find((h) => h.data.path === parentPath) : undefined;
+const thin = items.length < Math.max(d.min_items, 4);
+const active = segs[0] === 'puzzles' || segs[0] === 'bingo' ? 'puzzles' : segs[0];
+const jsonLd = [breadcrumbLd(crumbs), collectionLd(d.h1, hubUrl(d.path), items.map((i) => ({ name: i.title, url: i.href })))];
+if (d.faq.length) jsonLd.push(faqLd(d.faq));
+---
+<Base title={d.seo_title} description={d.seo_description} path={hubUrl(d.path)} active={active} noindex={thin} jsonLd={jsonLd}>
+  <section class="band" style="border-radius:0 0 40px 40px">
+    <div class="wrap stack" style="padding-block:8px 44px; --gap:18px">
+      <Breadcrumb items={crumbs} inline onDark />
+      <h1>{d.h1}</h1>
+      <p class="lead">{d.lead}</p>
+      {(children.length > 0 || parent) && (
+        <div class="facet-tabs">
+          {parent && <a class="chip" href={hubUrl(parent.data.path)} style="background:transparent;color:var(--ground);border-color:#4B7A6A">← All {parent.data.h1.toLowerCase()}</a>}
+          {children.map((c) => <a class="chip" href={hubUrl(c.data.path)} style="background:transparent;color:var(--accent);border-color:var(--accent)">{c.data.title}</a>)}
+          {siblings.map((s) => <a class="chip" href={hubUrl(s.data.path)} style="background:transparent;color:var(--ground);border-color:#4B7A6A">{s.data.title}</a>)}
+        </div>
+      )}
+    </div>
+  </section>
+
+  <Listing items={items} facets={facets} noun={noun} />
+
+  {(hub.body?.trim().length ?? 0) > 0 && (
+    <section class="section wrap" style="padding-top:0">
+      <div class="panel prose" style="max-width:860px">
+        <Content />
+        {d.related.length > 0 && <div class="row" style="margin-top:12px">{d.related.map((r) => <a class="tag" href={r.href}>{r.label}</a>)}</div>}
+      </div>
+    </section>
+  )}
+  <Faq items={d.faq} />
+</Base>

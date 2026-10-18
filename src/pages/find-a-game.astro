@@ -1,0 +1,90 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import { gameItem } from '../lib/listing';
+import { ageBand } from '../lib/taxonomy';
+const games = (await getCollection('games')).filter((g) => g.data.status === 'published');
+const data = games.map((g) => {
+  const it = gameItem(g);
+  return { href: it.href, title: it.title, type: g.data.type, pills: it.pills, pmin: g.data.players_min, pmax: g.data.players_max, age: g.data.age_min ?? 0, band: ageBand(g.data.age_min), time: g.data.time_max ?? g.data.time_min ?? 30, mech: g.data.mechanics, themes: g.data.themes, colour: it.colour, summary: g.data.summary };
+});
+---
+<Base title="Find a game: which print and play game should I print tonight?" description="Answer five quick questions (players, age, time, mood, what you have at home) and get the three free printable games that fit." path="/find-a-game/" active="find">
+  <section class="wrap stack" style="--gap:20px; padding-block:24px 48px; max-width:860px">
+    <h1>Find my game</h1>
+    <p class="lead">Five questions, sixty seconds, three games. No account.</p>
+    <form class="quiz panel stack" style="--gap:24px" data-quiz>
+      <fieldset>
+        <legend>1. Who's playing?</legend>
+        <div class="row" style="--gap:10px">
+          <label><input type="radio" name="who" value="solo" /> Just me</label>
+          <label><input type="radio" name="who" value="2" checked /> Two of us</label>
+          <label><input type="radio" name="who" value="3-5" /> 3 to 5</label>
+          <label><input type="radio" name="who" value="6+" /> A party (6+)</label>
+        </div>
+      </fieldset>
+      <fieldset>
+        <legend>2. How old is the youngest player?</legend>
+        <div class="row" style="--gap:10px">
+          <label><input type="radio" name="age" value="4" /> 3–5</label>
+          <label><input type="radio" name="age" value="7" /> 6–8</label>
+          <label><input type="radio" name="age" value="10" checked /> 9–12</label>
+          <label><input type="radio" name="age" value="14" /> Teens</label>
+          <label><input type="radio" name="age" value="18" /> Adults only</label>
+        </div>
+      </fieldset>
+      <fieldset>
+        <legend>3. How much time do you have?</legend>
+        <div class="row" style="--gap:10px">
+          <label><input type="radio" name="time" value="15" /> 15 minutes</label>
+          <label><input type="radio" name="time" value="30" checked /> 30 minutes</label>
+          <label><input type="radio" name="time" value="60" /> An hour</label>
+          <label><input type="radio" name="time" value="999" /> All evening</label>
+        </div>
+      </fieldset>
+      <fieldset>
+        <legend>4. What mood?</legend>
+        <div class="row" style="--gap:10px">
+          <label><input type="radio" name="mood" value="coop" /> Work together</label>
+          <label><input type="radio" name="mood" value="brain" checked /> Think hard</label>
+          <label><input type="radio" name="mood" value="laugh" /> Laugh and bluff</label>
+          <label><input type="radio" name="mood" value="story" /> Solve a mystery</label>
+        </div>
+      </fieldset>
+      <fieldset>
+        <legend>5. What's in the drawer?</legend>
+        <div class="row" style="--gap:10px">
+          <label><input type="checkbox" name="have" value="dice" checked /> Dice</label>
+          <label><input type="checkbox" name="have" value="tokens" checked /> Coins or tokens</label>
+          <label><input type="checkbox" name="have" value="colour" /> Colour printer</label>
+        </div>
+      </fieldset>
+      <button type="submit" class="btn btn-primary btn-lg" style="align-self:flex-start">Show me my games</button>
+    </form>
+    <div id="results" class="stack" style="--gap:16px" aria-live="polite"></div>
+  </section>
+  <script type="application/json" id="quiz-data" set:html={JSON.stringify(data)} />
+  <script>
+    const games = JSON.parse(document.getElementById('quiz-data')!.textContent!);
+    const form = document.querySelector<HTMLFormElement>('[data-quiz]')!;
+    const out = document.getElementById('results')!;
+    const MOOD: Record<string, string[]> = { coop: ['cooperative', 'co-op'], brain: ['strategy', 'deduction', 'puzzle', 'engine building', 'tile placement', 'dice placement'], laugh: ['bluffing', 'party', 'social deduction', 'take that', 'real time'], story: ['escape', 'mystery', 'narrative', 'adventure'] };
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const f = new FormData(form);
+      const who = String(f.get('who')), age = Number(f.get('age')), time = Number(f.get('time')), mood = String(f.get('mood'));
+      const scored = games.map((g: any) => {
+        let s = 0;
+        const n = who === 'solo' ? 1 : who === '2' ? 2 : who === '3-5' ? 4 : 6;
+        if (g.pmin <= n && g.pmax >= n) s += 40; else if (who === '6+' && g.pmax >= 5) s += 20;
+        if (!g.age || g.age <= age) s += 25; else if (g.age <= age + 2) s += 8;
+        if (g.time <= time) s += 20; else if (g.time <= time * 1.5) s += 8;
+        const words = MOOD[mood] ?? [];
+        if (g.mech.some((m: string) => words.some((w) => m.includes(w))) || g.themes.some((t: string) => words.some((w) => t.includes(w))) || (mood === 'story' && g.type === 'escape') || (mood === 'laugh' && g.type === 'party')) s += 25;
+        return { g, s };
+      }).sort((a: any, b: any) => b.s - a.s).slice(0, 3);
+      out.innerHTML = '<h2>Your three games</h2>' + scored.map(({ g }: any) => `<a class="panel" href="${g.href}" style="text-decoration:none; display:flex; gap:18px; align-items:center"><span class="display" style="width:72px;height:72px;border-radius:18px;background:${g.colour};display:grid;place-items:center;font-size:36px" aria-hidden="true">${g.title[0]}</span><span><strong style="font-size:20px">${g.title}</strong><br><span style="color:var(--muted)">${g.summary}</span><br><span style="font-size:13px;font-weight:700">${g.pills.join(' · ')}</span></span></a>`).join('');
+      out.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  </script>
+</Base>

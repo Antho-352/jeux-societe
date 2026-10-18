@@ -1,0 +1,32 @@
+---
+interface Props { active?: string; lang?: 'en' | 'fr' }
+const { active, lang = 'en' } = Astro.props;
+const nav = [
+  { key: 'board-games', label: 'Board games', href: '/board-games/' },
+  { key: 'card-games', label: 'Card games', href: '/card-games/' },
+  { key: 'escape-games', label: 'Escape games', href: '/escape-games/' },
+  { key: 'puzzles', label: 'Puzzles', href: '/puzzles/' },
+  { key: 'rules', label: 'Game rules', href: '/rules/' },
+  { key: 'find', label: 'Find a game', href: '/find-a-game/' },
+];
+---
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="Print & Play Game, home">
+      <span class="brand-mark" aria-hidden="true">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#CFFF5E" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="4"/><circle cx="8.5" cy="8.5" r="1.5" fill="#CFFF5E"/><circle cx="15.5" cy="15.5" r="1.5" fill="#CFFF5E"/><circle cx="15.5" cy="8.5" r="1.5" fill="#CFFF5E"/><circle cx="8.5" cy="15.5" r="1.5" fill="#CFFF5E"/></svg>
+      </span>
+      <span class="brand-name">Print &amp; Play</span>
+    </a>
+    <nav class="site-nav" aria-label="Main">
+      {nav.map((n) => <a href={n.href} aria-current={active === n.key ? 'true' : undefined}>{n.label}</a>)}
+    </nav>
+    <div class="header-tools">
+      <form action="/search/" method="get" role="search">
+        <label for="q" class="visually-hidden">Search games and puzzles</label>
+        <input id="q" name="q" type="search" class="search" placeholder="Search…" />
+      </form>
+      <a class="lang" href={lang === 'en' ? '/fr/' : '/'} aria-label={lang === 'en' ? 'Version française' : 'English version'}>{lang === 'en' ? 'EN' : 'FR'} <span>{lang === 'en' ? 'FR' : 'EN'}</span></a>
+    </div>
+  </div>
+</header>

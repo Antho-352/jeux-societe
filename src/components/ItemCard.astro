@@ -1,0 +1,28 @@
+---
+interface Props {
+  href: string;
+  title: string;
+  by?: string;
+  typeLabel: string;
+  cover?: string;
+  colour: string;
+  pills: string[];
+  free?: boolean;
+  data?: Record<string, string | number | undefined>;
+}
+const { href, title, by, typeLabel, cover, colour, pills, free = true, data = {} } = Astro.props;
+const attrs: Record<string, string> = {};
+for (const [k, v] of Object.entries(data)) if (v !== undefined) attrs[`data-${k}`] = String(v);
+---
+<a class="card" href={href} {...attrs}>
+  <div class="card-cover" style={`background:${colour}`}>
+    {cover ? <img src={cover} alt="" loading="lazy" width="600" height="600" /> : <span class="initial" aria-hidden="true">{title.trim()[0]}</span>}
+    <span class="type">{typeLabel}</span>
+    {free && <span class="free">Free</span>}
+  </div>
+  <div class="card-body">
+    <h3>{title}</h3>
+    {by && <p class="by">{by}</p>}
+    <div class="meta">{pills.map((p) => <span class="pill">{p}</span>)}</div>
+  </div>
+</a>

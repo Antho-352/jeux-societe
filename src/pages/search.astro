@@ -1,0 +1,37 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import { gameItem, puzzleItem, ruleItem } from '../lib/listing';
+const games = (await getCollection('games')).filter((g) => g.data.status === 'published').map((g) => ({ ...gameItem(g), kind: 'Game', text: `${g.data.title} ${g.data.summary} ${g.data.themes.join(' ')} ${g.data.designers.join(' ')}` }));
+const puzzles = (await getCollection('puzzles')).filter((p) => p.data.status === 'published').map((p) => ({ ...puzzleItem(p), kind: 'Puzzle', text: `${p.data.title} ${p.data.summary} ${p.data.themes.join(' ')}` }));
+const rules = (await getCollection('rules')).filter((r) => r.data.status === 'published').map((r) => ({ ...ruleItem(r), kind: 'Rules', text: `${r.data.game_name} ${r.data.aliases.join(' ')} ${r.data.summary}` }));
+const index = [...games, ...puzzles, ...rules].map((i) => ({ href: i.href, title: i.title, kind: i.kind, pills: i.pills, colour: i.colour, text: i.text.toLowerCase() }));
+---
+<Base title="Search" description="Search free print and play games, printable puzzles and game rules." path="/search/" noindex>
+  <section class="wrap stack" style="padding-block:24px 48px; --gap:18px; max-width:860px">
+    <h1>Search</h1>
+    <form role="search" class="row">
+      <label for="sq" class="visually-hidden">Search</label>
+      <input id="sq" name="q" type="search" class="search" style="max-width:none; flex:1 1 240px" placeholder="Game, puzzle, designer…" autofocus />
+      <button class="btn btn-primary" type="submit">Search</button>
+    </form>
+    <div id="hits" class="stack" style="--gap:12px" aria-live="polite"></div>
+  </section>
+  <script type="application/json" id="search-index" set:html={JSON.stringify(index)} />
+  <script>
+    const idx = JSON.parse(document.getElementById('search-index')!.textContent!);
+    const input = document.getElementById('sq') as HTMLInputElement;
+    const hits = document.getElementById('hits')!;
+    const run = () => {
+      const q = input.value.trim().toLowerCase();
+      if (q.length < 2) { hits.innerHTML = ''; return; }
+      const words = q.split(/\s+/);
+      const res = idx.filter((i: any) => words.every((w) => i.text.includes(w))).slice(0, 30);
+      hits.innerHTML = res.length ? res.map((i: any) => `<a class="panel" href="${i.href}" style="text-decoration:none;display:flex;gap:14px;align-items:center;padding:14px 18px"><span class="display" style="width:48px;height:48px;border-radius:14px;background:${i.colour};display:grid;place-items:center;font-size:24px" aria-hidden="true">${i.title[0]}</span><span><strong>${i.title}</strong> <span class="pill">${i.kind}</span><br><span style="font-size:13px;color:var(--muted)">${i.pills.join(' · ')}</span></span></a>`).join('') : '<p class="empty">Nothing found. Try another word.</p>';
+    };
+    const params = new URLSearchParams(location.search);
+    if (params.get('q')) { input.value = params.get('q')!; run(); }
+    input.addEventListener('input', run);
+    input.form!.addEventListener('submit', (e) => { e.preventDefault(); run(); history.replaceState(null, '', `?q=${encodeURIComponent(input.value)}`); });
+  </script>
+</Base>
