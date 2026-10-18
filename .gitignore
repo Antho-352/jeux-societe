@@ -6,3 +6,4 @@ dist/
 .DS_Store
 downloads/
 data/bgg/*.html
+data/kw/*.json
