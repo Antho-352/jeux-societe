@@ -21,8 +21,12 @@ const all = await getCollection('games');
 const related = relatedGames(game, all);
 const hubPaths = await hubPathSet();
 const path = gameUrl(game);
-const isMirror = d.hosting_mode === 'mirror' && d.download_url;
-const downloadHref = d.download_url ?? d.source_url;
+const isMirror = d.hosting_mode === 'mirror' && (d.download_url || d.files.length > 0);
+const downloads = d.files.length > 0
+  ? d.files
+  : d.download_url
+    ? [{ label: 'Download PDF', url: d.download_url }]
+    : [{ label: 'Get the PDF on the creator’s site', url: d.source_url }];
 const colour = d.cover_colour ?? coverColour(game.id);
 const title = d.seo_title ?? `${d.title} – free print and play ${TYPE_LABEL[d.type].toLowerCase()} (PDF)`;
 const description = d.seo_description ?? `${d.summary} ${playersLabel(d.players_min, d.players_max)}${d.time_max ? `, ${timeLabel(d.time_min, d.time_max)}` : ''}${d.age_min ? `, age ${d.age_min}+` : ''}. Free PDF by ${d.designers[0] ?? creator?.data.name ?? d.publisher ?? 'its creator'}.`;
@@ -88,10 +92,12 @@ const workLd = {
         <div><dt>Language</dt><dd>{d.languages.map((l) => l.toUpperCase()).join(' ')}</dd></div>
       </dl>
       <div class="row">
-        <a class="btn btn-primary btn-lg" href={downloadHref} rel={isMirror ? undefined : 'nofollow noopener'} target={isMirror ? undefined : '_blank'} download={isMirror ? '' : undefined}>
-          <svg aria-hidden="true" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="m7 10 5 5 5-5"/><path d="M4 21h16"/></svg>
-          {isMirror ? 'Download PDF' : 'Get the PDF on the creator’s site'}
-        </a>
+        {downloads.map((file) => (
+          <a class="btn btn-primary btn-lg" href={file.url} rel={isMirror ? undefined : 'nofollow noopener'} target={isMirror ? undefined : '_blank'} download={isMirror ? '' : undefined}>
+            <svg aria-hidden="true" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="m7 10 5 5 5-5"/><path d="M4 21h16"/></svg>
+            {file.label}
+          </a>
+        ))}
         {isMirror && <a class="btn btn-outline btn-lg" href={d.source_url} rel="noopener" target="_blank">Creator’s page</a>}
       </div>
       <p class="fileinfo">

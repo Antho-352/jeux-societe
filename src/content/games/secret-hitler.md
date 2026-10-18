@@ -24,6 +24,9 @@ source_url: "https://www.secrethitler.com/"
 download_url: "/pdf/secret-hitler/secret-hitler-print-and-play.pdf"
 cover: "/img/games/secret-hitler.png"
 download_size_mb: 3.5
+files:
+  - { label: "Print and play PDF", url: "/pdf/secret-hitler/secret-hitler-print-and-play.pdf" }
+  - { label: "Rules PDF", url: "/pdf/secret-hitler/secret-hitler-rules.pdf" }
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Secret Hitler Print & Play | Official Free PDF"
@@ -46,6 +49,6 @@ Each government puts policy cards before the table, so players must read both th
 
 ## What's in the PDF
 
-- The official 13-page, colour Letter-format print-and-play set.
-- Printable boards, policy tiles, role and party cards, election tracker, and placards.
-- You provide a printer and scissors; the publisher also links a separate rules PDF from its official page.
+- The official 13-page print-and-play set: boards, policy tiles, role and party cards, election tracker and placards.
+- The official 7-page rules booklet, as its own PDF.
+- You provide a printer and scissors.
