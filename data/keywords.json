@@ -1,0 +1,1142 @@
+{
+  "en": [
+    {
+      "keyword": "free printable board games",
+      "intent": "Générique",
+      "target": "Accueil",
+      "volumes": {
+        "US": {
+          "search_volume": 210,
+          "competition": "LOW",
+          "cpc": 0.58
+        },
+        "UK": {
+          "search_volume": 20,
+          "competition": "LOW",
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "print and play games",
+      "intent": "Générique",
+      "target": "Accueil / catégorie",
+      "volumes": {
+        "US": {
+          "search_volume": 590,
+          "competition": "LOW",
+          "cpc": 0.63
+        },
+        "UK": {
+          "search_volume": 90,
+          "competition": "LOW",
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "print and play board games free",
+      "intent": "Générique",
+      "target": "Accueil",
+      "volumes": {
+        "US": {
+          "search_volume": 20,
+          "competition": "LOW",
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": 10,
+          "competition": "LOW",
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "free board game pdf",
+      "intent": "Générique",
+      "target": "Accueil",
+      "volumes": {
+        "US": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "board games pdf free download",
+      "intent": "Générique",
+      "target": "Accueil",
+      "volumes": {
+        "US": {
+          "search_volume": 10,
+          "competition": "LOW",
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": 10,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "printable board games pdf",
+      "intent": "Générique",
+      "target": "Accueil",
+      "volumes": {
+        "US": {
+          "search_volume": 20,
+          "competition": "LOW",
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": 10,
+          "competition": "LOW",
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "free pnp games",
+      "intent": "Générique",
+      "target": "Accueil",
+      "volumes": {
+        "US": {
+          "search_volume": 30,
+          "competition": "LOW",
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": 10,
+          "competition": "LOW",
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "diy board games printable",
+      "intent": "Générique",
+      "target": "Catégorie",
+      "volumes": {
+        "US": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "free printable card games",
+      "intent": "Type de jeu",
+      "target": "Catégorie cartes",
+      "volumes": {
+        "US": {
+          "search_volume": 20,
+          "competition": "LOW",
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": 10,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "print and play card games",
+      "intent": "Type de jeu",
+      "target": "Catégorie cartes",
+      "volumes": {
+        "US": {
+          "search_volume": 50,
+          "competition": "LOW",
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": 10,
+          "competition": "LOW",
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "free printable escape room kit",
+      "intent": "Type de jeu",
+      "target": "Catégorie escape",
+      "volumes": {
+        "US": {
+          "search_volume": 10,
+          "competition": "LOW",
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": 10,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "escape room printable pdf free",
+      "intent": "Type de jeu",
+      "target": "Catégorie escape",
+      "volumes": {
+        "US": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "diy escape room kit free",
+      "intent": "Type de jeu",
+      "target": "Catégorie escape",
+      "volumes": {
+        "US": {
+          "search_volume": 10,
+          "competition": "LOW",
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": 10,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "free roll and write games pdf",
+      "intent": "Type de jeu",
+      "target": "Catégorie roll & write",
+      "volumes": {
+        "US": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "roll and write print and play",
+      "intent": "Type de jeu",
+      "target": "Catégorie roll & write",
+      "volumes": {
+        "US": {
+          "search_volume": 20,
+          "competition": "LOW",
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": 10,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "free printable party games",
+      "intent": "Type de jeu",
+      "target": "Catégorie ambiance",
+      "volumes": {
+        "US": {
+          "search_volume": 40,
+          "competition": "LOW",
+          "cpc": 1.19
+        },
+        "UK": {
+          "search_volume": 10,
+          "competition": "MEDIUM",
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "printable dice games",
+      "intent": "Type de jeu",
+      "target": "Catégorie dés",
+      "volumes": {
+        "US": {
+          "search_volume": 170,
+          "competition": "MEDIUM",
+          "cpc": 0.17
+        },
+        "UK": {
+          "search_volume": 20,
+          "competition": "MEDIUM",
+          "cpc": 0.02
+        }
+      }
+    },
+    {
+      "keyword": "solo print and play games",
+      "intent": "Type de jeu",
+      "target": "Filtre solo",
+      "volumes": {
+        "US": {
+          "search_volume": 50,
+          "competition": "LOW",
+          "cpc": 0.18
+        },
+        "UK": {
+          "search_volume": 10,
+          "competition": "LOW",
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "2 player print and play games",
+      "intent": "Public",
+      "target": "Filtre 2 joueurs",
+      "volumes": {
+        "US": {
+          "search_volume": 10,
+          "competition": "LOW",
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": 10,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "free printable board games for kids",
+      "intent": "Public / âge",
+      "target": "Catégorie enfants",
+      "volumes": {
+        "US": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "printable games for kids pdf",
+      "intent": "Public / âge",
+      "target": "Catégorie enfants",
+      "volumes": {
+        "US": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "free printable games for toddlers",
+      "intent": "Public / âge",
+      "target": "Filtre 3-5 ans",
+      "volumes": {
+        "US": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "printable board games for adults",
+      "intent": "Public / âge",
+      "target": "Filtre adultes",
+      "volumes": {
+        "US": {
+          "search_volume": 20,
+          "competition": "HIGH",
+          "cpc": 0.42
+        },
+        "UK": {
+          "search_volume": 10,
+          "competition": "HIGH",
+          "cpc": 0.01
+        }
+      }
+    },
+    {
+      "keyword": "free printable games for the classroom",
+      "intent": "Public",
+      "target": "Catégorie éducatif",
+      "volumes": {
+        "US": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "educational board games printable",
+      "intent": "Public",
+      "target": "Catégorie éducatif",
+      "volumes": {
+        "US": {
+          "search_volume": 10,
+          "competition": "LOW",
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": 10,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "free printable escape room for kids",
+      "intent": "Type + public",
+      "target": "Catégorie escape enfants",
+      "volumes": {
+        "US": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "printable escape room for adults",
+      "intent": "Type + public",
+      "target": "Catégorie escape adultes",
+      "volumes": {
+        "US": {
+          "search_volume": 40,
+          "competition": "HIGH",
+          "cpc": 1.53
+        },
+        "UK": {
+          "search_volume": 10,
+          "competition": "HIGH",
+          "cpc": 1.16
+        }
+      }
+    },
+    {
+      "keyword": "harry potter printable board game",
+      "intent": "Thématique",
+      "target": "Page thème",
+      "volumes": {
+        "US": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "halloween printable games free",
+      "intent": "Thématique",
+      "target": "Page thème",
+      "volumes": {
+        "US": {
+          "search_volume": 170,
+          "competition": "LOW",
+          "cpc": 0.71
+        },
+        "UK": {
+          "search_volume": 20,
+          "competition": "MEDIUM",
+          "cpc": 0.02
+        }
+      }
+    },
+    {
+      "keyword": "christmas printable games free",
+      "intent": "Thématique",
+      "target": "Page thème",
+      "volumes": {
+        "US": {
+          "search_volume": 1600,
+          "competition": "LOW",
+          "cpc": 0.47
+        },
+        "UK": {
+          "search_volume": 90,
+          "competition": "LOW",
+          "cpc": 0.1
+        }
+      }
+    },
+    {
+      "keyword": "printable murder mystery game free",
+      "intent": "Thématique",
+      "target": "Page thème",
+      "volumes": {
+        "US": {
+          "search_volume": 20,
+          "competition": "LOW",
+          "cpc": 1.79
+        },
+        "UK": {
+          "search_volume": 10,
+          "competition": "LOW",
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "printable treasure hunt for kids free",
+      "intent": "Thématique",
+      "target": "Page thème",
+      "volumes": {
+        "US": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "free printable bingo cards",
+      "intent": "Thématique",
+      "target": "Page thème",
+      "volumes": {
+        "US": {
+          "search_volume": 4400,
+          "competition": "LOW",
+          "cpc": 1.44
+        },
+        "UK": {
+          "search_volume": 390,
+          "competition": "LOW",
+          "cpc": 0.1
+        }
+      }
+    },
+    {
+      "keyword": "printable trivia game pdf",
+      "intent": "Thématique",
+      "target": "Page thème",
+      "volumes": {
+        "US": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "free printable birthday party games",
+      "intent": "Thématique",
+      "target": "Page thème",
+      "volumes": {
+        "US": {
+          "search_volume": 10,
+          "competition": "LOW",
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": 10,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "printable travel games for kids",
+      "intent": "Thématique",
+      "target": "Page thème",
+      "volumes": {
+        "US": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "free printable family board games",
+      "intent": "Public",
+      "target": "Catégorie famille",
+      "volumes": {
+        "US": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "print and play games 2026",
+      "intent": "Longue traîne",
+      "target": "Article / sélection",
+      "volumes": {
+        "US": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "best free print and play games",
+      "intent": "Longue traîne",
+      "target": "Article / sélection",
+      "volumes": {
+        "US": {
+          "search_volume": 10,
+          "competition": "LOW",
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": 10,
+          "competition": "LOW",
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "how to print and play board games",
+      "intent": "Longue traîne",
+      "target": "Article guide",
+      "volumes": {
+        "US": {
+          "search_volume": 10,
+          "competition": "LOW",
+          "cpc": null
+        },
+        "UK": {
+          "search_volume": 10,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    }
+  ],
+  "fr": [
+    {
+      "keyword": "jeu de société à imprimer gratuit",
+      "intent": "Générique",
+      "target": "Accueil FR",
+      "volumes": {
+        "FR": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "jeu de société pdf gratuit",
+      "intent": "Générique",
+      "target": "Accueil FR",
+      "volumes": {
+        "FR": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "jeu de société à imprimer pdf",
+      "intent": "Générique",
+      "target": "Accueil FR",
+      "volumes": {
+        "FR": {
+          "search_volume": 10,
+          "competition": "LOW",
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "jeu de société téléchargement gratuit",
+      "intent": "Générique",
+      "target": "Accueil FR",
+      "volumes": {
+        "FR": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "jeux à imprimer gratuit",
+      "intent": "Générique",
+      "target": "Accueil FR",
+      "volumes": {
+        "FR": {
+          "search_volume": 170,
+          "competition": "LOW",
+          "cpc": 3.85
+        }
+      }
+    },
+    {
+      "keyword": "print and play gratuit",
+      "intent": "Générique",
+      "target": "Catégorie",
+      "volumes": {
+        "FR": {
+          "search_volume": 30,
+          "competition": "LOW",
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "print and play français",
+      "intent": "Générique",
+      "target": "Catégorie",
+      "volumes": {
+        "FR": {
+          "search_volume": 20,
+          "competition": "LOW",
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "jeu de plateau à imprimer",
+      "intent": "Type de jeu",
+      "target": "Catégorie plateau",
+      "volumes": {
+        "FR": {
+          "search_volume": 260,
+          "competition": "LOW",
+          "cpc": 0.98
+        }
+      }
+    },
+    {
+      "keyword": "jeu de cartes à imprimer gratuit",
+      "intent": "Type de jeu",
+      "target": "Catégorie cartes",
+      "volumes": {
+        "FR": {
+          "search_volume": 10,
+          "competition": "LOW",
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "escape game à imprimer gratuit",
+      "intent": "Type de jeu",
+      "target": "Catégorie escape",
+      "volumes": {
+        "FR": {
+          "search_volume": 170,
+          "competition": "LOW",
+          "cpc": 0.7
+        }
+      }
+    },
+    {
+      "keyword": "escape game pdf gratuit",
+      "intent": "Type de jeu",
+      "target": "Catégorie escape",
+      "volumes": {
+        "FR": {
+          "search_volume": 30,
+          "competition": "LOW",
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "kit escape game gratuit à imprimer",
+      "intent": "Type de jeu",
+      "target": "Catégorie escape",
+      "volumes": {
+        "FR": {
+          "search_volume": 10,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "escape game maison gratuit",
+      "intent": "Type de jeu",
+      "target": "Catégorie escape",
+      "volumes": {
+        "FR": {
+          "search_volume": 90,
+          "competition": "LOW",
+          "cpc": 0.24
+        }
+      }
+    },
+    {
+      "keyword": "jeu d'ambiance à imprimer",
+      "intent": "Type de jeu",
+      "target": "Catégorie ambiance",
+      "volumes": {
+        "FR": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "roll and write à imprimer gratuit",
+      "intent": "Type de jeu",
+      "target": "Catégorie roll & write",
+      "volumes": {
+        "FR": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "jeu de dés à imprimer",
+      "intent": "Type de jeu",
+      "target": "Catégorie dés",
+      "volumes": {
+        "FR": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "jeu de société enfant pdf gratuit",
+      "intent": "Public / âge",
+      "target": "Catégorie enfants",
+      "volumes": {
+        "FR": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "jeu de société à imprimer enfant",
+      "intent": "Public / âge",
+      "target": "Catégorie enfants",
+      "volumes": {
+        "FR": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "jeu à imprimer 3 ans",
+      "intent": "Public / âge",
+      "target": "Filtre 3-5 ans",
+      "volumes": {
+        "FR": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "jeu à imprimer 6 ans",
+      "intent": "Public / âge",
+      "target": "Filtre 6-8 ans",
+      "volumes": {
+        "FR": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "jeu de société adulte à imprimer",
+      "intent": "Public / âge",
+      "target": "Filtre adultes",
+      "volumes": {
+        "FR": {
+          "search_volume": 10,
+          "competition": "LOW",
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "jeu de société 2 joueurs à imprimer",
+      "intent": "Public",
+      "target": "Filtre 2 joueurs",
+      "volumes": {
+        "FR": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "jeu de société éducatif à imprimer",
+      "intent": "Public",
+      "target": "Catégorie éducatif",
+      "volumes": {
+        "FR": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "jeu à imprimer maternelle",
+      "intent": "Public",
+      "target": "Catégorie éducatif",
+      "volumes": {
+        "FR": {
+          "search_volume": 210,
+          "competition": "LOW",
+          "cpc": 0.89
+        }
+      }
+    },
+    {
+      "keyword": "escape game enfant à imprimer gratuit",
+      "intent": "Type + public",
+      "target": "Catégorie escape enfants",
+      "volumes": {
+        "FR": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "escape game anniversaire à imprimer",
+      "intent": "Type + public",
+      "target": "Page thème",
+      "volumes": {
+        "FR": {
+          "search_volume": 10,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "jeu de société harry potter pdf gratuit",
+      "intent": "Thématique",
+      "target": "Page thème",
+      "volumes": {
+        "FR": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "jeu de société halloween à imprimer",
+      "intent": "Thématique",
+      "target": "Page thème",
+      "volumes": {
+        "FR": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "jeu de société noël à imprimer gratuit",
+      "intent": "Thématique",
+      "target": "Page thème",
+      "volumes": {
+        "FR": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "chasse au trésor à imprimer gratuit",
+      "intent": "Thématique",
+      "target": "Page thème",
+      "volumes": {
+        "FR": {
+          "search_volume": 320,
+          "competition": "LOW",
+          "cpc": 0.15
+        }
+      }
+    },
+    {
+      "keyword": "murder party à imprimer gratuit",
+      "intent": "Thématique",
+      "target": "Page thème",
+      "volumes": {
+        "FR": {
+          "search_volume": 20,
+          "competition": "LOW",
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "jeu de loto à imprimer gratuit",
+      "intent": "Thématique",
+      "target": "Page thème",
+      "volumes": {
+        "FR": {
+          "search_volume": 40,
+          "competition": "LOW",
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "quiz à imprimer gratuit pdf",
+      "intent": "Thématique",
+      "target": "Page thème",
+      "volumes": {
+        "FR": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "jeux de voyage à imprimer",
+      "intent": "Thématique",
+      "target": "Page thème",
+      "volumes": {
+        "FR": {
+          "search_volume": 50,
+          "competition": "LOW",
+          "cpc": 0.05
+        }
+      }
+    },
+    {
+      "keyword": "jeu de société famille à imprimer",
+      "intent": "Public",
+      "target": "Catégorie famille",
+      "volumes": {
+        "FR": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "meilleurs print and play gratuits",
+      "intent": "Longue traîne",
+      "target": "Article / sélection",
+      "volumes": {
+        "FR": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "comment imprimer un jeu de société",
+      "intent": "Longue traîne",
+      "target": "Article guide",
+      "volumes": {
+        "FR": {
+          "search_volume": null,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    },
+    {
+      "keyword": "jeu de société à fabriquer soi-même",
+      "intent": "Longue traîne",
+      "target": "Article guide",
+      "volumes": {
+        "FR": {
+          "search_volume": 10,
+          "competition": null,
+          "cpc": null
+        }
+      }
+    }
+  ]
+}
