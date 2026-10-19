@@ -5,7 +5,8 @@ import Breadcrumb from './Breadcrumb.astro';
 import ItemCard from './ItemCard.astro';
 import { gameItem } from '../lib/listing';
 import { relatedGames } from '../lib/related';
-import { breadcrumbLd, SITE_URL } from '../lib/seo';
+import { breadcrumbLd, SITE_URL, videoLd } from '../lib/seo';
+import VideoEmbed from './VideoEmbed.astro';
 import { hubPathSet } from '../lib/hubs';
 import { ageLabel, coverColour, creatorUrl, gameUrl, hubUrl, playersLabel, SILO_BY_TYPE, sizeLabel, timeLabel, TYPE_LABEL, titleCase } from '../lib/taxonomy';
 import type { Game } from '../lib/taxonomy';
@@ -30,6 +31,7 @@ const downloads = d.files.length > 0
 const colour = d.cover_colour ?? coverColour(game.id);
 const title = d.seo_title ?? `${d.title} – free print and play ${TYPE_LABEL[d.type].toLowerCase()} (PDF)`;
 const description = d.seo_description ?? `${d.summary} ${playersLabel(d.players_min, d.players_max)}${d.time_max ? `, ${timeLabel(d.time_min, d.time_max)}` : ''}${d.age_min ? `, age ${d.age_min}+` : ''}. Free PDF by ${d.designers[0] ?? creator?.data.name ?? d.publisher ?? 'its creator'}.`;
+const video = d.video_id ? videoLd({ id: d.video_id, name: `How to play ${d.title}`, description: `${d.title} explained in a few minutes, with the free print-and-play PDF.`, uploadDate: d.video_date ?? d.date_added.toISOString().slice(0, 10), pageUrl: path }) : undefined;
 const crumbs = [{ name: 'Home', href: '/' }, { name: siloHub?.data.h1 ?? titleCase(silo), href: hubUrl(silo) }, { name: d.title, href: path }];
 const productLd = {
   '@context': 'https://schema.org',
@@ -61,7 +63,7 @@ const workLd = {
   isAccessibleForFree: true,
 };
 ---
-<Base title={title} description={description} path={path} ogType="product" active={silo} jsonLd={[breadcrumbLd(crumbs), productLd, workLd]} noindex={d.status !== 'published'}>
+<Base title={title} description={description} path={path} ogType="product" active={silo} jsonLd={[breadcrumbLd(crumbs), productLd, workLd, ...(video ? [video] : [])]} noindex={d.status !== 'published'}>
   <Breadcrumb items={crumbs} />
   <section class="product wrap">
     <div class="stack">
@@ -118,6 +120,13 @@ const workLd = {
       )}
     </div>
   </section>
+
+  {d.video_id && (
+    <section class="wrap" style="padding-bottom:40px; max-width:1000px">
+      <div class="section-head"><h2>How to play, in a few minutes</h2></div>
+      <VideoEmbed id={d.video_id} title={`How to play ${d.title}`} caption="by Print & Play Games" />
+    </section>
+  )}
 
   <section class="content wrap">
     <article class="prose">

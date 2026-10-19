@@ -1,0 +1,40 @@
+---
+// Lecteur YouTube en façade : une image et un bouton, l'iframe n'est créée qu'au clic (aucun script tiers au chargement).
+interface Props { id: string; title: string; caption?: string }
+const { id, title, caption } = Astro.props;
+const thumb = `https://i.ytimg.com/vi/${id}/maxresdefault.jpg`;
+const watch = `https://www.youtube.com/watch?v=${id}`;
+---
+<figure class="video-embed" data-video-id={id}>
+  <button class="video-facade" type="button" aria-label={`Play video: ${title}`}>
+    <img src={thumb} alt="" width="1280" height="720" loading="lazy" decoding="async" />
+    <span class="video-play" aria-hidden="true"><svg width="34" height="34" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></span>
+  </button>
+  <figcaption>
+    <strong>{title}</strong>{caption && <> · {caption}</>} · <a href={watch} rel="noopener" target="_blank">Watch on YouTube</a>
+  </figcaption>
+</figure>
+<style>
+  .video-embed { margin: 0; }
+  .video-facade { position: relative; display: block; width: 100%; aspect-ratio: 16 / 9; padding: 0; border: 0; border-radius: var(--radius); overflow: hidden; background: var(--ink); cursor: pointer; box-shadow: var(--shadow); }
+  .video-facade img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .video-play { position: absolute; left: 50%; top: 50%; width: 88px; height: 88px; transform: translate(-50%, -50%); border-radius: 50%; background: var(--primary); color: var(--ink); display: grid; place-items: center; box-shadow: 0 12px 30px rgba(15, 61, 46, .3); transition: transform .15s; }
+  .video-facade:hover .video-play { transform: translate(-50%, -50%) scale(1.06); }
+  .video-embed iframe { width: 100%; aspect-ratio: 16 / 9; border: 0; border-radius: var(--radius); display: block; box-shadow: var(--shadow); }
+  figcaption { margin-top: 10px; font-size: 14px; color: var(--muted); }
+</style>
+<script>
+  document.querySelectorAll<HTMLElement>('.video-embed').forEach((box) => {
+    const btn = box.querySelector<HTMLButtonElement>('.video-facade');
+    if (!btn) return;
+    btn.addEventListener('click', () => {
+      const id = box.dataset.videoId;
+      const f = document.createElement('iframe');
+      f.src = `https://www.youtube-nocookie.com/embed/${id}?autoplay=1&rel=0`;
+      f.title = btn.getAttribute('aria-label') ?? 'YouTube video';
+      f.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+      f.allowFullscreen = true;
+      btn.replaceWith(f);
+    });
+  });
+</script>
