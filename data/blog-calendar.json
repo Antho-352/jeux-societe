@@ -1,0 +1,2410 @@
+[
+  {
+    "publish_at": "2026-10-20T16:10:00Z",
+    "slug": "thanksgiving-games-for-family",
+    "title": "Thanksgiving games for family: 15 table games for all ages",
+    "target_keyword": "thanksgiving games for family",
+    "secondary_keywords": [
+      {
+        "keyword": "friendsgiving games",
+        "volume_us": 1900,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "fun games thanksgiving",
+        "volume_us": 1900,
+        "volume_uk": null,
+        "kd": 2,
+        "source": "labs"
+      },
+      {
+        "keyword": "thanksgiving games for adults",
+        "volume_us": 1600,
+        "volume_uk": 10,
+        "kd": 3,
+        "source": "labs"
+      },
+      {
+        "keyword": "thanksgiving activities for family",
+        "volume_us": 880,
+        "volume_uk": null,
+        "kd": 1,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 8100,
+    "volume_uk": 10,
+    "kd": 10,
+    "intent": "informational",
+    "serp_notes": "US top 5: countryliving.com (listicle), pinterest.com, kingascorner.com (small blog), lockpaperescape.com (printable seller), youtube.com. KD 0-10. US-only topic (UK volume ~10).",
+    "silo": "occasions",
+    "pushes": [
+      "/bingo/thanksgiving-bingo/",
+      "/puzzles/word-search/thanksgiving-word-search/",
+      "/puzzles/mazes/thanksgiving-maze/"
+    ],
+    "needs": [
+      "/occasions/thanksgiving/ hub (3 Thanksgiving items today, needs a 4th, e.g. a Thanksgiving dot to dot or kids' table placemat puzzle)"
+    ],
+    "article_type": "seasonal",
+    "interactive_tool": "Picker: random gratitude and conversation prompts for the table; Timer: minute-to-win-it rounds",
+    "angle": "Sorted by when you play (before dinner, at the table, after pie) and who plays (kids' table, adults, Friendsgiving), each with player count and time. Several games are free printables, which the media listicles link out to others for.",
+    "outline": [
+      "Games to play while the turkey cooks",
+      "Table games that need only paper",
+      "Games for the kids' table",
+      "Thanksgiving games for adults",
+      "Friendsgiving games",
+      "Quiet after-dinner games",
+      "Printables to download before Thursday"
+    ],
+    "season_deadline": "2026-10-15",
+    "priority": 1
+  },
+  {
+    "publish_at": "2026-10-22T21:15:00Z",
+    "rank": 1,
+    "slug": "card-games-for-3-people",
+    "title": "Card games for 3 people: 10 games that really work with three",
+    "target_keyword": "card games for 3 people",
+    "secondary_keywords": [
+      {
+        "keyword": "3 player card games",
+        "volume_us": 5400,
+        "volume_uk": 880,
+        "kd": 0
+      },
+      {
+        "keyword": "card games for 3 players",
+        "volume_us": 5400,
+        "volume_uk": 1000,
+        "kd": 0
+      },
+      {
+        "keyword": "3 player hearts",
+        "volume_us": 390,
+        "volume_uk": 20,
+        "kd": 11
+      },
+      {
+        "keyword": "3 player cribbage",
+        "volume_us": 260,
+        "volume_uk": 30,
+        "kd": 0
+      },
+      {
+        "keyword": "3 player spades",
+        "volume_us": 210,
+        "volume_uk": 10,
+        "kd": 0
+      }
+    ],
+    "volume_us": 9900,
+    "volume_uk": 1000,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 21560,
+    "peak_month_us": {
+      "month": "2026-06",
+      "volume": 14800
+    },
+    "serp_notes": "Top 5: boardgamegeek.com (2 forum threads), gamerules.com (list), betus.com.pa (casino site), reddit.com; Pinterest next. Mostly forum threads and a gambling site; only one real list, with no per-game adjustments for three players.",
+    "silo": "rules/card-games",
+    "pushes": [
+      "/rules/hearts/",
+      "/rules/cribbage/",
+      "/rules/president/",
+      "/rules/golf/"
+    ],
+    "needs": [
+      "Rules page: Oh Hell / Up and Down the River (3 to 7 players, a classic 3-player trick-taker): measure volume first"
+    ],
+    "article_type": "list",
+    "interactive_tool": "Quiz mode=\"match\": 'Which 3-player game tonight?' (time available, luck vs skill, one or two decks); each outcome links to a rules page. ScoreKeeper players=3 lower down.",
+    "angle": "Competitors list names; most card games are designed for 2 or 4, so the useful information is what changes with three. For each game we state the exact three-player adjustment (Hearts: remove one 2 and deal 17 each; Cribbage: 5 cards each plus one to the crib; Spades: 17 cards each, every player for themselves), as our rules pages already document, the duration and a link to the full rules with a score sheet. Search volume peaks in summer and December (holiday visits).",
+    "outline": [
+      "Why many card games break at three, and how to fix it",
+      "The 10 games at a glance (table: time, skill, deck)",
+      "Trick-taking for three: Hearts, cut-throat Spades, Oh Hell",
+      "Three-handed Cribbage",
+      "Climbing and shedding: President, Crazy Eights",
+      "Rummy and Golf for three",
+      "Which one should you play? (quiz)"
+    ],
+    "season_deadline": "2026-12-01",
+    "priority": 1
+  },
+  {
+    "publish_at": "2026-10-30T15:40:00Z",
+    "slug": "classroom-christmas-party-ideas",
+    "title": "Classroom Christmas party ideas: 12 games and a 60-minute plan",
+    "target_keyword": "classroom christmas party ideas",
+    "secondary_keywords": [
+      {
+        "keyword": "christmas game classroom",
+        "volume_us": 880,
+        "volume_uk": null,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "christmas party ideas for classroom",
+        "volume_us": 390,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "christmas classroom party games",
+        "volume_us": 260,
+        "volume_uk": 30,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "kindergarten christmas games for classroom",
+        "volume_us": 70,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 390,
+    "volume_uk": 10,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: instagram.com, ateacherandhercat.com (teacher blog), reddit.com (r/Teachers), pinterest.com, twinkl.co.uk. KD 0. Social and forum results; no timed plan.",
+    "silo": "occasions/christmas",
+    "pushes": [
+      "/bingo/christmas-bingo/",
+      "/puzzles/word-search/christmas-word-search/",
+      "/puzzles/mazes/christmas-tree-maze-easy/",
+      "/puzzles/dot-to-dot/christmas-tree-dot-to-dot/"
+    ],
+    "needs": [],
+    "article_type": "seasonal",
+    "interactive_tool": "Checklist: room-parent and teacher prep list; Timer: station rotation (4 stations x 12 minutes)",
+    "angle": "A ready 60-minute plan with 4 stations (bingo, puzzle table, game, craft), for room parents and teachers who search this the week before the party, plus secular 'winter' swaps for schools that avoid Christmas.",
+    "outline": [
+      "A 60-minute class party plan",
+      "Whole-class Christmas games",
+      "Station ideas: bingo, puzzles, crafts, snack",
+      "Christmas games for kindergarten",
+      "Quiet games for the last hour before break",
+      "Secular winter alternatives",
+      "Printables to prepare the day before"
+    ],
+    "season_deadline": "2026-11-06",
+    "priority": 1
+  },
+  {
+    "publish_at": "2026-11-02T13:05:00Z",
+    "slug": "christmas-activities-for-preschoolers",
+    "title": "Christmas activities for preschoolers: 20 printable ideas",
+    "target_keyword": "christmas activities for preschoolers",
+    "secondary_keywords": [
+      {
+        "keyword": "christmas preschool activities",
+        "volume_us": 1300,
+        "volume_uk": 720,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "christmas bingo for preschoolers",
+        "volume_us": 70,
+        "volume_uk": 10,
+        "kd": null,
+        "source": "keywords-master.csv"
+      },
+      {
+        "keyword": "christmas mazes for preschoolers",
+        "volume_us": 10,
+        "volume_uk": 10,
+        "kd": null,
+        "source": "keywords-master.csv"
+      }
+    ],
+    "volume_us": 1300,
+    "volume_uk": 720,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: pinterest.com, prekinders.com (paid packs), celenakinsey.substack.com, pocketofpreschool.com (TPT seller), thepeacefulpress.com. KD 0 (UK 720/month, KD 0).",
+    "silo": "occasions/christmas",
+    "pushes": [
+      "/puzzles/mazes/christmas-tree-maze-easy/",
+      "/puzzles/dot-to-dot/christmas-tree-dot-to-dot/",
+      "/puzzles/dot-to-dot/snowman-dot-to-dot/",
+      "/bingo/christmas-bingo/"
+    ],
+    "needs": [],
+    "article_type": "seasonal",
+    "interactive_tool": "Checklist: a 24-day December activity calendar (one printable or activity per day, kept in the reader's browser)",
+    "angle": "Free printables instead of paid packs, grouped by skill (counting, fine motor, matching, games) and usable at home or in pre-K, plus a 24-day calendar so parents plan December in one go.",
+    "outline": [
+      "What preschoolers can do at Christmas (ages 3 to 5)",
+      "Counting with Christmas dot to dots",
+      "Fine motor: easy Christmas mazes",
+      "Picture bingo for small groups",
+      "Christmas activities for circle time",
+      "A 24-day December activity calendar"
+    ],
+    "season_deadline": "2026-11-06",
+    "priority": 1
+  },
+  {
+    "publish_at": "2026-11-04T14:10:00Z",
+    "rank": 12,
+    "slug": "family-game-night-ideas",
+    "title": "Family game night ideas: 15 free games and themes to print tonight",
+    "target_keyword": "family game night ideas",
+    "secondary_keywords": [
+      {
+        "keyword": "family game night games",
+        "volume_us": 1900,
+        "volume_uk": 140,
+        "kd": 0
+      },
+      {
+        "keyword": "game night ideas",
+        "volume_us": 1300,
+        "volume_uk": 480,
+        "kd": 11
+      },
+      {
+        "keyword": "card games for family game night",
+        "volume_us": 170,
+        "volume_uk": 10,
+        "kd": 5
+      }
+    ],
+    "volume_us": 1300,
+    "volume_uk": 140,
+    "kd": 3,
+    "intent": "informational",
+    "cluster_volume_us": 4670,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 2900
+    },
+    "serp_notes": "Top 5: pinterest.com, tanglewoodhideaway.com (holiday cabin blog), neworleansmom.com, wikihow.com, forums.welltrainedmind.com; a home blog next. No AI overview; lifestyle blogs that recommend buying games.",
+    "silo": "party-games",
+    "pushes": [
+      "/party-games/dixit-print-and-play/",
+      "/card-games/spot-it-dobble-print-and-play-demo/",
+      "/card-games/timeline-classic-print-and-play-demo/",
+      "/party-games/printable-heads-bodies-and-legs-game/"
+    ],
+    "needs": [],
+    "article_type": "list",
+    "interactive_tool": "Picker: 'which game tonight?' spins among the 15 ideas (filtered by age and duration in the text); Timer for timed rounds.",
+    "angle": "Every idea on this list can be printed free tonight, sorted by ages and length, with practical hosting tips (rotation, snacks, house rules). Search volume triples between September and December (family game night games: 9,900 in November 2024), so the article must be live before Thanksgiving.",
+    "outline": [
+      "How to plan a family game night in 15 minutes",
+      "Games for mixed ages, 4 to 94",
+      "Quick games for school nights (under 20 minutes)",
+      "Drawing and party games",
+      "Classic board games with printable boards",
+      "Theme nights",
+      "Can't decide? Spin the game picker"
+    ],
+    "season_deadline": "2026-11-10",
+    "priority": 1
+  },
+  {
+    "publish_at": "2026-11-13T20:00:00Z",
+    "slug": "christmas-scavenger-hunt-ideas",
+    "title": "Christmas scavenger hunt ideas: clue hunts, gift hunts and light hunts",
+    "target_keyword": "christmas scavenger hunt ideas",
+    "secondary_keywords": [
+      {
+        "keyword": "christmas scavenger hunt clues",
+        "volume_us": 1000,
+        "volume_uk": 90,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "christmas gift scavenger hunt",
+        "volume_us": 590,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "christmas present scavenger hunt",
+        "volume_us": 590,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "elf on the shelf scavenger hunt",
+        "volume_us": 1600,
+        "volume_uk": 70,
+        "kd": 8,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 1300,
+    "volume_uk": 140,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: pinterest.com, scavify.com (app vendor), reddit.com, youtube.com, lockpaperescape.com (seller). KD 0-8. 'elf on the shelf scavenger hunt' is partly navigational (brand), treat as a section only.",
+    "silo": "scavenger-hunts",
+    "pushes": [
+      "/scavenger-hunts/christmas-scavenger-hunt-clue-cards-best-ideas-for-kids/",
+      "/scavenger-hunts/christmas-light-scavenger-hunt-play-party-plan/",
+      "/puzzles/word-search/christmas-word-search/"
+    ],
+    "needs": [],
+    "article_type": "seasonal",
+    "interactive_tool": "Picker: random rhyming Christmas clue (hiding spot as answer) for an indoor gift hunt",
+    "angle": "Three formats in one guide (indoor clue hunt, gift-finding hunt on Christmas morning, Christmas-lights hunt by car), each with a free printable already in our catalogue, while competitors sell kits or link to Pinterest.",
+    "outline": [
+      "Three kinds of Christmas scavenger hunt",
+      "Rhyming clues for an indoor Christmas hunt",
+      "Christmas gift scavenger hunt: hiding the big present",
+      "Christmas lights hunt in the car or on foot",
+      "An elf-themed hunt for younger kids",
+      "Hunts for teens and adults",
+      "Printables to use this year"
+    ],
+    "season_deadline": "2026-11-13",
+    "priority": 1
+  },
+  {
+    "publish_at": "2026-11-16T14:50:00Z",
+    "slug": "new-years-eve-games-for-family",
+    "title": "New Year's Eve games for family: 12 ideas to stay up to midnight",
+    "target_keyword": "new years eve games for family",
+    "secondary_keywords": [
+      {
+        "keyword": "new year games for family",
+        "volume_us": 880,
+        "volume_uk": 170,
+        "kd": 2,
+        "source": "labs"
+      },
+      {
+        "keyword": "family friendly new year's eve activities",
+        "volume_us": 720,
+        "volume_uk": null,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "new years eve ideas for families",
+        "volume_us": 590,
+        "volume_uk": 260,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "family new year's eve activities",
+        "volume_us": 390,
+        "volume_uk": null,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 880,
+    "volume_uk": 170,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: pinterest.com, youtube.com, wikihow.com, shumateheatingandair.com (HVAC company blog), lovetoknow.com. KD 0-2. A heating company ranks in the top 5: very weak SERP.",
+    "silo": "occasions/winter",
+    "pushes": [
+      "/puzzles/word-search/winter-word-search/",
+      "/puzzles/mazes/snowflake-maze/",
+      "/bingo/blank-bingo-card-template/"
+    ],
+    "needs": [
+      "New Year's Eve bingo and New Year word search (none yet)",
+      "/occasions/new-year/ hub once 4 items exist (label already in taxonomy.ts)"
+    ],
+    "article_type": "seasonal",
+    "interactive_tool": "Timer: hourly countdown games (one game per hour until midnight); Picker: random resolution and 'year in review' prompts",
+    "angle": "An hour-by-hour plan (one game per hour, the 'fake midnight' trick for small children) built around printable games. The ranking pages are generic party listicles that do not separate small kids from teens.",
+    "outline": [
+      "An hour-by-hour New Year's Eve plan",
+      "Games for little ones (with a fake midnight)",
+      "Games for tweens and teens",
+      "Whole-family games that need only paper",
+      "Year-in-review and resolution games",
+      "Printables for New Year's Eve"
+    ],
+    "season_deadline": "2026-11-19",
+    "priority": 2
+  },
+  {
+    "publish_at": "2026-11-18T20:50:00Z",
+    "rank": 3,
+    "slug": "how-to-win-tic-tac-toe",
+    "title": "How to win tic-tac-toe: the moves that never lose",
+    "target_keyword": "how to win tic tac toe",
+    "secondary_keywords": [
+      {
+        "keyword": "tic tac toe strategy",
+        "volume_us": 2400,
+        "volume_uk": 140,
+        "kd": 1
+      },
+      {
+        "keyword": "tic tac toe tricks",
+        "volume_us": 590,
+        "volume_uk": 40,
+        "kd": 0
+      },
+      {
+        "keyword": "how to never lose tic tac toe",
+        "volume_us": 140,
+        "volume_uk": 30,
+        "kd": 0
+      }
+    ],
+    "volume_us": 8100,
+    "volume_uk": 1300,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 11230,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 9900
+    },
+    "serp_notes": "Top 5: reddit.com (r/howto thread), instructables.com, facebook.com (video), quora.com, a Monash University PDF; then a Medium post. Only forums, a video and a lecture PDF: no clear written guide with diagrams. AI overview and videos above, but the organic block is weak.",
+    "silo": "rules/pen-and-paper",
+    "pushes": [
+      "/rules/tic-tac-toe/",
+      "/rules/sim/",
+      "/rules/dots-and-boxes/"
+    ],
+    "needs": [],
+    "article_type": "strategy",
+    "interactive_tool": "Quiz mode=\"score\": 6 board positions, 'where should X play?', each answer explained (win, block, fork, block the fork).",
+    "angle": "The ranking pages are a Reddit thread, a 5-step Instructables and a lecture PDF. We give the complete priority list (win, block, fork, block fork, centre, opposite corner, corner, side) with grid diagrams, the corner trap for the first player and the safe replies for the second, then a quiz to practise. Once the reader can force a draw, we send them to harder pencil games (Sim, dots and boxes) that have rules pages.",
+    "outline": [
+      "Can you always win tic-tac-toe?",
+      "The priority list: what to play on every move",
+      "How to win when you go first: the corner trap",
+      "How never to lose when you go second",
+      "Tic-tac-toe tricks that beat beginners",
+      "Test yourself: 6 positions",
+      "When tic-tac-toe gets too easy: Sim, dots and boxes"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "publish_at": "2026-11-23T19:30:00Z",
+    "slug": "bingo-patterns",
+    "title": "Bingo patterns: 30 games to call, from blackout to picture frame",
+    "target_keyword": "bingo patterns",
+    "secondary_keywords": [
+      {
+        "keyword": "blackout bingo",
+        "volume_us": 5400,
+        "volume_uk": 320,
+        "kd": 4,
+        "source": "labs"
+      },
+      {
+        "keyword": "types of bingo games",
+        "volume_us": 390,
+        "volume_uk": 30,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "bingo variations",
+        "volume_us": 260,
+        "volume_uk": 40,
+        "kd": 2,
+        "source": "labs"
+      },
+      {
+        "keyword": "bingo game ideas",
+        "volume_us": 140,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 5400,
+    "volume_uk": 170,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: arrowinternational.com (supplier pattern catalogue), jackpotbingosupplies.com (one pattern per page), bingoblitz.com (app), pinterest.com, blog.arrowinternational.com. KD 0-4. Results are supplier catalogues and an app, none written for a home, classroom or care-home host.",
+    "silo": "bingo",
+    "pushes": [
+      "/bingo/bingo-cards-1-75/",
+      "/bingo/blank-bingo-card-template/",
+      "/bingo/christmas-bingo/"
+    ],
+    "needs": [],
+    "article_type": "list",
+    "interactive_tool": "Picker: picks the pattern for the next round and shows its 5x5 diagram; StatGrid with how many calls each pattern takes on average, from our own simulation of the 1-75 cards",
+    "angle": "Every pattern is drawn on a 5x5 grid and labelled by difficulty and game length, which no ranking page does. We can measure the average number of calls per pattern by simulating our own 1-75 cards, real data instead of guesses, and suggest which patterns suit kids, classrooms and seniors.",
+    "outline": [
+      "What a bingo pattern is",
+      "Line patterns: horizontal, vertical, diagonal, four corners",
+      "Blackout bingo (coverall): rules and how long it takes",
+      "Shape patterns: X, T, L, picture frame, postage stamp",
+      "Easy patterns for kids and classrooms",
+      "How to announce and check a pattern",
+      "Bingo variations beyond patterns"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "publish_at": "2026-12-01T16:45:00Z",
+    "rank": 5,
+    "slug": "how-to-win-at-checkers",
+    "title": "How to win at checkers: 9 strategies from first game to expert",
+    "target_keyword": "how to win at checkers",
+    "secondary_keywords": [
+      {
+        "keyword": "checkers strategy",
+        "volume_us": 1300,
+        "volume_uk": 140,
+        "kd": 0
+      },
+      {
+        "keyword": "is checkers solved",
+        "volume_us": 880,
+        "volume_uk": 90,
+        "kd": 12
+      },
+      {
+        "keyword": "best checkers strategy",
+        "volume_us": 390,
+        "volume_uk": 40,
+        "kd": 0
+      }
+    ],
+    "volume_us": 3600,
+    "volume_uk": 260,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 6170,
+    "peak_month_us": {
+      "month": "2025-11",
+      "volume": 3600
+    },
+    "serp_notes": "Top 5: reddit.com, thesprucecrafts.com, fitandfunplayscapes.com (playground maker, rules page), youtube.com, bobnewell.net (old personal site); 247checkers.com next. Weak: one craft magazine, the rest forums, videos and old pages.",
+    "silo": "rules/board-games",
+    "pushes": [
+      "/rules/checkers/",
+      "/board-games/printable-checkerboard/"
+    ],
+    "needs": [],
+    "article_type": "strategy",
+    "interactive_tool": "Quiz mode=\"score\": 5 diagrammed positions (forced capture trap, back-row defence, trade when ahead), with explanations.",
+    "angle": "The Spruce Crafts piece is short and generic; the rest are forums and videos. We explain each principle with a diagram drawn on our printable board, cover the forced-capture rule as a weapon (two-for-one shots), and answer 'is checkers solved?' (Chinook, 2007: perfect play is a draw; to be sourced) in plain words.",
+    "outline": [
+      "Is checkers solved, and what does it mean for you?",
+      "Control the centre",
+      "Keep your back row (and when to let it go)",
+      "Trade pieces when you are ahead",
+      "Use forced captures to set traps",
+      "Crown a king and use it",
+      "Endgames: two kings against one",
+      "Practise on a printed board"
+    ],
+    "season_deadline": "2026-12-01",
+    "priority": 1
+  },
+  {
+    "publish_at": "2026-12-04T12:30:00Z",
+    "rank": 11,
+    "slug": "chess-vs-checkers",
+    "title": "Chess vs checkers: which is harder, older and better for you?",
+    "target_keyword": "chess vs checkers",
+    "secondary_keywords": [
+      {
+        "keyword": "chess or checkers",
+        "volume_us": 1300,
+        "volume_uk": 140,
+        "kd": 0
+      }
+    ],
+    "volume_us": 1900,
+    "volume_uk": 140,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 3200,
+    "peak_month_us": {
+      "month": "2026-01",
+      "volume": 1900
+    },
+    "serp_notes": "Top 5: chessandcheckers.io (play site), reddit.com, youtube.com (variant video), quora.com (about the idiom), youtube.com; chess.com forum next. No comparison article at all.",
+    "silo": "board-games/2-player",
+    "pushes": [
+      "/board-games/printable-chess-board/",
+      "/board-games/printable-checkerboard/",
+      "/rules/chess/",
+      "/rules/checkers/"
+    ],
+    "needs": [],
+    "article_type": "comparison",
+    "interactive_tool": "Quiz mode=\"match\": 'Chess or checkers?' (age, time per game, appetite for theory); outcomes link to each rules page and printable board.",
+    "angle": "The SERP has no comparison page, only forums and videos. A side-by-side table (board, pieces, average game length, solved status, age to learn, origins) and a recommender answer the query; the same 8×8 printable board works for both games, which turns readers into downloads.",
+    "outline": [
+      "Chess vs checkers at a glance (table)",
+      "Same board, very different games",
+      "Which is harder? Complexity and the solved-game question",
+      "Which is older?",
+      "Which is better for kids and beginners?",
+      "One printable board for both games",
+      "Chess or checkers? Take the quiz"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "publish_at": "2026-12-12T16:05:00Z",
+    "rank": 8,
+    "slug": "mancala-strategy",
+    "title": "Mancala strategy: 7 tips to win at mancala (Kalah rules)",
+    "target_keyword": "mancala strategy",
+    "secondary_keywords": [
+      {
+        "keyword": "how to win at mancala",
+        "volume_us": 1900,
+        "volume_uk": null,
+        "kd": 10
+      },
+      {
+        "keyword": "best mancala strategy",
+        "volume_us": 320,
+        "volume_uk": 10,
+        "kd": 0
+      }
+    ],
+    "volume_us": 1600,
+    "volume_uk": 90,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 3820,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 2400
+    },
+    "serp_notes": "Top 5: thesprucecrafts.com, reddit.com, coolmathgames.com, carry1st.com, lovetoknow.com; a spam page on a Harley-Davidson subdomain next. Short generic tips, no diagrams of real positions.",
+    "silo": "rules/board-games",
+    "pushes": [
+      "/rules/mancala/",
+      "/board-games/printable-mancala-board/"
+    ],
+    "needs": [],
+    "article_type": "strategy",
+    "interactive_tool": "Quiz mode=\"score\": 5 board states drawn on our printable board ('which pit gives an extra turn or a capture?').",
+    "angle": "The ranking pages repeat 'plan ahead' without showing positions. We teach the one calculation that matters (seeds in a pit vs distance to the store), chained extra turns, captures and late-game hoarding, all on diagrams of the board readers can print, and note the published analysis of Kalah (first-player advantage; to be sourced).",
+    "outline": [
+      "How a mancala turn really works: count to your store",
+      "Opening moves that give a free turn",
+      "Chain extra turns",
+      "Captures: when to empty a pit, when to defend",
+      "Hoard seeds on your side late in the game",
+      "Playing second: how to catch up",
+      "Test yourself: 5 positions"
+    ],
+    "season_deadline": "2026-12-01",
+    "priority": 1
+  },
+  {
+    "publish_at": "2026-12-16T14:55:00Z",
+    "slug": "valentines-day-classroom-games",
+    "title": "Valentine's Day classroom games: 10 party games with just paper",
+    "target_keyword": "valentines day classroom games",
+    "secondary_keywords": [
+      {
+        "keyword": "classroom valentine game",
+        "volume_us": 390,
+        "volume_uk": null,
+        "kd": null,
+        "source": "google_ads"
+      },
+      {
+        "keyword": "valentine's day class party games",
+        "volume_us": 260,
+        "volume_uk": null,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "classroom valentines day activities",
+        "volume_us": 260,
+        "volume_uk": null,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "valentines day scavenger hunt",
+        "volume_us": 720,
+        "volume_uk": null,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 390,
+    "volume_uk": null,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: teachmama.com (blog), pinterest.com, sweetfirstiefun.com (TPT seller), thepioneerwoman.com (family listicle), facebook.com. KD 0. US-only (school class parties).",
+    "silo": "occasions/valentines",
+    "pushes": [
+      "/bingo/valentines-day-bingo/",
+      "/puzzles/word-search/valentines-day-word-search/",
+      "/puzzles/mazes/valentines-day-maze/",
+      "/puzzles/dot-to-dot/heart-dot-to-dot-easy/"
+    ],
+    "needs": [
+      "Valentine's Day scavenger hunt clue cards (own CC printable) for the 'valentines day scavenger hunt' query (720/month, KD 0)"
+    ],
+    "article_type": "seasonal",
+    "interactive_tool": "Timer: minute-to-win-it rounds; Picker: random game for the next round",
+    "angle": "Low-prep games that need only printouts and paper, sorted K-2 and 3-5, with a 45-minute party plan. Competitors mix family and classroom ideas and send readers to paid packs.",
+    "outline": [
+      "A 45-minute Valentine's class party plan",
+      "Valentine's bingo for the whole class",
+      "Minute-to-win-it games with paper hearts",
+      "Quiet puzzle station: mazes, word searches, dot to dots",
+      "A Valentine's classroom scavenger hunt",
+      "Games for K-2 vs grades 3-5"
+    ],
+    "season_deadline": "2027-01-03",
+    "priority": 1
+  },
+  {
+    "publish_at": "2026-12-19T17:45:00Z",
+    "rank": 4,
+    "slug": "types-of-solitaire",
+    "title": "Types of solitaire: 12 solo card games to play with one deck",
+    "target_keyword": "types of solitaire",
+    "secondary_keywords": [
+      {
+        "keyword": "solo card games",
+        "volume_us": 4400,
+        "volume_uk": 1000,
+        "kd": 0
+      },
+      {
+        "keyword": "best solo card game",
+        "volume_us": 590,
+        "volume_uk": 140,
+        "kd": 0
+      },
+      {
+        "keyword": "games like solitaire",
+        "volume_us": 590,
+        "volume_uk": 90,
+        "kd": 15
+      },
+      {
+        "keyword": "solitaire variations",
+        "volume_us": 390,
+        "volume_uk": 20,
+        "kd": 0
+      }
+    ],
+    "volume_us": 1300,
+    "volume_uk": 110,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 7270,
+    "peak_month_us": {
+      "month": "2026-01",
+      "volume": 1600
+    },
+    "serp_notes": "Top 5: 247solitaire.com (×2, online play site), reddit.com, pinterest.com, quora.com; cardanoir.com next. Online-game sites push their own web apps; nothing shows layouts, odds and table play together.",
+    "silo": "board-games/solo",
+    "pushes": [
+      "/rules/klondike-solitaire/",
+      "/card-games/orchard-9-card-solitaire/",
+      "/card-games/mini-rogue-print-and-play/",
+      "/card-games/bismarck-s-dance/"
+    ],
+    "needs": [
+      "Rules pages: Spider Solitaire, FreeCell, Pyramid Solitaire, Golf Solitaire (volumes to measure; the article can launch with Klondike only)"
+    ],
+    "article_type": "list",
+    "interactive_tool": "Quiz mode=\"match\": 'Which solitaire should you try?' (luck vs skill, time, space on the table); outcomes link to rules pages and to free print-and-play solo games.",
+    "angle": "Ranking pages are written to send players to an online app. We describe each patience game for a real deck (layout sketch, goal, how often it can be won, time), then add the free print-and-play solo card games from our catalogue that a solitaire fan will enjoy next. 'Solo card games' (4,400 a month, KD 0) gives the article a second large keyword.",
+    "outline": [
+      "What counts as solitaire (patience)?",
+      "Classic one-deck games: Klondike, Spider, FreeCell, Pyramid, Golf, Clock",
+      "Which solitaires can be won most often?",
+      "Two-deck and harder solitaires",
+      "Modern solo card games you can print free",
+      "Which one should you play? (quiz)"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "publish_at": "2026-12-22T13:55:00Z",
+    "rank": 9,
+    "slug": "card-games-for-seniors",
+    "title": "Card games for seniors: 10 easy, social games to play anywhere",
+    "target_keyword": "card games for seniors",
+    "secondary_keywords": [
+      {
+        "keyword": "board games for seniors",
+        "volume_us": 1600,
+        "volume_uk": 140,
+        "kd": 0
+      },
+      {
+        "keyword": "large print playing cards",
+        "volume_us": 480,
+        "volume_uk": 90,
+        "kd": 0
+      },
+      {
+        "keyword": "card games for elderly",
+        "volume_us": 140,
+        "volume_uk": 10,
+        "kd": 0
+      },
+      {
+        "keyword": "easy card games for seniors",
+        "volume_us": 110,
+        "volume_uk": 10,
+        "kd": 0
+      }
+    ],
+    "volume_us": 1000,
+    "volume_uk": 30,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 3330,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 1600
+    },
+    "serp_notes": "Top 5: delaneyatthevale.com (retirement home blog), swflretirement.com, facebook.com, aplaceformom.com, edenvistastow.com; 247freecell.com next. Senior-living marketing pages listing names without rules.",
+    "silo": "rules/card-games",
+    "pushes": [
+      "/rules/rummy/",
+      "/rules/canasta/",
+      "/rules/cribbage/",
+      "/card-games/printable-playing-card-deck/"
+    ],
+    "needs": [
+      "Game page: large-print playing card deck (own design, free to print); 'large print playing cards' 480 US and 'large print poker cards' 480 in keywords-master.csv"
+    ],
+    "article_type": "list",
+    "interactive_tool": "Quiz mode=\"match\": 'Which game for your group?' (number of players, memory load, hand dexterity); outcomes link to rules pages with score sheets.",
+    "angle": "Ranking pages are written by retirement homes and stop at a name and a line. For each game we say why it suits older players (no reflexes, low memory load, social), how to adapt it (card holders, large print, open hands), and link the full rules with a printable score sheet. Board games for seniors (1,600) is covered in one section that links classic boards.",
+    "outline": [
+      "What makes a card game senior-friendly?",
+      "10 card games, from easy to Canasta",
+      "Card games for players with memory loss",
+      "Two-player games for couples and visits",
+      "Large print cards, card holders and other adaptations",
+      "Board games for seniors too",
+      "Which game fits your group? (quiz)"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "publish_at": "2026-12-30T17:30:00Z",
+    "slug": "early-finisher-activities",
+    "title": "Early finisher activities: 20 no-prep printables by grade",
+    "target_keyword": "early finisher activities",
+    "secondary_keywords": [
+      {
+        "keyword": "early finisher",
+        "volume_us": 720,
+        "volume_uk": null,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "fun friday activities",
+        "volume_us": 1300,
+        "volume_uk": 40,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "brain break ideas",
+        "volume_us": 590,
+        "volume_uk": 90,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 880,
+    "volume_uk": 20,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: muinteoirvalerie.com (Irish teacher blog), facebook.com, forums.atozteacherstuff.com, elementarynest.com, pinterest.com. KD 0. Forums and small teacher blogs, most selling TPT packs.",
+    "silo": "puzzles",
+    "pushes": [
+      "/puzzles/word-search/math-word-search/",
+      "/puzzles/sudoku/6x6-sudoku-for-kids/",
+      "/puzzles/mazes/space-maze/",
+      "/puzzles/dot-to-dot/abc-butterfly-dot-to-dot/"
+    ],
+    "needs": [
+      "/classroom/ hub (planned in docs/09) to gather classroom articles and printables later"
+    ],
+    "article_type": "guide-by-age",
+    "interactive_tool": "Picker: an early-finisher choice board that draws one activity at random for the student",
+    "angle": "Free, no-prep printables sorted by grade band (K-2, 3-5, middle school) with the rule teachers ask for: activities that are quiet, self-checking (answer keys) and finish in 10-15 minutes. Competitors push paid packs.",
+    "outline": [
+      "What makes a good early finisher activity",
+      "Early finisher activities for K-2",
+      "Early finisher activities for grades 3-5",
+      "Early finishers in middle school",
+      "Setting up an early finisher station",
+      "Fun Friday and brain break versions"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "publish_at": "2027-01-02T14:55:00Z",
+    "slug": "bingo-prize-ideas",
+    "title": "Bingo prize ideas: 40 cheap prizes for adults, kids and seniors",
+    "target_keyword": "bingo prizes for adults",
+    "secondary_keywords": [
+      {
+        "keyword": "bingo prize ideas",
+        "volume_us": 390,
+        "volume_uk": 110,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "inexpensive bingo prizes for adults",
+        "volume_us": 320,
+        "volume_uk": 90,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "bingo prize ideas for adults",
+        "volume_us": 170,
+        "volume_uk": 40,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "cheap bingo prizes",
+        "volume_us": 140,
+        "volume_uk": 30,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 480,
+    "volume_uk": 110,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: pinterest.com x2, reddit.com (r/Libraries), facebook.com, boogiebingogames.com, quora.com. KD 0. Almost entirely UGC; the only article is about music bingo.",
+    "silo": "bingo",
+    "pushes": [
+      "/bingo/bingo-cards-1-75/",
+      "/bingo/baby-shower-bingo/",
+      "/bingo/classroom-bingo/"
+    ],
+    "needs": [],
+    "article_type": "ideas",
+    "interactive_tool": "Picker: 'prize for this round' picker filtered by audience (adults, kids, seniors, office) and budget",
+    "angle": "Organised by audience and budget (free, under $1, under $5) with non-food and non-plastic options, which the UGC results never structure. Free prizes (privileges, choose the next pattern) make it useful for classrooms and care homes.",
+    "outline": [
+      "How many prizes you need for a bingo game",
+      "Free bingo prizes that people actually want",
+      "Prizes under $1 for kids and classrooms",
+      "Bingo prizes for adults under $5",
+      "Prizes for seniors and care-home bingo",
+      "Prizes for baby showers and office parties",
+      "Wrapping and presenting prizes"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "publish_at": "2027-01-05T21:55:00Z",
+    "rank": 15,
+    "slug": "yahtzee-strategy",
+    "title": "Yahtzee strategy: the real odds and 8 tips for a higher score",
+    "target_keyword": "yahtzee strategy",
+    "secondary_keywords": [
+      {
+        "keyword": "yahtzee odds",
+        "volume_us": 390,
+        "volume_uk": 50,
+        "kd": 6
+      },
+      {
+        "keyword": "probability of yahtzee",
+        "volume_us": 390,
+        "volume_uk": null,
+        "kd": 0
+      },
+      {
+        "keyword": "yahtzee probability",
+        "volume_us": 320,
+        "volume_uk": 50,
+        "kd": 0
+      },
+      {
+        "keyword": "how to win at yahtzee",
+        "volume_us": 260,
+        "volume_uk": 20,
+        "kd": 0
+      }
+    ],
+    "volume_us": 480,
+    "volume_uk": 140,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 1840,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 880
+    },
+    "serp_notes": "Top 5: reddit.com (r/Yahtzee), scribd.com, youtube.com, boardgames.stackexchange.com, winning-moves.com (rules PDF); forum.boardgamearena.com next. Forums and a PDF: nobody combines odds with simple rules of thumb.",
+    "silo": "rules/dice-games",
+    "pushes": [
+      "/rules/yacht/",
+      "/rules/farkle/"
+    ],
+    "needs": [],
+    "article_type": "strategy",
+    "interactive_tool": "DiceRoller dice=5 sides=6 to practise keep-and-reroll decisions; BarChart of the odds of each category within three rolls (our own calculation).",
+    "angle": "We combine the math (chance of a Yahtzee in three rolls, about 4.6%, to be recomputed; odds of straights and full houses) with the upper-bonus rule of thumb (three of each number reaches 63) and end-game choices. Yahtzee is a trademark, so the article links our rules page for Yacht, the public-domain ancestor, with its free score sheet.",
+    "outline": [
+      "What are the odds of rolling a Yahtzee?",
+      "Aim for the upper bonus: the 63-point target",
+      "Which dice to keep: pairs, triples or straights?",
+      "Use Chance and zeros wisely",
+      "End-game decisions",
+      "Yahtzee vs Yacht: the public-domain ancestor",
+      "Practise with the dice roller"
+    ],
+    "season_deadline": "2026-12-10",
+    "priority": 1
+  },
+  {
+    "publish_at": "2027-01-11T19:20:00Z",
+    "slug": "leprechaun-hunt",
+    "title": "Leprechaun hunt: how to set up a St Patrick's Day clue trail",
+    "target_keyword": "leprechaun hunt",
+    "secondary_keywords": [
+      {
+        "keyword": "leprechaun scavenger hunt",
+        "volume_us": 320,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "st patricks day scavenger hunt",
+        "volume_us": 320,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "st patricks day classroom activities",
+        "volume_us": 140,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "st patricks day party games",
+        "volume_us": 70,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 390,
+    "volume_uk": 10,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: kpnc.auburn.edu (local event page), narberthonline.com (town event), facebook.com, jonesing2create.com (craft blog), sunshineandhurricanes.com. KD 0. Local events and small blogs.",
+    "silo": "scavenger-hunts",
+    "pushes": [
+      "/scavenger-hunts/indoor-scavenger-hunt-play-party-plan/",
+      "/scavenger-hunts/nature-scavenger-hunt-play-party-plan/",
+      "/puzzles/mazes/spring-maze/"
+    ],
+    "needs": [
+      "St Patrick's Day leprechaun hunt clue cards (own CC printable, rhyming clues, gold-coin finale)",
+      "St Patrick's Day maze or word search (rainbow / shamrock theme)"
+    ],
+    "article_type": "seasonal",
+    "interactive_tool": "Checklist: leprechaun 'mischief' set-up (footprints, tipped chairs, gold coins, clue order); Picker: random leprechaun clue",
+    "angle": "A step-by-step home and classroom version with the 'mischief' staging kids love, written clues and a printable, where the SERP only has local event pages. Easy to refresh every year.",
+    "outline": [
+      "What a leprechaun hunt is",
+      "How to set up a leprechaun hunt at home",
+      "Clues that lead to the pot of gold",
+      "A leprechaun hunt for the classroom",
+      "St Patrick's Day games to add",
+      "What to put in the pot of gold"
+    ],
+    "season_deadline": "2027-02-03",
+    "priority": 1
+  },
+  {
+    "publish_at": "2027-01-15T13:25:00Z",
+    "rank": 13,
+    "slug": "2-player-spades",
+    "title": "2 player spades: 3 ways to play spades with two people",
+    "target_keyword": "2 player spades",
+    "secondary_keywords": [
+      {
+        "keyword": "spades for 2",
+        "volume_us": 390,
+        "volume_uk": 10,
+        "kd": 0
+      },
+      {
+        "keyword": "spades card game 2 player",
+        "volume_us": 210,
+        "volume_uk": null,
+        "kd": 0
+      },
+      {
+        "keyword": "2 player hearts",
+        "volume_us": 260,
+        "volume_uk": 20,
+        "kd": 7
+      }
+    ],
+    "volume_us": 1900,
+    "volume_uk": 20,
+    "kd": 1,
+    "intent": "transactional",
+    "cluster_volume_us": 2760,
+    "peak_month_us": {
+      "month": "2026-01",
+      "volume": 2900
+    },
+    "serp_notes": "Top 5: reddit.com, apps.apple.com (app), thesprucecrafts.com, 247spades.com (online game blog), bicyclecards.com; dkmgames.com next. One craft magazine article, an app and forums: beatable with a complete guide.",
+    "silo": "rules/card-games",
+    "pushes": [
+      "/rules/spades/",
+      "/rules/hearts/"
+    ],
+    "needs": [],
+    "article_type": "guide",
+    "interactive_tool": "ScoreKeeper players=2: bids, tricks taken and bags, to 500 points.",
+    "angle": "Our rules page covers two-player Spades in one paragraph (draw and discard); a variant query deserves a full article. We present the established two-hand methods documented on pagat.com (to be checked), the scoring adjustments for two, heads-up bidding tips, and the same approach for two-player Hearts.",
+    "outline": [
+      "Can you play spades with 2 people?",
+      "Method 1: draw and discard (the classic deal)",
+      "Method 2: playing with dummy hands",
+      "Method 3: other two-hand variants",
+      "Scoring for two: bids, bags and 500 points",
+      "Bidding tips for heads-up spades",
+      "Bonus: how to play hearts with two"
+    ],
+    "season_deadline": "2026-12-15",
+    "priority": 1
+  },
+  {
+    "publish_at": "2027-01-18T20:45:00Z",
+    "slug": "easter-scavenger-hunt-clues",
+    "title": "Easter scavenger hunt clues: 40 riddles for kids, teens and adults",
+    "target_keyword": "easter scavenger hunt clues",
+    "secondary_keywords": [
+      {
+        "keyword": "easter egg hunt clues",
+        "volume_us": 880,
+        "volume_uk": 5400,
+        "kd": 1,
+        "source": "labs"
+      },
+      {
+        "keyword": "easter hunt clues",
+        "volume_us": 720,
+        "volume_uk": 5400,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "easter egg hunt clues for adults",
+        "volume_us": 390,
+        "volume_uk": 590,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "easter egg hunt clues for teenagers",
+        "volume_us": 320,
+        "volume_uk": 880,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 1600,
+    "volume_uk": 260,
+    "kd": 2,
+    "intent": "informational",
+    "serp_notes": "US top 5: youtube.com, treasuremaptrails.com (small shop blog), pinterest.com, twinkl.com, rhythmsofplay.com (mom blog). UK 'easter egg hunt clues' (5,400/month UK): countryliving.com/uk, a church PDF (stmkr.org), uk.pinterest.com, allmomdoes.com, a local mum blog, bbcgoodfood. KD 0-2 in both markets; PDFs and Pinterest in the top 5 are weak results.",
+    "silo": "scavenger-hunts",
+    "pushes": [
+      "/scavenger-hunts/easter-scavenger-hunt-clue-cards-best-ideas-for-kids/",
+      "/puzzles/mazes/easter-egg-maze/",
+      "/puzzles/word-search/easter-word-search/"
+    ],
+    "needs": [],
+    "article_type": "seasonal",
+    "interactive_tool": "Picker: random Easter clue by age band (toddler picture clue, kid rhyme, teen riddle, adult cryptic) with the hiding spot as the answer",
+    "angle": "One page that serves both markets: US 'scavenger hunt' and UK 'egg hunt' wording, clues graded from toddlers to adults (the teen and adult variants are big in the UK and poorly served), and puzzle stations (a maze or word search whose answer reveals the next spot) instead of plain riddles.",
+    "outline": [
+      "How an Easter clue hunt works (and how many clues you need)",
+      "Picture clues for toddlers and preschoolers",
+      "Rhyming Easter clues for kids",
+      "Harder Easter riddles for teenagers",
+      "Cryptic Easter egg hunt clues for adults",
+      "Indoor vs outdoor hiding spots",
+      "Turn a puzzle into a clue: maze and word search stations"
+    ],
+    "season_deadline": "2027-02-14",
+    "priority": 1
+  },
+  {
+    "publish_at": "2027-01-26T15:30:00Z",
+    "slug": "easter-egg-hunt-ideas",
+    "title": "Easter egg hunt ideas: 20 twists for toddlers, teens and adults",
+    "target_keyword": "easter egg hunt ideas",
+    "secondary_keywords": [
+      {
+        "keyword": "adult easter egg hunt ideas",
+        "volume_us": 1600,
+        "volume_uk": 90,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "easter egg hunt games",
+        "volume_us": 1000,
+        "volume_uk": 210,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "easter egg hunt ideas for teens",
+        "volume_us": 590,
+        "volume_uk": 140,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "indoor easter egg hunt ideas",
+        "volume_us": 320,
+        "volume_uk": 170,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 1600,
+    "volume_uk": 1600,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: youtube.com, mentalfloss.com, funkypigeon.com (UK card shop), gathered.how, countryliving.com. KD 0-1, same 1,600/month in the UK. Media listicles, no age-graded plan.",
+    "silo": "occasions/easter",
+    "pushes": [
+      "/scavenger-hunts/easter-scavenger-hunt-clue-cards-best-ideas-for-kids/",
+      "/bingo/easter-bingo/",
+      "/puzzles/mazes/easter-egg-maze/",
+      "/puzzles/dot-to-dot/easter-egg-dot-to-dot/"
+    ],
+    "needs": [],
+    "article_type": "seasonal",
+    "interactive_tool": "Picker: random 'twist' for this year's hunt (colour-coded eggs per child, glow-in-the-dark, puzzle eggs); Checklist: egg hunt prep",
+    "angle": "Ideas sorted by age with the fairness tricks parents need (colour per child, height zones), plus puzzle-based twists that link to our printables. Pairs with the Easter clues article (that one targets clue wording, this one hunt formats).",
+    "outline": [
+      "Making the hunt fair for different ages",
+      "Easter egg hunt ideas for toddlers",
+      "Ideas for kids: themes and puzzle eggs",
+      "Easter egg hunts for teens",
+      "Adult Easter egg hunt ideas",
+      "Indoor Easter egg hunt ideas for rainy days",
+      "Games to play after the hunt"
+    ],
+    "season_deadline": "2027-02-14",
+    "priority": 2
+  },
+  {
+    "publish_at": "2027-01-30T12:00:00Z",
+    "rank": 7,
+    "slug": "how-to-make-a-paper-dice",
+    "title": "How to make a paper dice: free templates and 3 folding methods",
+    "target_keyword": "how to make a paper dice",
+    "secondary_keywords": [
+      {
+        "keyword": "how to make a dice out of paper",
+        "volume_us": 1000,
+        "volume_uk": 170,
+        "kd": 0
+      },
+      {
+        "keyword": "how to make dice",
+        "volume_us": 1300,
+        "volume_uk": 320,
+        "kd": 0
+      },
+      {
+        "keyword": "dice template",
+        "volume_us": 880,
+        "volume_uk": 480,
+        "kd": 0
+      },
+      {
+        "keyword": "paper dice",
+        "volume_us": 720,
+        "volume_uk": 90,
+        "kd": 0
+      }
+    ],
+    "volume_us": 1300,
+    "volume_uk": 210,
+    "kd": 1,
+    "intent": "informational",
+    "cluster_volume_us": 5200,
+    "peak_month_us": {
+      "month": "2026-05",
+      "volume": 3600
+    },
+    "serp_notes": "Top 5: tiktok.com, youtube.com, tiktok.com, youtube.com (×2); youtube.com again next. Video-only SERP: a written page with a printable template has room, and image results appear.",
+    "silo": "dice-games",
+    "pushes": [
+      "/dice-games/printable-shut-the-box-game/",
+      "/dice-games/goblin-teeth/",
+      "/rules/pig/"
+    ],
+    "needs": [
+      "Printable page: paper dice templates (d6 with pips, d6 with numbers, blank d6, d4, d8, d12, d20 nets), our own drawings"
+    ],
+    "article_type": "how-to",
+    "interactive_tool": "DiceRoller dice=2 sides=6: 'no dice and no time to fold? roll here', plus links to games that need one or two dice.",
+    "angle": "Every result is a video. We offer the template the videos lack (printable nets drawn in-house), written steps with photos, card stock and glue-tab tips so the cube rolls fairly, and games to play with it. Angle: replacing lost dice for game night, not a preschool craft (that audience belongs to the kids' activities plan).",
+    "outline": [
+      "What you need",
+      "Print the template: d6 and other dice",
+      "How to cut, score and fold a cube",
+      "Glue or no glue: the origami dice",
+      "Make it sturdy and fair",
+      "Dice games to play with your paper dice",
+      "No time to fold? Roll online"
+    ],
+    "season_deadline": "2027-04-15",
+    "priority": 1
+  },
+  {
+    "publish_at": "2027-02-01T14:30:00Z",
+    "slug": "scavenger-hunt-clues",
+    "title": "Scavenger hunt clues: 50 riddles for every room, with answers",
+    "target_keyword": "scavenger hunt clues",
+    "secondary_keywords": [
+      {
+        "keyword": "scavenger hunt riddles",
+        "volume_us": 720,
+        "volume_uk": 70,
+        "kd": 4,
+        "source": "labs"
+      },
+      {
+        "keyword": "indoor scavenger hunt clues",
+        "volume_us": 720,
+        "volume_uk": 90,
+        "kd": 1,
+        "source": "labs"
+      },
+      {
+        "keyword": "scavenger hunt clues for around the house",
+        "volume_us": 590,
+        "volume_uk": 50,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "treasure hunt clues",
+        "volume_us": 880,
+        "volume_uk": 720,
+        "kd": 9,
+        "source": "labs"
+      },
+      {
+        "keyword": "how to make a scavenger hunt",
+        "volume_us": 390,
+        "volume_uk": 30,
+        "kd": 9,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 3600,
+    "volume_uk": 390,
+    "kd": 2,
+    "intent": "informational",
+    "serp_notes": "US top 5: thesavvysparrow.com (mom blog list), treasure-hunt-clues.com (old single-topic site), parade.com (media listicle), youtube.com, treasure.run (clue generator). Related 'how to make a scavenger hunt' SERP is scavify, YouTube, Quora, Pinterest, Facebook. KD 2: no strong editorial page, clues are not sorted by age or room and few have answers next to them.",
+    "silo": "scavenger-hunts",
+    "pushes": [
+      "/scavenger-hunts/indoor-scavenger-hunt-play-party-plan/",
+      "/scavenger-hunts/christmas-scavenger-hunt-clue-cards-best-ideas-for-kids/",
+      "/scavenger-hunts/easter-scavenger-hunt-clue-cards-best-ideas-for-kids/"
+    ],
+    "needs": [
+      "Optional: our own blank + filled clue-card printable (CC BY-NC) under /scavenger-hunts/ so the article can offer a hosted PDF"
+    ],
+    "article_type": "list",
+    "interactive_tool": "Picker: draws a random clue (with its answer hidden behind a tap) filtered by room; Checklist: the 15-minute set-up steps (write clues, hide in reverse order, keep the answer sheet)",
+    "angle": "The ranking pages are long undifferentiated lists. Ours sorts every clue by room and by age (picture clues for 4-6, rhymes for 6-9, riddles for tweens), gives the answer next to each clue and adds the set-up method (hide in reverse order) that most lists skip.",
+    "outline": [
+      "How a clue-based scavenger hunt works",
+      "How to make a scavenger hunt in 15 minutes",
+      "Picture and word clues for ages 4 to 6",
+      "Rhyming clues for around the house",
+      "Harder riddles for tweens and teens",
+      "Outdoor and garden clues",
+      "What to put at the end of the hunt",
+      "Printable clue cards to use today"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "publish_at": "2027-02-11T15:00:00Z",
+    "rank": 16,
+    "slug": "how-to-win-at-uno",
+    "title": "How to win at Uno: 10 strategies that actually work",
+    "target_keyword": "how to win at uno",
+    "secondary_keywords": [
+      {
+        "keyword": "how to win uno every time",
+        "volume_us": 390,
+        "volume_uk": 90,
+        "kd": 6
+      },
+      {
+        "keyword": "uno strategy",
+        "volume_us": 320,
+        "volume_uk": 40,
+        "kd": 0
+      }
+    ],
+    "volume_us": 1900,
+    "volume_uk": 320,
+    "kd": 2,
+    "intent": "informational",
+    "cluster_volume_us": 2610,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 2900
+    },
+    "serp_notes": "Top 5: scribd.com (uploaded PDF), youtube.com, reddit.com (r/askmath), facebook.com (×2); snapchat.com next. Video and social content only: no written strategy guide in the top 10.",
+    "silo": "rules/card-games",
+    "pushes": [
+      "/rules/uno/",
+      "/rules/crazy-eights/"
+    ],
+    "needs": [],
+    "article_type": "strategy",
+    "interactive_tool": "ScoreKeeper: Uno scoring to 500 points (number cards at face value, action cards 20, wilds 50), because playing to 500 changes the strategy.",
+    "angle": "With no real article in the top 10, a structured guide can rank quickly. We separate luck from skill, explain colour tracking, when to hold the Wild Draw 4 and how the challenge rule punishes bluffs, and introduce official points scoring, which most families skip and which rewards dumping high cards early.",
+    "outline": [
+      "Can you win Uno every time? Luck vs skill",
+      "Get rid of high-point cards first",
+      "Change colour on your terms: track what others lack",
+      "When to play, and when to hold, Wild and Wild Draw 4",
+      "Use Skip, Reverse and Draw 2 against the leader",
+      "Remember to call Uno (and catch others)",
+      "Play to 500 points: how scoring changes your strategy"
+    ],
+    "season_deadline": "2026-11-30",
+    "priority": 1
+  },
+  {
+    "publish_at": "2027-02-13T17:05:00Z",
+    "rank": 17,
+    "slug": "who-goes-first-in-chess",
+    "title": "Who goes first in chess? White, and does it give an advantage?",
+    "target_keyword": "who goes first in chess",
+    "secondary_keywords": [
+      {
+        "keyword": "who goes first in checkers",
+        "volume_us": 320,
+        "volume_uk": 20,
+        "kd": 3
+      },
+      {
+        "keyword": "who goes first in monopoly",
+        "volume_us": 170,
+        "volume_uk": 30,
+        "kd": 21
+      }
+    ],
+    "volume_us": 2400,
+    "volume_uk": 390,
+    "kd": 3,
+    "intent": "informational",
+    "cluster_volume_us": 2890,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 3600
+    },
+    "serp_notes": "Top 5: chess.com (forum thread), houseofstaunton.com (chess set shop blog), en.wikipedia.org (White and Black in chess), reddit.com, chessnutech.com; Wikipedia 'first-move advantage' next. A forum, two shop blogs and Wikipedia: answerable in one paragraph, then nobody covers the other games.",
+    "silo": "rules/board-games",
+    "pushes": [
+      "/rules/chess/",
+      "/rules/checkers/",
+      "/board-games/printable-chess-board/"
+    ],
+    "needs": [],
+    "article_type": "explainer",
+    "interactive_tool": "Picker: a 'who goes first' random picker (type the players' names, spin), plus a table of the first-player rule for 15 classic games taken from our rules pages.",
+    "angle": "We answer in the first sentence (White), give the first-move advantage figures from the sources Wikipedia cites, and add what no ranking page has: a who-goes-first table for checkers, backgammon, go, mancala, Monopoly-style games and card games, built from our own rules pages. The picker settles the argument at the table.",
+    "outline": [
+      "Who moves first in chess?",
+      "Why White goes first: a short history",
+      "Is moving first an advantage? (win rates)",
+      "How to decide who plays White",
+      "Who goes first in checkers, backgammon, go and other classics (table)",
+      "Settle it now: random first-player picker"
+    ],
+    "season_deadline": "2026-12-01",
+    "priority": 1
+  },
+  {
+    "publish_at": "2027-02-16T19:15:00Z",
+    "rank": 6,
+    "slug": "can-you-stack-in-uno",
+    "title": "Can you stack in Uno? Draw 2, Draw 4 and other house rules settled",
+    "target_keyword": "can you stack in uno",
+    "secondary_keywords": [
+      {
+        "keyword": "uno rules stacking",
+        "volume_us": 2400,
+        "volume_uk": 260,
+        "kd": 5
+      },
+      {
+        "keyword": "stacking in uno",
+        "volume_us": 1600,
+        "volume_uk": 110,
+        "kd": 5
+      },
+      {
+        "keyword": "can you stack draw 4 in uno",
+        "volume_us": 880,
+        "volume_uk": 20,
+        "kd": 3
+      },
+      {
+        "keyword": "can you end uno on a wild card",
+        "volume_us": 880,
+        "volume_uk": 260,
+        "kd": 6
+      },
+      {
+        "keyword": "uno house rules",
+        "volume_us": 1000,
+        "volume_uk": 170,
+        "kd": 0
+      }
+    ],
+    "volume_us": 1600,
+    "volume_uk": 140,
+    "kd": 3,
+    "intent": "informational",
+    "cluster_volume_us": 8360,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 2400
+    },
+    "serp_notes": "Top 5: letsplayuno.com (mobile game), reddit.com, unorules.com, youtube.com, instagram.com; facebook.com next. Social posts and one fan rules site; a single clear page with the official text and the house-rule options does not exist.",
+    "silo": "rules/card-games",
+    "pushes": [
+      "/rules/uno/",
+      "/rules/crazy-eights/"
+    ],
+    "needs": [],
+    "article_type": "explainer",
+    "interactive_tool": "Quiz mode=\"score\": 'Official rule or house rule?' (8 statements: stacking, ending on a wild, 7-0, jump-in, draw until you can play…), each with the official answer.",
+    "angle": "Our rules page states in one line that stacking is not official; this article settles the ten rules families argue about, quoting the official instructions and Mattel's public answers (to be sourced), and shows how to agree on house rules before the first card. Different intent from 'uno rules', so it feeds the rules page instead of competing with it.",
+    "outline": [
+      "Can you stack Draw 2 cards in Uno?",
+      "Can you stack a Draw 4 on a Draw 2, or the other way round?",
+      "Can you end Uno on a wild or an action card?",
+      "When can you play a Wild Draw 4? (the challenge rule)",
+      "Popular house rules: 7-0, jump-in, draw until you can play",
+      "How to agree on house rules before you play",
+      "Official rule or house rule? (quiz)"
+    ],
+    "season_deadline": "2026-11-30",
+    "priority": 1
+  },
+  {
+    "publish_at": "2027-02-23T14:50:00Z",
+    "rank": 18,
+    "slug": "backgammon-strategy",
+    "title": "Backgammon strategy: 10 tips to win more games",
+    "target_keyword": "backgammon strategy",
+    "secondary_keywords": [
+      {
+        "keyword": "how to win at backgammon",
+        "volume_us": 390,
+        "volume_uk": 110,
+        "kd": 0
+      },
+      {
+        "keyword": "backgammon strategy for beginners",
+        "volume_us": 110,
+        "volume_uk": 30,
+        "kd": 13
+      }
+    ],
+    "volume_us": 1300,
+    "volume_uk": 210,
+    "kd": 4,
+    "intent": "informational",
+    "cluster_volume_us": 1800,
+    "peak_month_us": {
+      "month": "2026-01",
+      "volume": 1900
+    },
+    "serp_notes": "Top 5: youtube.com, deluxebackgammon.co.uk (shop), usbgf.org (basics), reddit.com, coolmathgames.com; a spam page next. One federation basics page, a shop blog and forums.",
+    "silo": "rules/board-games",
+    "pushes": [
+      "/rules/backgammon/",
+      "/board-games/printable-backgammon-board/"
+    ],
+    "needs": [],
+    "article_type": "strategy",
+    "interactive_tool": "DiceRoller dice=2 sides=6 to practise; BarChart of the chance of hitting a blot at each distance (calculated by us from the 36 rolls).",
+    "angle": "Competitors give tips without numbers. We add the two tables beginners need, opening moves for each roll (checked against USBGF or bkgm.com) and the odds of being hit at each distance (our own calculation), then the three game plans (running, holding, priming).",
+    "outline": [
+      "The three game plans: running, holding, priming",
+      "The best opening move for every roll (table)",
+      "Blots: when to leave one, and the odds of being hit",
+      "Build points and primes",
+      "When to hit and when to run",
+      "Bearing off safely",
+      "The doubling cube in one paragraph"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "publish_at": "2027-02-26T19:45:00Z",
+    "slug": "is-sudoku-good-for-your-brain",
+    "title": "Is sudoku good for your brain? What the research says",
+    "target_keyword": "is sudoku good for your brain",
+    "secondary_keywords": [
+      {
+        "keyword": "benefits of sudoku",
+        "volume_us": 880,
+        "volume_uk": 260,
+        "kd": 13,
+        "source": "labs"
+      },
+      {
+        "keyword": "sudoku for seniors",
+        "volume_us": 1000,
+        "volume_uk": 70,
+        "kd": 9,
+        "source": "labs"
+      },
+      {
+        "keyword": "benefits of playing sudoku",
+        "volume_us": 260,
+        "volume_uk": 50,
+        "kd": 14,
+        "source": "labs"
+      },
+      {
+        "keyword": "does sudoku improve memory",
+        "volume_us": 20,
+        "volume_uk": 10,
+        "kd": 13,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 1900,
+    "volume_uk": 260,
+    "kd": 5,
+    "intent": "informational",
+    "serp_notes": "US top 5: quora.com x2, exactstaff.com (staffing agency blog), facebook.com, heartresearch.com.au. KD 5-13. UGC and off-topic blogs; no page that cites the studies.",
+    "silo": "puzzles/sudoku",
+    "pushes": [
+      "/puzzles/sudoku/100-easy-sudoku-puzzles/",
+      "/puzzles/sudoku/easy-sudoku/",
+      "/puzzles/sudoku/4x4-sudoku-for-kids/"
+    ],
+    "needs": [],
+    "article_type": "explainer",
+    "interactive_tool": "Quiz (mode score): 5 myths vs facts about sudoku and the brain, with the study behind each answer",
+    "angle": "A sourced answer (studies to open and verify when writing, e.g. the PROTECT online study on number-puzzle use and cognition, Brooker et al. 2019, and reviews of cognitive training) that separates correlation from proof. Honest 'what it does and does not do', plus starter puzzles for seniors and kids.",
+    "outline": [
+      "Short answer: what sudoku does for your brain",
+      "What the studies actually found",
+      "Correlation vs cause: what we cannot say yet",
+      "Benefits of sudoku for seniors",
+      "Sudoku for kids: logic before arithmetic",
+      "How often to play and at what level",
+      "Where to start: easy grids to print"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "publish_at": "2027-03-04T21:45:00Z",
+    "slug": "human-bingo",
+    "title": "Human bingo: how to play, plus 75 find-someone-who squares",
+    "target_keyword": "human bingo",
+    "secondary_keywords": [
+      {
+        "keyword": "get to know you bingo",
+        "volume_us": 1900,
+        "volume_uk": 90,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "find someone who bingo",
+        "volume_us": 1000,
+        "volume_uk": 90,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "how to play human bingo",
+        "volume_us": 140,
+        "volume_uk": 30,
+        "kd": 5,
+        "source": "labs"
+      },
+      {
+        "keyword": "get to know you games",
+        "volume_us": 3600,
+        "volume_uk": 320,
+        "kd": 3,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 3600,
+    "volume_uk": 1000,
+    "kd": 6,
+    "intent": "informational",
+    "serp_notes": "US top 5: gameonfamily.com (blog), pinterest.com, thejamsocial.com (corporate events), bingobaker.com (card generator), educircles.org (teacher PDF). KD 6 (UK 1,000/month, KD 6). Mixed classroom and office intent, nobody separates squares for kids, teens and adults.",
+    "silo": "bingo",
+    "pushes": [
+      "/bingo/blank-bingo-card-template/",
+      "/bingo/blank-3x3-bingo-card-template/",
+      "/bingo/classroom-bingo/"
+    ],
+    "needs": [
+      "Human bingo printable (5x5 'find someone who' cards, kids and adults versions) under /bingo/"
+    ],
+    "article_type": "how-to",
+    "interactive_tool": "Picker: draws random 'find someone who...' prompts (kids, teens or adults) to copy onto a blank card; Timer: 10-minute mingling round",
+    "angle": "Rules, timing and three ready prompt lists (classroom, teens, office) on one page, with a blank card to print right away. The ranking pages either sell a generator or mix ages; we add the practical rules (one signature per person, how to check a winner).",
+    "outline": [
+      "What human bingo is and when to use it",
+      "How to play human bingo, step by step",
+      "25 find-someone-who squares for the classroom",
+      "25 squares for teens",
+      "25 squares for adults and work events",
+      "How to make your own card in 5 minutes",
+      "Variations: 3x3 for little ones, blackout, team version"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "publish_at": "2027-03-08T16:50:00Z",
+    "slug": "activities-for-4-year-olds",
+    "title": "Activities for 4 year olds: 25 quiet printable ideas at home",
+    "target_keyword": "activities for 4 year olds",
+    "secondary_keywords": [
+      {
+        "keyword": "counting activities for preschoolers",
+        "volume_us": 1300,
+        "volume_uk": 140,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "fine motor activities for preschoolers",
+        "volume_us": 2900,
+        "volume_uk": 210,
+        "kd": 8,
+        "source": "labs"
+      },
+      {
+        "keyword": "activities for 3 year olds at home",
+        "volume_us": 390,
+        "volume_uk": 140,
+        "kd": 4,
+        "source": "labs"
+      },
+      {
+        "keyword": "pre writing activities for preschoolers",
+        "volume_us": 140,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 2400,
+    "volume_uk": 590,
+    "kd": 6,
+    "intent": "informational",
+    "serp_notes": "US top 5: instagram.com, facebook.com, youtube.com, weekend.com (thin list), busytoddler.com. KD 6 (UK 590/month, KD 1). Very weak for the volume: social posts and one thin list.",
+    "silo": "puzzles/mazes/easy",
+    "pushes": [
+      "/puzzles/mazes/circle-maze-easy/",
+      "/puzzles/dot-to-dot/star-dot-to-dot-easy/",
+      "/puzzles/dot-to-dot/abc-star-dot-to-dot/",
+      "/puzzles/sudoku/4x4-sudoku-for-kids/"
+    ],
+    "needs": [],
+    "article_type": "guide-by-age",
+    "interactive_tool": "Picker: 'what shall we do now?' draws a quiet activity; Checklist: a printable rainy-day kit (crayons, scissors, 5 puzzles)",
+    "angle": "The SERP is social media; we offer a structured list grouped by skill (counting, fine motor, pre-writing, early logic) with the printable for each. Developmental claims are sourced (CDC milestones) and every activity says how long it lasts and how much help is needed.",
+    "outline": [
+      "What 4 year olds enjoy (and how long they focus)",
+      "Counting activities: dot to dot 1 to 10",
+      "Fine motor and pre-writing: mazes with wide paths",
+      "First logic puzzles: 4x4 picture sudoku",
+      "Activities for 3 year olds at home",
+      "Building a quiet-time box",
+      "When to move up a level"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "publish_at": "2027-03-10T17:35:00Z",
+    "slug": "how-to-draw-a-maze",
+    "title": "How to draw a maze: 3 easy methods for kids and adults",
+    "target_keyword": "how to draw a maze",
+    "secondary_keywords": [
+      {
+        "keyword": "how to make a maze",
+        "volume_us": 720,
+        "volume_uk": 70,
+        "kd": 10,
+        "source": "labs"
+      },
+      {
+        "keyword": "how do you make a maze",
+        "volume_us": 720,
+        "volume_uk": null,
+        "kd": null,
+        "source": "google_ads"
+      },
+      {
+        "keyword": "how to make a maze on paper",
+        "volume_us": 90,
+        "volume_uk": 10,
+        "kd": 9,
+        "source": "labs"
+      },
+      {
+        "keyword": "how to draw a maze step by step",
+        "volume_us": 30,
+        "volume_uk": 10,
+        "kd": 1,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 1000,
+    "volume_uk": 140,
+    "kd": 6,
+    "intent": "informational",
+    "serp_notes": "US top 5: reddit.com (BAM method thread), instructables.com, youtube.com x2, howcast.com. KD 6-10. Video and forum results only, no illustrated written guide with grids.",
+    "silo": "puzzles/mazes",
+    "pushes": [
+      "/puzzles/mazes/hard-maze/",
+      "/puzzles/mazes/circular-maze/",
+      "/puzzles/mazes/rocket-maze-easy/"
+    ],
+    "needs": [],
+    "article_type": "how-to",
+    "interactive_tool": "Checklist: the steps of the grid method to tick off while drawing; Timer: swap mazes with a friend and race to solve",
+    "angle": "We generate our own mazes with a perfect-maze algorithm, so we can explain the method behind them in plain steps (path first, then dead ends) and show it with our own diagrams. It pairs with the existing 'how to solve a maze' article and ends with printable mazes as models.",
+    "outline": [
+      "What makes a good maze (one path, no loops)",
+      "Method 1: the grid method, path first",
+      "Method 2: freehand mazes for young children",
+      "Method 3: a circular maze with a compass",
+      "How to make a maze harder or easier",
+      "Test your maze before you hand it over",
+      "Turn it into a game: swap and race"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "publish_at": "2027-03-18T21:45:00Z",
+    "rank": 19,
+    "slug": "how-to-make-a-card-game",
+    "title": "How to make a card game: design, print and cut your own deck",
+    "target_keyword": "how to make a card game",
+    "secondary_keywords": [
+      {
+        "keyword": "how to make your own playing cards",
+        "volume_us": 320,
+        "volume_uk": 50,
+        "kd": 3
+      },
+      {
+        "keyword": "how to make your own card game",
+        "volume_us": 260,
+        "volume_uk": 40,
+        "kd": 3
+      },
+      {
+        "keyword": "how to print playing cards",
+        "volume_us": 210,
+        "volume_uk": 20,
+        "kd": 2
+      },
+      {
+        "keyword": "how to cut cards",
+        "volume_us": 170,
+        "volume_uk": 20,
+        "kd": 3
+      }
+    ],
+    "volume_us": 880,
+    "volume_uk": 110,
+    "kd": 9,
+    "intent": "informational",
+    "cluster_volume_us": 1840,
+    "peak_month_us": {
+      "month": "2026-01",
+      "volume": 1000
+    },
+    "serp_notes": "Top 5: boardgamegeek.com (forum guide), youtube.com, tiktok.com, reddit.com, qinprinting.com (printer); instructables.com next. Printing companies selling services, forums and videos.",
+    "silo": "card-games",
+    "pushes": [
+      "/card-games/printable-playing-card-deck/",
+      "/card-games/love-letter-print-and-play/",
+      "/card-games/scuttle/"
+    ],
+    "needs": [],
+    "article_type": "how-to",
+    "interactive_tool": "Checklist: 'print-and-play kit' (card stock weight, duplex test page, paper trimmer, corner rounder, sleeves), kept in the reader's browser.",
+    "angle": "Printers push their services; we cover both halves at home: designing a small game (start under 20 cards, like Love Letter's 16) and producing it (poker size 63×88 mm, bleed, duplex alignment, trimming, sleeving over an old card). It merges five small keywords with KD 2 to 9 into one strong page.",
+    "outline": [
+      "Start small: design a game with 20 cards or fewer",
+      "Card size, bleed and margins (template)",
+      "Printing at home: paper weight and double-sided alignment",
+      "Cutting: trimmer, guillotine or scissors",
+      "Finishing: corner rounder, sleeves, lamination",
+      "Playtest and iterate",
+      "When to use a print shop"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "publish_at": "2027-03-22T13:55:00Z",
+    "slug": "are-word-searches-good-for-your-brain",
+    "title": "Are word searches good for your brain? Benefits by age",
+    "target_keyword": "are word searches good for your brain",
+    "secondary_keywords": [
+      {
+        "keyword": "are word finds good for your brain",
+        "volume_us": 880,
+        "volume_uk": null,
+        "kd": 13,
+        "source": "labs"
+      },
+      {
+        "keyword": "benefits of word search puzzles",
+        "volume_us": 170,
+        "volume_uk": 10,
+        "kd": 3,
+        "source": "labs"
+      },
+      {
+        "keyword": "word search benefits",
+        "volume_us": 110,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "large print word search for seniors",
+        "volume_us": 320,
+        "volume_uk": 30,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 880,
+    "volume_uk": 170,
+    "kd": 13,
+    "intent": "informational",
+    "serp_notes": "US top 5: alzinfo.org (crossword article, off target), quora.com, captel.com (word games, hearing-aid company), facebook.com x2. KD 3-13. Nobody answers the question directly for word searches.",
+    "silo": "puzzles/word-search",
+    "pushes": [
+      "/puzzles/word-search/hard-word-search-for-adults/",
+      "/puzzles/word-search/kindergarten-sight-words-word-search/",
+      "/puzzles/word-search/animal-word-search/"
+    ],
+    "needs": [
+      "Large-print word search for seniors (big grid cells, 16 pt+ letters) to serve 'large print word search for seniors'"
+    ],
+    "article_type": "explainer",
+    "interactive_tool": "Quiz (mode match): 'Which word search suits you?' (reader's age, eyesight, time) with outcomes linking to the kindergarten, animal, hard-for-adults and large-print puzzles",
+    "angle": "A direct, sourced answer instead of forum guesses: what word searches train (visual scanning, spelling recognition, focus) and what they do not, then the benefit by age (early readers, kids, adults, seniors). Each age band links to a matching puzzle.",
+    "outline": [
+      "Short answer: what word searches do for the brain",
+      "Skills a word search trains",
+      "Word searches vs crosswords and sudoku",
+      "Benefits for early readers",
+      "Benefits for adults and seniors",
+      "How to make word searches harder as you improve",
+      "Pick your next word search"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "publish_at": "2027-03-25T16:35:00Z",
+    "rank": 2,
+    "slug": "how-many-cards-in-a-deck",
+    "title": "How many cards are in a deck? 52, jokers, and other game decks",
+    "target_keyword": "how many cards in a deck",
+    "secondary_keywords": [
+      {
+        "keyword": "how many cards in a uno deck",
+        "volume_us": 9900,
+        "volume_uk": null,
+        "kd": 14
+      },
+      {
+        "keyword": "how many cards in a deck with jokers",
+        "volume_us": 3600,
+        "volume_uk": 590,
+        "kd": 5
+      },
+      {
+        "keyword": "card games that use jokers",
+        "volume_us": 1000,
+        "volume_uk": 260,
+        "kd": 7
+      },
+      {
+        "keyword": "why are there 52 cards in a deck",
+        "volume_us": 390,
+        "volume_uk": 70,
+        "kd": 0
+      }
+    ],
+    "volume_us": 49500,
+    "volume_uk": 8100,
+    "kd": 10,
+    "intent": "informational",
+    "cluster_volume_us": 64390,
+    "peak_month_us": {
+      "month": "2025-11",
+      "volume": 60500
+    },
+    "serp_notes": "Top 5: facebook.com (post), reddit.com, geeksforgeeks.org, facebook.com, boardgamegeek.com wiki; playiro.com next. No AI overview and no featured snippet at the time of the check (People Also Ask only). Very weak for a 49,500/month query.",
+    "silo": "card-games",
+    "pushes": [
+      "/card-games/printable-playing-card-deck/",
+      "/rules/uno/",
+      "/rules/canasta/",
+      "/rules/euchre/"
+    ],
+    "needs": [],
+    "article_type": "explainer",
+    "interactive_tool": "Quiz mode=\"score\": 'Know your deck' (how many face cards, red cards, kings…), answering the long tail seen in Google Ads ideas: face cards 6,600, hearts 5,400, spades 4,400, kings 2,900 a month.",
+    "angle": "Nobody answers the main question and its 20 sub-questions on one page. A single table gives the count of every suit, colour, rank and face card, then the decks of other games (Uno, Euchre, Pinochle, Canasta, Skip-Bo, Phase 10: counts to be checked on the publishers' rules). Readers with a missing card can print our free 52-card deck with two jokers.",
+    "outline": [
+      "How many cards are in a standard deck?",
+      "How many of each: suits, colours, face cards, aces (table)",
+      "Jokers: how many, and which games use them",
+      "Why 52 cards? A short history",
+      "How many cards are in an Uno deck and other game decks?",
+      "Test your deck knowledge (quiz)",
+      "Missing a card? Print a replacement deck"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "publish_at": "2027-04-02T13:25:00Z",
+    "rank": 22,
+    "slug": "2-player-card-games",
+    "title": "2 player card games: 15 best games for two with one deck",
+    "target_keyword": "2 player card games",
+    "secondary_keywords": [
+      {
+        "keyword": "card games for 2",
+        "volume_us": 40500,
+        "volume_uk": 14800,
+        "kd": 0
+      },
+      {
+        "keyword": "best 2 player card games",
+        "volume_us": 5400,
+        "volume_uk": 1900,
+        "kd": 0
+      },
+      {
+        "keyword": "easy card games for two",
+        "volume_us": 1600,
+        "volume_uk": 880,
+        "kd": 0
+      },
+      {
+        "keyword": "2 player card games with one deck",
+        "volume_us": 1000,
+        "volume_uk": 210,
+        "kd": 0
+      }
+    ],
+    "volume_us": 40500,
+    "volume_uk": 14800,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 89000,
+    "peak_month_us": {
+      "month": "2026-01",
+      "volume": 60500
+    },
+    "serp_notes": "Top 5: vanishingincmagic.com (magic shop blog), boardgamegeek.com (list), reddit.com, youtube.com, donteatthemeeples.com; youtube.com next. Weak today, but 40,500 a month will attract stronger players (Bicycle, The Spruce); treat as a growth target.",
+    "silo": "rules/card-games",
+    "pushes": [
+      "/rules/gin-rummy/",
+      "/rules/cribbage/",
+      "/rules/speed/",
+      "/card-games/love-letter-print-and-play/"
+    ],
+    "needs": [
+      "Rules page: Spit / Russian Bank ('2 player solitaire' 480 US, KD 0)"
+    ],
+    "article_type": "list",
+    "interactive_tool": "Quiz mode=\"match\": 'Which 2-player card game?' (quick or deep, luck or skill); ScoreKeeper players=2.",
+    "angle": "The current pages are hobby lists. Ours links every classic to a full rules page with a score sheet, says how long a game takes and how much skill it needs, and adds free print-and-play games for two. Peak in January (60,500), so publish by early December.",
+    "outline": [
+      "The best 2 player card games at a glance (table)",
+      "Quick and easy: War, Speed, Crazy Eights",
+      "Strategy classics: Gin Rummy, Cribbage",
+      "Trick-taking for two: 2-hand Spades, Euchre, Hearts",
+      "Solitaire for two: Spit and Russian Bank",
+      "Free print-and-play card games for two",
+      "Which one is for you? (quiz)"
+    ],
+    "season_deadline": "2026-12-01",
+    "priority": 3
+  },
+  {
+    "publish_at": "2027-04-08T14:00:00Z",
+    "rank": 23,
+    "slug": "social-deduction-games",
+    "title": "Social deduction games: what they are, and 10 you can print free",
+    "target_keyword": "social deduction games",
+    "secondary_keywords": [
+      {
+        "keyword": "games like mafia",
+        "volume_us": 880,
+        "volume_uk": 170,
+        "kd": 0
+      },
+      {
+        "keyword": "deduction game",
+        "volume_us": 590,
+        "volume_uk": 90,
+        "kd": 5
+      },
+      {
+        "keyword": "games like secret hitler",
+        "volume_us": 480,
+        "volume_uk": 70,
+        "kd": 0
+      },
+      {
+        "keyword": "best social deduction games",
+        "volume_us": 390,
+        "volume_uk": 110,
+        "kd": 2
+      }
+    ],
+    "volume_us": 14800,
+    "volume_uk": 390,
+    "kd": 2,
+    "intent": "informational",
+    "cluster_volume_us": 17140,
+    "peak_month_us": {
+      "month": "2025-11",
+      "volume": 49500
+    },
+    "serp_notes": "Top 5: boardgamegeek.com (ranking thread), en.wikipedia.org, reddit.com, screenhype.co.uk (listicle), jackboxgames.com; amazon.com next. A mix of Wikipedia, hobby lists and a shop: harder, but KD stays at 2.",
+    "silo": "party-games",
+    "pushes": [
+      "/party-games/secret-hitler/",
+      "/party-games/two-rooms-and-a-boom/",
+      "/party-games/hidden-panda/",
+      "/card-games/dracula-s-feast/"
+    ],
+    "needs": [],
+    "article_type": "list",
+    "interactive_tool": "Quiz mode=\"match\": 'Which social deduction game for your group?' (group size, moderator or not, length); outcomes link to our game pages. Timer for discussion rounds.",
+    "angle": "Lists elsewhere recommend boxed games; ours shows which ones can be printed free tonight (Secret Hitler under its CC licence, Two Rooms and a Boom, Hidden Panda, Dracula's Feast, Night of the Mummy), by group size, with tips for running a first game. Very seasonal: 49,500 in November 2025, so publish before the holiday-party season.",
+    "outline": [
+      "What is a social deduction game?",
+      "Werewolf and Mafia: where it started",
+      "Free social deduction games you can print",
+      "Games like Secret Hitler for big groups",
+      "Social deduction without a moderator",
+      "How to run a good first game",
+      "Which one fits your group? (quiz)"
+    ],
+    "season_deadline": "2026-11-01",
+    "priority": 3
+  },
+  {
+    "publish_at": "2027-04-10T12:50:00Z",
+    "rank": 24,
+    "slug": "trick-taking-card-games",
+    "title": "Trick-taking card games: how they work, plus 12 to try",
+    "target_keyword": "trick taking card games",
+    "secondary_keywords": [
+      {
+        "keyword": "what is a trick taking game",
+        "volume_us": 390,
+        "volume_uk": 90,
+        "kd": 6
+      },
+      {
+        "keyword": "spades vs hearts",
+        "volume_us": 390,
+        "volume_uk": 10,
+        "kd": 0
+      },
+      {
+        "keyword": "euchre vs spades",
+        "volume_us": 320,
+        "volume_uk": 10,
+        "kd": 0
+      },
+      {
+        "keyword": "best trick taking games",
+        "volume_us": 170,
+        "volume_uk": 40,
+        "kd": 0
+      }
+    ],
+    "volume_us": 12100,
+    "volume_uk": 880,
+    "kd": 3,
+    "intent": "informational",
+    "cluster_volume_us": 13370,
+    "peak_month_us": {
+      "month": "2025-10",
+      "volume": 40500
+    },
+    "serp_notes": "Top 5: whatsericplaying.com (hobby blog), whatboardgame.com, en.wikipedia.org, opinionatedgamers.com, reddit.com; boardgamegeek.com next. Hobby blogs ranking modern boxed trick-takers; our classic-deck angle is a partial intent match, hence growth.",
+    "silo": "rules/card-games",
+    "pushes": [
+      "/rules/spades/",
+      "/rules/hearts/",
+      "/rules/euchre/",
+      "/rules/whist/"
+    ],
+    "needs": [
+      "Rules page: Oh Hell (shared with card-games-for-3-people)"
+    ],
+    "article_type": "explainer",
+    "interactive_tool": "Quiz mode=\"score\": 'Who wins this trick?' (lead suit, trump, follow suit), 6 hands.",
+    "angle": "The ranking blogs assume readers know the vocabulary. We explain trick, lead, follow suit and trump with card diagrams, draw the family tree (Whist, Bridge, Spades, Euchre; Hearts as the avoidance branch), compare Spades, Hearts and Euchre in one table, then name modern trick-takers worth buying. The comparison section captures 'spades vs hearts' and 'euchre vs spades' (KD 0).",
+    "outline": [
+      "What is a trick-taking game?",
+      "Trumps, following suit and leading",
+      "The family tree: Whist, Bridge, Spades, Euchre, Hearts",
+      "Spades vs Hearts vs Euchre (table)",
+      "Trick-taking games by number of players",
+      "Modern trick-taking games worth knowing",
+      "Who wins this trick? (quiz)"
+    ],
+    "season_deadline": null,
+    "priority": 3
+  },
+  {
+    "publish_at": "2027-04-16T15:20:00Z",
+    "slug": "bingo-calls",
+    "title": "Bingo calls: all 90 nicknames, from Kelly's eye to top of the shop",
+    "target_keyword": "bingo calls",
+    "secondary_keywords": [
+      {
+        "keyword": "bingo lingo",
+        "volume_us": 590,
+        "volume_uk": 6600,
+        "kd": 10,
+        "source": "labs"
+      },
+      {
+        "keyword": "funny bingo calls",
+        "volume_us": 480,
+        "volume_uk": 1300,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "bingo number nicknames",
+        "volume_us": 70,
+        "volume_uk": 1900,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "bingo calls list",
+        "volume_us": 50,
+        "volume_uk": 260,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 9900,
+    "volume_uk": 9900,
+    "kd": 4,
+    "intent": "informational",
+    "serp_notes": "UK top 5: news.williamhill.com, en.wikipedia.org (list), a hospital charity PDF, livescore.com, reddit.com; then winkbingo, galabingo (casino affiliates). US: reddit, whichbingo.co.uk, pinterest, 7bet, leovegas. KD 0-4 but strong gambling domains: growth target.",
+    "silo": "bingo",
+    "pushes": [
+      "/bingo/bingo-cards-1-75/",
+      "/bingo/blank-bingo-card-template/"
+    ],
+    "needs": [
+      "90-ball bingo tickets printable (UK format, 3x9) since the calls run 1-90",
+      "Printable caller sheet with the 90 calls (own, CC)"
+    ],
+    "article_type": "list",
+    "interactive_tool": "Picker: a 1-90 caller that draws a number and shows its traditional call and the meaning",
+    "angle": "The only non-gambling page: all 90 calls with their origin (sourced from Wikipedia's list and books on bingo), a printable caller sheet and a family-friendly caller tool, for parties, schools and care homes rather than casinos.",
+    "outline": [
+      "What bingo calls are and where they come from",
+      "Bingo calls 1 to 30",
+      "Bingo calls 31 to 60",
+      "Bingo calls 61 to 90",
+      "Funny and modern bingo calls",
+      "How to call bingo at home or in a care home",
+      "Printable caller sheet"
+    ],
+    "season_deadline": null,
+    "priority": 3
+  }
+]

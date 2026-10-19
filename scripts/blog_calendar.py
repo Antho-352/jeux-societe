@@ -44,7 +44,10 @@ for w in range(weeks):
         last_day, last_hour = d, h
 slots.sort()
 
+# Hard deadlines only for real dated events (holidays); "peak season" hints from the games list are soft.
+HARD = {'family-game-night-ideas'}
 def deadline(t):
+    if t.get('_src') == 'blog-topics-b' and t['slug'] not in HARD: return None
     s = t.get('season_deadline')
     return dt.datetime.fromisoformat(s + 'T23:59:00+00:00') if s else None
 
@@ -57,18 +60,27 @@ for t in seasonal:
     dl = deadline(t)
     cands = [i for i, s in enumerate(slots) if i not in used and s <= dl and s >= dl - dt.timedelta(weeks=8)]
     if not cands: cands = [i for i, s in enumerate(slots) if i not in used and s <= dl]
-    if not cands: t['_unplaced'] = 'deadline before calendar start'; continue
+    if not cands:  # deadline already passed: publish as early as possible
+        cands = [i for i in range(len(slots)) if i not in used][:1]
+        if not cands: t['_unplaced'] = 'no slot left'; continue
+        used.add(cands[0]); plan.append((slots[cands[0]], t)); continue
     i = cands[-1] if len(cands) < 3 else cands[len(cands) // 2]
     used.add(i); plan.append((slots[i], t))
-# 2. evergreen in remaining slots, avoiding the same silo twice in a row
+# 2. evergreen in remaining slots, avoiding the same silo twice in a row.
+#    Growth targets (priority 3) take the last free slots: easy wins first, harder keywords later.
 free = [i for i in range(len(slots)) if i not in used]
-queue = evergreen[:]
-for i in free:
-    if not queue: break
-    prev = [t for s, t in sorted(plan, key=lambda x: x[0]) if s < slots[i]]
-    last_silo = prev[-1]['silo'] if prev else None
-    pick = next((t for t in queue if t['silo'] != last_silo), queue[0])
-    queue.remove(pick); plan.append((slots[i], pick))
+growth = [t for t in evergreen if t.get('priority') == 3][: max(0, len(free) // 6)]
+others = [t for t in evergreen if t not in growth]
+n_others = len(free) - len(growth)
+def fill(slot_ids, queue):
+    for i in slot_ids:
+        if not queue: break
+        prev = [t for s, t in sorted(plan, key=lambda x: x[0]) if s < slots[i]]
+        last_silo = prev[-1]['silo'] if prev else None
+        pick = next((t for t in queue if t['silo'] != last_silo), queue[0])
+        queue.remove(pick); plan.append((slots[i], pick))
+fill(free[:n_others], others[:])
+fill(free[n_others:], growth[:])
 plan.sort(key=lambda x: x[0])
 
 out = [{'publish_at': s.strftime('%Y-%m-%dT%H:%M:00Z'), **{k: v for k, v in t.items() if not k.startswith('_')}} for s, t in plan]
