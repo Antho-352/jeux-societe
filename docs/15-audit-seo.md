@@ -50,7 +50,7 @@ Les descriptions des pages créateurs étaient coupées au milieu d'un mot (« �
 |---|---|---|
 | BreadcrumbList (fil d'Ariane) | 376 | Correct |
 | CreativeWork | 236 | Les puzzles n'avaient ni description, ni image, ni date : ajoutées. |
-| Product | 124 | Voir la question 1 en fin de rapport. |
+| Product | 124 | Retiré (section 9) : remplacé par `Game`, avec joueurs et âge minimum. |
 | Article (règles) | 63 | Image ajoutée. |
 | CollectionPage (hubs) | 36 | Correct |
 | FAQPage | 23 | Correct, mais 13 hubs n'ont pas de FAQ (section 4). |
@@ -113,7 +113,7 @@ C'est le point faible principal. Les hubs visent les requêtes les plus recherch
 
 Le reste de la page est une grille de cartes, identique dans sa structure à celle des concurrents. Pour Google comme pour les IA, une page qui n'explique rien donne peu de raisons d'être citée.
 
-Recommandation : pour les 6 hubs aux plus gros volumes (mots mêlés, bingo, puzzles, dot to dot, chasse au trésor, Halloween puis Noël), ajouter sous la grille un court guide de 150 à 300 mots (comment choisir, par âge ou par usage) et 3 à 4 questions de FAQ. Ces textes doivent rester factuels et s'appuyer sur ce que contient vraiment le hub.
+Fait le 19 octobre pour les 6 hubs prioritaires (mots mêlés, bingo, puzzles, dot to dot, chasse au trésor, Halloween) : un guide de 170 à 240 mots sous la grille (par âge ou par usage) et 3 à 4 questions de FAQ, uniquement à partir de ce que contient le hub. Il reste à faire de même pour Noël (avant fin novembre), Thanksgiving, les jeux de cartes, de plateau et les labyrinthes.
 
 ### Fraîcheur
 
@@ -168,14 +168,14 @@ Ces corrections sont sur la branche `claude/fervent-turing-5cvddc`. Elles seront
 **Search Console.** Le sitemap est envoyé. Pour les demandes manuelles, l'ordre conseillé est : d'abord l'accueil, Halloween, les mots mêlés, le bingo, les puzzles et Thanksgiving, puis Noël et les autres hubs principaux (détail dans la conversation du 19 octobre).
 
 
-## 9. Questions ouvertes
+## 9. Décisions prises le 19 octobre
 
-1. **Données structurées `Product` sur les fiches jeux.** Elles déclarent une offre à 0 $ « en stock », alors que le site ne vend rien et que le téléchargement est souvent sur le site du créateur. Google réserve ses fiches marchandes aux pages où l'on peut acheter, avec un prix supérieur à zéro. Au mieux, le prix « gratuit » peut apparaître dans le résultat. Au pire, Search Console affichera des avertissements « Fiches de marchand », et Google peut juger le balisage trompeur. Je recommande de le retirer et de garder `CreativeWork`, mais c'était un choix noté dans `docs/06`. À trancher.
-2. **Âges des sudokus enfants.** Les pages disent « 4×4 dès 5 ans » et « 6×6 pour les 8–12 ans », alors que les fiches sont classées 6–8 et 9–13 ans. Lequel est juste : le texte ou le classement ?
-3. **Textes des hubs.** Est-ce que je rédige les guides et FAQ des 6 hubs prioritaires (section 4) ? Ce sont des ajouts éditoriaux importants, d'où la question avant de les faire.
+1. **Données structurées `Product`** : retirées des 124 fiches jeux. Elles déclaraient une offre à 0 $ « en stock » alors que le site ne vend rien. Les fiches sont maintenant balisées `Game` (un type de `CreativeWork`), avec le nombre de joueurs et l'âge minimum. `docs/06` est mis à jour.
+2. **Sudoku 4×4** : 6 à 8 ans, comme son classement. Corrigé dans la fiche, la FAQ du hub et le générateur.
+3. **Jellybean Games** : Anthony a l'autorisation écrite. Elle est archivée dans `docs/16-autorisations.md`, pour ne plus être redemandée. La licence de *Ninjitsu* est alignée sur les autres fiches (le fichier reste chez l'éditeur, car il dépasse 25 Mo).
+4. **Textes des hubs** : rédigés pour les 6 hubs prioritaires (section 4).
 
-
-4. **Jellybean Games.** As-tu reçu l'autorisation d'héberger par écrit (mail) ? Si oui, il faut l'archiver dans `docs/` avec la citation exacte, pour pouvoir la montrer en cas de réclamation. Si non, les 12 fiches doivent repasser en `hosting_mode: link`, comme le veut la règle de la maison.
+Le 6×6 reste à trancher : le texte dit « 8 à 12 ans », le classement dit 9–13 ans.
 
 
 ## 10. Prochain audit

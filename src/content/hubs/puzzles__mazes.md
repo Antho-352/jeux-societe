@@ -13,6 +13,6 @@ faq: [{"q": "Which maze difficulty for which age?", "a": "Easy mazes have wide p
 
 ## Which maze for which age?
 
-Easy mazes have wide paths and a single route: ideal from age 3 to practise holding a pencil. Medium mazes add dead ends and narrower corridors for 6 to 9 year-olds. Hard mazes use thin walls, loops and several false exits; expect ten minutes or more, even for adults.
+Easy mazes have wide paths and a single route: ideal from age 3 to practise holding a pencil. Medium mazes add dead ends and narrower corridors for 6 to 12 year-olds. Hard mazes use thin walls, loops and several false exits; expect ten minutes or more, even for adults.
 
 All our mazes print on a single A4 or Letter sheet in black and white, so a whole class can be printed in a minute.
