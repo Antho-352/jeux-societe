@@ -11,7 +11,7 @@ export const GET: APIRoute = async () => {
   const urls: { loc: string; lastmod?: string; priority: string }[] = [];
   const today = fmt(new Date());
   urls.push({ loc: '/', lastmod: today, priority: '1.0' });
-  for (const p of ['/how-to-print/', '/about/', '/find-a-game/', '/creators/']) urls.push({ loc: p, lastmod: today, priority: '0.5' });
+  for (const p of ['/how-to-print/', '/about/', '/find-a-game/', '/creators/', '/legal-notice/', '/privacy/']) urls.push({ loc: p, lastmod: today, priority: '0.5' });
 
   const hubs = await getCollection('hubs');
   for (const hub of hubs) {

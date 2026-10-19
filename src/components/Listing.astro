@@ -85,7 +85,7 @@ const activeFacets = facets.filter((f) => f.options.length > 1);
         const raw = card.dataset[k] ?? '';
         if (k === 'players') {
           const min = Number(card.dataset.playersMin ?? 1), max = Number(card.dataset.playersMax ?? 99);
-          return vals.some((v) => (v === 'solo' ? min === 1 : v === '2' ? min <= 2 && max >= 2 : v === '2plus' ? max >= 2 : v === '3plus' ? max >= 3 : v === 'party' ? max >= 6 : true));
+          return vals.some((v) => (v === 'solo' ? min === 1 : v === '2' ? min <= 2 && max >= 2 : v === '2plus' ? max >= 2 : v === 'party' ? max >= 6 : true));
         }
         if (k === 'time') {
           const t = Number(card.dataset.sortTime ?? 9999);

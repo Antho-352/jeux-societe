@@ -1,0 +1,43 @@
+---
+import Base from '../layouts/Base.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import { breadcrumbLd } from '../lib/seo';
+const crumbs = [{ name: 'Home', href: '/' }, { name: 'Legal notice', href: '/legal-notice/' }];
+---
+<Base title="Legal notice | Print & Play Game" description="Who publishes printandplaygame.com, who hosts it, and how to reach us about content, licences or rights." path="/legal-notice/" jsonLd={[breadcrumbLd(crumbs)]}>
+  <Breadcrumb items={crumbs} />
+  <section class="wrap" style="max-width:860px; padding-bottom:48px">
+    <article class="prose">
+      <h1 style="margin-bottom:18px">Legal notice</h1>
+      <p class="lead" style="margin-bottom:24px">This page gives the information French law requires from a website publisher (loi n° 2004-575 du 21 juin 2004, article 6). A French version follows the English one.</p>
+
+      <h2>Publisher</h2>
+      <p>printandplaygame.com is published by <strong>Anthony Russo EI</strong> (entrepreneur individuel), registered in France under SIRET 984 977 520 00019.<br />
+      Publication director: Anthony Russo.<br />
+      Contact: <a href="mailto:hello@printandplaygame.com">hello@printandplaygame.com</a></p>
+
+      <h2>Hosting</h2>
+      <p>The site is hosted by Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, United States (Cloudflare Pages).</p>
+
+      <h2>Content and intellectual property</h2>
+      <p>The games listed on this site belong to their designers and publishers, who are credited on every page. A PDF is hosted here only when its licence allows it or when the creator gave written permission; otherwise the download link goes to the creator's own site. Trademarks and game names belong to their owners.</p>
+      <p>The puzzles we make (mazes, dot to dots, word searches, bingo cards, sudoku) and the drawings on our cover images are released under the Creative Commons BY-NC 4.0 licence. Some drawings are adapted from icons by game-icons.net (CC BY 3.0) and Phosphor Icons (MIT), credited on the pages concerned. The rest of the site's text is © Anthony Russo, all rights reserved.</p>
+      <p>If you hold rights to something on this site and want it changed or removed, write to <a href="mailto:hello@printandplaygame.com">hello@printandplaygame.com</a>: we answer within 48 hours.</p>
+
+      <h2>Liability and links</h2>
+      <p>We check game details (players, age, play time, rules) against the creators' pages and rulebooks, but errors can remain: tell us and we will fix them. Links to other websites are provided for convenience; we do not control those sites and are not responsible for their content.</p>
+
+      <h2>Personal data</h2>
+      <p>How the site handles personal data is explained in the <a href="/privacy/">privacy policy</a>.</p>
+
+      <hr style="margin:36px 0" />
+      <h2 lang="fr">Mentions légales (version française)</h2>
+      <div lang="fr">
+        <p><strong>Éditeur :</strong> Anthony Russo EI (entrepreneur individuel), SIRET 984 977 520 00019. Directeur de la publication : Anthony Russo. Contact : <a href="mailto:hello@printandplaygame.com">hello@printandplaygame.com</a>.</p>
+        <p><strong>Hébergeur :</strong> Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, États-Unis.</p>
+        <p><strong>Propriété intellectuelle :</strong> les jeux présentés appartiennent à leurs auteurs et éditeurs, crédités sur chaque page. Les PDF ne sont hébergés que si leur licence le permet ou avec l'accord écrit de l'auteur. Nos puzzles et nos illustrations sont publiés sous licence Creative Commons BY-NC 4.0 ; les autres textes du site sont la propriété d'Anthony Russo. Pour toute demande de modification ou de retrait, écrivez-nous : nous répondons sous 48 heures.</p>
+        <p><strong>Données personnelles :</strong> voir la <a href="/privacy/">politique de confidentialité</a>.</p>
+      </div>
+    </article>
+  </section>
+</Base>

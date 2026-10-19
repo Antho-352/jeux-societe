@@ -1,0 +1,37 @@
+---
+import Base from '../layouts/Base.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import { breadcrumbLd } from '../lib/seo';
+const crumbs = [{ name: 'Home', href: '/' }, { name: 'Privacy policy', href: '/privacy/' }];
+const updated = 'October 19, 2026';
+---
+<Base title="Privacy policy | Print & Play Game" description="What data printandplaygame.com collects (very little), why, how long it is kept and how to exercise your rights under the GDPR." path="/privacy/" jsonLd={[breadcrumbLd(crumbs)]}>
+  <Breadcrumb items={crumbs} />
+  <section class="wrap" style="max-width:860px; padding-bottom:48px">
+    <article class="prose">
+      <h1 style="margin-bottom:18px">Privacy policy</h1>
+      <p class="lead" style="margin-bottom:24px">Short version: no account, no form, no tracking cookie. You can browse and download everything without telling us who you are. Last updated {updated}.</p>
+
+      <h2>Who is responsible</h2>
+      <p>The data controller is Anthony Russo EI, publisher of printandplaygame.com (details in the <a href="/legal-notice/">legal notice</a>). Contact for any privacy question: <a href="mailto:hello@printandplaygame.com">hello@printandplaygame.com</a>.</p>
+
+      <h2>What is collected, and why</h2>
+      <ul>
+        <li><strong>Technical data handled by our host.</strong> Like every website, each visit sends your IP address, browser type and the page requested to the server. Our host, Cloudflare, processes this data to deliver the pages and protect the site against attacks, and gives us only aggregated statistics (number of visits, countries), which do not identify anyone. Legal basis: our legitimate interest in running a secure site. Cloudflare's own policy: <a href="https://www.cloudflare.com/privacypolicy/">cloudflare.com/privacypolicy</a>.</li>
+        <li><strong>Emails you send us.</strong> If you write to us, we use your address and message only to answer, and delete them once the exchange is over, at the latest after 12 months.</li>
+        <li><strong>Settings stored in your browser.</strong> Some blog tools (checklists) remember what you ticked in your browser's local storage. This stays on your device; we never receive it, and you can clear it from your browser settings.</li>
+      </ul>
+      <p>Fonts are served from our own site, so loading a page sends no data to Google or any other font service.</p>
+
+      <h2>Cookies and advertising</h2>
+      <p>The site sets no cookies at the moment. We may later show ads (for example with Google AdSense) to cover hosting costs. Before that happens, this page will be updated and a consent banner will let you accept or refuse advertising cookies, as the French data protection authority (CNIL) requires; refusing will not block access to any game.</p>
+      <p>Some game pages link to a shop (for example Amazon) with an affiliate link. Nothing is recorded on our side when you click; the shop's own privacy policy applies on its site.</p>
+
+      <h2>Sharing and transfers</h2>
+      <p>We do not sell or share personal data. Cloudflare may process technical data outside the European Union, under the European Commission's standard contractual clauses and the EU–US Data Privacy Framework.</p>
+
+      <h2>Your rights</h2>
+      <p>Under the GDPR you can ask to access, correct or delete data about you, object to its use, or ask for its portability, by writing to <a href="mailto:hello@printandplaygame.com">hello@printandplaygame.com</a>. If you think your rights are not respected, you can complain to the CNIL (<a href="https://www.cnil.fr">cnil.fr</a>).</p>
+    </article>
+  </section>
+</Base>

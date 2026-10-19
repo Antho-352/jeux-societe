@@ -53,7 +53,6 @@ const PLAYERS: [string, string, (min: number, max: number) => boolean][] = [
   ['solo', 'Solo', (min) => min === 1],
   ['2', '2 players', (min, max) => min <= 2 && max >= 2],
   ['2plus', '2+ players', (_min, max) => max >= 2],
-  ['3plus', '3+ players', (_min, max) => max >= 3],
   ['party', 'Party (6+)', (_min, max) => max >= 6],
 ];
 const TIMES: [string, string, (t: number) => boolean][] = [
