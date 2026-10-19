@@ -55,6 +55,7 @@ const games = defineCollection({
     seo_title: z.string().optional(),
     seo_description: z.string().optional(),
     video_id: z.string().optional(), // identifiant YouTube de la vidéo « how to play »
+    video_date: z.string().optional(), // date de mise en ligne YouTube (AAAA-MM-JJ) pour le balisage VideoObject
   }),
 });
 
