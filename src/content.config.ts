@@ -47,7 +47,9 @@ const games = defineCollection({
     files: z.array(z.object({ label: z.string(), url: z.string() })).default([]),
     buy_url: z.string().url().optional(),
     cover: z.string().optional(),
-    cover_art: z.boolean().optional(), // true when the cover is our own drawing (scripts/covers/game_covers.mjs), not a page of the game
+    cover_art: z.boolean().optional(), // true when the cover is our own drawing (scripts/covers/game_covers.mjs): only when no official image exists
+    cover_credit: z.string().optional(), // e.g. "Image: Space Cowboys" for an official image taken from the publisher or BoardGameGeek
+    cover_source: z.string().url().optional(), // page the official image comes from
     cover_colour: z.string().optional(),
     status: z.enum(['published', 'draft']).default('published'),
     featured: z.boolean().default(false),

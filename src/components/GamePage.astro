@@ -71,6 +71,7 @@ const workLd = {
         {d.cover ? <img src={d.cover} alt={`${d.title} cover`} width="900" height="900" /> : <span class="initial" aria-hidden="true">{d.title.trim()[0]}</span>}
         <span class="free-badge" aria-hidden="true">Free<br />PDF</span>
       </div>
+      {d.cover_credit && <p class="cover-credit">{d.cover_source ? <a href={d.cover_source}>{d.cover_credit}</a> : d.cover_credit}</p>}
     </div>
     <div class="stack" style="--gap:18px">
       <div class="row" style="--gap:8px">

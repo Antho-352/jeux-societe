@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/lost-fighters-arena.png"
-cover_art: true
+cover: "/img/games/lost-fighters-arena.jpg"
+cover_credit: "Image: BigBoyShino (itch.io)"
+cover_source: "https://lostfightersarena.itch.io/lost-fighters-arena-season-0"
 title: "Lost Fighters Arena"
 type: "dice"
 summary: "A free 1v1 fighting game played with five dice: roll and reroll like Yahtzee, then turn three of a kind, straights or a Yahtzee into strikes, charges and heals on a hexagonal arena. 2 players, about 15 minutes."
