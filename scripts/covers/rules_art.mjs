@@ -278,3 +278,5 @@ Object.assign(GAME_PICK, {
   'deep-space-d-6': ['deep-space'], 'utopia-engine': ['utopia-engine'], 'tower-of-mages': ['tower-of-mages'], 'awaken-the-ancients': ['awaken-the-ancients'],
   'building-stonehenge': ['stonehenge'], 'narrow-seas': ['narrow-seas'], collapsi: ['collapsi'], 'aleas-garden': ['aleas-garden'], 'ultima-ratio-regis': ['ultima-ratio'],
 });
+GAME_ART['lost-fighters'] = () => `${[[230, 150], [300, 110], [370, 150], [230, 230], [300, 190], [370, 230], [300, 270]].map(([x, y], i) => hex(x, y, 44, i === 4 ? '#FF8A3D' : '#3A3A4A')).join('')}${disc(258, 168, 16, CORAL, INK, 4)}${disc(342, 212, 16, SKY, INK, 4)}<path d="M268 160 l40 30 M330 220 l-26 -18" stroke="${SUN}" stroke-width="6" stroke-linecap="round"/>${[[150, 300, 6], [205, 312, 6], [395, 312, 6], [450, 300, 5], [300, 330, 6]].map(([x, y, n], i) => die(x - 26, y - 26, n, { size: 52, rot: -12 + i * 6, fill: i === 4 ? SUN : W })).join('')}`;
+GAME_PICK['lost-fighters-arena'] = ['lost-fighters'];

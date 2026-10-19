@@ -4,6 +4,7 @@ import Base from '../layouts/Base.astro';
 import ItemCard from '../components/ItemCard.astro';
 import { gameItem, puzzleItem } from '../lib/listing';
 import { SITE_URL } from '../lib/seo';
+import VideoEmbed from '../components/VideoEmbed.astro';
 
 const creators = await getCollection('creators');
 const byId = new Map(creators.map((c) => [c.id, c.data.name]));
@@ -12,6 +13,7 @@ const puzzles = (await getCollection('puzzles')).filter((p) => p.data.status ===
 const rules = (await getCollection('rules')).filter((r) => r.data.status === 'published');
 const hubs = await getCollection('hubs');
 const featured = games.find((g) => g.data.featured) ?? games[0];
+const withVideo = games.find((g) => g.data.video_id);
 const fresh = games.filter((g) => g.id !== featured?.id).slice(0, 4);
 const count = (path: string) => hubs.find((h) => h.data.path === path);
 const tiles = [
@@ -98,6 +100,22 @@ const orgLd = { '@context': 'https://schema.org', '@type': 'WebSite', name: 'Pri
     <section class="section wrap" style="padding-top:0">
       <div class="section-head"><h2>Printable puzzles</h2><a href="/puzzles/">All puzzles</a></div>
       <div class="grid">{puzzles.slice(0, 4).map((p) => { const it = puzzleItem(p); return <ItemCard href={it.href} title={it.title} by={it.by} typeLabel={it.typeLabel} cover={it.cover} colour={it.colour} pills={it.pills} />; })}</div>
+    </section>
+  )}
+
+  {withVideo && (
+    <section class="wrap" style="padding-bottom:48px">
+      <div class="band-tint" style="display:flex; flex-wrap:wrap; gap:32px; align-items:center; padding:32px">
+        <div class="stack" style="flex:1 1 300px; --gap:12px">
+          <span class="pill pill-ink" style="align-self:flex-start">On YouTube</span>
+          <h2>{withVideo.data.title}, explained in a few minutes</h2>
+          <p class="lead" style="color:var(--ink)">Watch how it plays, then print the free PDF. New games get their video on <a href="https://www.youtube.com/@printandplaygame" rel="noopener" target="_blank">Print &amp; Play Games</a>.</p>
+          <a class="btn btn-dark" href={gameItem(withVideo).href} style="align-self:flex-start">Get the PDF</a>
+        </div>
+        <div style="flex:1 1 420px; min-width:0">
+          <VideoEmbed id={withVideo.data.video_id!} title={`How to play ${withVideo.data.title}`} />
+        </div>
+      </div>
     </section>
   )}
 

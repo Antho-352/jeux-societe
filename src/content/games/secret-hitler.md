@@ -34,6 +34,8 @@ status: "published"
 date_added: "2026-10-18"
 seo_title: "Secret Hitler Print & Play | Official Free PDF"
 seo_description: "Download the official Secret Hitler print-and-play PDF under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
+video_id: "ngplbyk7n_4"
+video_date: "2026-10-19"
 ---
 <!-- hand-edited -->
 ## About Secret Hitler
