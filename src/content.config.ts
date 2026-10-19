@@ -63,7 +63,7 @@ const rules = defineCollection({
     title: z.string(),
     game_name: z.string(),
     aliases: z.array(z.string()).default([]),
-    category: z.enum(['card', 'board', 'dice', 'party', 'pen-and-paper', 'tile']),
+    category: z.enum(['card', 'board', 'dice', 'party', 'pen-and-paper', 'tile', 'drinking']),
     summary: z.string().max(220),
     players_min: z.number().int().min(1),
     players_max: z.number().int().min(1),

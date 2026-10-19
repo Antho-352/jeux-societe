@@ -49,6 +49,7 @@ export const RULES_CATEGORY_LABEL: Record<Rule['data']['category'], string> = {
   dice: 'Dice game',
   party: 'Party game',
   'pen-and-paper': 'Pen & paper game',
+  drinking: 'Drinking game (21+)',
   tile: 'Tile game',
 };
 export const AGE_BAND_LABEL: Record<string, string> = {

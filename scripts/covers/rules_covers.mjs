@@ -12,8 +12,8 @@ const DIR = path.join(ROOT, 'src/content/rules');
 const OUT = path.join(ROOT, 'public/img/rules');
 const all = process.argv.includes('--all');
 const only = process.argv.slice(2).filter((a) => !a.startsWith('--'));
-const FAMILY = { card: 'war', board: 'checkers', dice: 'yacht', 'pen-and-paper': 'tic-tac-toe', tile: 'dominoes', party: 'cheat' };
-const TAG = { card: 'Card game rules', board: 'Board game rules', dice: 'Dice game rules', 'pen-and-paper': 'Pen & paper game', tile: 'Tile game rules', party: 'Party game rules' };
+const FAMILY = { card: 'war', board: 'checkers', dice: 'yacht', 'pen-and-paper': 'tic-tac-toe', tile: 'dominoes', party: 'cheat', drinking: 'kings-cup' };
+const TAG = { card: 'Card game rules', board: 'Board game rules', dice: 'Dice game rules', 'pen-and-paper': 'Pen & paper game', tile: 'Tile game rules', party: 'Party game rules', drinking: 'Drinking game · 21+' };
 
 const files = fs.readdirSync(DIR).filter((f) => f.endsWith('.md'));
 const todo = only.length ? files.filter((f) => only.includes(f.replace(/\.md$/, ''))) : files.filter((f) => all || !/^cover:/m.test(fs.readFileSync(path.join(DIR, f), 'utf8')));

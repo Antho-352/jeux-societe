@@ -3,7 +3,7 @@ cover: "/img/rules/kings-cup.png"
 title: "Kings Cup rules: how to play King's Cup"
 game_name: "Kings Cup"
 aliases: ["King's Cup", "Kings", "Ring of Fire", "Circle of Death"]
-category: "card"
+category: "drinking"
 summary: "Kings Cup is the party drinking game where each card drawn from a circle triggers a rule, and whoever draws the fourth king drinks the cup in the middle."
 players_min: 3
 players_max: 10
