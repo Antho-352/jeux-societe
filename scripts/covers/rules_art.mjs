@@ -233,3 +233,9 @@ Object.assign(GAME_PICK, {
   'printable-go-board-9x9': ['go'], 'printable-mancala-board': ['mancala'], 'printable-nine-mens-morris': ['nine-mens-morris'], 'printable-reversi-board': ['reversi'],
   'printable-snakes-and-ladders': ['snakes-and-ladders'], meow: ['meow'],
 });
+Object.assign(GAME_PICK, {
+  'the-last-trick-or-treat': ['escape-accent', 'pumpkin'], 'the-pumpkin-patch-mystery': ['escape-accent', 'pumpkin'],
+  'the-haunted-classroom-halloween-escape-room': ['escape-accent', 'pumpkin'], 'halloween-escape-room-for-13-and-adults-my-party-games': ['escape-accent', 'pumpkin'],
+  'witchs-curse-escape-room-my-party-games': ['escape-accent', 'pumpkin'], 'lost-in-the-woods-minor-arcana-games': ['escape-accent', 'tree'],
+  'amazing-adventure-society-the-nordic-necklace': ['escape-accent', 'manor'],
+});
