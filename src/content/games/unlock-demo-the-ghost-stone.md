@@ -22,6 +22,10 @@ publisher: "Space Cowboys"
 licence: "\"Free demos to try\"; © Space Cowboys, all rights reserved, no reuse licence stated"
 hosting_mode: "link"
 source_url: "https://www.spacecowboys-games.com/game/unlock-demos/"
+files:
+  - { label: "The Stone cards", url: "https://cdn.svc.asmodee.net/production-spacecowboys/uploads/2025/11/Proto_A4_CAMBRIOLAGE_FANTOME_EN_4card.pdf" }
+  - { label: "Read me first", url: "https://cdn.svc.asmodee.net/production-spacecowboys/uploads/2025/11/59baa2_a0ec35475adc4701bfdd434a05d91747.pdf" }
+  - { label: "Tutorial", url: "https://cdn.svc.asmodee.net/production-spacecowboys/uploads/2025/11/59baa2_4d23ba463dcb4b0dba1a26b5b17e2743.pdf" }
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Unlock! The Ghost Stone: free printable escape room"
