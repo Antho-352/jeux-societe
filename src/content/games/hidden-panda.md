@@ -31,6 +31,7 @@ files:
   - { label: "Tokens", url: "/pdf/hidden-panda/HP-Tokens.pdf" }
   - { label: "Rulebook", url: "/pdf/hidden-panda/Rulebook-Hidden-Panda.pdf" }
 source_url: "https://jellybean.games/hidden-panda/"
+cover: "/img/games/hidden-panda.png"
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Hidden Panda free print and play party game"

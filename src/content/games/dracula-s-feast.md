@@ -34,6 +34,7 @@ files:
   - { label: "Reference card", url: "/pdf/dracula-s-feast/DF-Reference-Card-1.pdf" }
   - { label: "Rulebook", url: "/pdf/dracula-s-feast/DF_Rulebook.pdf" }
 source_url: "https://jellybean.games/draculas-feast/"
+cover: "/img/games/dracula-s-feast.png"
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Dracula's Feast free print and play deduction game"

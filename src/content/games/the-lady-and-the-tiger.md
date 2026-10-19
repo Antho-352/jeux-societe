@@ -30,6 +30,7 @@ files:
   - { label: "Rules", url: "/pdf/the-lady-and-the-tiger/Lady-Tiger-Rules.pdf" }
   - { label: "Tokens", url: "/pdf/the-lady-and-the-tiger/Tokens.pdf" }
 source_url: "https://jellybean.games/the-lady-and-the-tiger/"
+cover: "/img/games/the-lady-and-the-tiger.png"
 status: "published"
 date_added: "2026-10-18"
 seo_title: "The Lady and the Tiger free print and play games"

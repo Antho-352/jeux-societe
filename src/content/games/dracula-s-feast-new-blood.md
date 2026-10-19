@@ -31,6 +31,7 @@ files:
   - { label: "Cards", url: "/pdf/dracula-s-feast-new-blood/v6-Dracula-s-Feast-New-Blood-cards-compressed.pdf" }
   - { label: "Rulebook", url: "/pdf/dracula-s-feast-new-blood/Dracula-s-Feast-New-Blood-Rulebook.pdf" }
 source_url: "https://jellybean.games/draculas-feast-new-blood/"
+cover: "/img/games/dracula-s-feast-new-blood.png"
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Dracula's Feast: New Blood free print and play"

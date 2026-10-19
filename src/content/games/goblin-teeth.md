@@ -29,6 +29,7 @@ files:
   - { label: "Rulebook", url: "/pdf/goblin-teeth/JG_GoblinTeeth_Rulebook.pdf" }
   - { label: "Components", url: "/pdf/goblin-teeth/Goblin-Teeth-Components.pdf" }
 source_url: "https://jellybean.games/goblin-teeth/"
+cover: "/img/games/goblin-teeth.png"
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Goblin Teeth free print and play dice game"

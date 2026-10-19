@@ -29,6 +29,7 @@ download_size_mb: 2.1
 files:
   - { label: "Rulebook", url: "/pdf/meow/Meow-Rulebook.pdf" }
 source_url: "https://jellybean.games/meow/"
+cover: "/img/games/meow.png"
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Meow! free print and play secret-rules card game"

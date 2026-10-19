@@ -30,6 +30,7 @@ files:
   - { label: "Print and play", url: "/pdf/show-tile/ShowTilePrint-and-play.pdf" }
   - { label: "Cards", url: "/pdf/show-tile/ShowTileCards.pdf" }
 source_url: "https://jellybean.games/product/show-tile/"
+cover: "/img/games/show-tile.png"
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Show & Tile free print and play tangram party game"

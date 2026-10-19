@@ -32,6 +32,7 @@ files:
   - { label: "Rulebook", url: "/pdf/brains/Brains-Rulebook.pdf" }
   - { label: "Gravestone card", url: "/pdf/brains/Gravestone-Card.pdf" }
 source_url: "https://jellybean.games/brains/"
+cover: "/img/games/brains.png"
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Brains! free print and play zombie card game"
