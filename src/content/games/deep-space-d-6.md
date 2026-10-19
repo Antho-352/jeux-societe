@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/deep-space-d-6.png"
-cover_art: true
+cover: "/img/games/deep-space-d-6.jpg"
+cover_credit: "Image: Tau Leader Games via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/183571"
 title: "Deep Space D-6"
 type: "dice"
 subtype: "solo"

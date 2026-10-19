@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/chocolate-factory-escape-room-my-party-games.png"
-cover_art: true
+cover: "/img/games/chocolate-factory-escape-room-my-party-games.jpg"
+cover_credit: "Image: My Party Games"
+cover_source: "https://www.mypartygames.com/free-printable-chocolate-factory-escape-room-for-kids/"
 title: "Chocolate Factory Escape Room for Kids (My Party Games)"
 type: "escape"
 summary: "A free printable chocolate factory escape room for kids aged 7 or 8 and up: help Mr. Wibble Wobble find his secret ingredients with 8 colourful puzzles and a final code. 1 player or teams of up to 4."

@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/printable-heads-bodies-and-legs-game.png"
-cover_art: true
+cover: "/img/games/printable-heads-bodies-and-legs-game.jpg"
+cover_credit: "Image: PrintablePaper.net"
+cover_source: "https://www.printablepaper.net/preview/Heads_Bodies_and_Legs_Game"
 title: "Printable Heads, Bodies, and Legs Game"
 type: "party"
 subtype: "template"

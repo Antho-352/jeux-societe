@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/citadels-print-and-play-demo.png"
-cover_art: true
+cover: "/img/games/citadels-print-and-play-demo.jpg"
+cover_credit: "Image: Asmodee via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/205398"
 title: "Citadels print-and-play demo"
 type: "card"
 subtype: "demo"

@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/printable-battleship-board.png"
-cover_art: true
+cover: "/img/games/printable-battleship-board.jpg"
+cover_credit: "Image: PrintablePaper.net"
+cover_source: "https://www.printablepaper.net/preview/Battleship_Board"
 title: "Printable Battleship Board"
 type: "board"
 subtype: "template"

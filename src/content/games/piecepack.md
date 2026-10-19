@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/piecepack.png"
-cover_art: true
+cover: "/img/games/piecepack.jpg"
+cover_credit: "Image: Trevor L. Davis (piecepackr)"
+cover_source: "https://trevorldavis.com/piecepackr/pages/print-and-play-pdfs.html"
 title: "Piecepack (printable game system)"
 type: "board"
 subtype: "game-system"

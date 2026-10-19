@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/small-world-lost-tribes-crusade.png"
-cover_art: true
+cover: "/img/games/small-world-lost-tribes-crusade.jpg"
+cover_credit: "Image: Days of Wonder via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/333152"
 title: "Small World: The Lost Tribe's Crusade"
 type: "board"
 subtype: "expansion"

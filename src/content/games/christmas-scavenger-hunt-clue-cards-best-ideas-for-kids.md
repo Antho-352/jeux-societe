@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/christmas-scavenger-hunt-clue-cards-best-ideas-for-kids.png"
-cover_art: true
+cover: "/img/games/christmas-scavenger-hunt-clue-cards-best-ideas-for-kids.jpg"
+cover_credit: "Image: The Best Ideas for Kids"
+cover_source: "https://www.thebestideasforkids.com/christmas-scavenger-hunt/"
 title: "Christmas Scavenger Hunt Clue Cards (The Best Ideas for Kids)"
 type: "scavenger-hunt"
 summary: "A free printable indoor Christmas scavenger hunt by Kimberly McLeod: 12 rhyming clue cards that send children from the spoon drawer to the couch to the fridge, ending at a surprise where the toys live."

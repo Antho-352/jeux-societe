@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/unlock-demo-5th-avenue.png"
-cover_art: true
+cover: "/img/games/unlock-demo-5th-avenue.jpg"
+cover_credit: "Image: Space Cowboys"
+cover_source: "https://www.spacecowboys-games.com/game/unlock-demos/"
 title: "Unlock! 5th Avenue (free demo)"
 type: "escape"
 summary: "A 26-card Unlock! demo set in New York in 1931: Al Capone wants you to steal a secret product from a corporation. Print, cut and play with the free app, 1 to 6 players, about 30 minutes."

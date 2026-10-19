@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/dread.png"
-cover_art: true
+cover: "/img/games/dread.jpg"
+cover_credit: "Image: Michael Erceg via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/thread/2876121"
 title: "Dread"
 type: "card"
 subtype: "solo"

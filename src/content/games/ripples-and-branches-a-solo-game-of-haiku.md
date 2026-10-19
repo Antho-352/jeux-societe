@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/ripples-and-branches-a-solo-game-of-haiku.png"
-cover_art: true
+cover: "/img/games/ripples-and-branches-a-solo-game-of-haiku.jpg"
+cover_credit: "Image: Matt Hanna via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/thread/2861040"
 title: "Ripples and Branches: A Solo Game of Haiku"
 type: "card"
 subtype: "solo"

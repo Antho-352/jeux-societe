@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/pico-genesis-l-antichambre.png"
-cover_art: true
+cover: "/img/games/pico-genesis-l-antichambre.jpg"
+cover_credit: "Image: L'Antichambre"
+cover_source: "https://www.lantichambre.paris/pico-genesis"
 title: "Pico Genesis (L'Antichambre)"
 type: "escape"
 summary: "A free French print-at-home escape game by the game masters of Paris venue L'Antichambre: a 14-page booklet, QR-code hints and unlock videos tell the origin of the AI Pico, for 1 to 5 players in 60 minutes."

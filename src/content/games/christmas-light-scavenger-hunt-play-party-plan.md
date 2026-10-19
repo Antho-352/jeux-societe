@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/christmas-light-scavenger-hunt-play-party-plan.png"
-cover_art: true
+cover: "/img/games/christmas-light-scavenger-hunt-play-party-plan.jpg"
+cover_credit: "Image: Play Party Plan"
+cover_source: "https://www.playpartyplan.com/christmas-light-scavenger-hunt/"
 title: "Christmas Light Scavenger Hunt (Play Party Plan)"
 type: "scavenger-hunt"
 summary: "A free printable checklist of things to spot while driving or walking past Christmas lights, by Britni Vigil of Play Party Plan; play it as a family or as a 30-minute team race at a holiday party."

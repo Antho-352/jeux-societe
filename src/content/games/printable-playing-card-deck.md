@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/printable-playing-card-deck.png"
-cover_art: true
+cover: "/img/games/printable-playing-card-deck.jpg"
+cover_credit: "Image: PrintablePaper.net"
+cover_source: "https://www.printablepaper.net/preview/Playing_Card_Deck"
 title: "Printable Playing Card Deck"
 type: "card"
 subtype: "template"

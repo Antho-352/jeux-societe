@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/tubbataha.png"
-cover_art: true
+cover: "/img/games/tubbataha.jpg"
+cover_credit: "Image: Kevin Privalle via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/thread/2879216"
 title: "Tubbataha"
 type: "board"
 subtype: "solo"

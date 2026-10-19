@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/unfair-solo-mode-quinn.png"
-cover_art: true
+cover: "/img/games/unfair-solo-mode-quinn.jpg"
+cover_credit: "Image: 2am Gameworks"
+cover_source: "https://www.unfair-game.com/flux-content/unfair/pdf/Unfair-solo-mode-Quinn-rule-leaflet-20220217.pdf"
 title: "Unfair: Quinn solo mode"
 type: "card"
 subtype: "solo"

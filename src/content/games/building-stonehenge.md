@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/building-stonehenge.png"
-cover_art: true
+cover: "/img/games/building-stonehenge.jpg"
+cover_credit: "Image: Ben Morayta via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/423738"
 title: "Building Stonehenge"
 type: "board"
 subtype: "solo"

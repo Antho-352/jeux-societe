@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/bandido-covid-19-edition.png"
-cover_art: true
+cover: "/img/games/bandido-covid-19-edition.jpg"
+cover_credit: "Image: Helvetiq"
+cover_source: "https://helvetiq.com/ch_en/free-bandido-covid19-edition"
 title: "Bandido Covid-19 edition"
 type: "card"
 summary: "Helvetiq's free Bandido Covid-19 edition is a cooperative card game for 1 to 4 players from age 6: lay tunnel cards together to block every exit before the virus escapes."

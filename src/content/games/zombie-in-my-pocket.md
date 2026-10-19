@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/zombie-in-my-pocket.png"
-cover_art: true
+cover: "/img/games/zombie-in-my-pocket.jpg"
+cover_credit: "Image: Jeremiah Lee via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/33468"
 title: "Zombie in My Pocket"
 type: "card"
 subtype: "solo"

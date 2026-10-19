@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/lost-in-the-woods-minor-arcana-games.png"
-cover_art: true
+cover: "/img/games/lost-in-the-woods-minor-arcana-games.jpg"
+cover_credit: "Image: Minor Arcana Games (itch.io)"
+cover_source: "https://minor-arcana-games.itch.io/lost-in-the-woods"
 title: "Lost in the Woods (Minor Arcana Games)"
 type: "escape"
 summary: "A free printable escape room for one or two players by Ashleigh Kay: twelve puzzle boxes left by the fae must reveal the path out of the Terremal Woods before dawn. Hints and solutions included."

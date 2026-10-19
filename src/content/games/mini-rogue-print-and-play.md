@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/mini-rogue-print-and-play.png"
-cover_art: true
+cover: "/img/games/mini-rogue-print-and-play.jpg"
+cover_credit: "Image: Mountain Gold Games via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/199242"
 title: "Mini Rogue print and play (version 1.2)"
 type: "card"
 subtype: "solo"

@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/devil-bunny-needs-a-ham.png"
-cover_art: true
+cover: "/img/games/devil-bunny-needs-a-ham.jpg"
+cover_credit: "Image: Crab Fragment Labs (Cheapass Games)"
+cover_source: "https://crabfragmentlabs.com/shop/p/devil-bunny-games"
 title: "Devil Bunny Needs a Ham"
 type: "board"
 subtype: "family"

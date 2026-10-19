@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/mission-unknown-escape-room-geeks.png"
-cover_art: true
+cover: "/img/games/mission-unknown-escape-room-geeks.jpg"
+cover_credit: "Image: Escape Room Geeks"
+cover_source: "https://escaperoomgeeks.com/free-escape-room/"
 title: "Mission Unknown (Escape Room Geeks)"
 type: "escape"
 summary: "A free printable space escape room for kids aged 7 to 12 from Escape Room Geeks: three challenges with alien ciphers, planet riddles and a constellation map, 45 to 60 minutes of play."

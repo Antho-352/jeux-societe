@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/dancefloor.png"
-cover_art: true
+cover: "/img/games/dancefloor.jpg"
+cover_credit: "Image: Anthony Broussard via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/thread/2881982"
 title: "Dancefloor"
 type: "card"
 subtype: "solo"

@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/dungeon-dailies.png"
-cover_art: true
+cover: "/img/games/dungeon-dailies.jpg"
+cover_credit: "Image: Shenbot Makes (itch.io)"
+cover_source: "https://alexandershen.itch.io/dungeon-dailies"
 title: "Dungeon Dailies"
 type: "roll-and-write"
 subtype: "solo"

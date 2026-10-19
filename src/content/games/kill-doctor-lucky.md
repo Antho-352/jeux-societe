@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/kill-doctor-lucky.png"
-cover_art: true
+cover: "/img/games/kill-doctor-lucky.jpg"
+cover_credit: "Image: Crab Fragment Labs (Cheapass Games)"
+cover_source: "https://crabfragmentlabs.com/shop/p/kill-doctor-lucky"
 title: "Kill Doctor Lucky"
 type: "board"
 subtype: "family"

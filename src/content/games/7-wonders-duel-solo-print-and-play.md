@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/7-wonders-duel-solo-print-and-play.png"
-cover_art: true
+cover: "/img/games/7-wonders-duel-solo-print-and-play.jpg"
+cover_credit: "Image: Repos Production via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/310215"
 title: "7 Wonders Duel solo mode (print and play)"
 type: "card"
 subtype: "expansion"

@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/picklock.png"
-cover_art: true
+cover: "/img/games/picklock.jpg"
+cover_credit: "Image: Steven Tondeur via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/476115"
 title: "Picklock!"
 type: "card"
 subtype: "solo"

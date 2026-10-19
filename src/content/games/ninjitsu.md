@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/ninjitsu.png"
-cover_art: true
+cover: "/img/games/ninjitsu.jpg"
+cover_credit: "Image: Jellybean Games via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/230064"
 title: "Ninjitsu!"
 type: "card"
 subtype: "family"

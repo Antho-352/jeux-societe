@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/escape-game-egypte-9-10-ans-petites-chasses-au-tresor.png"
-cover_art: true
+cover: "/img/games/escape-game-egypte-9-10-ans-petites-chasses-au-tresor.jpg"
+cover_credit: "Image: Petites Chasses au Trésor"
+cover_source: "https://petiteschassesautresor.com/escape-game-9-10-ans/"
 title: "Escape Game Égypte 9-10 ans (Petites Chasses au Trésor)"
 type: "escape"
 summary: "A free French printable escape game about ancient Egypt for 9 to 10 year olds: three puzzles in five envelopes to hide around the house, 25 to 30 minutes, kit sent by email by Petites Chasses au Trésor."

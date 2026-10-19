@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/utopia-engine.png"
-cover_art: true
+cover: "/img/games/utopia-engine.jpg"
+cover_credit: "Image: Nick Hayes via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/75223"
 title: "Utopia Engine"
 type: "roll-and-write"
 subtype: "solo"

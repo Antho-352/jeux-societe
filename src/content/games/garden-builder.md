@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/garden-builder.png"
-cover_art: true
+cover: "/img/games/garden-builder.jpg"
+cover_credit: "Image: Janine Viglietti via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/415860"
 title: "Garden Builder"
 type: "board"
 subtype: "solo"

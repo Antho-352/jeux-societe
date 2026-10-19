@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/lawn-party.png"
-cover_art: true
+cover: "/img/games/lawn-party.jpg"
+cover_credit: "Image: Michael Erceg via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/thread/2881537"
 title: "Lawn Party"
 type: "card"
 subtype: "solo"

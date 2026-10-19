@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/printable-backgammon-board.png"
-cover_art: true
+cover: "/img/games/printable-backgammon-board.jpg"
+cover_credit: "Image: PrintablePaper.net"
+cover_source: "https://www.printablepaper.net/preview/Backgammon_Board"
 title: "Printable Backgammon Board"
 type: "board"
 subtype: "template"

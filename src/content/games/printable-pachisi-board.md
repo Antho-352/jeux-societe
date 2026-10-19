@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/printable-pachisi-board.png"
-cover_art: true
+cover: "/img/games/printable-pachisi-board.jpg"
+cover_credit: "Image: PrintablePaper.net"
+cover_source: "https://www.printablepaper.net/preview/Pachisi_Board"
 title: "Printable Pachisi Board"
 type: "board"
 subtype: "template"

@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/choose-two.png"
-cover_art: true
+cover: "/img/games/choose-two.jpg"
+cover_credit: "Image: Looney Labs"
+cover_source: "https://www.looneylabs.com/sites/default/files/literature/ChooseTwo.pdf"
 title: "Choose Two (Choose One for two players)"
 type: "party"
 subtype: "expansion"

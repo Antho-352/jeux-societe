@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/chasse-aux-oeufs-de-paques-escape-kit.png"
-cover_art: true
+cover: "/img/games/chasse-aux-oeufs-de-paques-escape-kit.jpg"
+cover_credit: "Image: Escape Kit"
+cover_source: "https://escape-kit.com/jeux/chasse-au-tresor-gratuite-a-imprimer/"
 title: "Chasse aux œufs de Pâques à énigmes (Escape Kit)"
 type: "scavenger-hunt"
 summary: "A free French Easter egg hunt from Escape Kit: a one-page kit with two coded messages, a rebus and a keyword trail that leads a 7 to 9 year old to the hidden chocolate, plus a blank version to customise."

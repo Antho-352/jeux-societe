@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/aleas-garden.png"
-cover_art: true
+cover: "/img/games/aleas-garden.jpg"
+cover_credit: "Image: Brave James and Jon Tiburzi"
+cover_source: "https://drive.google.com/file/d/1vOm8wUDi4mqMsCvbd8_SoAOq0M6piiEP/view"
 title: "Alea's Garden"
 type: "card"
 subtype: "solo"

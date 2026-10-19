@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/orchard-9-card-solitaire.png"
-cover_art: true
+cover: "/img/games/orchard-9-card-solitaire.jpg"
+cover_credit: "Image: Mark Tuck via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/245487"
 title: "Orchard: A 9-Card Solitaire Game"
 type: "card"
 subtype: "solo"

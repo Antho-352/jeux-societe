@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/pandemic-hot-zone-north-america-print-and-play.png"
-cover_art: true
+cover: "/img/games/pandemic-hot-zone-north-america-print-and-play.jpg"
+cover_credit: "Image: Z-Man Games via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/301919"
 title: "Pandemic: Hot Zone – North America (print and play)"
 type: "board"
 summary: "Z-Man Games' free print-and-play edition of Pandemic: Hot Zone – North America, a short cooperative Pandemic for 2 to 4 players with three diseases, a smaller map and quicker games."

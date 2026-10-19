@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/ultima-ratio-regis.png"
-cover_art: true
+cover: "/img/games/ultima-ratio-regis.jpg"
+cover_credit: "Image: printandplay.games"
+cover_source: "https://printandplay.games/ultima-ratio-regis-en/"
 title: "Ultima Ratio Regis"
 type: "board"
 subtype: "wargame"

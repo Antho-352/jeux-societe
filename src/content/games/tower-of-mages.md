@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/tower-of-mages.png"
-cover_art: true
+cover: "/img/games/tower-of-mages.jpg"
+cover_credit: "Image: Metal Snail (itch.io)"
+cover_source: "https://metalsnail.itch.io/tower-of-mages"
 title: "Tower of Mages"
 type: "roll-and-write"
 subtype: "solo"

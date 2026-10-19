@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/printable-the-jungle-game.png"
-cover_art: true
+cover: "/img/games/printable-the-jungle-game.jpg"
+cover_credit: "Image: PrintablePaper.net"
+cover_source: "https://www.printablepaper.net/preview/The_Jungle_Game"
 title: "Printable The Jungle Game"
 type: "board"
 subtype: "template"

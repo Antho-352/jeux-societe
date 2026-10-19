@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/unfair-base-game.png"
-cover_art: true
+cover: "/img/games/unfair-base-game.jpg"
+cover_credit: "Image: 2am Gameworks"
+cover_source: "https://www.unfair-game.com/flux-content/unfair/pdf/Unfair-GJNPRV-rulebook-20230725-web.pdf"
 title: "Unfair (base game)"
 type: "card"
 subtype: "economic"

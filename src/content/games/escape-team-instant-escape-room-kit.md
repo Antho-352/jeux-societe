@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/escape-team-instant-escape-room-kit.png"
-cover_art: true
+cover: "/img/games/escape-team-instant-escape-room-kit.jpg"
+cover_credit: "Image: Escape Team"
+cover_source: "https://www.escape-team.com/free-escape-room-diy-kit"
 title: "Escape Team Instant Escape Room Kit"
 type: "escape"
 summary: "A free 7-page DIY escape room from Escape Team: five ready-made puzzles, a game-master cheat sheet and solution codes, run through the free Mission Editor and app for any occasion."

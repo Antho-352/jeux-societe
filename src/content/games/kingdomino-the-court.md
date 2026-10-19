@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/kingdomino-the-court.png"
-cover_art: true
+cover: "/img/games/kingdomino-the-court.jpg"
+cover_credit: "Image: Blue Orange Games via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/306171"
 title: "Kingdomino: The Court"
 type: "board"
 subtype: "expansion"

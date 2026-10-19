@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/the-haunted-classroom-halloween-escape-room.png"
-cover_art: true
+cover: "/img/games/the-haunted-classroom-halloween-escape-room.jpg"
+cover_credit: "Image: Gaurav Tiwari"
+cover_source: "https://gauravtiwari.org/halloween-classroom-escape-room/"
 title: "The Haunted Classroom: Halloween Escape Room"
 type: "escape"
 summary: "A free Halloween classroom escape room for grades 3 to 5 by Gaurav Tiwari: five linked puzzle stations, hint cards and a separate teacher key, in Letter or A4, no lock needed."
