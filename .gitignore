@@ -9,3 +9,4 @@ data/bgg/*.html
 data/kw/*.json
 __pycache__/
 *.pyc
+data/kw/blog/

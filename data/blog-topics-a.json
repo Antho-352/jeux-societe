@@ -1,0 +1,1547 @@
+[
+  {
+    "slug": "thanksgiving-games-for-family",
+    "title": "Thanksgiving games for family: 15 table games for all ages",
+    "target_keyword": "thanksgiving games for family",
+    "secondary_keywords": [
+      {
+        "keyword": "friendsgiving games",
+        "volume_us": 1900,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "fun games thanksgiving",
+        "volume_us": 1900,
+        "volume_uk": null,
+        "kd": 2,
+        "source": "labs"
+      },
+      {
+        "keyword": "thanksgiving games for adults",
+        "volume_us": 1600,
+        "volume_uk": 10,
+        "kd": 3,
+        "source": "labs"
+      },
+      {
+        "keyword": "thanksgiving activities for family",
+        "volume_us": 880,
+        "volume_uk": null,
+        "kd": 1,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 8100,
+    "volume_uk": 10,
+    "kd": 10,
+    "intent": "informational",
+    "serp_notes": "US top 5: countryliving.com (listicle), pinterest.com, kingascorner.com (small blog), lockpaperescape.com (printable seller), youtube.com. KD 0-10. US-only topic (UK volume ~10).",
+    "silo": "occasions",
+    "pushes": [
+      "/bingo/thanksgiving-bingo/",
+      "/puzzles/word-search/thanksgiving-word-search/",
+      "/puzzles/mazes/thanksgiving-maze/"
+    ],
+    "needs": [
+      "/occasions/thanksgiving/ hub (3 Thanksgiving items today, needs a 4th, e.g. a Thanksgiving dot to dot or kids' table placemat puzzle)"
+    ],
+    "article_type": "seasonal",
+    "interactive_tool": "Picker: random gratitude and conversation prompts for the table; Timer: minute-to-win-it rounds",
+    "angle": "Sorted by when you play (before dinner, at the table, after pie) and who plays (kids' table, adults, Friendsgiving), each with player count and time. Several games are free printables, which the media listicles link out to others for.",
+    "outline": [
+      "Games to play while the turkey cooks",
+      "Table games that need only paper",
+      "Games for the kids' table",
+      "Thanksgiving games for adults",
+      "Friendsgiving games",
+      "Quiet after-dinner games",
+      "Printables to download before Thursday"
+    ],
+    "season_deadline": "2026-10-15",
+    "priority": 1
+  },
+  {
+    "slug": "christmas-activities-for-preschoolers",
+    "title": "Christmas activities for preschoolers: 20 printable ideas",
+    "target_keyword": "christmas activities for preschoolers",
+    "secondary_keywords": [
+      {
+        "keyword": "christmas preschool activities",
+        "volume_us": 1300,
+        "volume_uk": 720,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "christmas bingo for preschoolers",
+        "volume_us": 70,
+        "volume_uk": 10,
+        "kd": null,
+        "source": "keywords-master.csv"
+      },
+      {
+        "keyword": "christmas mazes for preschoolers",
+        "volume_us": 10,
+        "volume_uk": 10,
+        "kd": null,
+        "source": "keywords-master.csv"
+      }
+    ],
+    "volume_us": 1300,
+    "volume_uk": 720,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: pinterest.com, prekinders.com (paid packs), celenakinsey.substack.com, pocketofpreschool.com (TPT seller), thepeacefulpress.com. KD 0 (UK 720/month, KD 0).",
+    "silo": "occasions/christmas",
+    "pushes": [
+      "/puzzles/mazes/christmas-tree-maze-easy/",
+      "/puzzles/dot-to-dot/christmas-tree-dot-to-dot/",
+      "/puzzles/dot-to-dot/snowman-dot-to-dot/",
+      "/bingo/christmas-bingo/"
+    ],
+    "needs": [],
+    "article_type": "seasonal",
+    "interactive_tool": "Checklist: a 24-day December activity calendar (one printable or activity per day, kept in the reader's browser)",
+    "angle": "Free printables instead of paid packs, grouped by skill (counting, fine motor, matching, games) and usable at home or in pre-K, plus a 24-day calendar so parents plan December in one go.",
+    "outline": [
+      "What preschoolers can do at Christmas (ages 3 to 5)",
+      "Counting with Christmas dot to dots",
+      "Fine motor: easy Christmas mazes",
+      "Picture bingo for small groups",
+      "Christmas activities for circle time",
+      "A 24-day December activity calendar"
+    ],
+    "season_deadline": "2026-11-06",
+    "priority": 1
+  },
+  {
+    "slug": "classroom-christmas-party-ideas",
+    "title": "Classroom Christmas party ideas: 12 games and a 60-minute plan",
+    "target_keyword": "classroom christmas party ideas",
+    "secondary_keywords": [
+      {
+        "keyword": "christmas game classroom",
+        "volume_us": 880,
+        "volume_uk": null,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "christmas party ideas for classroom",
+        "volume_us": 390,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "christmas classroom party games",
+        "volume_us": 260,
+        "volume_uk": 30,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "kindergarten christmas games for classroom",
+        "volume_us": 70,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 390,
+    "volume_uk": 10,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: instagram.com, ateacherandhercat.com (teacher blog), reddit.com (r/Teachers), pinterest.com, twinkl.co.uk. KD 0. Social and forum results; no timed plan.",
+    "silo": "occasions/christmas",
+    "pushes": [
+      "/bingo/christmas-bingo/",
+      "/puzzles/word-search/christmas-word-search/",
+      "/puzzles/mazes/christmas-tree-maze-easy/",
+      "/puzzles/dot-to-dot/christmas-tree-dot-to-dot/"
+    ],
+    "needs": [],
+    "article_type": "seasonal",
+    "interactive_tool": "Checklist: room-parent and teacher prep list; Timer: station rotation (4 stations x 12 minutes)",
+    "angle": "A ready 60-minute plan with 4 stations (bingo, puzzle table, game, craft), for room parents and teachers who search this the week before the party, plus secular 'winter' swaps for schools that avoid Christmas.",
+    "outline": [
+      "A 60-minute class party plan",
+      "Whole-class Christmas games",
+      "Station ideas: bingo, puzzles, crafts, snack",
+      "Christmas games for kindergarten",
+      "Quiet games for the last hour before break",
+      "Secular winter alternatives",
+      "Printables to prepare the day before"
+    ],
+    "season_deadline": "2026-11-06",
+    "priority": 1
+  },
+  {
+    "slug": "christmas-scavenger-hunt-ideas",
+    "title": "Christmas scavenger hunt ideas: clue hunts, gift hunts and light hunts",
+    "target_keyword": "christmas scavenger hunt ideas",
+    "secondary_keywords": [
+      {
+        "keyword": "christmas scavenger hunt clues",
+        "volume_us": 1000,
+        "volume_uk": 90,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "christmas gift scavenger hunt",
+        "volume_us": 590,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "christmas present scavenger hunt",
+        "volume_us": 590,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "elf on the shelf scavenger hunt",
+        "volume_us": 1600,
+        "volume_uk": 70,
+        "kd": 8,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 1300,
+    "volume_uk": 140,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: pinterest.com, scavify.com (app vendor), reddit.com, youtube.com, lockpaperescape.com (seller). KD 0-8. 'elf on the shelf scavenger hunt' is partly navigational (brand), treat as a section only.",
+    "silo": "scavenger-hunts",
+    "pushes": [
+      "/scavenger-hunts/christmas-scavenger-hunt-clue-cards-best-ideas-for-kids/",
+      "/scavenger-hunts/christmas-light-scavenger-hunt-play-party-plan/",
+      "/puzzles/word-search/christmas-word-search/"
+    ],
+    "needs": [],
+    "article_type": "seasonal",
+    "interactive_tool": "Picker: random rhyming Christmas clue (hiding spot as answer) for an indoor gift hunt",
+    "angle": "Three formats in one guide (indoor clue hunt, gift-finding hunt on Christmas morning, Christmas-lights hunt by car), each with a free printable already in our catalogue, while competitors sell kits or link to Pinterest.",
+    "outline": [
+      "Three kinds of Christmas scavenger hunt",
+      "Rhyming clues for an indoor Christmas hunt",
+      "Christmas gift scavenger hunt: hiding the big present",
+      "Christmas lights hunt in the car or on foot",
+      "An elf-themed hunt for younger kids",
+      "Hunts for teens and adults",
+      "Printables to use this year"
+    ],
+    "season_deadline": "2026-11-13",
+    "priority": 1
+  },
+  {
+    "slug": "valentines-day-classroom-games",
+    "title": "Valentine's Day classroom games: 10 party games with just paper",
+    "target_keyword": "valentines day classroom games",
+    "secondary_keywords": [
+      {
+        "keyword": "classroom valentine game",
+        "volume_us": 390,
+        "volume_uk": null,
+        "kd": null,
+        "source": "google_ads"
+      },
+      {
+        "keyword": "valentine's day class party games",
+        "volume_us": 260,
+        "volume_uk": null,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "classroom valentines day activities",
+        "volume_us": 260,
+        "volume_uk": null,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "valentines day scavenger hunt",
+        "volume_us": 720,
+        "volume_uk": null,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 390,
+    "volume_uk": null,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: teachmama.com (blog), pinterest.com, sweetfirstiefun.com (TPT seller), thepioneerwoman.com (family listicle), facebook.com. KD 0. US-only (school class parties).",
+    "silo": "occasions/valentines",
+    "pushes": [
+      "/bingo/valentines-day-bingo/",
+      "/puzzles/word-search/valentines-day-word-search/",
+      "/puzzles/mazes/valentines-day-maze/",
+      "/puzzles/dot-to-dot/heart-dot-to-dot-easy/"
+    ],
+    "needs": [
+      "Valentine's Day scavenger hunt clue cards (own CC printable) for the 'valentines day scavenger hunt' query (720/month, KD 0)"
+    ],
+    "article_type": "seasonal",
+    "interactive_tool": "Timer: minute-to-win-it rounds; Picker: random game for the next round",
+    "angle": "Low-prep games that need only printouts and paper, sorted K-2 and 3-5, with a 45-minute party plan. Competitors mix family and classroom ideas and send readers to paid packs.",
+    "outline": [
+      "A 45-minute Valentine's class party plan",
+      "Valentine's bingo for the whole class",
+      "Minute-to-win-it games with paper hearts",
+      "Quiet puzzle station: mazes, word searches, dot to dots",
+      "A Valentine's classroom scavenger hunt",
+      "Games for K-2 vs grades 3-5"
+    ],
+    "season_deadline": "2027-01-03",
+    "priority": 1
+  },
+  {
+    "slug": "leprechaun-hunt",
+    "title": "Leprechaun hunt: how to set up a St Patrick's Day clue trail",
+    "target_keyword": "leprechaun hunt",
+    "secondary_keywords": [
+      {
+        "keyword": "leprechaun scavenger hunt",
+        "volume_us": 320,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "st patricks day scavenger hunt",
+        "volume_us": 320,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "st patricks day classroom activities",
+        "volume_us": 140,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "st patricks day party games",
+        "volume_us": 70,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 390,
+    "volume_uk": 10,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: kpnc.auburn.edu (local event page), narberthonline.com (town event), facebook.com, jonesing2create.com (craft blog), sunshineandhurricanes.com. KD 0. Local events and small blogs.",
+    "silo": "scavenger-hunts",
+    "pushes": [
+      "/scavenger-hunts/indoor-scavenger-hunt-play-party-plan/",
+      "/scavenger-hunts/nature-scavenger-hunt-play-party-plan/",
+      "/puzzles/mazes/spring-maze/"
+    ],
+    "needs": [
+      "St Patrick's Day leprechaun hunt clue cards (own CC printable, rhyming clues, gold-coin finale)",
+      "St Patrick's Day maze or word search (rainbow / shamrock theme)"
+    ],
+    "article_type": "seasonal",
+    "interactive_tool": "Checklist: leprechaun 'mischief' set-up (footprints, tipped chairs, gold coins, clue order); Picker: random leprechaun clue",
+    "angle": "A step-by-step home and classroom version with the 'mischief' staging kids love, written clues and a printable, where the SERP only has local event pages. Easy to refresh every year.",
+    "outline": [
+      "What a leprechaun hunt is",
+      "How to set up a leprechaun hunt at home",
+      "Clues that lead to the pot of gold",
+      "A leprechaun hunt for the classroom",
+      "St Patrick's Day games to add",
+      "What to put in the pot of gold"
+    ],
+    "season_deadline": "2027-02-03",
+    "priority": 1
+  },
+  {
+    "slug": "easter-scavenger-hunt-clues",
+    "title": "Easter scavenger hunt clues: 40 riddles for kids, teens and adults",
+    "target_keyword": "easter scavenger hunt clues",
+    "secondary_keywords": [
+      {
+        "keyword": "easter egg hunt clues",
+        "volume_us": 880,
+        "volume_uk": 5400,
+        "kd": 1,
+        "source": "labs"
+      },
+      {
+        "keyword": "easter hunt clues",
+        "volume_us": 720,
+        "volume_uk": 5400,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "easter egg hunt clues for adults",
+        "volume_us": 390,
+        "volume_uk": 590,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "easter egg hunt clues for teenagers",
+        "volume_us": 320,
+        "volume_uk": 880,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 1600,
+    "volume_uk": 260,
+    "kd": 2,
+    "intent": "informational",
+    "serp_notes": "US top 5: youtube.com, treasuremaptrails.com (small shop blog), pinterest.com, twinkl.com, rhythmsofplay.com (mom blog). UK 'easter egg hunt clues' (5,400/month UK): countryliving.com/uk, a church PDF (stmkr.org), uk.pinterest.com, allmomdoes.com, a local mum blog, bbcgoodfood. KD 0-2 in both markets; PDFs and Pinterest in the top 5 are weak results.",
+    "silo": "scavenger-hunts",
+    "pushes": [
+      "/scavenger-hunts/easter-scavenger-hunt-clue-cards-best-ideas-for-kids/",
+      "/puzzles/mazes/easter-egg-maze/",
+      "/puzzles/word-search/easter-word-search/"
+    ],
+    "needs": [],
+    "article_type": "seasonal",
+    "interactive_tool": "Picker: random Easter clue by age band (toddler picture clue, kid rhyme, teen riddle, adult cryptic) with the hiding spot as the answer",
+    "angle": "One page that serves both markets: US 'scavenger hunt' and UK 'egg hunt' wording, clues graded from toddlers to adults (the teen and adult variants are big in the UK and poorly served), and puzzle stations (a maze or word search whose answer reveals the next spot) instead of plain riddles.",
+    "outline": [
+      "How an Easter clue hunt works (and how many clues you need)",
+      "Picture clues for toddlers and preschoolers",
+      "Rhyming Easter clues for kids",
+      "Harder Easter riddles for teenagers",
+      "Cryptic Easter egg hunt clues for adults",
+      "Indoor vs outdoor hiding spots",
+      "Turn a puzzle into a clue: maze and word search stations"
+    ],
+    "season_deadline": "2027-02-14",
+    "priority": 1
+  },
+  {
+    "slug": "bingo-patterns",
+    "title": "Bingo patterns: 30 games to call, from blackout to picture frame",
+    "target_keyword": "bingo patterns",
+    "secondary_keywords": [
+      {
+        "keyword": "blackout bingo",
+        "volume_us": 5400,
+        "volume_uk": 320,
+        "kd": 4,
+        "source": "labs"
+      },
+      {
+        "keyword": "types of bingo games",
+        "volume_us": 390,
+        "volume_uk": 30,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "bingo variations",
+        "volume_us": 260,
+        "volume_uk": 40,
+        "kd": 2,
+        "source": "labs"
+      },
+      {
+        "keyword": "bingo game ideas",
+        "volume_us": 140,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 5400,
+    "volume_uk": 170,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: arrowinternational.com (supplier pattern catalogue), jackpotbingosupplies.com (one pattern per page), bingoblitz.com (app), pinterest.com, blog.arrowinternational.com. KD 0-4. Results are supplier catalogues and an app, none written for a home, classroom or care-home host.",
+    "silo": "bingo",
+    "pushes": [
+      "/bingo/bingo-cards-1-75/",
+      "/bingo/blank-bingo-card-template/",
+      "/bingo/christmas-bingo/"
+    ],
+    "needs": [],
+    "article_type": "list",
+    "interactive_tool": "Picker: picks the pattern for the next round and shows its 5x5 diagram; StatGrid with how many calls each pattern takes on average, from our own simulation of the 1-75 cards",
+    "angle": "Every pattern is drawn on a 5x5 grid and labelled by difficulty and game length, which no ranking page does. We can measure the average number of calls per pattern by simulating our own 1-75 cards, real data instead of guesses, and suggest which patterns suit kids, classrooms and seniors.",
+    "outline": [
+      "What a bingo pattern is",
+      "Line patterns: horizontal, vertical, diagonal, four corners",
+      "Blackout bingo (coverall): rules and how long it takes",
+      "Shape patterns: X, T, L, picture frame, postage stamp",
+      "Easy patterns for kids and classrooms",
+      "How to announce and check a pattern",
+      "Bingo variations beyond patterns"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "slug": "scavenger-hunt-clues",
+    "title": "Scavenger hunt clues: 50 riddles for every room, with answers",
+    "target_keyword": "scavenger hunt clues",
+    "secondary_keywords": [
+      {
+        "keyword": "scavenger hunt riddles",
+        "volume_us": 720,
+        "volume_uk": 70,
+        "kd": 4,
+        "source": "labs"
+      },
+      {
+        "keyword": "indoor scavenger hunt clues",
+        "volume_us": 720,
+        "volume_uk": 90,
+        "kd": 1,
+        "source": "labs"
+      },
+      {
+        "keyword": "scavenger hunt clues for around the house",
+        "volume_us": 590,
+        "volume_uk": 50,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "treasure hunt clues",
+        "volume_us": 880,
+        "volume_uk": 720,
+        "kd": 9,
+        "source": "labs"
+      },
+      {
+        "keyword": "how to make a scavenger hunt",
+        "volume_us": 390,
+        "volume_uk": 30,
+        "kd": 9,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 3600,
+    "volume_uk": 390,
+    "kd": 2,
+    "intent": "informational",
+    "serp_notes": "US top 5: thesavvysparrow.com (mom blog list), treasure-hunt-clues.com (old single-topic site), parade.com (media listicle), youtube.com, treasure.run (clue generator). Related 'how to make a scavenger hunt' SERP is scavify, YouTube, Quora, Pinterest, Facebook. KD 2: no strong editorial page, clues are not sorted by age or room and few have answers next to them.",
+    "silo": "scavenger-hunts",
+    "pushes": [
+      "/scavenger-hunts/indoor-scavenger-hunt-play-party-plan/",
+      "/scavenger-hunts/christmas-scavenger-hunt-clue-cards-best-ideas-for-kids/",
+      "/scavenger-hunts/easter-scavenger-hunt-clue-cards-best-ideas-for-kids/"
+    ],
+    "needs": [
+      "Optional: our own blank + filled clue-card printable (CC BY-NC) under /scavenger-hunts/ so the article can offer a hosted PDF"
+    ],
+    "article_type": "list",
+    "interactive_tool": "Picker: draws a random clue (with its answer hidden behind a tap) filtered by room; Checklist: the 15-minute set-up steps (write clues, hide in reverse order, keep the answer sheet)",
+    "angle": "The ranking pages are long undifferentiated lists. Ours sorts every clue by room and by age (picture clues for 4-6, rhymes for 6-9, riddles for tweens), gives the answer next to each clue and adds the set-up method (hide in reverse order) that most lists skip.",
+    "outline": [
+      "How a clue-based scavenger hunt works",
+      "How to make a scavenger hunt in 15 minutes",
+      "Picture and word clues for ages 4 to 6",
+      "Rhyming clues for around the house",
+      "Harder riddles for tweens and teens",
+      "Outdoor and garden clues",
+      "What to put at the end of the hunt",
+      "Printable clue cards to use today"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "slug": "human-bingo",
+    "title": "Human bingo: how to play, plus 75 find-someone-who squares",
+    "target_keyword": "human bingo",
+    "secondary_keywords": [
+      {
+        "keyword": "get to know you bingo",
+        "volume_us": 1900,
+        "volume_uk": 90,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "find someone who bingo",
+        "volume_us": 1000,
+        "volume_uk": 90,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "how to play human bingo",
+        "volume_us": 140,
+        "volume_uk": 30,
+        "kd": 5,
+        "source": "labs"
+      },
+      {
+        "keyword": "get to know you games",
+        "volume_us": 3600,
+        "volume_uk": 320,
+        "kd": 3,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 3600,
+    "volume_uk": 1000,
+    "kd": 6,
+    "intent": "informational",
+    "serp_notes": "US top 5: gameonfamily.com (blog), pinterest.com, thejamsocial.com (corporate events), bingobaker.com (card generator), educircles.org (teacher PDF). KD 6 (UK 1,000/month, KD 6). Mixed classroom and office intent, nobody separates squares for kids, teens and adults.",
+    "silo": "bingo",
+    "pushes": [
+      "/bingo/blank-bingo-card-template/",
+      "/bingo/blank-3x3-bingo-card-template/",
+      "/bingo/classroom-bingo/"
+    ],
+    "needs": [
+      "Human bingo printable (5x5 'find someone who' cards, kids and adults versions) under /bingo/"
+    ],
+    "article_type": "how-to",
+    "interactive_tool": "Picker: draws random 'find someone who...' prompts (kids, teens or adults) to copy onto a blank card; Timer: 10-minute mingling round",
+    "angle": "Rules, timing and three ready prompt lists (classroom, teens, office) on one page, with a blank card to print right away. The ranking pages either sell a generator or mix ages; we add the practical rules (one signature per person, how to check a winner).",
+    "outline": [
+      "What human bingo is and when to use it",
+      "How to play human bingo, step by step",
+      "25 find-someone-who squares for the classroom",
+      "25 squares for teens",
+      "25 squares for adults and work events",
+      "How to make your own card in 5 minutes",
+      "Variations: 3x3 for little ones, blackout, team version"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "slug": "activities-for-4-year-olds",
+    "title": "Activities for 4 year olds: 25 quiet printable ideas at home",
+    "target_keyword": "activities for 4 year olds",
+    "secondary_keywords": [
+      {
+        "keyword": "counting activities for preschoolers",
+        "volume_us": 1300,
+        "volume_uk": 140,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "fine motor activities for preschoolers",
+        "volume_us": 2900,
+        "volume_uk": 210,
+        "kd": 8,
+        "source": "labs"
+      },
+      {
+        "keyword": "activities for 3 year olds at home",
+        "volume_us": 390,
+        "volume_uk": 140,
+        "kd": 4,
+        "source": "labs"
+      },
+      {
+        "keyword": "pre writing activities for preschoolers",
+        "volume_us": 140,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 2400,
+    "volume_uk": 590,
+    "kd": 6,
+    "intent": "informational",
+    "serp_notes": "US top 5: instagram.com, facebook.com, youtube.com, weekend.com (thin list), busytoddler.com. KD 6 (UK 590/month, KD 1). Very weak for the volume: social posts and one thin list.",
+    "silo": "puzzles/mazes/easy",
+    "pushes": [
+      "/puzzles/mazes/circle-maze-easy/",
+      "/puzzles/dot-to-dot/star-dot-to-dot-easy/",
+      "/puzzles/dot-to-dot/abc-star-dot-to-dot/",
+      "/puzzles/sudoku/4x4-sudoku-for-kids/"
+    ],
+    "needs": [],
+    "article_type": "guide-by-age",
+    "interactive_tool": "Picker: 'what shall we do now?' draws a quiet activity; Checklist: a printable rainy-day kit (crayons, scissors, 5 puzzles)",
+    "angle": "The SERP is social media; we offer a structured list grouped by skill (counting, fine motor, pre-writing, early logic) with the printable for each. Developmental claims are sourced (CDC milestones) and every activity says how long it lasts and how much help is needed.",
+    "outline": [
+      "What 4 year olds enjoy (and how long they focus)",
+      "Counting activities: dot to dot 1 to 10",
+      "Fine motor and pre-writing: mazes with wide paths",
+      "First logic puzzles: 4x4 picture sudoku",
+      "Activities for 3 year olds at home",
+      "Building a quiet-time box",
+      "When to move up a level"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "slug": "is-sudoku-good-for-your-brain",
+    "title": "Is sudoku good for your brain? What the research says",
+    "target_keyword": "is sudoku good for your brain",
+    "secondary_keywords": [
+      {
+        "keyword": "benefits of sudoku",
+        "volume_us": 880,
+        "volume_uk": 260,
+        "kd": 13,
+        "source": "labs"
+      },
+      {
+        "keyword": "sudoku for seniors",
+        "volume_us": 1000,
+        "volume_uk": 70,
+        "kd": 9,
+        "source": "labs"
+      },
+      {
+        "keyword": "benefits of playing sudoku",
+        "volume_us": 260,
+        "volume_uk": 50,
+        "kd": 14,
+        "source": "labs"
+      },
+      {
+        "keyword": "does sudoku improve memory",
+        "volume_us": 20,
+        "volume_uk": 10,
+        "kd": 13,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 1900,
+    "volume_uk": 260,
+    "kd": 5,
+    "intent": "informational",
+    "serp_notes": "US top 5: quora.com x2, exactstaff.com (staffing agency blog), facebook.com, heartresearch.com.au. KD 5-13. UGC and off-topic blogs; no page that cites the studies.",
+    "silo": "puzzles/sudoku",
+    "pushes": [
+      "/puzzles/sudoku/100-easy-sudoku-puzzles/",
+      "/puzzles/sudoku/easy-sudoku/",
+      "/puzzles/sudoku/4x4-sudoku-for-kids/"
+    ],
+    "needs": [],
+    "article_type": "explainer",
+    "interactive_tool": "Quiz (mode score): 5 myths vs facts about sudoku and the brain, with the study behind each answer",
+    "angle": "A sourced answer (studies to open and verify when writing, e.g. the PROTECT online study on number-puzzle use and cognition, Brooker et al. 2019, and reviews of cognitive training) that separates correlation from proof. Honest 'what it does and does not do', plus starter puzzles for seniors and kids.",
+    "outline": [
+      "Short answer: what sudoku does for your brain",
+      "What the studies actually found",
+      "Correlation vs cause: what we cannot say yet",
+      "Benefits of sudoku for seniors",
+      "Sudoku for kids: logic before arithmetic",
+      "How often to play and at what level",
+      "Where to start: easy grids to print"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "slug": "how-to-draw-a-maze",
+    "title": "How to draw a maze: 3 easy methods for kids and adults",
+    "target_keyword": "how to draw a maze",
+    "secondary_keywords": [
+      {
+        "keyword": "how to make a maze",
+        "volume_us": 720,
+        "volume_uk": 70,
+        "kd": 10,
+        "source": "labs"
+      },
+      {
+        "keyword": "how do you make a maze",
+        "volume_us": 720,
+        "volume_uk": null,
+        "kd": null,
+        "source": "google_ads"
+      },
+      {
+        "keyword": "how to make a maze on paper",
+        "volume_us": 90,
+        "volume_uk": 10,
+        "kd": 9,
+        "source": "labs"
+      },
+      {
+        "keyword": "how to draw a maze step by step",
+        "volume_us": 30,
+        "volume_uk": 10,
+        "kd": 1,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 1000,
+    "volume_uk": 140,
+    "kd": 6,
+    "intent": "informational",
+    "serp_notes": "US top 5: reddit.com (BAM method thread), instructables.com, youtube.com x2, howcast.com. KD 6-10. Video and forum results only, no illustrated written guide with grids.",
+    "silo": "puzzles/mazes",
+    "pushes": [
+      "/puzzles/mazes/hard-maze/",
+      "/puzzles/mazes/circular-maze/",
+      "/puzzles/mazes/rocket-maze-easy/"
+    ],
+    "needs": [],
+    "article_type": "how-to",
+    "interactive_tool": "Checklist: the steps of the grid method to tick off while drawing; Timer: swap mazes with a friend and race to solve",
+    "angle": "We generate our own mazes with a perfect-maze algorithm, so we can explain the method behind them in plain steps (path first, then dead ends) and show it with our own diagrams. It pairs with the existing 'how to solve a maze' article and ends with printable mazes as models.",
+    "outline": [
+      "What makes a good maze (one path, no loops)",
+      "Method 1: the grid method, path first",
+      "Method 2: freehand mazes for young children",
+      "Method 3: a circular maze with a compass",
+      "How to make a maze harder or easier",
+      "Test your maze before you hand it over",
+      "Turn it into a game: swap and race"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "slug": "are-word-searches-good-for-your-brain",
+    "title": "Are word searches good for your brain? Benefits by age",
+    "target_keyword": "are word searches good for your brain",
+    "secondary_keywords": [
+      {
+        "keyword": "are word finds good for your brain",
+        "volume_us": 880,
+        "volume_uk": null,
+        "kd": 13,
+        "source": "labs"
+      },
+      {
+        "keyword": "benefits of word search puzzles",
+        "volume_us": 170,
+        "volume_uk": 10,
+        "kd": 3,
+        "source": "labs"
+      },
+      {
+        "keyword": "word search benefits",
+        "volume_us": 110,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "large print word search for seniors",
+        "volume_us": 320,
+        "volume_uk": 30,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 880,
+    "volume_uk": 170,
+    "kd": 13,
+    "intent": "informational",
+    "serp_notes": "US top 5: alzinfo.org (crossword article, off target), quora.com, captel.com (word games, hearing-aid company), facebook.com x2. KD 3-13. Nobody answers the question directly for word searches.",
+    "silo": "puzzles/word-search",
+    "pushes": [
+      "/puzzles/word-search/hard-word-search-for-adults/",
+      "/puzzles/word-search/kindergarten-sight-words-word-search/",
+      "/puzzles/word-search/animal-word-search/"
+    ],
+    "needs": [
+      "Large-print word search for seniors (big grid cells, 16 pt+ letters) to serve 'large print word search for seniors'"
+    ],
+    "article_type": "explainer",
+    "interactive_tool": "Quiz (mode match): 'Which word search suits you?' (reader's age, eyesight, time) with outcomes linking to the kindergarten, animal, hard-for-adults and large-print puzzles",
+    "angle": "A direct, sourced answer instead of forum guesses: what word searches train (visual scanning, spelling recognition, focus) and what they do not, then the benefit by age (early readers, kids, adults, seniors). Each age band links to a matching puzzle.",
+    "outline": [
+      "Short answer: what word searches do for the brain",
+      "Skills a word search trains",
+      "Word searches vs crosswords and sudoku",
+      "Benefits for early readers",
+      "Benefits for adults and seniors",
+      "How to make word searches harder as you improve",
+      "Pick your next word search"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "slug": "early-finisher-activities",
+    "title": "Early finisher activities: 20 no-prep printables by grade",
+    "target_keyword": "early finisher activities",
+    "secondary_keywords": [
+      {
+        "keyword": "early finisher",
+        "volume_us": 720,
+        "volume_uk": null,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "fun friday activities",
+        "volume_us": 1300,
+        "volume_uk": 40,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "brain break ideas",
+        "volume_us": 590,
+        "volume_uk": 90,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 880,
+    "volume_uk": 20,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: muinteoirvalerie.com (Irish teacher blog), facebook.com, forums.atozteacherstuff.com, elementarynest.com, pinterest.com. KD 0. Forums and small teacher blogs, most selling TPT packs.",
+    "silo": "puzzles",
+    "pushes": [
+      "/puzzles/word-search/math-word-search/",
+      "/puzzles/sudoku/6x6-sudoku-for-kids/",
+      "/puzzles/mazes/space-maze/",
+      "/puzzles/dot-to-dot/abc-butterfly-dot-to-dot/"
+    ],
+    "needs": [
+      "/classroom/ hub (planned in docs/09) to gather classroom articles and printables later"
+    ],
+    "article_type": "guide-by-age",
+    "interactive_tool": "Picker: an early-finisher choice board that draws one activity at random for the student",
+    "angle": "Free, no-prep printables sorted by grade band (K-2, 3-5, middle school) with the rule teachers ask for: activities that are quiet, self-checking (answer keys) and finish in 10-15 minutes. Competitors push paid packs.",
+    "outline": [
+      "What makes a good early finisher activity",
+      "Early finisher activities for K-2",
+      "Early finisher activities for grades 3-5",
+      "Early finishers in middle school",
+      "Setting up an early finisher station",
+      "Fun Friday and brain break versions"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "slug": "bingo-prize-ideas",
+    "title": "Bingo prize ideas: 40 cheap prizes for adults, kids and seniors",
+    "target_keyword": "bingo prizes for adults",
+    "secondary_keywords": [
+      {
+        "keyword": "bingo prize ideas",
+        "volume_us": 390,
+        "volume_uk": 110,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "inexpensive bingo prizes for adults",
+        "volume_us": 320,
+        "volume_uk": 90,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "bingo prize ideas for adults",
+        "volume_us": 170,
+        "volume_uk": 40,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "cheap bingo prizes",
+        "volume_us": 140,
+        "volume_uk": 30,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 480,
+    "volume_uk": 110,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: pinterest.com x2, reddit.com (r/Libraries), facebook.com, boogiebingogames.com, quora.com. KD 0. Almost entirely UGC; the only article is about music bingo.",
+    "silo": "bingo",
+    "pushes": [
+      "/bingo/bingo-cards-1-75/",
+      "/bingo/baby-shower-bingo/",
+      "/bingo/classroom-bingo/"
+    ],
+    "needs": [],
+    "article_type": "ideas",
+    "interactive_tool": "Picker: 'prize for this round' picker filtered by audience (adults, kids, seniors, office) and budget",
+    "angle": "Organised by audience and budget (free, under $1, under $5) with non-food and non-plastic options, which the UGC results never structure. Free prizes (privileges, choose the next pattern) make it useful for classrooms and care homes.",
+    "outline": [
+      "How many prizes you need for a bingo game",
+      "Free bingo prizes that people actually want",
+      "Prizes under $1 for kids and classrooms",
+      "Bingo prizes for adults under $5",
+      "Prizes for seniors and care-home bingo",
+      "Prizes for baby showers and office parties",
+      "Wrapping and presenting prizes"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "slug": "new-years-eve-games-for-family",
+    "title": "New Year's Eve games for family: 12 ideas to stay up to midnight",
+    "target_keyword": "new years eve games for family",
+    "secondary_keywords": [
+      {
+        "keyword": "new year games for family",
+        "volume_us": 880,
+        "volume_uk": 170,
+        "kd": 2,
+        "source": "labs"
+      },
+      {
+        "keyword": "family friendly new year's eve activities",
+        "volume_us": 720,
+        "volume_uk": null,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "new years eve ideas for families",
+        "volume_us": 590,
+        "volume_uk": 260,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "family new year's eve activities",
+        "volume_us": 390,
+        "volume_uk": null,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 880,
+    "volume_uk": 170,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: pinterest.com, youtube.com, wikihow.com, shumateheatingandair.com (HVAC company blog), lovetoknow.com. KD 0-2. A heating company ranks in the top 5: very weak SERP.",
+    "silo": "occasions/winter",
+    "pushes": [
+      "/puzzles/word-search/winter-word-search/",
+      "/puzzles/mazes/snowflake-maze/",
+      "/bingo/blank-bingo-card-template/"
+    ],
+    "needs": [
+      "New Year's Eve bingo and New Year word search (none yet)",
+      "/occasions/new-year/ hub once 4 items exist (label already in taxonomy.ts)"
+    ],
+    "article_type": "seasonal",
+    "interactive_tool": "Timer: hourly countdown games (one game per hour until midnight); Picker: random resolution and 'year in review' prompts",
+    "angle": "An hour-by-hour plan (one game per hour, the 'fake midnight' trick for small children) built around printable games. The ranking pages are generic party listicles that do not separate small kids from teens.",
+    "outline": [
+      "An hour-by-hour New Year's Eve plan",
+      "Games for little ones (with a fake midnight)",
+      "Games for tweens and teens",
+      "Whole-family games that need only paper",
+      "Year-in-review and resolution games",
+      "Printables for New Year's Eve"
+    ],
+    "season_deadline": "2026-11-19",
+    "priority": 2
+  },
+  {
+    "slug": "easter-egg-hunt-ideas",
+    "title": "Easter egg hunt ideas: 20 twists for toddlers, teens and adults",
+    "target_keyword": "easter egg hunt ideas",
+    "secondary_keywords": [
+      {
+        "keyword": "adult easter egg hunt ideas",
+        "volume_us": 1600,
+        "volume_uk": 90,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "easter egg hunt games",
+        "volume_us": 1000,
+        "volume_uk": 210,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "easter egg hunt ideas for teens",
+        "volume_us": 590,
+        "volume_uk": 140,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "indoor easter egg hunt ideas",
+        "volume_us": 320,
+        "volume_uk": 170,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 1600,
+    "volume_uk": 1600,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: youtube.com, mentalfloss.com, funkypigeon.com (UK card shop), gathered.how, countryliving.com. KD 0-1, same 1,600/month in the UK. Media listicles, no age-graded plan.",
+    "silo": "occasions/easter",
+    "pushes": [
+      "/scavenger-hunts/easter-scavenger-hunt-clue-cards-best-ideas-for-kids/",
+      "/bingo/easter-bingo/",
+      "/puzzles/mazes/easter-egg-maze/",
+      "/puzzles/dot-to-dot/easter-egg-dot-to-dot/"
+    ],
+    "needs": [],
+    "article_type": "seasonal",
+    "interactive_tool": "Picker: random 'twist' for this year's hunt (colour-coded eggs per child, glow-in-the-dark, puzzle eggs); Checklist: egg hunt prep",
+    "angle": "Ideas sorted by age with the fairness tricks parents need (colour per child, height zones), plus puzzle-based twists that link to our printables. Pairs with the Easter clues article (that one targets clue wording, this one hunt formats).",
+    "outline": [
+      "Making the hunt fair for different ages",
+      "Easter egg hunt ideas for toddlers",
+      "Ideas for kids: themes and puzzle eggs",
+      "Easter egg hunts for teens",
+      "Adult Easter egg hunt ideas",
+      "Indoor Easter egg hunt ideas for rainy days",
+      "Games to play after the hunt"
+    ],
+    "season_deadline": "2027-02-14",
+    "priority": 2
+  },
+  {
+    "slug": "birthday-scavenger-hunt",
+    "title": "Birthday scavenger hunt: ideas, clues and a party-ready plan",
+    "target_keyword": "scavenger hunt birthday party",
+    "secondary_keywords": [
+      {
+        "keyword": "birthday scavenger hunt",
+        "volume_us": 720,
+        "volume_uk": 70,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "birthday scavenger hunt ideas",
+        "volume_us": 480,
+        "volume_uk": 20,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "treasure hunt birthday party",
+        "volume_us": 260,
+        "volume_uk": 40,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "birthday treasure hunt",
+        "volume_us": 90,
+        "volume_uk": 50,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 1600,
+    "volume_uk": 40,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: blog.goosechase.com (app vendor), pinterest.com, youtube.com, quickhunts.com (paid kits), hgtv.com. KD 0. Vendors and video; HGTV is the only editorial page.",
+    "silo": "scavenger-hunts",
+    "pushes": [
+      "/scavenger-hunts/indoor-scavenger-hunt-play-party-plan/",
+      "/scavenger-hunts/nature-scavenger-hunt-play-party-plan/",
+      "/escape-games/escape-team-instant-escape-room-kit/"
+    ],
+    "needs": [
+      "/occasions/birthday/ hub (docs/09) once 4 English items carry the birthday occasion (only a French draft today)"
+    ],
+    "article_type": "ideas",
+    "interactive_tool": "Checklist: party hunt prep (teams, clue order, prizes, finale); Timer: 20-minute team race",
+    "angle": "A party host's plan: hunt format by age and group size (team race, clue trail, escape-style), timings for a 2-hour party and a free printable for each, where the SERP is app vendors and paid kits.",
+    "outline": [
+      "Which birthday hunt fits your party",
+      "Birthday scavenger hunt ideas by age",
+      "Clue trail to the birthday present",
+      "Team race for big groups",
+      "Escape-room style hunt for older kids",
+      "Prizes and finale ideas",
+      "Free printables for the party"
+    ],
+    "season_deadline": null,
+    "priority": 2
+  },
+  {
+    "slug": "indoor-recess-games",
+    "title": "Indoor recess games: 20 ideas that work in a classroom",
+    "target_keyword": "indoor recess games",
+    "secondary_keywords": [
+      {
+        "keyword": "inside recess games",
+        "volume_us": 1600,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "indoor recess ideas",
+        "volume_us": 590,
+        "volume_uk": null,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "indoor recess activities",
+        "volume_us": 320,
+        "volume_uk": 10,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "quick games to play in the classroom",
+        "volume_us": 1600,
+        "volume_uk": 110,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 1600,
+    "volume_uk": 10,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: playworks.org (nonprofit, archive page), mybrightwheel.com, luckylittlelearners.com (teacher blog), pinterest.com, facebook.com. KD 0. US-only term.",
+    "silo": "rules/pen-and-paper",
+    "pushes": [
+      "/rules/dots-and-boxes/",
+      "/rules/hangman/",
+      "/rules/sprouts/",
+      "/bingo/classroom-bingo/"
+    ],
+    "needs": [
+      "/classroom/ hub (docs/09)"
+    ],
+    "article_type": "list",
+    "interactive_tool": "Picker: 'today's indoor recess game' draws a game with its rules link",
+    "angle": "Games that fit a classroom (seated, quiet-ish, no equipment beyond paper), with each pen-and-paper game linked to its rules page and printable. The SERP mixes preschool and active gym games.",
+    "outline": [
+      "What makes a good indoor recess game",
+      "Pen-and-paper games for two",
+      "Whole-class games",
+      "Quiet puzzles for kids who want calm",
+      "Indoor recess for kindergarten",
+      "Setting up an indoor recess bin"
+    ],
+    "season_deadline": null,
+    "priority": 2
+  },
+  {
+    "slug": "diy-escape-room",
+    "title": "DIY escape room: how to make one at home for kids and family",
+    "target_keyword": "diy escape room",
+    "secondary_keywords": [
+      {
+        "keyword": "escape room puzzle ideas",
+        "volume_us": 2400,
+        "volume_uk": 480,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "how to make an escape room",
+        "volume_us": 720,
+        "volume_uk": 70,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "how to make an escape room at home",
+        "volume_us": 210,
+        "volume_uk": 50,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "diy escape room ideas",
+        "volume_us": 390,
+        "volume_uk": 50,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 1000,
+    "volume_uk": 140,
+    "kd": 0,
+    "intent": "informational",
+    "serp_notes": "US top 5: escaperoomgeeks.com (niche blog), lockpaperescape.com (seller), pinterest.com, learninghypothesis.com (teacher blog), fisherhuntz.com. KD 0. Niche blogs and sellers. Note: the other blog agent also checked this SERP; agree on one owner.",
+    "silo": "escape-games",
+    "pushes": [
+      "/escape-games/escape-team-instant-escape-room-kit/",
+      "/escape-games/escape-team-training-mission-and-central-station/",
+      "/escape-games/the-secret-of-langton-manor-episode-1-legacy/"
+    ],
+    "needs": [
+      "Own kids' escape kit (CC, 5 puzzles, ages 7-10) so the article can offer a hosted PDF; /escape-games/kids/ facet needs 4 items"
+    ],
+    "article_type": "how-to",
+    "interactive_tool": "Timer: 45 or 60-minute countdown with a hint reminder every 10 minutes; Checklist: build steps (story, 5 puzzles, lock chain, test run)",
+    "angle": "Family-first: a 5-puzzle chain built from household items and printables (maze, word search, cipher) for ages 7+, with a puzzle-design checklist. Ends with ready free kits for readers who want to skip the build.",
+    "outline": [
+      "How an escape room works: story, puzzles, locks",
+      "Plan the puzzle chain (5 puzzles, one hour)",
+      "15 escape room puzzle ideas using paper",
+      "Locks without locks: envelopes, boxes and codes",
+      "Making it work for kids under 10",
+      "Test run and hints",
+      "Free printable escape rooms if you are short of time"
+    ],
+    "season_deadline": null,
+    "priority": 2
+  },
+  {
+    "slug": "sudoku-strategies",
+    "title": "Sudoku strategies: 9 techniques from beginner to X-wing",
+    "target_keyword": "sudoku strategies",
+    "secondary_keywords": [
+      {
+        "keyword": "sudoku tips",
+        "volume_us": 4400,
+        "volume_uk": 1000,
+        "kd": 10,
+        "source": "labs"
+      },
+      {
+        "keyword": "advanced sudoku tips",
+        "volume_us": 3600,
+        "volume_uk": 720,
+        "kd": 5,
+        "source": "labs"
+      },
+      {
+        "keyword": "sudoku for beginners",
+        "volume_us": 2400,
+        "volume_uk": 880,
+        "kd": 10,
+        "source": "labs"
+      },
+      {
+        "keyword": "how to solve hard sudoku",
+        "volume_us": 1000,
+        "volume_uk": 480,
+        "kd": 14,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 12100,
+    "volume_uk": 720,
+    "kd": 5,
+    "intent": "informational",
+    "serp_notes": "US top 5: youtube.com, pennydellpuzzles.com (PDF), reddit.com (r/sudoku), en.wikipedia.org (algorithms), sudokudragon.com. 'sudoku for beginners' SERP is stronger (sudoku.com, nytimes.com). KD 5-14, high volume (12,100): growth target.",
+    "silo": "puzzles/sudoku",
+    "pushes": [
+      "/puzzles/sudoku/medium-sudoku/",
+      "/puzzles/sudoku/hard-sudoku/",
+      "/puzzles/sudoku/expert-sudoku/",
+      "/puzzles/sudoku/100-hard-sudoku-puzzles/"
+    ],
+    "needs": [],
+    "article_type": "how-to",
+    "interactive_tool": "Quiz (mode score): spot the technique on a mini grid (naked single, hidden pair, X-wing) with explanations",
+    "angle": "Every technique shown on a diagram drawn from our own generated grids, in the order you need them, with the level at which each becomes necessary. Written guide where the SERP is videos, a PDF and a forum.",
+    "outline": [
+      "The one rule and how to scan",
+      "Beginner: naked and hidden singles",
+      "Pencil marks without the mess",
+      "Intermediate: pairs, triples and pointing",
+      "Advanced: X-wing and swordfish",
+      "What to do when you are stuck",
+      "Which level to print next"
+    ],
+    "season_deadline": null,
+    "priority": 3
+  },
+  {
+    "slug": "bingo-calls",
+    "title": "Bingo calls: all 90 nicknames, from Kelly's eye to top of the shop",
+    "target_keyword": "bingo calls",
+    "secondary_keywords": [
+      {
+        "keyword": "bingo lingo",
+        "volume_us": 590,
+        "volume_uk": 6600,
+        "kd": 10,
+        "source": "labs"
+      },
+      {
+        "keyword": "funny bingo calls",
+        "volume_us": 480,
+        "volume_uk": 1300,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "bingo number nicknames",
+        "volume_us": 70,
+        "volume_uk": 1900,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "bingo calls list",
+        "volume_us": 50,
+        "volume_uk": 260,
+        "kd": 0,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 9900,
+    "volume_uk": 9900,
+    "kd": 4,
+    "intent": "informational",
+    "serp_notes": "UK top 5: news.williamhill.com, en.wikipedia.org (list), a hospital charity PDF, livescore.com, reddit.com; then winkbingo, galabingo (casino affiliates). US: reddit, whichbingo.co.uk, pinterest, 7bet, leovegas. KD 0-4 but strong gambling domains: growth target.",
+    "silo": "bingo",
+    "pushes": [
+      "/bingo/bingo-cards-1-75/",
+      "/bingo/blank-bingo-card-template/"
+    ],
+    "needs": [
+      "90-ball bingo tickets printable (UK format, 3x9) since the calls run 1-90",
+      "Printable caller sheet with the 90 calls (own, CC)"
+    ],
+    "article_type": "list",
+    "interactive_tool": "Picker: a 1-90 caller that draws a number and shows its traditional call and the meaning",
+    "angle": "The only non-gambling page: all 90 calls with their origin (sourced from Wikipedia's list and books on bingo), a printable caller sheet and a family-friendly caller tool, for parties, schools and care homes rather than casinos.",
+    "outline": [
+      "What bingo calls are and where they come from",
+      "Bingo calls 1 to 30",
+      "Bingo calls 31 to 60",
+      "Bingo calls 61 to 90",
+      "Funny and modern bingo calls",
+      "How to call bingo at home or in a care home",
+      "Printable caller sheet"
+    ],
+    "season_deadline": null,
+    "priority": 3
+  },
+  {
+    "slug": "how-to-play-bingo",
+    "title": "How to play bingo: rules, calling and winning (75 and 90 ball)",
+    "target_keyword": "how to play bingo",
+    "secondary_keywords": [
+      {
+        "keyword": "how to win bingo",
+        "volume_us": 1900,
+        "volume_uk": 590,
+        "kd": 9,
+        "source": "labs"
+      },
+      {
+        "keyword": "how does bingo work",
+        "volume_us": 880,
+        "volume_uk": 390,
+        "kd": 32,
+        "source": "labs"
+      },
+      {
+        "keyword": "how to call bingo",
+        "volume_us": 110,
+        "volume_uk": 20,
+        "kd": 2,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 8100,
+    "volume_uk": 2400,
+    "kd": 8,
+    "intent": "informational",
+    "serp_notes": "US top 5: iup.edu (one-page instructions), facebook.com, en.wikipedia.org, dltk-kids.com, bingoblitz.com (app). KD 8 (UK 2,400/month, KD 12). Beatable but Wikipedia and big volume: growth target.",
+    "silo": "bingo",
+    "pushes": [
+      "/bingo/bingo-cards-1-75/",
+      "/bingo/blank-bingo-card-template/",
+      "/bingo/classroom-bingo/"
+    ],
+    "needs": [
+      "90-ball bingo tickets printable (UK format) to cover the UK half of the query"
+    ],
+    "article_type": "how-to",
+    "interactive_tool": "Picker: a bingo caller that draws numbers 1-75 without repeats (B-I-N-G-O letter shown); Quiz (score): 4 questions to check you know the rules",
+    "angle": "US 75-ball and UK 90-ball explained side by side with diagrams, the caller's job, and the honest answer to 'how to win' (it is chance; more cards = more chances). Ready cards to print at the end.",
+    "outline": [
+      "Bingo in 30 seconds",
+      "What you need to play at home",
+      "How to play 75-ball bingo (US)",
+      "How to play 90-ball bingo (UK)",
+      "How to call bingo",
+      "How to win bingo: the maths of more cards",
+      "Bingo for kids and classrooms"
+    ],
+    "season_deadline": null,
+    "priority": 3
+  },
+  {
+    "slug": "brain-games-for-seniors",
+    "title": "Brain games for seniors: 12 printable puzzles and how to choose",
+    "target_keyword": "brain games for seniors",
+    "secondary_keywords": [
+      {
+        "keyword": "bingo for seniors",
+        "volume_us": 1300,
+        "volume_uk": null,
+        "kd": 0,
+        "source": "labs"
+      },
+      {
+        "keyword": "puzzles for seniors",
+        "volume_us": 1000,
+        "volume_uk": 50,
+        "kd": 9,
+        "source": "labs"
+      },
+      {
+        "keyword": "bingo games for seniors",
+        "volume_us": 480,
+        "volume_uk": 10,
+        "kd": 5,
+        "source": "labs"
+      },
+      {
+        "keyword": "word search for seniors",
+        "volume_us": 260,
+        "volume_uk": 110,
+        "kd": 3,
+        "source": "labs"
+      }
+    ],
+    "volume_us": 2400,
+    "volume_uk": 70,
+    "kd": 17,
+    "intent": "informational",
+    "serp_notes": "US top results: connect.mayoclinic.org (forum) x2, youtube.com, aplaceformom.com (apps and products), brownhealth.org, care-home blogs, pinterest. 'puzzles for seniors' SERP has AARP and product pages (Amazon, alzstore). KD 9-17: growth target.",
+    "silo": "puzzles",
+    "pushes": [
+      "/puzzles/sudoku/100-easy-sudoku-puzzles/",
+      "/puzzles/word-search/hard-word-search-for-adults/",
+      "/bingo/bingo-cards-1-75/",
+      "/puzzles/dot-to-dot/flower-dot-to-dot-hard/"
+    ],
+    "needs": [
+      "Large-print word search and large-print bingo cards for seniors and low-vision players"
+    ],
+    "article_type": "guide-by-age",
+    "interactive_tool": "Quiz (mode match): 'Which puzzle suits this person?' (eyesight, hand control, memory, solo or group) with outcomes linking to sudoku, word search, bingo and dot to dot",
+    "angle": "Printable, screen-free games chosen by ability (eyesight, dexterity, memory) for families and activity coordinators, with honest sourced notes on what 'brain games' can and cannot do. Product-heavy SERPs leave room for a free, practical guide.",
+    "outline": [
+      "What brain games can and cannot do (the evidence)",
+      "How to choose: eyesight, hands, memory, group size",
+      "Word searches and large print",
+      "Sudoku and number puzzles",
+      "Bingo for seniors and care homes",
+      "Gentle puzzles for people living with dementia",
+      "A weekly puzzle routine"
+    ],
+    "season_deadline": null,
+    "priority": 3
+  }
+]

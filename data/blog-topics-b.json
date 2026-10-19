@@ -1,0 +1,1508 @@
+[
+  {
+    "rank": 1,
+    "slug": "card-games-for-3-people",
+    "title": "Card games for 3 people: 10 games that really work with three",
+    "target_keyword": "card games for 3 people",
+    "secondary_keywords": [
+      {
+        "keyword": "3 player card games",
+        "volume_us": 5400,
+        "volume_uk": 880,
+        "kd": 0
+      },
+      {
+        "keyword": "card games for 3 players",
+        "volume_us": 5400,
+        "volume_uk": 1000,
+        "kd": 0
+      },
+      {
+        "keyword": "3 player hearts",
+        "volume_us": 390,
+        "volume_uk": 20,
+        "kd": 11
+      },
+      {
+        "keyword": "3 player cribbage",
+        "volume_us": 260,
+        "volume_uk": 30,
+        "kd": 0
+      },
+      {
+        "keyword": "3 player spades",
+        "volume_us": 210,
+        "volume_uk": 10,
+        "kd": 0
+      }
+    ],
+    "volume_us": 9900,
+    "volume_uk": 1000,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 21560,
+    "peak_month_us": {
+      "month": "2026-06",
+      "volume": 14800
+    },
+    "serp_notes": "Top 5: boardgamegeek.com (2 forum threads), gamerules.com (list), betus.com.pa (casino site), reddit.com; Pinterest next. Mostly forum threads and a gambling site; only one real list, with no per-game adjustments for three players.",
+    "silo": "rules/card-games",
+    "pushes": [
+      "/rules/hearts/",
+      "/rules/cribbage/",
+      "/rules/president/",
+      "/rules/golf/"
+    ],
+    "needs": [
+      "Rules page: Oh Hell / Up and Down the River (3 to 7 players, a classic 3-player trick-taker): measure volume first"
+    ],
+    "article_type": "list",
+    "interactive_tool": "Quiz mode=\"match\": 'Which 3-player game tonight?' (time available, luck vs skill, one or two decks); each outcome links to a rules page. ScoreKeeper players=3 lower down.",
+    "angle": "Competitors list names; most card games are designed for 2 or 4, so the useful information is what changes with three. For each game we state the exact three-player adjustment (Hearts: remove one 2 and deal 17 each; Cribbage: 5 cards each plus one to the crib; Spades: 17 cards each, every player for themselves), as our rules pages already document, the duration and a link to the full rules with a score sheet. Search volume peaks in summer and December (holiday visits).",
+    "outline": [
+      "Why many card games break at three, and how to fix it",
+      "The 10 games at a glance (table: time, skill, deck)",
+      "Trick-taking for three: Hearts, cut-throat Spades, Oh Hell",
+      "Three-handed Cribbage",
+      "Climbing and shedding: President, Crazy Eights",
+      "Rummy and Golf for three",
+      "Which one should you play? (quiz)"
+    ],
+    "season_deadline": "2026-12-01",
+    "priority": 1
+  },
+  {
+    "rank": 2,
+    "slug": "how-many-cards-in-a-deck",
+    "title": "How many cards are in a deck? 52, jokers, and other game decks",
+    "target_keyword": "how many cards in a deck",
+    "secondary_keywords": [
+      {
+        "keyword": "how many cards in a uno deck",
+        "volume_us": 9900,
+        "volume_uk": null,
+        "kd": 14
+      },
+      {
+        "keyword": "how many cards in a deck with jokers",
+        "volume_us": 3600,
+        "volume_uk": 590,
+        "kd": 5
+      },
+      {
+        "keyword": "card games that use jokers",
+        "volume_us": 1000,
+        "volume_uk": 260,
+        "kd": 7
+      },
+      {
+        "keyword": "why are there 52 cards in a deck",
+        "volume_us": 390,
+        "volume_uk": 70,
+        "kd": 0
+      }
+    ],
+    "volume_us": 49500,
+    "volume_uk": 8100,
+    "kd": 10,
+    "intent": "informational",
+    "cluster_volume_us": 64390,
+    "peak_month_us": {
+      "month": "2025-11",
+      "volume": 60500
+    },
+    "serp_notes": "Top 5: facebook.com (post), reddit.com, geeksforgeeks.org, facebook.com, boardgamegeek.com wiki; playiro.com next. No AI overview and no featured snippet at the time of the check (People Also Ask only). Very weak for a 49,500/month query.",
+    "silo": "card-games",
+    "pushes": [
+      "/card-games/printable-playing-card-deck/",
+      "/rules/uno/",
+      "/rules/canasta/",
+      "/rules/euchre/"
+    ],
+    "needs": [],
+    "article_type": "explainer",
+    "interactive_tool": "Quiz mode=\"score\": 'Know your deck' (how many face cards, red cards, kings…), answering the long tail seen in Google Ads ideas: face cards 6,600, hearts 5,400, spades 4,400, kings 2,900 a month.",
+    "angle": "Nobody answers the main question and its 20 sub-questions on one page. A single table gives the count of every suit, colour, rank and face card, then the decks of other games (Uno, Euchre, Pinochle, Canasta, Skip-Bo, Phase 10: counts to be checked on the publishers' rules). Readers with a missing card can print our free 52-card deck with two jokers.",
+    "outline": [
+      "How many cards are in a standard deck?",
+      "How many of each: suits, colours, face cards, aces (table)",
+      "Jokers: how many, and which games use them",
+      "Why 52 cards? A short history",
+      "How many cards are in an Uno deck and other game decks?",
+      "Test your deck knowledge (quiz)",
+      "Missing a card? Print a replacement deck"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "rank": 3,
+    "slug": "how-to-win-tic-tac-toe",
+    "title": "How to win tic-tac-toe: the moves that never lose",
+    "target_keyword": "how to win tic tac toe",
+    "secondary_keywords": [
+      {
+        "keyword": "tic tac toe strategy",
+        "volume_us": 2400,
+        "volume_uk": 140,
+        "kd": 1
+      },
+      {
+        "keyword": "tic tac toe tricks",
+        "volume_us": 590,
+        "volume_uk": 40,
+        "kd": 0
+      },
+      {
+        "keyword": "how to never lose tic tac toe",
+        "volume_us": 140,
+        "volume_uk": 30,
+        "kd": 0
+      }
+    ],
+    "volume_us": 8100,
+    "volume_uk": 1300,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 11230,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 9900
+    },
+    "serp_notes": "Top 5: reddit.com (r/howto thread), instructables.com, facebook.com (video), quora.com, a Monash University PDF; then a Medium post. Only forums, a video and a lecture PDF: no clear written guide with diagrams. AI overview and videos above, but the organic block is weak.",
+    "silo": "rules/pen-and-paper",
+    "pushes": [
+      "/rules/tic-tac-toe/",
+      "/rules/sim/",
+      "/rules/dots-and-boxes/"
+    ],
+    "needs": [],
+    "article_type": "strategy",
+    "interactive_tool": "Quiz mode=\"score\": 6 board positions, 'where should X play?', each answer explained (win, block, fork, block the fork).",
+    "angle": "The ranking pages are a Reddit thread, a 5-step Instructables and a lecture PDF. We give the complete priority list (win, block, fork, block fork, centre, opposite corner, corner, side) with grid diagrams, the corner trap for the first player and the safe replies for the second, then a quiz to practise. Once the reader can force a draw, we send them to harder pencil games (Sim, dots and boxes) that have rules pages.",
+    "outline": [
+      "Can you always win tic-tac-toe?",
+      "The priority list: what to play on every move",
+      "How to win when you go first: the corner trap",
+      "How never to lose when you go second",
+      "Tic-tac-toe tricks that beat beginners",
+      "Test yourself: 6 positions",
+      "When tic-tac-toe gets too easy: Sim, dots and boxes"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "rank": 4,
+    "slug": "types-of-solitaire",
+    "title": "Types of solitaire: 12 solo card games to play with one deck",
+    "target_keyword": "types of solitaire",
+    "secondary_keywords": [
+      {
+        "keyword": "solo card games",
+        "volume_us": 4400,
+        "volume_uk": 1000,
+        "kd": 0
+      },
+      {
+        "keyword": "best solo card game",
+        "volume_us": 590,
+        "volume_uk": 140,
+        "kd": 0
+      },
+      {
+        "keyword": "games like solitaire",
+        "volume_us": 590,
+        "volume_uk": 90,
+        "kd": 15
+      },
+      {
+        "keyword": "solitaire variations",
+        "volume_us": 390,
+        "volume_uk": 20,
+        "kd": 0
+      }
+    ],
+    "volume_us": 1300,
+    "volume_uk": 110,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 7270,
+    "peak_month_us": {
+      "month": "2026-01",
+      "volume": 1600
+    },
+    "serp_notes": "Top 5: 247solitaire.com (×2, online play site), reddit.com, pinterest.com, quora.com; cardanoir.com next. Online-game sites push their own web apps; nothing shows layouts, odds and table play together.",
+    "silo": "board-games/solo",
+    "pushes": [
+      "/rules/klondike-solitaire/",
+      "/card-games/orchard-9-card-solitaire/",
+      "/card-games/mini-rogue-print-and-play/",
+      "/card-games/bismarck-s-dance/"
+    ],
+    "needs": [
+      "Rules pages: Spider Solitaire, FreeCell, Pyramid Solitaire, Golf Solitaire (volumes to measure; the article can launch with Klondike only)"
+    ],
+    "article_type": "list",
+    "interactive_tool": "Quiz mode=\"match\": 'Which solitaire should you try?' (luck vs skill, time, space on the table); outcomes link to rules pages and to free print-and-play solo games.",
+    "angle": "Ranking pages are written to send players to an online app. We describe each patience game for a real deck (layout sketch, goal, how often it can be won, time), then add the free print-and-play solo card games from our catalogue that a solitaire fan will enjoy next. 'Solo card games' (4,400 a month, KD 0) gives the article a second large keyword.",
+    "outline": [
+      "What counts as solitaire (patience)?",
+      "Classic one-deck games: Klondike, Spider, FreeCell, Pyramid, Golf, Clock",
+      "Which solitaires can be won most often?",
+      "Two-deck and harder solitaires",
+      "Modern solo card games you can print free",
+      "Which one should you play? (quiz)"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "rank": 5,
+    "slug": "how-to-win-at-checkers",
+    "title": "How to win at checkers: 9 strategies from first game to expert",
+    "target_keyword": "how to win at checkers",
+    "secondary_keywords": [
+      {
+        "keyword": "checkers strategy",
+        "volume_us": 1300,
+        "volume_uk": 140,
+        "kd": 0
+      },
+      {
+        "keyword": "is checkers solved",
+        "volume_us": 880,
+        "volume_uk": 90,
+        "kd": 12
+      },
+      {
+        "keyword": "best checkers strategy",
+        "volume_us": 390,
+        "volume_uk": 40,
+        "kd": 0
+      }
+    ],
+    "volume_us": 3600,
+    "volume_uk": 260,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 6170,
+    "peak_month_us": {
+      "month": "2025-11",
+      "volume": 3600
+    },
+    "serp_notes": "Top 5: reddit.com, thesprucecrafts.com, fitandfunplayscapes.com (playground maker, rules page), youtube.com, bobnewell.net (old personal site); 247checkers.com next. Weak: one craft magazine, the rest forums, videos and old pages.",
+    "silo": "rules/board-games",
+    "pushes": [
+      "/rules/checkers/",
+      "/board-games/printable-checkerboard/"
+    ],
+    "needs": [],
+    "article_type": "strategy",
+    "interactive_tool": "Quiz mode=\"score\": 5 diagrammed positions (forced capture trap, back-row defence, trade when ahead), with explanations.",
+    "angle": "The Spruce Crafts piece is short and generic; the rest are forums and videos. We explain each principle with a diagram drawn on our printable board, cover the forced-capture rule as a weapon (two-for-one shots), and answer 'is checkers solved?' (Chinook, 2007: perfect play is a draw; to be sourced) in plain words.",
+    "outline": [
+      "Is checkers solved, and what does it mean for you?",
+      "Control the centre",
+      "Keep your back row (and when to let it go)",
+      "Trade pieces when you are ahead",
+      "Use forced captures to set traps",
+      "Crown a king and use it",
+      "Endgames: two kings against one",
+      "Practise on a printed board"
+    ],
+    "season_deadline": "2026-12-01",
+    "priority": 1
+  },
+  {
+    "rank": 6,
+    "slug": "can-you-stack-in-uno",
+    "title": "Can you stack in Uno? Draw 2, Draw 4 and other house rules settled",
+    "target_keyword": "can you stack in uno",
+    "secondary_keywords": [
+      {
+        "keyword": "uno rules stacking",
+        "volume_us": 2400,
+        "volume_uk": 260,
+        "kd": 5
+      },
+      {
+        "keyword": "stacking in uno",
+        "volume_us": 1600,
+        "volume_uk": 110,
+        "kd": 5
+      },
+      {
+        "keyword": "can you stack draw 4 in uno",
+        "volume_us": 880,
+        "volume_uk": 20,
+        "kd": 3
+      },
+      {
+        "keyword": "can you end uno on a wild card",
+        "volume_us": 880,
+        "volume_uk": 260,
+        "kd": 6
+      },
+      {
+        "keyword": "uno house rules",
+        "volume_us": 1000,
+        "volume_uk": 170,
+        "kd": 0
+      }
+    ],
+    "volume_us": 1600,
+    "volume_uk": 140,
+    "kd": 3,
+    "intent": "informational",
+    "cluster_volume_us": 8360,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 2400
+    },
+    "serp_notes": "Top 5: letsplayuno.com (mobile game), reddit.com, unorules.com, youtube.com, instagram.com; facebook.com next. Social posts and one fan rules site; a single clear page with the official text and the house-rule options does not exist.",
+    "silo": "rules/card-games",
+    "pushes": [
+      "/rules/uno/",
+      "/rules/crazy-eights/"
+    ],
+    "needs": [],
+    "article_type": "explainer",
+    "interactive_tool": "Quiz mode=\"score\": 'Official rule or house rule?' (8 statements: stacking, ending on a wild, 7-0, jump-in, draw until you can play…), each with the official answer.",
+    "angle": "Our rules page states in one line that stacking is not official; this article settles the ten rules families argue about, quoting the official instructions and Mattel's public answers (to be sourced), and shows how to agree on house rules before the first card. Different intent from 'uno rules', so it feeds the rules page instead of competing with it.",
+    "outline": [
+      "Can you stack Draw 2 cards in Uno?",
+      "Can you stack a Draw 4 on a Draw 2, or the other way round?",
+      "Can you end Uno on a wild or an action card?",
+      "When can you play a Wild Draw 4? (the challenge rule)",
+      "Popular house rules: 7-0, jump-in, draw until you can play",
+      "How to agree on house rules before you play",
+      "Official rule or house rule? (quiz)"
+    ],
+    "season_deadline": "2026-11-30",
+    "priority": 1
+  },
+  {
+    "rank": 7,
+    "slug": "how-to-make-a-paper-dice",
+    "title": "How to make a paper dice: free templates and 3 folding methods",
+    "target_keyword": "how to make a paper dice",
+    "secondary_keywords": [
+      {
+        "keyword": "how to make a dice out of paper",
+        "volume_us": 1000,
+        "volume_uk": 170,
+        "kd": 0
+      },
+      {
+        "keyword": "how to make dice",
+        "volume_us": 1300,
+        "volume_uk": 320,
+        "kd": 0
+      },
+      {
+        "keyword": "dice template",
+        "volume_us": 880,
+        "volume_uk": 480,
+        "kd": 0
+      },
+      {
+        "keyword": "paper dice",
+        "volume_us": 720,
+        "volume_uk": 90,
+        "kd": 0
+      }
+    ],
+    "volume_us": 1300,
+    "volume_uk": 210,
+    "kd": 1,
+    "intent": "informational",
+    "cluster_volume_us": 5200,
+    "peak_month_us": {
+      "month": "2026-05",
+      "volume": 3600
+    },
+    "serp_notes": "Top 5: tiktok.com, youtube.com, tiktok.com, youtube.com (×2); youtube.com again next. Video-only SERP: a written page with a printable template has room, and image results appear.",
+    "silo": "dice-games",
+    "pushes": [
+      "/dice-games/printable-shut-the-box-game/",
+      "/dice-games/goblin-teeth/",
+      "/rules/pig/"
+    ],
+    "needs": [
+      "Printable page: paper dice templates (d6 with pips, d6 with numbers, blank d6, d4, d8, d12, d20 nets), our own drawings"
+    ],
+    "article_type": "how-to",
+    "interactive_tool": "DiceRoller dice=2 sides=6: 'no dice and no time to fold? roll here', plus links to games that need one or two dice.",
+    "angle": "Every result is a video. We offer the template the videos lack (printable nets drawn in-house), written steps with photos, card stock and glue-tab tips so the cube rolls fairly, and games to play with it. Angle: replacing lost dice for game night, not a preschool craft (that audience belongs to the kids' activities plan).",
+    "outline": [
+      "What you need",
+      "Print the template: d6 and other dice",
+      "How to cut, score and fold a cube",
+      "Glue or no glue: the origami dice",
+      "Make it sturdy and fair",
+      "Dice games to play with your paper dice",
+      "No time to fold? Roll online"
+    ],
+    "season_deadline": "2027-04-15",
+    "priority": 1
+  },
+  {
+    "rank": 8,
+    "slug": "mancala-strategy",
+    "title": "Mancala strategy: 7 tips to win at mancala (Kalah rules)",
+    "target_keyword": "mancala strategy",
+    "secondary_keywords": [
+      {
+        "keyword": "how to win at mancala",
+        "volume_us": 1900,
+        "volume_uk": null,
+        "kd": 10
+      },
+      {
+        "keyword": "best mancala strategy",
+        "volume_us": 320,
+        "volume_uk": 10,
+        "kd": 0
+      }
+    ],
+    "volume_us": 1600,
+    "volume_uk": 90,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 3820,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 2400
+    },
+    "serp_notes": "Top 5: thesprucecrafts.com, reddit.com, coolmathgames.com, carry1st.com, lovetoknow.com; a spam page on a Harley-Davidson subdomain next. Short generic tips, no diagrams of real positions.",
+    "silo": "rules/board-games",
+    "pushes": [
+      "/rules/mancala/",
+      "/board-games/printable-mancala-board/"
+    ],
+    "needs": [],
+    "article_type": "strategy",
+    "interactive_tool": "Quiz mode=\"score\": 5 board states drawn on our printable board ('which pit gives an extra turn or a capture?').",
+    "angle": "The ranking pages repeat 'plan ahead' without showing positions. We teach the one calculation that matters (seeds in a pit vs distance to the store), chained extra turns, captures and late-game hoarding, all on diagrams of the board readers can print, and note the published analysis of Kalah (first-player advantage; to be sourced).",
+    "outline": [
+      "How a mancala turn really works: count to your store",
+      "Opening moves that give a free turn",
+      "Chain extra turns",
+      "Captures: when to empty a pit, when to defend",
+      "Hoard seeds on your side late in the game",
+      "Playing second: how to catch up",
+      "Test yourself: 5 positions"
+    ],
+    "season_deadline": "2026-12-01",
+    "priority": 1
+  },
+  {
+    "rank": 9,
+    "slug": "card-games-for-seniors",
+    "title": "Card games for seniors: 10 easy, social games to play anywhere",
+    "target_keyword": "card games for seniors",
+    "secondary_keywords": [
+      {
+        "keyword": "board games for seniors",
+        "volume_us": 1600,
+        "volume_uk": 140,
+        "kd": 0
+      },
+      {
+        "keyword": "large print playing cards",
+        "volume_us": 480,
+        "volume_uk": 90,
+        "kd": 0
+      },
+      {
+        "keyword": "card games for elderly",
+        "volume_us": 140,
+        "volume_uk": 10,
+        "kd": 0
+      },
+      {
+        "keyword": "easy card games for seniors",
+        "volume_us": 110,
+        "volume_uk": 10,
+        "kd": 0
+      }
+    ],
+    "volume_us": 1000,
+    "volume_uk": 30,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 3330,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 1600
+    },
+    "serp_notes": "Top 5: delaneyatthevale.com (retirement home blog), swflretirement.com, facebook.com, aplaceformom.com, edenvistastow.com; 247freecell.com next. Senior-living marketing pages listing names without rules.",
+    "silo": "rules/card-games",
+    "pushes": [
+      "/rules/rummy/",
+      "/rules/canasta/",
+      "/rules/cribbage/",
+      "/card-games/printable-playing-card-deck/"
+    ],
+    "needs": [
+      "Game page: large-print playing card deck (own design, free to print); 'large print playing cards' 480 US and 'large print poker cards' 480 in keywords-master.csv"
+    ],
+    "article_type": "list",
+    "interactive_tool": "Quiz mode=\"match\": 'Which game for your group?' (number of players, memory load, hand dexterity); outcomes link to rules pages with score sheets.",
+    "angle": "Ranking pages are written by retirement homes and stop at a name and a line. For each game we say why it suits older players (no reflexes, low memory load, social), how to adapt it (card holders, large print, open hands), and link the full rules with a printable score sheet. Board games for seniors (1,600) is covered in one section that links classic boards.",
+    "outline": [
+      "What makes a card game senior-friendly?",
+      "10 card games, from easy to Canasta",
+      "Card games for players with memory loss",
+      "Two-player games for couples and visits",
+      "Large print cards, card holders and other adaptations",
+      "Board games for seniors too",
+      "Which game fits your group? (quiz)"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "rank": 10,
+    "slug": "diy-escape-room",
+    "title": "DIY escape room: how to make an escape room at home in 7 steps",
+    "target_keyword": "diy escape room",
+    "secondary_keywords": [
+      {
+        "keyword": "make your own escape room ideas",
+        "volume_us": 1000,
+        "volume_uk": 10,
+        "kd": 0
+      },
+      {
+        "keyword": "how to make an escape room",
+        "volume_us": 720,
+        "volume_uk": 70,
+        "kd": 0
+      },
+      {
+        "keyword": "diy escape room puzzles",
+        "volume_us": 390,
+        "volume_uk": 30,
+        "kd": 0
+      },
+      {
+        "keyword": "how to make an escape room at home",
+        "volume_us": 210,
+        "volume_uk": 50,
+        "kd": 0
+      }
+    ],
+    "volume_us": 1000,
+    "volume_uk": 140,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 3320,
+    "peak_month_us": {
+      "month": "2025-10",
+      "volume": 1300
+    },
+    "serp_notes": "Top 5: youtube.com, reddoorescape.com (venue blog), mysterylocks.com (lock seller), epic-escapes.games, reddit.com; mysterylocks.com again next. Vendors and venues; no step-by-step guide built on paper puzzles.",
+    "silo": "escape-games",
+    "pushes": [
+      "/escape-games/escape-team-instant-escape-room-kit/",
+      "/escape-games/the-secret-of-langton-manor-episode-1-legacy/",
+      "/escape-games/unlock-demo-the-temple-of-ra/"
+    ],
+    "needs": [],
+    "article_type": "how-to",
+    "interactive_tool": "Checklist: build-and-run checklist (story, puzzle chain, locks without padlocks, hint cards, test run, reset), kept in the reader's browser; Timer seconds=3600 to run the game clock.",
+    "angle": "Lock sellers want you to buy padlocks; our guide builds an adult or teen escape room from paper only (ciphers, hidden codes, jigsaw clues), with a puzzle-flow diagram, a timing plan, and free ready-made kits for readers who prefer to skip design. The secondary keywords add another 2,300 searches with KD 0.",
+    "outline": [
+      "How long does it take to make a DIY escape room?",
+      "Step 1: choose a story and a goal",
+      "Step 2: map the puzzle chain (linear or parallel)",
+      "Step 3: puzzles that need only paper",
+      "Step 4: locks without padlocks",
+      "Step 5: hints and the game master",
+      "Step 6: test run and timing",
+      "Short on time? Free printable escape games"
+    ],
+    "season_deadline": "2026-12-10",
+    "priority": 1
+  },
+  {
+    "rank": 11,
+    "slug": "chess-vs-checkers",
+    "title": "Chess vs checkers: which is harder, older and better for you?",
+    "target_keyword": "chess vs checkers",
+    "secondary_keywords": [
+      {
+        "keyword": "chess or checkers",
+        "volume_us": 1300,
+        "volume_uk": 140,
+        "kd": 0
+      }
+    ],
+    "volume_us": 1900,
+    "volume_uk": 140,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 3200,
+    "peak_month_us": {
+      "month": "2026-01",
+      "volume": 1900
+    },
+    "serp_notes": "Top 5: chessandcheckers.io (play site), reddit.com, youtube.com (variant video), quora.com (about the idiom), youtube.com; chess.com forum next. No comparison article at all.",
+    "silo": "board-games/2-player",
+    "pushes": [
+      "/board-games/printable-chess-board/",
+      "/board-games/printable-checkerboard/",
+      "/rules/chess/",
+      "/rules/checkers/"
+    ],
+    "needs": [],
+    "article_type": "comparison",
+    "interactive_tool": "Quiz mode=\"match\": 'Chess or checkers?' (age, time per game, appetite for theory); outcomes link to each rules page and printable board.",
+    "angle": "The SERP has no comparison page, only forums and videos. A side-by-side table (board, pieces, average game length, solved status, age to learn, origins) and a recommender answer the query; the same 8×8 printable board works for both games, which turns readers into downloads.",
+    "outline": [
+      "Chess vs checkers at a glance (table)",
+      "Same board, very different games",
+      "Which is harder? Complexity and the solved-game question",
+      "Which is older?",
+      "Which is better for kids and beginners?",
+      "One printable board for both games",
+      "Chess or checkers? Take the quiz"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "rank": 12,
+    "slug": "family-game-night-ideas",
+    "title": "Family game night ideas: 15 free games and themes to print tonight",
+    "target_keyword": "family game night ideas",
+    "secondary_keywords": [
+      {
+        "keyword": "family game night games",
+        "volume_us": 1900,
+        "volume_uk": 140,
+        "kd": 0
+      },
+      {
+        "keyword": "game night ideas",
+        "volume_us": 1300,
+        "volume_uk": 480,
+        "kd": 11
+      },
+      {
+        "keyword": "card games for family game night",
+        "volume_us": 170,
+        "volume_uk": 10,
+        "kd": 5
+      }
+    ],
+    "volume_us": 1300,
+    "volume_uk": 140,
+    "kd": 3,
+    "intent": "informational",
+    "cluster_volume_us": 4670,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 2900
+    },
+    "serp_notes": "Top 5: pinterest.com, tanglewoodhideaway.com (holiday cabin blog), neworleansmom.com, wikihow.com, forums.welltrainedmind.com; a home blog next. No AI overview; lifestyle blogs that recommend buying games.",
+    "silo": "party-games",
+    "pushes": [
+      "/party-games/dixit-print-and-play/",
+      "/card-games/spot-it-dobble-print-and-play-demo/",
+      "/card-games/timeline-classic-print-and-play-demo/",
+      "/party-games/printable-heads-bodies-and-legs-game/"
+    ],
+    "needs": [],
+    "article_type": "list",
+    "interactive_tool": "Picker: 'which game tonight?' spins among the 15 ideas (filtered by age and duration in the text); Timer for timed rounds.",
+    "angle": "Every idea on this list can be printed free tonight, sorted by ages and length, with practical hosting tips (rotation, snacks, house rules). Search volume triples between September and December (family game night games: 9,900 in November 2024), so the article must be live before Thanksgiving.",
+    "outline": [
+      "How to plan a family game night in 15 minutes",
+      "Games for mixed ages, 4 to 94",
+      "Quick games for school nights (under 20 minutes)",
+      "Drawing and party games",
+      "Classic board games with printable boards",
+      "Theme nights",
+      "Can't decide? Spin the game picker"
+    ],
+    "season_deadline": "2026-11-10",
+    "priority": 1
+  },
+  {
+    "rank": 13,
+    "slug": "2-player-spades",
+    "title": "2 player spades: 3 ways to play spades with two people",
+    "target_keyword": "2 player spades",
+    "secondary_keywords": [
+      {
+        "keyword": "spades for 2",
+        "volume_us": 390,
+        "volume_uk": 10,
+        "kd": 0
+      },
+      {
+        "keyword": "spades card game 2 player",
+        "volume_us": 210,
+        "volume_uk": null,
+        "kd": 0
+      },
+      {
+        "keyword": "2 player hearts",
+        "volume_us": 260,
+        "volume_uk": 20,
+        "kd": 7
+      }
+    ],
+    "volume_us": 1900,
+    "volume_uk": 20,
+    "kd": 1,
+    "intent": "transactional",
+    "cluster_volume_us": 2760,
+    "peak_month_us": {
+      "month": "2026-01",
+      "volume": 2900
+    },
+    "serp_notes": "Top 5: reddit.com, apps.apple.com (app), thesprucecrafts.com, 247spades.com (online game blog), bicyclecards.com; dkmgames.com next. One craft magazine article, an app and forums: beatable with a complete guide.",
+    "silo": "rules/card-games",
+    "pushes": [
+      "/rules/spades/",
+      "/rules/hearts/"
+    ],
+    "needs": [],
+    "article_type": "guide",
+    "interactive_tool": "ScoreKeeper players=2: bids, tricks taken and bags, to 500 points.",
+    "angle": "Our rules page covers two-player Spades in one paragraph (draw and discard); a variant query deserves a full article. We present the established two-hand methods documented on pagat.com (to be checked), the scoring adjustments for two, heads-up bidding tips, and the same approach for two-player Hearts.",
+    "outline": [
+      "Can you play spades with 2 people?",
+      "Method 1: draw and discard (the classic deal)",
+      "Method 2: playing with dummy hands",
+      "Method 3: other two-hand variants",
+      "Scoring for two: bids, bags and 500 points",
+      "Bidding tips for heads-up spades",
+      "Bonus: how to play hearts with two"
+    ],
+    "season_deadline": "2026-12-15",
+    "priority": 1
+  },
+  {
+    "rank": 14,
+    "slug": "how-to-win-connect-4",
+    "title": "How to win Connect 4: strategy, traps and the solved-game secret",
+    "target_keyword": "how to win connect 4",
+    "secondary_keywords": [
+      {
+        "keyword": "connect 4 strategy",
+        "volume_us": 3600,
+        "volume_uk": 390,
+        "kd": 9
+      },
+      {
+        "keyword": "how to win connect four",
+        "volume_us": 3600,
+        "volume_uk": null,
+        "kd": 5
+      },
+      {
+        "keyword": "how to always win connect 4",
+        "volume_us": 1300,
+        "volume_uk": 320,
+        "kd": 0
+      },
+      {
+        "keyword": "is connect 4 solved",
+        "volume_us": 480,
+        "volume_uk": 90,
+        "kd": 8
+      }
+    ],
+    "volume_us": 3600,
+    "volume_uk": 720,
+    "kd": 14,
+    "intent": "informational",
+    "cluster_volume_us": 12580,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 4400
+    },
+    "serp_notes": "Top 5: instagram.com, reddit.com, papergames.io (online game guide), boardgames.stackexchange.com, quora.com; a small science blog next. Social posts and Q&A threads; one advanced guide on a game site.",
+    "silo": "rules/board-games",
+    "pushes": [
+      "/rules/connect-four/",
+      "/rules/tic-tac-toe/",
+      "/rules/reversi/"
+    ],
+    "needs": [
+      "Printable page: blank 7×6 'four in a row' grid (generic name, Connect Four is a trademark) to play with two colours of pens or counters"
+    ],
+    "article_type": "strategy",
+    "interactive_tool": "Quiz mode=\"score\": 5 positions (block the threat, build the '7' trap, odd/even threat rule).",
+    "angle": "Four keywords of 3,600 searches each share one intent and the SERP has no complete guide. We explain the solved result (first player wins starting in the centre column; Allen and Allis, 1988, to be sourced), the odd/even threat rule, the 7 trap and how to defend as the second player, with diagrams. A printable grid would let readers practise on paper.",
+    "outline": [
+      "Is Connect 4 solved? Yes, and the first player wins",
+      "Start in the middle column",
+      "Build threats on the right row: the odd and even rule",
+      "The 7 trap and other double threats",
+      "How to defend when you go second",
+      "Common mistakes",
+      "Practise on paper"
+    ],
+    "season_deadline": "2026-12-01",
+    "priority": 1
+  },
+  {
+    "rank": 15,
+    "slug": "yahtzee-strategy",
+    "title": "Yahtzee strategy: the real odds and 8 tips for a higher score",
+    "target_keyword": "yahtzee strategy",
+    "secondary_keywords": [
+      {
+        "keyword": "yahtzee odds",
+        "volume_us": 390,
+        "volume_uk": 50,
+        "kd": 6
+      },
+      {
+        "keyword": "probability of yahtzee",
+        "volume_us": 390,
+        "volume_uk": null,
+        "kd": 0
+      },
+      {
+        "keyword": "yahtzee probability",
+        "volume_us": 320,
+        "volume_uk": 50,
+        "kd": 0
+      },
+      {
+        "keyword": "how to win at yahtzee",
+        "volume_us": 260,
+        "volume_uk": 20,
+        "kd": 0
+      }
+    ],
+    "volume_us": 480,
+    "volume_uk": 140,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 1840,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 880
+    },
+    "serp_notes": "Top 5: reddit.com (r/Yahtzee), scribd.com, youtube.com, boardgames.stackexchange.com, winning-moves.com (rules PDF); forum.boardgamearena.com next. Forums and a PDF: nobody combines odds with simple rules of thumb.",
+    "silo": "rules/dice-games",
+    "pushes": [
+      "/rules/yacht/",
+      "/rules/farkle/"
+    ],
+    "needs": [],
+    "article_type": "strategy",
+    "interactive_tool": "DiceRoller dice=5 sides=6 to practise keep-and-reroll decisions; BarChart of the odds of each category within three rolls (our own calculation).",
+    "angle": "We combine the math (chance of a Yahtzee in three rolls, about 4.6%, to be recomputed; odds of straights and full houses) with the upper-bonus rule of thumb (three of each number reaches 63) and end-game choices. Yahtzee is a trademark, so the article links our rules page for Yacht, the public-domain ancestor, with its free score sheet.",
+    "outline": [
+      "What are the odds of rolling a Yahtzee?",
+      "Aim for the upper bonus: the 63-point target",
+      "Which dice to keep: pairs, triples or straights?",
+      "Use Chance and zeros wisely",
+      "End-game decisions",
+      "Yahtzee vs Yacht: the public-domain ancestor",
+      "Practise with the dice roller"
+    ],
+    "season_deadline": "2026-12-10",
+    "priority": 1
+  },
+  {
+    "rank": 16,
+    "slug": "how-to-win-at-uno",
+    "title": "How to win at Uno: 10 strategies that actually work",
+    "target_keyword": "how to win at uno",
+    "secondary_keywords": [
+      {
+        "keyword": "how to win uno every time",
+        "volume_us": 390,
+        "volume_uk": 90,
+        "kd": 6
+      },
+      {
+        "keyword": "uno strategy",
+        "volume_us": 320,
+        "volume_uk": 40,
+        "kd": 0
+      }
+    ],
+    "volume_us": 1900,
+    "volume_uk": 320,
+    "kd": 2,
+    "intent": "informational",
+    "cluster_volume_us": 2610,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 2900
+    },
+    "serp_notes": "Top 5: scribd.com (uploaded PDF), youtube.com, reddit.com (r/askmath), facebook.com (×2); snapchat.com next. Video and social content only: no written strategy guide in the top 10.",
+    "silo": "rules/card-games",
+    "pushes": [
+      "/rules/uno/",
+      "/rules/crazy-eights/"
+    ],
+    "needs": [],
+    "article_type": "strategy",
+    "interactive_tool": "ScoreKeeper: Uno scoring to 500 points (number cards at face value, action cards 20, wilds 50), because playing to 500 changes the strategy.",
+    "angle": "With no real article in the top 10, a structured guide can rank quickly. We separate luck from skill, explain colour tracking, when to hold the Wild Draw 4 and how the challenge rule punishes bluffs, and introduce official points scoring, which most families skip and which rewards dumping high cards early.",
+    "outline": [
+      "Can you win Uno every time? Luck vs skill",
+      "Get rid of high-point cards first",
+      "Change colour on your terms: track what others lack",
+      "When to play, and when to hold, Wild and Wild Draw 4",
+      "Use Skip, Reverse and Draw 2 against the leader",
+      "Remember to call Uno (and catch others)",
+      "Play to 500 points: how scoring changes your strategy"
+    ],
+    "season_deadline": "2026-11-30",
+    "priority": 1
+  },
+  {
+    "rank": 17,
+    "slug": "who-goes-first-in-chess",
+    "title": "Who goes first in chess? White, and does it give an advantage?",
+    "target_keyword": "who goes first in chess",
+    "secondary_keywords": [
+      {
+        "keyword": "who goes first in checkers",
+        "volume_us": 320,
+        "volume_uk": 20,
+        "kd": 3
+      },
+      {
+        "keyword": "who goes first in monopoly",
+        "volume_us": 170,
+        "volume_uk": 30,
+        "kd": 21
+      }
+    ],
+    "volume_us": 2400,
+    "volume_uk": 390,
+    "kd": 3,
+    "intent": "informational",
+    "cluster_volume_us": 2890,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 3600
+    },
+    "serp_notes": "Top 5: chess.com (forum thread), houseofstaunton.com (chess set shop blog), en.wikipedia.org (White and Black in chess), reddit.com, chessnutech.com; Wikipedia 'first-move advantage' next. A forum, two shop blogs and Wikipedia: answerable in one paragraph, then nobody covers the other games.",
+    "silo": "rules/board-games",
+    "pushes": [
+      "/rules/chess/",
+      "/rules/checkers/",
+      "/board-games/printable-chess-board/"
+    ],
+    "needs": [],
+    "article_type": "explainer",
+    "interactive_tool": "Picker: a 'who goes first' random picker (type the players' names, spin), plus a table of the first-player rule for 15 classic games taken from our rules pages.",
+    "angle": "We answer in the first sentence (White), give the first-move advantage figures from the sources Wikipedia cites, and add what no ranking page has: a who-goes-first table for checkers, backgammon, go, mancala, Monopoly-style games and card games, built from our own rules pages. The picker settles the argument at the table.",
+    "outline": [
+      "Who moves first in chess?",
+      "Why White goes first: a short history",
+      "Is moving first an advantage? (win rates)",
+      "How to decide who plays White",
+      "Who goes first in checkers, backgammon, go and other classics (table)",
+      "Settle it now: random first-player picker"
+    ],
+    "season_deadline": "2026-12-01",
+    "priority": 1
+  },
+  {
+    "rank": 18,
+    "slug": "backgammon-strategy",
+    "title": "Backgammon strategy: 10 tips to win more games",
+    "target_keyword": "backgammon strategy",
+    "secondary_keywords": [
+      {
+        "keyword": "how to win at backgammon",
+        "volume_us": 390,
+        "volume_uk": 110,
+        "kd": 0
+      },
+      {
+        "keyword": "backgammon strategy for beginners",
+        "volume_us": 110,
+        "volume_uk": 30,
+        "kd": 13
+      }
+    ],
+    "volume_us": 1300,
+    "volume_uk": 210,
+    "kd": 4,
+    "intent": "informational",
+    "cluster_volume_us": 1800,
+    "peak_month_us": {
+      "month": "2026-01",
+      "volume": 1900
+    },
+    "serp_notes": "Top 5: youtube.com, deluxebackgammon.co.uk (shop), usbgf.org (basics), reddit.com, coolmathgames.com; a spam page next. One federation basics page, a shop blog and forums.",
+    "silo": "rules/board-games",
+    "pushes": [
+      "/rules/backgammon/",
+      "/board-games/printable-backgammon-board/"
+    ],
+    "needs": [],
+    "article_type": "strategy",
+    "interactive_tool": "DiceRoller dice=2 sides=6 to practise; BarChart of the chance of hitting a blot at each distance (calculated by us from the 36 rolls).",
+    "angle": "Competitors give tips without numbers. We add the two tables beginners need, opening moves for each roll (checked against USBGF or bkgm.com) and the odds of being hit at each distance (our own calculation), then the three game plans (running, holding, priming).",
+    "outline": [
+      "The three game plans: running, holding, priming",
+      "The best opening move for every roll (table)",
+      "Blots: when to leave one, and the odds of being hit",
+      "Build points and primes",
+      "When to hit and when to run",
+      "Bearing off safely",
+      "The doubling cube in one paragraph"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "rank": 19,
+    "slug": "how-to-make-a-card-game",
+    "title": "How to make a card game: design, print and cut your own deck",
+    "target_keyword": "how to make a card game",
+    "secondary_keywords": [
+      {
+        "keyword": "how to make your own playing cards",
+        "volume_us": 320,
+        "volume_uk": 50,
+        "kd": 3
+      },
+      {
+        "keyword": "how to make your own card game",
+        "volume_us": 260,
+        "volume_uk": 40,
+        "kd": 3
+      },
+      {
+        "keyword": "how to print playing cards",
+        "volume_us": 210,
+        "volume_uk": 20,
+        "kd": 2
+      },
+      {
+        "keyword": "how to cut cards",
+        "volume_us": 170,
+        "volume_uk": 20,
+        "kd": 3
+      }
+    ],
+    "volume_us": 880,
+    "volume_uk": 110,
+    "kd": 9,
+    "intent": "informational",
+    "cluster_volume_us": 1840,
+    "peak_month_us": {
+      "month": "2026-01",
+      "volume": 1000
+    },
+    "serp_notes": "Top 5: boardgamegeek.com (forum guide), youtube.com, tiktok.com, reddit.com, qinprinting.com (printer); instructables.com next. Printing companies selling services, forums and videos.",
+    "silo": "card-games",
+    "pushes": [
+      "/card-games/printable-playing-card-deck/",
+      "/card-games/love-letter-print-and-play/",
+      "/card-games/scuttle/"
+    ],
+    "needs": [],
+    "article_type": "how-to",
+    "interactive_tool": "Checklist: 'print-and-play kit' (card stock weight, duplex test page, paper trimmer, corner rounder, sleeves), kept in the reader's browser.",
+    "angle": "Printers push their services; we cover both halves at home: designing a small game (start under 20 cards, like Love Letter's 16) and producing it (poker size 63×88 mm, bleed, duplex alignment, trimming, sleeving over an old card). It merges five small keywords with KD 2 to 9 into one strong page.",
+    "outline": [
+      "Start small: design a game with 20 cards or fewer",
+      "Card size, bleed and margins (template)",
+      "Printing at home: paper weight and double-sided alignment",
+      "Cutting: trimmer, guillotine or scissors",
+      "Finishing: corner rounder, sleeves, lamination",
+      "Playtest and iterate",
+      "When to use a print shop"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "rank": 20,
+    "slug": "how-to-make-a-board-game",
+    "title": "How to make a board game: 8 steps from idea to printed prototype",
+    "target_keyword": "how to make a board game",
+    "secondary_keywords": [
+      {
+        "keyword": "board game ideas",
+        "volume_us": 6600,
+        "volume_uk": 880,
+        "kd": 7
+      },
+      {
+        "keyword": "how to make your own game",
+        "volume_us": 2400,
+        "volume_uk": 480,
+        "kd": 10
+      },
+      {
+        "keyword": "how to design a board game",
+        "volume_us": 260,
+        "volume_uk": 70,
+        "kd": 5
+      },
+      {
+        "keyword": "board game design",
+        "volume_us": 2900,
+        "volume_uk": 590,
+        "kd": 22
+      }
+    ],
+    "volume_us": 2400,
+    "volume_uk": 320,
+    "kd": 10,
+    "intent": "informational",
+    "cluster_volume_us": 14560,
+    "peak_month_us": {
+      "month": "2026-05",
+      "volume": 4400
+    },
+    "serp_notes": "Top 5: bransonboardgamecafe.com (cafe blog), youtube.com, gamestructor.com (software), reddit.com, youtube.com; creativity.org next. Weak on paper, but the topic is broad and 'board game design' (KD 22) is contested by design schools.",
+    "silo": "board-games",
+    "pushes": [
+      "/board-games/piecepack/",
+      "/board-games/printable-snakes-and-ladders/",
+      "/board-games/printable-pachisi-board/",
+      "/board-games/garden-builder/"
+    ],
+    "needs": [
+      "Printable page: blank board game template (track board + blank cards), 'blank board game template' 880 US in docs/08"
+    ],
+    "article_type": "how-to",
+    "interactive_tool": "Checklist: from idea to prototype (goal, core mechanism, components, rules draft, 3 playtests); DiceRoller for the first playtest.",
+    "angle": "We go from idea to a playable paper prototype using free parts (piecepack, a race-track template), explain core loop and playtesting, and show how free print-and-play designers publish (BoardGameGeek contests, the source of several games in our catalogue). Volume peaks in April and May (school projects).",
+    "outline": [
+      "Start with a goal and a core mechanism",
+      "20 board game ideas to get you started",
+      "Build a paper prototype in an hour",
+      "Write rules people can follow",
+      "Playtest: what to watch and what to change",
+      "Make it look good: board, cards, box",
+      "Share it as a print-and-play game"
+    ],
+    "season_deadline": "2027-03-31",
+    "priority": 2
+  },
+  {
+    "rank": 21,
+    "slug": "rummy-vs-gin-rummy",
+    "title": "Rummy vs gin rummy: 7 differences, and which one to play",
+    "target_keyword": "rummy vs gin rummy",
+    "secondary_keywords": [
+      {
+        "keyword": "types of rummy",
+        "volume_us": 1600,
+        "volume_uk": 40,
+        "kd": 10
+      },
+      {
+        "keyword": "rummy variations",
+        "volume_us": 260,
+        "volume_uk": 40,
+        "kd": 6
+      },
+      {
+        "keyword": "gin rummy vs rummy 500",
+        "volume_us": 170,
+        "volume_uk": 10,
+        "kd": 2
+      }
+    ],
+    "volume_us": 2400,
+    "volume_uk": 170,
+    "kd": 21,
+    "intent": "informational",
+    "cluster_volume_us": 4430,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 2900
+    },
+    "serp_notes": "Top 5: ginrummy-palace.com (online game), en.wikipedia.org, reddit.com, euchre.com (game site), bicyclecards.com; youtube.com next. Wikipedia and two game sites with short pages; KD 21 is the highest in this list.",
+    "silo": "rules/card-games",
+    "pushes": [
+      "/rules/rummy/",
+      "/rules/gin-rummy/",
+      "/rules/canasta/",
+      "/rules/phase-10/"
+    ],
+    "needs": [],
+    "article_type": "comparison",
+    "interactive_tool": "ScoreKeeper players=2: gin rummy scoring (deadwood, gin bonus, undercut) so readers see the difference in practice.",
+    "angle": "A comparison table (melds on the table or in hand, knocking, scoring, players, game length) plus a family tree of rummy games (Rummy 500, Gin, Canasta, Phase 10, Rummikub), each linked to its rules page and score sheet. 'Types of rummy' (1,600, KD 10) is covered by the family-tree section.",
+    "outline": [
+      "Rummy vs gin rummy at a glance (table)",
+      "Melding: on the table or in your hand",
+      "Knocking and going gin",
+      "Scoring: points vs deadwood",
+      "Which is better for 2, 3 or 4 players?",
+      "Types of rummy: the family tree",
+      "Which one should you learn first?"
+    ],
+    "season_deadline": null,
+    "priority": 2
+  },
+  {
+    "rank": 22,
+    "slug": "2-player-card-games",
+    "title": "2 player card games: 15 best games for two with one deck",
+    "target_keyword": "2 player card games",
+    "secondary_keywords": [
+      {
+        "keyword": "card games for 2",
+        "volume_us": 40500,
+        "volume_uk": 14800,
+        "kd": 0
+      },
+      {
+        "keyword": "best 2 player card games",
+        "volume_us": 5400,
+        "volume_uk": 1900,
+        "kd": 0
+      },
+      {
+        "keyword": "easy card games for two",
+        "volume_us": 1600,
+        "volume_uk": 880,
+        "kd": 0
+      },
+      {
+        "keyword": "2 player card games with one deck",
+        "volume_us": 1000,
+        "volume_uk": 210,
+        "kd": 0
+      }
+    ],
+    "volume_us": 40500,
+    "volume_uk": 14800,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 89000,
+    "peak_month_us": {
+      "month": "2026-01",
+      "volume": 60500
+    },
+    "serp_notes": "Top 5: vanishingincmagic.com (magic shop blog), boardgamegeek.com (list), reddit.com, youtube.com, donteatthemeeples.com; youtube.com next. Weak today, but 40,500 a month will attract stronger players (Bicycle, The Spruce); treat as a growth target.",
+    "silo": "rules/card-games",
+    "pushes": [
+      "/rules/gin-rummy/",
+      "/rules/cribbage/",
+      "/rules/speed/",
+      "/card-games/love-letter-print-and-play/"
+    ],
+    "needs": [
+      "Rules page: Spit / Russian Bank ('2 player solitaire' 480 US, KD 0)"
+    ],
+    "article_type": "list",
+    "interactive_tool": "Quiz mode=\"match\": 'Which 2-player card game?' (quick or deep, luck or skill); ScoreKeeper players=2.",
+    "angle": "The current pages are hobby lists. Ours links every classic to a full rules page with a score sheet, says how long a game takes and how much skill it needs, and adds free print-and-play games for two. Peak in January (60,500), so publish by early December.",
+    "outline": [
+      "The best 2 player card games at a glance (table)",
+      "Quick and easy: War, Speed, Crazy Eights",
+      "Strategy classics: Gin Rummy, Cribbage",
+      "Trick-taking for two: 2-hand Spades, Euchre, Hearts",
+      "Solitaire for two: Spit and Russian Bank",
+      "Free print-and-play card games for two",
+      "Which one is for you? (quiz)"
+    ],
+    "season_deadline": "2026-12-01",
+    "priority": 3
+  },
+  {
+    "rank": 23,
+    "slug": "social-deduction-games",
+    "title": "Social deduction games: what they are, and 10 you can print free",
+    "target_keyword": "social deduction games",
+    "secondary_keywords": [
+      {
+        "keyword": "games like mafia",
+        "volume_us": 880,
+        "volume_uk": 170,
+        "kd": 0
+      },
+      {
+        "keyword": "deduction game",
+        "volume_us": 590,
+        "volume_uk": 90,
+        "kd": 5
+      },
+      {
+        "keyword": "games like secret hitler",
+        "volume_us": 480,
+        "volume_uk": 70,
+        "kd": 0
+      },
+      {
+        "keyword": "best social deduction games",
+        "volume_us": 390,
+        "volume_uk": 110,
+        "kd": 2
+      }
+    ],
+    "volume_us": 14800,
+    "volume_uk": 390,
+    "kd": 2,
+    "intent": "informational",
+    "cluster_volume_us": 17140,
+    "peak_month_us": {
+      "month": "2025-11",
+      "volume": 49500
+    },
+    "serp_notes": "Top 5: boardgamegeek.com (ranking thread), en.wikipedia.org, reddit.com, screenhype.co.uk (listicle), jackboxgames.com; amazon.com next. A mix of Wikipedia, hobby lists and a shop: harder, but KD stays at 2.",
+    "silo": "party-games",
+    "pushes": [
+      "/party-games/secret-hitler/",
+      "/party-games/two-rooms-and-a-boom/",
+      "/party-games/hidden-panda/",
+      "/card-games/dracula-s-feast/"
+    ],
+    "needs": [],
+    "article_type": "list",
+    "interactive_tool": "Quiz mode=\"match\": 'Which social deduction game for your group?' (group size, moderator or not, length); outcomes link to our game pages. Timer for discussion rounds.",
+    "angle": "Lists elsewhere recommend boxed games; ours shows which ones can be printed free tonight (Secret Hitler under its CC licence, Two Rooms and a Boom, Hidden Panda, Dracula's Feast, Night of the Mummy), by group size, with tips for running a first game. Very seasonal: 49,500 in November 2025, so publish before the holiday-party season.",
+    "outline": [
+      "What is a social deduction game?",
+      "Werewolf and Mafia: where it started",
+      "Free social deduction games you can print",
+      "Games like Secret Hitler for big groups",
+      "Social deduction without a moderator",
+      "How to run a good first game",
+      "Which one fits your group? (quiz)"
+    ],
+    "season_deadline": "2026-11-01",
+    "priority": 3
+  },
+  {
+    "rank": 24,
+    "slug": "trick-taking-card-games",
+    "title": "Trick-taking card games: how they work, plus 12 to try",
+    "target_keyword": "trick taking card games",
+    "secondary_keywords": [
+      {
+        "keyword": "what is a trick taking game",
+        "volume_us": 390,
+        "volume_uk": 90,
+        "kd": 6
+      },
+      {
+        "keyword": "spades vs hearts",
+        "volume_us": 390,
+        "volume_uk": 10,
+        "kd": 0
+      },
+      {
+        "keyword": "euchre vs spades",
+        "volume_us": 320,
+        "volume_uk": 10,
+        "kd": 0
+      },
+      {
+        "keyword": "best trick taking games",
+        "volume_us": 170,
+        "volume_uk": 40,
+        "kd": 0
+      }
+    ],
+    "volume_us": 12100,
+    "volume_uk": 880,
+    "kd": 3,
+    "intent": "informational",
+    "cluster_volume_us": 13370,
+    "peak_month_us": {
+      "month": "2025-10",
+      "volume": 40500
+    },
+    "serp_notes": "Top 5: whatsericplaying.com (hobby blog), whatboardgame.com, en.wikipedia.org, opinionatedgamers.com, reddit.com; boardgamegeek.com next. Hobby blogs ranking modern boxed trick-takers; our classic-deck angle is a partial intent match, hence growth.",
+    "silo": "rules/card-games",
+    "pushes": [
+      "/rules/spades/",
+      "/rules/hearts/",
+      "/rules/euchre/",
+      "/rules/whist/"
+    ],
+    "needs": [
+      "Rules page: Oh Hell (shared with card-games-for-3-people)"
+    ],
+    "article_type": "explainer",
+    "interactive_tool": "Quiz mode=\"score\": 'Who wins this trick?' (lead suit, trump, follow suit), 6 hands.",
+    "angle": "The ranking blogs assume readers know the vocabulary. We explain trick, lead, follow suit and trump with card diagrams, draw the family tree (Whist, Bridge, Spades, Euchre; Hearts as the avoidance branch), compare Spades, Hearts and Euchre in one table, then name modern trick-takers worth buying. The comparison section captures 'spades vs hearts' and 'euchre vs spades' (KD 0).",
+    "outline": [
+      "What is a trick-taking game?",
+      "Trumps, following suit and leading",
+      "The family tree: Whist, Bridge, Spades, Euchre, Hearts",
+      "Spades vs Hearts vs Euchre (table)",
+      "Trick-taking games by number of players",
+      "Modern trick-taking games worth knowing",
+      "Who wins this trick? (quiz)"
+    ],
+    "season_deadline": null,
+    "priority": 3
+  },
+  {
+    "rank": 25,
+    "slug": "history-of-chess",
+    "title": "History of chess: who invented chess and how it spread",
+    "target_keyword": "history of chess",
+    "secondary_keywords": [
+      {
+        "keyword": "who invented chess",
+        "volume_us": 12100,
+        "volume_uk": 2900,
+        "kd": 17
+      },
+      {
+        "keyword": "chess origin",
+        "volume_us": 4400,
+        "volume_uk": 1000,
+        "kd": 41
+      },
+      {
+        "keyword": "chinese chess vs chess",
+        "volume_us": 170,
+        "volume_uk": 20,
+        "kd": 10
+      }
+    ],
+    "volume_us": 4400,
+    "volume_uk": 1000,
+    "kd": 16,
+    "intent": "informational",
+    "cluster_volume_us": 21070,
+    "peak_month_us": {
+      "month": "2025-11",
+      "volume": 5400
+    },
+    "serp_notes": "Top 5: artsandculture.google.com (×2), quora.com, youtube.com, officialstaunton.com (shop blog); reddit.com next. Google Arts & Culture and Wikipedia-type authority sit on the query; 'chess origin' has KD 41. Growth target.",
+    "silo": "rules/board-games",
+    "pushes": [
+      "/rules/chess/",
+      "/board-games/printable-chess-board/",
+      "/board-games/printable-chinese-chess/",
+      "/board-games/printable-shogi/"
+    ],
+    "needs": [],
+    "article_type": "history",
+    "interactive_tool": "Quiz mode=\"score\": chess history quiz (8 questions, each with its source).",
+    "angle": "A sourced timeline (chaturanga, shatranj, the 15th-century queen) and the whole chess family (xiangqi, shogi, Western chess) with a printable board for each cousin, which no ranking page offers. 'Who invented chess' brings 12,100 searches a month.",
+    "outline": [
+      "Who invented chess? The short answer",
+      "Chaturanga: chess in India",
+      "Shatranj and the spread through Persia and the Arab world",
+      "Chess in Europe: the new queen and modern rules",
+      "The chess family: xiangqi and shogi",
+      "From the café to the computer",
+      "Chess history quiz"
+    ],
+    "season_deadline": null,
+    "priority": 3
+  }
+]
