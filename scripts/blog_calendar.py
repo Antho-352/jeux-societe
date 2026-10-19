@@ -51,10 +51,25 @@ def deadline(t):
     s = t.get('season_deadline')
     return dt.datetime.fromisoformat(s + 'T23:59:00+00:00') if s else None
 
+plan, used = [], set()
+# 0. Posts already written keep their publish_at: pin them to their slot (or add the slot if it is not one of ours).
+import re
+written = {}
+for f in (ROOT / 'src/content/blog').glob('*.mdx'):
+    m = re.search(r'^publish_at:\s*"?([0-9T:\-Z]+)"?', f.read_text(), re.M)
+    if m: written[f.stem] = dt.datetime.fromisoformat(m.group(1).replace('Z', '+00:00'))
+by_slug = {t['slug']: t for t in topics}
+for slug, when in written.items():
+    t = by_slug.get(slug)
+    if not t: continue
+    i = next((i for i, s in enumerate(slots) if s == when), None)
+    if i is None:
+        slots.append(when); slots.sort(); used = {slots.index(s) for s, _ in plan}; i = slots.index(when)
+    used.add(i); plan.append((when, t))
+pinned = [t for _, t in plan]
+topics = [t for t in topics if t not in pinned]
 seasonal = sorted([t for t in topics if deadline(t)], key=deadline)
 evergreen = sorted([t for t in topics if not deadline(t)], key=lambda t: (t.get('priority', 2), t.get('kd') if t.get('kd') is not None else 50, -(t.get('volume_us') or 0)))
-
-plan, used = [], set()
 # 1. seasonal: latest free slot before the deadline but not earlier than 8 weeks before it
 for t in seasonal:
     dl = deadline(t)
@@ -95,7 +110,7 @@ lines = ['# Calendrier éditorial du blog', '',
          '| # | Date (UTC) | Article | Mot-clé cible | Vol. US | KD | Page mère | Priorité |', '|---|---|---|---|---|---|---|---|']
 for n, (s, t) in enumerate(plan, 1):
     lines.append(f"| {n} | {DAYS[s.weekday()]} {s.day} {MONTHS[s.month-1]} {s.year} · {s:%H:%M} | {t['title']} | {t['target_keyword']} | {t.get('volume_us') or '–'} | {t.get('kd') if t.get('kd') is not None else '–'} | `/{t['silo']}/` | {t.get('priority', '–')} |")
-left = [t for t in topics if t not in [p[1] for p in plan]]
+left = [t for t in topics if t not in [p[1] for p in plan]]  # pinned posts are always planned
 if left:
     lines += ['', '## Sujets en réserve (non planifiés)', '']
     lines += [f"- {t['title']} ({t['target_keyword']}, {t.get('volume_us') or '–'}/mois, KD {t.get('kd')}){' — ' + t['_unplaced'] if t.get('_unplaced') else ''}" for t in left]

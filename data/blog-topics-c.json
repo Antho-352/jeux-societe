@@ -1,0 +1,1308 @@
+[
+  {
+    "rank": 1,
+    "slug": "board-games-for-couples",
+    "title": "Board games for couples: 15 two-player games for date night",
+    "target_keyword": "board games for couples",
+    "secondary_keywords": [
+      {
+        "keyword": "best board games for couples",
+        "volume_us": 1300,
+        "volume_uk": 480,
+        "kd": 0
+      },
+      {
+        "keyword": "board games for date night",
+        "volume_us": 1900,
+        "volume_uk": 110,
+        "kd": 0
+      },
+      {
+        "keyword": "date night games",
+        "volume_us": 1900,
+        "volume_uk": 590,
+        "kd": 0
+      },
+      {
+        "keyword": "2 player board games for couples",
+        "volume_us": 590,
+        "volume_uk": 210,
+        "kd": 0
+      },
+      {
+        "keyword": "cooperative board games for couples",
+        "volume_us": 390,
+        "volume_uk": 10,
+        "kd": 0
+      }
+    ],
+    "volume_us": 4400,
+    "volume_uk": 720,
+    "kd": 0,
+    "intent": "commercial",
+    "cluster_volume_us": 10480,
+    "peak_month_us": {
+      "month": "2025-11",
+      "volume": 8100
+    },
+    "serp_notes": "Top 5: meeplemountain.com (hobby blog list), wargamer.com (media list, the strongest result), boardgamegeek.com (forum thread), youtube.com, facebook.com; reddit.com, Pinterest and Etsy next. AI overview and popular products above. One media list, the rest forums and social posts. 'date night games' shows the same type of SERP (thetabletopfamily.com, Pinterest, BGG), so it is merged here.",
+    "silo": "board-games/2-player",
+    "pushes": [
+      "/party-games/choose-two/",
+      "/card-games/love-letter-print-and-play/",
+      "/board-games/pandemic-hot-zone-north-america-print-and-play/",
+      "/escape-games/unlock-demo-the-temple-of-ra/",
+      "/board-games/printable-backgammon-board/"
+    ],
+    "needs": [],
+    "article_type": "list",
+    "interactive_tool": "Quiz mode=\"match\": 'Which game for your next date night?' (compete or cooperate, 15 min or a whole evening, light or thinky); each outcome links to a game page. Picker lower down for 'who goes first'.",
+    "angle": "Media lists rank the same boxed games. We sort them by the kind of couple (competitive, cooperative, chatty, puzzle lovers) and by time (weeknight 15 minutes vs Saturday evening), give each game's real two-player rating on BoardGameGeek (to be checked per game: Patchwork, Jaipur, 7 Wonders Duel, Lost Cities, Codenames Duet, Sky Team) and add a free print-and-play option you can play tonight: Choose Two (Looney Labs' getting-to-know-you game for two), Love Letter, the Pandemic Hot Zone print-and-play, an Unlock demo as an escape-room date, a printable backgammon board. Search demand peaks from October to January (gifts, then Valentine's Day). Note: the hub /board-games/2-player/ keeps 'print and play games for 2 players' and 'best 2 player board games'; this article targets the couple and date-night intent only.",
+    "outline": [
+      "What makes a good board game for couples?",
+      "The 15 games at a glance (table: time, compete or co-op, price, free to print)",
+      "Quick games for a weeknight",
+      "Cooperative games: win or lose together",
+      "Deeper games for a long evening",
+      "An escape room for two at home",
+      "Free games to print tonight",
+      "Which one is right for you? (quiz)"
+    ],
+    "season_deadline": "2026-11-15",
+    "priority": 1
+  },
+  {
+    "rank": 2,
+    "slug": "games-like-catan",
+    "title": "Games like Catan: 12 board games to play next (some free to print)",
+    "target_keyword": "games like catan",
+    "secondary_keywords": [
+      {
+        "keyword": "games like settlers of catan",
+        "volume_us": 1900,
+        "volume_uk": 320,
+        "kd": 0,
+        "note": "close variant grouped by Google Ads with another keyword of this topic (same volume); not added to cluster_volume_us"
+      },
+      {
+        "keyword": "board games like catan",
+        "volume_us": 880,
+        "volume_uk": 210,
+        "kd": 0
+      }
+    ],
+    "volume_us": 1900,
+    "volume_uk": 320,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 2780,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 4400
+    },
+    "serp_notes": "Top 5: boardgamegeek.com (forum thread), chris2x.com (old personal blog), youtube.com, reddit.com, facebook.com; dicebreaker.com (media list), quora.com and thedicedrop.com next. AI overview and PAA. Only one media list in the top 6; the rest are threads, videos and an old blog.",
+    "silo": "board-games",
+    "pushes": [
+      "/board-games/carcassonne-print-and-play-demo/",
+      "/card-games/citadels-print-and-play-demo/",
+      "/board-games/pandemic-hot-zone-north-america-print-and-play/",
+      "/board-games/kingdomino-the-court/"
+    ],
+    "needs": [],
+    "article_type": "list",
+    "interactive_tool": "Quiz mode=\"match\": 'What do you love about Catan?' (trading, building an engine, the map, the dice) → the matching recommendations. BarChart: BoardGameGeek weight of each game vs Catan (values to be read on api.geekdo.com).",
+    "angle": "Lists stack titles; we start from what people like in Catan (trading and negotiation, a resource engine, a growing map, dice-driven production) and recommend games for each, with the BoardGameGeek weight and play time next to Catan's (to be checked on api.geekdo.com). Free print-and-play demos let readers test some of them before buying: Carcassonne (map building), Citadels (hidden roles and city building), Pandemic Hot Zone (cooperative gateway game); Kingdomino The Court is an expansion, so it is presented as 'if you already own Kingdomino'. Demand peaks in December (gifts).",
+    "outline": [
+      "Why Catan works (and what people get tired of)",
+      "If you love building the map: Carcassonne, Kingdomino",
+      "If you love trading and negotiating",
+      "If you love growing an economy",
+      "If you want Catan for two",
+      "Try before you buy: free print-and-play demos",
+      "Which game is your next Catan? (quiz)"
+    ],
+    "season_deadline": "2026-11-15",
+    "priority": 1
+  },
+  {
+    "rank": 3,
+    "slug": "games-like-monopoly",
+    "title": "Games like Monopoly: 10 better money and property games",
+    "target_keyword": "games like monopoly",
+    "secondary_keywords": [
+      {
+        "keyword": "monopoly type game",
+        "volume_us": 480,
+        "volume_uk": null,
+        "kd": 9
+      },
+      {
+        "keyword": "board games like monopoly",
+        "volume_us": 390,
+        "volume_uk": 140,
+        "kd": 0
+      },
+      {
+        "keyword": "games like monopoly deal",
+        "volume_us": 170,
+        "volume_uk": 140,
+        "kd": 0
+      },
+      {
+        "keyword": "monopoly alternatives",
+        "volume_us": 70,
+        "volume_uk": 30,
+        "kd": 4
+      }
+    ],
+    "volume_us": 590,
+    "volume_uk": 170,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 1700,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 880
+    },
+    "serp_notes": "Top 5: reddit.com, pogo.com (online games), facebook.com, softonic.com (Monopoly GO app), quora.com; facebook.com, vg247.com (Monopoly GO) and boardgamegeek.com next. Half the page is about the Monopoly GO mobile app; no clear board-game list in the top 8. Very weak.",
+    "silo": "board-games",
+    "pushes": [
+      "/card-games/unfair-base-game/",
+      "/board-games/printable-pachisi-board/",
+      "/rules/ludo/",
+      "/dice-games/goblin-teeth/"
+    ],
+    "needs": [
+      "Optional game page: The Landlord's Game (Lizzie Magie, US patent 1904), Monopoly's ancestor; check whether a free, legally hostable printable version exists before planning it"
+    ],
+    "article_type": "list",
+    "interactive_tool": "Quiz mode=\"match\": 'What bothers you about Monopoly?' (too long, player elimination, too much luck, not enough trading) → the alternative that fixes it.",
+    "angle": "The owner's request ('best Monopoly alternatives'). We sort alternatives by the problem they fix: too long (Monopoly Deal, For Sale), elimination and kingmaking (Acquire, Power Grid, Splendor), too much luck, more trading (Catan, Bohnanza). Each game with players, time and a reason (to be checked on BoardGameGeek). Free options: Unfair (a theme-park building card game, free print-and-play for personal use), Goblin Teeth (bidding with dice), and for the roll-and-move nostalgia, Pachisi and Ludo boards. Short history hook: Monopoly descends from Lizzie Magie's The Landlord's Game (patent 1904, to be sourced). The SERP is split with the Monopoly GO app: a clear board-game list can take the top.",
+    "outline": [
+      "Why look for a Monopoly alternative?",
+      "The 10 alternatives at a glance (table)",
+      "Shorter games with the same money feeling",
+      "Games without player elimination",
+      "More trading and negotiation",
+      "Free alternatives you can print",
+      "Where Monopoly came from: The Landlord's Game",
+      "Which one fixes your Monopoly problem? (quiz)"
+    ],
+    "season_deadline": "2026-11-15",
+    "priority": 1
+  },
+  {
+    "rank": 4,
+    "slug": "games-like-uno",
+    "title": "Games like UNO: 12 card games to play when UNO gets old",
+    "target_keyword": "games like uno",
+    "secondary_keywords": [
+      {
+        "keyword": "card games like uno",
+        "volume_us": 1300,
+        "volume_uk": 590,
+        "kd": 0
+      }
+    ],
+    "volume_us": 1300,
+    "volume_uk": 590,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 2600,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 2400
+    },
+    "serp_notes": "Top 5: boardgamegeek.com (forum thread), reddit.com, youtube.com, picklebums.com (games with UNO cards, a parenting blog), facebook.com; a spam page on a government domain, mumsnet.com and gg.deals next. No real list in the top 5. Very weak.",
+    "silo": "rules/card-games",
+    "pushes": [
+      "/rules/crazy-eights/",
+      "/rules/phase-10/",
+      "/rules/skip-bo/",
+      "/card-games/scuttle/",
+      "/card-games/ninjitsu/"
+    ],
+    "needs": [
+      "Rules page: Mau Mau / Switch (UNO's European cousins, standard deck): measure volume first"
+    ],
+    "article_type": "list",
+    "interactive_tool": "Quiz mode=\"match\": 'What do you like in UNO?' (matching colours, attack cards, quick rounds, playing with kids) → the matching game. DeckStat-style table of decks needed (standard deck, special deck, free print-and-play).",
+    "angle": "Start from the family tree: UNO is a commercial Crazy Eights (to be sourced), so the closest alternatives need only a standard deck (Crazy Eights, Mau Mau, Switch), then the Mattel siblings (Phase 10, Skip-Bo, whose rules we have), then modern fast card games, including free print-and-play ones (Scuttle and Ninjitsu from Jellybean Games). Each game: deck needed, players, minimum age, what changes vs UNO. Links to the two UNO articles of plan B (stacking, how to win). Peak in November-December.",
+    "outline": [
+      "Why UNO is really Crazy Eights",
+      "UNO-like games with a normal deck",
+      "Phase 10, Skip-Bo and other Mattel cousins",
+      "Faster and meaner: take-that card games",
+      "Free card games to print",
+      "Which game after UNO? (quiz)"
+    ],
+    "season_deadline": "2026-11-30",
+    "priority": 1
+  },
+  {
+    "rank": 5,
+    "slug": "games-like-clue",
+    "title": "Games like Clue: 10 deduction games for mystery lovers",
+    "target_keyword": "games like clue",
+    "secondary_keywords": [
+      {
+        "keyword": "board games like clue",
+        "volume_us": 260,
+        "volume_uk": 50,
+        "kd": 0
+      },
+      {
+        "keyword": "games like cluedo",
+        "volume_us": 590,
+        "volume_uk": 140,
+        "kd": 0,
+        "note": "close variant grouped by Google Ads with another keyword of this topic (same volume); not added to cluster_volume_us"
+      },
+      {
+        "keyword": "deduction board games",
+        "volume_us": 3600,
+        "volume_uk": 20,
+        "kd": 0
+      }
+    ],
+    "volume_us": 590,
+    "volume_uk": 140,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 4450,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 1300
+    },
+    "serp_notes": "Top 5: reddit.com, youtube.com, boardgamegeek.com (forum list), amazon.com, facebook.com; a fandom wiki, donteatthemeeples.com (Substack list) and herefor.games next. Threads, videos and Amazon; two small lists. 'deduction board games' (3,600, KD 0) has a hobby-blog SERP mixing social deduction (coopgestalt.com, hexagamers.com, BGG): kept as a secondary.",
+    "silo": "board-games",
+    "pushes": [
+      "/card-games/dracula-s-feast/",
+      "/card-games/night-of-the-mummy/",
+      "/card-games/love-letter-print-and-play/",
+      "/board-games/printable-battleship-board/"
+    ],
+    "needs": [],
+    "article_type": "list",
+    "interactive_tool": "Quiz mode=\"match\": 'Which mystery game for your group?' (family or adults, competitive or co-op, 15 min or 2 hours). StatGrid with Clue's key facts (to be sourced: designer Anthony Pratt, patent filed 1944, released 1949).",
+    "angle": "Clue is a deduction game: you eliminate suspects by asking questions. We list the games that do this better or faster: elimination grids (Mystery of the Abbey, Cryptid, Sherlock 13), bluffing and hidden roles (Deception: Murder in Hong Kong, Love Letter), and two free print-and-play games where you guess identities in ten minutes (Dracula's Feast, Night of the Mummy). Battleship is the simplest deduction game for kids (printable board). Distinct from 'mystery-board-games' (cooperative case-solving, escape silo) and from 'social-deduction-games' (plan B): each article links to the others. Peak in December.",
+    "outline": [
+      "What makes Clue fun: deduction in a nutshell",
+      "The 10 games at a glance (table)",
+      "Classic elimination games for families",
+      "Bluffing and hidden identities",
+      "Quick deduction games you can print free",
+      "Deduction for kids: start with Battleship",
+      "Which game should you play next? (quiz)"
+    ],
+    "season_deadline": "2026-11-30",
+    "priority": 1
+  },
+  {
+    "rank": 6,
+    "slug": "mystery-board-games",
+    "title": "Mystery board games: the best detective and case-solving games",
+    "target_keyword": "mystery board games",
+    "secondary_keywords": [
+      {
+        "keyword": "detective board games",
+        "volume_us": 1300,
+        "volume_uk": 320,
+        "kd": 6
+      },
+      {
+        "keyword": "best mystery board games",
+        "volume_us": 210,
+        "volume_uk": 30,
+        "kd": 0
+      },
+      {
+        "keyword": "best detective board games",
+        "volume_us": 70,
+        "volume_uk": 30,
+        "kd": 0
+      },
+      {
+        "keyword": "murder mystery games for adults",
+        "volume_us": 1000,
+        "volume_uk": 320,
+        "kd": 18
+      }
+    ],
+    "volume_us": 1900,
+    "volume_uk": 170,
+    "kd": 2,
+    "intent": "informational",
+    "cluster_volume_us": 4480,
+    "peak_month_us": {
+      "month": "2025-10",
+      "volume": 4400
+    },
+    "serp_notes": "Top 5: tabletopbellhop.com (hobby blog list), huntakiller.com (subscription seller), reddit.com, mastersofmystery.com (murder mystery kits seller), boardgamegeek.com (geeklist); amazon.com, coopgestalt.com and a library list next. One real list, two sellers and forums. 'murder mystery games for adults' (KD 18) is kept as a secondary only: its SERP is dominated by party-kit sellers.",
+    "silo": "escape-games",
+    "pushes": [
+      "/escape-games/the-secret-of-langton-manor-episode-1-legacy/",
+      "/escape-games/unlock-demo-the-elite/",
+      "/escape-games/unlock-demo-the-ghost-stone/",
+      "/escape-games/escape-team-training-mission-and-central-station/"
+    ],
+    "needs": [],
+    "article_type": "comparison",
+    "interactive_tool": "Markdown comparison table (players, co-op or competitive, replayable or one-shot, app needed, play time). Quiz mode=\"match\": 'Which kind of mystery game?' → case book, app-driven, escape box, murder party.",
+    "angle": "A typology rather than a ranking: case-book games (Sherlock Holmes Consulting Detective, Detective: A Modern Crime Board Game), app-assisted investigations (Chronicles of Crime), picture hunts (MicroMacro: Crime City), escape-room boxes (Exit, Unlock) and murder mystery party kits, with a comparison table and, for each type, one free thing to play tonight: the Langton Manor printable escape room (1 to 4 players, about 1 to 2 hours, free app), Unlock demos The Elite (a detective case) and The Ghost Stone, Escape Team missions. Player counts and times to be checked on BoardGameGeek. Pushes the escape-games silo, the owner's priority.",
+    "outline": [
+      "What counts as a mystery board game?",
+      "Case-book detective games",
+      "App-assisted investigations",
+      "Escape-room boxes",
+      "Murder mystery party kits",
+      "Comparison table",
+      "Free mysteries to print tonight"
+    ],
+    "season_deadline": "2026-11-30",
+    "priority": 1
+  },
+  {
+    "rank": 7,
+    "slug": "games-like-chess",
+    "title": "Games like chess: 10 strategy games from around the world",
+    "target_keyword": "games like chess",
+    "secondary_keywords": [
+      {
+        "keyword": "two player strategy games",
+        "volume_us": 720,
+        "volume_uk": null,
+        "kd": 0
+      }
+    ],
+    "volume_us": 1300,
+    "volume_uk": 390,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 2020,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 1900
+    },
+    "serp_notes": "Top 5: reddit.com, en.wikipedia.org (list of abstract strategy games), boardgamegeek.com (forum thread), chessusa.com (shop blog), chess.com (forum); dadsuggests.com, amazon.com, particula-tech.com next. Forums, a shop and a bare Wikipedia list. 'two player strategy games' has a shop-heavy SERP (zatu.com, target.com) and stays a secondary.",
+    "silo": "board-games/printable-boards",
+    "pushes": [
+      "/board-games/printable-chinese-chess/",
+      "/board-games/printable-shogi/",
+      "/board-games/printable-the-jungle-game/",
+      "/board-games/printable-fox-and-geese/",
+      "/board-games/printable-checkerboard/"
+    ],
+    "needs": [
+      "Printable page: Makruk (Thai chess) or Janggi (Korean chess) board, both traditional and free to draw; measure volume first"
+    ],
+    "article_type": "list",
+    "interactive_tool": "Figure: a chess family tree (chaturanga → xiangqi, shogi, makruk, European chess; to be sourced). Quiz mode=\"match\": 'Which chess cousin should you learn?'.",
+    "angle": "Two groups: the chess family (xiangqi, shogi, makruk, janggi) and games that feel like chess without being chess (the Jungle Game, Fox and Geese, checkers; modern Hive, Onitama, Santorini). Every traditional game in the list has a free printable board on the site, so a chess player can try xiangqi or shogi tonight with paper pieces. For each: board, pieces, what is different from chess, difficulty for a chess player.",
+    "outline": [
+      "The chess family: one ancestor, many cousins",
+      "Xiangqi (Chinese chess)",
+      "Shogi (Japanese chess)",
+      "Simpler cousins: the Jungle Game and checkers",
+      "Hunt games: Fox and Geese",
+      "Modern games for chess players",
+      "Print a board and try one tonight"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "rank": 8,
+    "slug": "games-like-tic-tac-toe",
+    "title": "Games like tic tac toe: 10 smarter games of three (and more) in a row",
+    "target_keyword": "games like tic tac toe",
+    "secondary_keywords": [
+      {
+        "keyword": "games like connect 4",
+        "volume_us": 260,
+        "volume_uk": 110,
+        "kd": 13
+      },
+      {
+        "keyword": "games like noughts and crosses",
+        "volume_us": 10,
+        "volume_uk": 40,
+        "kd": null
+      }
+    ],
+    "volume_us": 720,
+    "volume_uk": 50,
+    "kd": 3,
+    "intent": "informational",
+    "cluster_volume_us": 990,
+    "peak_month_us": {
+      "month": "2025-10",
+      "volume": 880
+    },
+    "serp_notes": "Top 5: foxinaboxchicago.com (escape-room venue blog), facebook.com, reddit.com, battlepencils.com (small blog), tiktok.com; ymcagta.org, foxinaboxchicago.com again and hmns.org next. Venue blogs, social posts and small sites. Half the SERP is generic 'pen and paper games' lists: the article must stay on 'in a row' games so as not to compete with the /rules/pen-and-paper/ hub.",
+    "silo": "rules/pen-and-paper",
+    "pushes": [
+      "/board-games/printable-three-mens-morris/",
+      "/rules/connect-four/",
+      "/rules/sim/",
+      "/board-games/printable-go-board-9x9/",
+      "/rules/dots-and-boxes/"
+    ],
+    "needs": [
+      "Rules page: Ultimate tic-tac-toe (nine boards in one)",
+      "Rules page: Gomoku / five in a row on a go board ('gomoku' 12,100 US, KD 29, mostly online-play intent)"
+    ],
+    "article_type": "list",
+    "interactive_tool": "A difficulty ladder (BarChart: from tic-tac-toe to gomoku, by board size or game-tree size, figures to be sourced). Picker 'who starts'.",
+    "angle": "Tic-tac-toe is solved (always a draw with good play); the article climbs a ladder of games that keep the 'in a row' idea but stay interesting: Three Men's Morris (pieces move), Ultimate tic-tac-toe, Connect Four, Gomoku on a 9×9 or 19×19 go board, Quarto, Pente; plus Sim, the 'avoid the triangle' game. Each with a printable board or a rules page. Links to 'how-to-win-tic-tac-toe' (plan B).",
+    "outline": [
+      "Why tic-tac-toe always ends in a draw",
+      "Three Men's Morris: tic-tac-toe with moving pieces",
+      "Ultimate tic-tac-toe",
+      "Connect Four and four-in-a-row games",
+      "Gomoku and Pente: five in a row",
+      "Sim: the game where you must not make a line",
+      "Print a board and play"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "rank": 9,
+    "slug": "games-like-yahtzee",
+    "title": "Games like Yahtzee: 10 dice games to play next",
+    "target_keyword": "games like yahtzee",
+    "secondary_keywords": [
+      {
+        "keyword": "dice games like yahtzee",
+        "volume_us": 90,
+        "volume_uk": 10,
+        "kd": 0
+      }
+    ],
+    "volume_us": 320,
+    "volume_uk": 40,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 410,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 720
+    },
+    "serp_notes": "Top 5: boardgamegeek.com (two forum threads), buddyboardgames.com (online game), facebook.com, yahtzee.org.uk (old fan site); amazon.com, uptodown.com (app) and another BGG thread next. No list at all. Very weak.",
+    "silo": "rules/dice-games",
+    "pushes": [
+      "/rules/yacht/",
+      "/rules/farkle/",
+      "/dice-games/printable-shut-the-box-game/",
+      "/roll-and-write/hall-of-the-dwarven-king/",
+      "/roll-and-write/hide-nor-hare/"
+    ],
+    "needs": [],
+    "article_type": "list",
+    "interactive_tool": "DiceRoller dice=5 sides=6 ('no dice at home'); ScoreKeeper for a Yacht game.",
+    "angle": "Ancestors and descendants: Yacht (public domain, our rules page and score sheet), Generala and poker dice; push-your-luck cousins (Farkle, Shut the Box); then the modern roll-and-write wave that grew from Yahtzee (Qwixx, Ganz schön clever / That's Pretty Clever), with free roll-and-write sheets to print (Hall of the Dwarven King, Hide nor Hare). For each: dice needed, players, time. Links to 'yahtzee-strategy' (plan B). Peak in December.",
+    "outline": [
+      "Yacht, Yahtzee's public-domain ancestor",
+      "Generala and poker dice",
+      "Push-your-luck dice games: Farkle, Shut the Box",
+      "Roll-and-write games: Yahtzee's grandchildren",
+      "Free score sheets to print",
+      "Roll the dice online"
+    ],
+    "season_deadline": "2026-11-30",
+    "priority": 1
+  },
+  {
+    "rank": 10,
+    "slug": "games-like-sorry",
+    "title": "Games like Sorry!: 9 race-and-bump board games for families",
+    "target_keyword": "games like sorry",
+    "secondary_keywords": [
+      {
+        "keyword": "board games like sorry",
+        "volume_us": 320,
+        "volume_uk": 10,
+        "kd": 0
+      },
+      {
+        "keyword": "games like trouble",
+        "volume_us": 140,
+        "volume_uk": 10,
+        "kd": 3
+      },
+      {
+        "keyword": "games like ludo",
+        "volume_us": 30,
+        "volume_uk": 50,
+        "kd": 0
+      }
+    ],
+    "volume_us": 390,
+    "volume_uk": 10,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 880,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 720
+    },
+    "serp_notes": "Top 5: nerdist.com (media list), reddit.com, crazygames.com (online games), facebook.com, uppervalleyfun.com (local blog); rochesterfirst.com (TV station list), amazon.com and walmart.com next. One media list and retailers.",
+    "silo": "board-games/printable-boards",
+    "pushes": [
+      "/board-games/printable-pachisi-board/",
+      "/rules/ludo/",
+      "/board-games/printable-chinese-checkers/",
+      "/board-games/printable-snakes-and-ladders/",
+      "/board-games/printable-backgammon-board/"
+    ],
+    "needs": [
+      "Printable page: Aggravation / marble race board (generic 'marble race' name; Aggravation and Trouble are trademarks); 'game like sorry with marbles' 140 US"
+    ],
+    "article_type": "list",
+    "interactive_tool": "DiceRoller dice=1 sides=6. Figure: family tree Pachisi → Ludo / Parcheesi → Sorry!, Trouble, Aggravation (dates to be sourced).",
+    "angle": "Sorry!, Trouble, Aggravation, Wahoo and Ludo are one family: race your pawns around a track and send rivals home, all descended from Pachisi (to be sourced). We explain what each changes (cards instead of dice, the Pop-O-Matic, shortcuts), then give the free printable boards: Pachisi, Ludo rules, Chinese checkers for up to six, Snakes and Ladders for the youngest and Backgammon as the grown-up race game. Peak in December.",
+    "outline": [
+      "Sorry!'s family tree: from Pachisi to Ludo",
+      "Trouble, Aggravation and marble games",
+      "Ludo and Parcheesi: the classics",
+      "Chinese checkers: a race for six",
+      "Backgammon: the grown-up race game",
+      "Print a board tonight"
+    ],
+    "season_deadline": "2026-11-30",
+    "priority": 1
+  },
+  {
+    "rank": 11,
+    "slug": "games-like-exploding-kittens",
+    "title": "Games like Exploding Kittens: 10 fast and funny card games",
+    "target_keyword": "games like exploding kittens",
+    "secondary_keywords": [],
+    "volume_us": 480,
+    "volume_uk": 210,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 480,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 1300
+    },
+    "serp_notes": "Top 5: explodingkittens.com (brand, 2 pages), reddit.com, boardgamegeek.com (thread), facebook.com; simplesimonandco.com (family blog list), youtube.com, minireview.io (apps) and jackboxgames.com next. The brand owns two spots, the rest is forums and one family blog.",
+    "silo": "card-games",
+    "pushes": [
+      "/card-games/brains/",
+      "/card-games/ninjitsu/",
+      "/card-games/scuttle/",
+      "/card-games/village-pillage/",
+      "/dice-games/goblin-teeth/"
+    ],
+    "needs": [],
+    "article_type": "list",
+    "interactive_tool": "Quiz mode=\"match\": 'Which chaos card game for your group?' (players, age, how mean). Timer seconds=900 for 'one game before dinner'.",
+    "angle": "What people like in Exploding Kittens is the short, chaotic draw-and-steal loop. Commercial picks (Unstable Unicorns, Here to Slay, Sushi Go, Coup, Taco Cat Goat Cheese Pizza, Throw Throw Burrito; ages and players to be checked) plus a strong free block: four Jellybean Games card games (Brains, Ninjitsu, Scuttle, Village Pillage, several hosted on the site with the publisher's permission) and Goblin Teeth (dice bidding). Each with players, age, time.",
+    "outline": [
+      "Why Exploding Kittens works",
+      "Games with the same draw-and-boom tension",
+      "Take-that games for families",
+      "Party chaos for adults",
+      "Free card games to print (Jellybean Games)",
+      "Which one for your group? (quiz)"
+    ],
+    "season_deadline": "2026-11-30",
+    "priority": 1
+  },
+  {
+    "rank": 12,
+    "slug": "games-like-codenames",
+    "title": "Games like Codenames: 10 word and clue party games",
+    "target_keyword": "games like codenames",
+    "secondary_keywords": [],
+    "volume_us": 480,
+    "volume_uk": 90,
+    "kd": 3,
+    "intent": "informational",
+    "cluster_volume_us": 480,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 1300
+    },
+    "serp_notes": "Top 5: boardgamegeek.com (thread), en.wikipedia.org (the game itself), reddit.com, facebook.com, a spam page; polygon.com (party games list), gg.deals and wired.com next. No dedicated list in the top 5.",
+    "silo": "party-games",
+    "pushes": [
+      "/party-games/concept-print-and-play-demo/",
+      "/party-games/dixit-print-and-play/",
+      "/party-games/show-tile/",
+      "/party-games/printable-quick-on-the-draw/"
+    ],
+    "needs": [],
+    "article_type": "list",
+    "interactive_tool": "Timer seconds=60 for clue rounds; Quiz mode=\"match\" (team size, words or pictures, competitive or co-op).",
+    "angle": "Codenames is a one-word-clue team game. We group alternatives by what they keep: one-word clues (Just One, Codenames Duet, Decrypto), pictures instead of words (Dixit, Mysterium), limited communication (Concept, Wavelength), drawing (Quick on the Draw, Telestrations). Free options: Concept and Dixit print-and-play demos, Show Tile (tangram guessing, hosted with permission), Quick on the Draw scorecards. Peak in December.",
+    "outline": [
+      "What makes Codenames great",
+      "One-word clue games",
+      "Picture-clue games",
+      "Games with limited communication",
+      "Drawing and building games",
+      "Free party games to print"
+    ],
+    "season_deadline": "2026-11-30",
+    "priority": 1
+  },
+  {
+    "rank": 13,
+    "slug": "games-like-risk",
+    "title": "Games like Risk: 10 war and territory games that end on time",
+    "target_keyword": "games like risk",
+    "secondary_keywords": [
+      {
+        "keyword": "strategy games like risk",
+        "volume_us": 1000,
+        "volume_uk": 170,
+        "kd": 0
+      },
+      {
+        "keyword": "board games like risk",
+        "volume_us": 320,
+        "volume_uk": 70,
+        "kd": 0
+      }
+    ],
+    "volume_us": 1000,
+    "volume_uk": 170,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 2320,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 1600
+    },
+    "serp_notes": "Top 5: reddit.com, boardgamegeek.com (geeklist), facebook.com, youtube.com, assortedmeeples.com (hobby blog list); donteatthemeeples.com (Substack), steamcommunity.com, amazon.com and minireview.io next. Forums and two hobby lists.",
+    "silo": "board-games",
+    "pushes": [
+      "/board-games/bloc-by-bloc-uprising/",
+      "/board-games/printable-siege-of-paris/",
+      "/board-games/the-fantasy-trip-melee/",
+      "/board-games/small-world-lost-tribes-crusade/"
+    ],
+    "needs": [],
+    "article_type": "list",
+    "interactive_tool": "DiceRoller dice=3 sides=6 (Risk battle odds), StatGrid of Risk's attack odds (to be computed and checked).",
+    "angle": "Risk's known pain points (long games, player elimination, dice deciding everything) give the structure: shorter conquest (Small World, Kemet), less luck (Inis, Root), two-player duels (Twilight Struggle, Memoir '44), and free printable war games: Bloc by Bloc: Uprising (CC licence, hosted), Siege of Paris, Steve Jackson's Melee (free PDF). Small World Lost Tribes is a free expansion, so it is listed under Small World. Players and times to be checked on BoardGameGeek. Peak in December.",
+    "outline": [
+      "What Risk does well and what it does badly",
+      "Faster conquest games",
+      "Less luck, more strategy",
+      "Two-player war games",
+      "Free printable war games",
+      "Risk's dice odds in one table"
+    ],
+    "season_deadline": "2026-11-30",
+    "priority": 1
+  },
+  {
+    "rank": 14,
+    "slug": "games-to-play-without-anything",
+    "title": "Games to play without anything: 20 no-equipment games for any group",
+    "target_keyword": "games to play with friends without anything",
+    "secondary_keywords": [
+      {
+        "keyword": "games to play with family without anything",
+        "volume_us": 1900,
+        "volume_uk": 590,
+        "kd": 0
+      },
+      {
+        "keyword": "games to play without anything",
+        "volume_us": 720,
+        "volume_uk": 210,
+        "kd": 0
+      },
+      {
+        "keyword": "indoor games to play without anything",
+        "volume_us": 720,
+        "volume_uk": 210,
+        "kd": 0
+      },
+      {
+        "keyword": "games for couples to play without anything",
+        "volume_us": 480,
+        "volume_uk": 140,
+        "kd": 0
+      },
+      {
+        "keyword": "games with no equipment",
+        "volume_us": 170,
+        "volume_uk": 70,
+        "kd": 0
+      }
+    ],
+    "volume_us": 5400,
+    "volume_uk": 1300,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 9390,
+    "peak_month_us": {
+      "month": "2025-11",
+      "volume": 8100
+    },
+    "serp_notes": "Top 5: reddit.com, facebook.com, deepertalk.com (small blog), ask.metafilter.com, quora.com; thegourmethost.com, pinterest.com next. Only forums and small blogs. For 'games to play without anything': reddit.com, simchafisher.com, matadornetwork.com, a council page, letsfib.com, then playwise.education. Demand has grown steadily since 2022.",
+    "silo": "rules/pen-and-paper",
+    "pushes": [
+      "/rules/dots-and-boxes/",
+      "/rules/sprouts/",
+      "/rules/hangman/",
+      "/rules/sim/",
+      "/party-games/printable-heads-bodies-and-legs-game/"
+    ],
+    "needs": [
+      "Rules pages for zero-equipment classics (Twenty Questions, Contact, Ghost, Botticelli, Mafia without cards): measure volumes first"
+    ],
+    "article_type": "list",
+    "interactive_tool": "Picker: random game for tonight (filter: 2 players, family, adults). Timer seconds=60 for guessing rounds.",
+    "angle": "The owner's 'no equipment' request. Part 1, truly nothing: word and guessing games (Twenty Questions, Contact, Ghost, Categories), acting and party games (charades, Wink murder, Mafia with a narrator and no cards), hand games. Each with players, age, a one-paragraph rule and a variant for couples, families, friends. Part 2, 'if you find a pen and a scrap of paper': Dots and Boxes, Sprouts, Sim, Hangman, Heads Bodies and Legs, all with rules pages and printable sheets on the site. The /rules/pen-and-paper/ hub keeps 'pen and paper games' and 'fun games to play on paper' (9,900 US, KD 5): the article links to it and does not target paper games.",
+    "outline": [
+      "Guessing and word games (no equipment at all)",
+      "Acting and party games",
+      "Games for two (couples, car, waiting rooms)",
+      "Games for families with kids",
+      "If you have a pen and paper",
+      "Pick a game at random"
+    ],
+    "season_deadline": "2026-11-20",
+    "priority": 1
+  },
+  {
+    "rank": 15,
+    "slug": "escape-room-board-games",
+    "title": "Escape room board games: Exit vs Unlock and 8 more series compared",
+    "target_keyword": "escape room board games",
+    "secondary_keywords": [
+      {
+        "keyword": "games like escape room",
+        "volume_us": 720,
+        "volume_uk": 10,
+        "kd": 0
+      },
+      {
+        "keyword": "best escape room games",
+        "volume_us": 390,
+        "volume_uk": 210,
+        "kd": 0
+      },
+      {
+        "keyword": "best escape room board games",
+        "volume_us": 260,
+        "volume_uk": 110,
+        "kd": 0
+      },
+      {
+        "keyword": "unlock board game",
+        "volume_us": 720,
+        "volume_uk": 260,
+        "kd": 13
+      },
+      {
+        "keyword": "escape room card game",
+        "volume_us": 170,
+        "volume_uk": 90,
+        "kd": 5
+      }
+    ],
+    "volume_us": 3600,
+    "volume_uk": 1000,
+    "kd": 0,
+    "intent": "transactional",
+    "cluster_volume_us": 5860,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 9900
+    },
+    "serp_notes": "Top 5: islaythedragon.com (hobby guide), unfilteredgamer.com (hobby list), boardgamegeek.com (geeklist), reddit.com, playpartyplan.com (party blog list); a wholesaler, target.com and another BGG list next. AI overview and popular products. Hobby blogs and lists, no major media. DataForSEO labels the intent transactional, but the organic results are informational lists. Huge December peak (9,900).",
+    "silo": "escape-games",
+    "pushes": [
+      "/escape-games/unlock-demo-the-temple-of-ra/",
+      "/escape-games/unlock-demo-5th-avenue/",
+      "/escape-games/the-secret-of-langton-manor-episode-1-legacy/",
+      "/escape-games/escape-team-training-mission-and-central-station/"
+    ],
+    "needs": [],
+    "article_type": "comparison",
+    "interactive_tool": "Comparison table of the series (players, difficulty scale, replayable or not, app needed, destructive components, price range). Quiz mode=\"match\": 'Which escape series for you?'.",
+    "angle": "Series, not single boxes: Exit (destroy components, one play), Unlock (cards plus app, can be passed on), Escape Room: The Game, Deckscape, Escape Tales, Adventure Games, Mystery House, Escape Team. Comparison table, difficulty scales explained, best first box per series (to be checked on publisher sites and BoardGameGeek). Unique angle: the free demos let readers try Unlock's system (four demos on the site) and Escape Team's before buying, and Langton Manor shows what a printable escape room plays like. Distinct from the /escape-games/ hub (printable kits) and from 'diy-escape-room' (plan B). Publish before the December gift peak.",
+    "outline": [
+      "How tabletop escape rooms work",
+      "Exit vs Unlock: the two big series",
+      "Six more series worth knowing",
+      "The comparison table",
+      "Which box to start with",
+      "Try them free: print-and-play demos",
+      "Which series is for you? (quiz)"
+    ],
+    "season_deadline": "2026-11-15",
+    "priority": 1
+  },
+  {
+    "rank": 16,
+    "slug": "board-games-for-seniors",
+    "title": "Board games for seniors: 12 easy games, several free to print large",
+    "target_keyword": "board games for seniors",
+    "secondary_keywords": [
+      {
+        "keyword": "board games for older adults",
+        "volume_us": 1600,
+        "volume_uk": 140,
+        "kd": 0,
+        "note": "close variant grouped by Google Ads with another keyword of this topic (same volume); not added to cluster_volume_us"
+      },
+      {
+        "keyword": "board games for elderly",
+        "volume_us": 1600,
+        "volume_uk": 140,
+        "kd": 0,
+        "note": "close variant grouped by Google Ads with another keyword of this topic (same volume); not added to cluster_volume_us"
+      }
+    ],
+    "volume_us": 1600,
+    "volume_uk": 140,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 1600,
+    "peak_month_us": {
+      "month": "2025-10",
+      "volume": 2900
+    },
+    "serp_notes": "Top 5: bestqualityhomecareagency.com (home care agency blog), reddit.com, thetabletopfamily.com (dementia-friendly list), facebook.com, woodsofcaledonia.com (shop blog); washingtonpointe.com (senior living), target.com, amazon.com and goldencarers.com next. Care-home and shop blogs.",
+    "silo": "board-games/printable-boards",
+    "pushes": [
+      "/board-games/printable-crossword-game-with-friends/",
+      "/board-games/printable-checkerboard/",
+      "/board-games/printable-cribbage-board/",
+      "/board-games/printable-backgammon-board/",
+      "/rules/dominoes/"
+    ],
+    "needs": [],
+    "article_type": "list",
+    "interactive_tool": "Checklist: 'choosing a game for an older player' (large print, few rules, seated, short turns, social) kept in the reader's browser. Quiz mode=\"match\" by situation (visiting grandparents, care home activity, memory loss).",
+    "angle": "Criteria first (vision, dexterity, memory, group size), then games that meet them: classics people already know (checkers, dominoes, backgammon, cribbage, a Scrabble-style word game), simple modern games, and a section on memory loss with sources (Alzheimer's Society or Alzheimer's Association guidance, to be sourced). Our printable boards can be printed on A3 or tabloid paper for large pieces. Complements 'card-games-for-seniors' (plan B) and 'brain-games-for-seniors' (plan A), which it links. Google groups 'older adults' and 'elderly' with this keyword (same volume).",
+    "outline": [
+      "What makes a game senior-friendly",
+      "Classic board games everyone knows",
+      "Word games",
+      "Easy modern games",
+      "Games for people living with dementia",
+      "Print boards large: A3 and tabloid tips"
+    ],
+    "season_deadline": null,
+    "priority": 1
+  },
+  {
+    "rank": 17,
+    "slug": "board-games-for-5-year-olds",
+    "title": "Board games for 5 year olds: 12 first games (and 5 to print)",
+    "target_keyword": "board games for 5 year olds",
+    "secondary_keywords": [
+      {
+        "keyword": "board games for 6 year olds",
+        "volume_us": 1900,
+        "volume_uk": 1000,
+        "kd": 0
+      }
+    ],
+    "volume_us": 3600,
+    "volume_uk": 1900,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 5500,
+    "peak_month_us": {
+      "month": "2025-11",
+      "volume": 8100
+    },
+    "serp_notes": "Top 5: thetabletopfamily.com (family blog list), mindware.orientaltrading.com (shop), facebook.com (two posts), forums.welltrainedmind.com; wonderkidstoy.com (shop), resetera.com, facebook.com and reddit.com next. One family blog, shops and forums. 'board games for 6 year olds' (1,900, KD 0) is just as weak (BGG lists, shops, Reddit) and is merged here.",
+    "silo": "board-games/kids",
+    "pushes": [
+      "/board-games/printable-snakes-and-ladders/",
+      "/board-games/printable-pachisi-board/",
+      "/board-games/printable-mancala-board/",
+      "/card-games/spot-it-dobble-print-and-play-demo/",
+      "/card-games/bandido-covid-19-edition/"
+    ],
+    "needs": [],
+    "article_type": "list",
+    "interactive_tool": "Checklist 'is my child ready for this game?' (counts to 10, waits for a turn, copes with losing). DiceRoller dice=1.",
+    "angle": "What a 5-year-old can manage (counting, turn-taking, losing) explained in one short section with a source on child development (to be sourced), then games by type: cooperative first games so nobody cries (Hoot Owl Hoot, Race to the Treasure, Outfoxed; ages to be checked on publisher sites), classic roll-and-move printables (Snakes and Ladders, Pachisi, Mancala), speed and matching (Spot it demo) and, at 6, a first cooperative card game (Bandido, age 6+). The /board-games/kids/ hub keeps 'print and play games for kids'. Peak in November-December (8,100 in November 2025).",
+    "outline": [
+      "What a 5-year-old can (and can't) handle",
+      "Cooperative first games",
+      "Classic games to print free",
+      "Matching and speed games",
+      "Ready for more at 6",
+      "Tips to play without tears"
+    ],
+    "season_deadline": "2026-11-30",
+    "priority": 1
+  },
+  {
+    "rank": 18,
+    "slug": "board-games-for-3-players",
+    "title": "Board games for 3 players: 12 games that shine with three",
+    "target_keyword": "board games for 3 players",
+    "secondary_keywords": [
+      {
+        "keyword": "best 3 player board games",
+        "volume_us": 720,
+        "volume_uk": 210,
+        "kd": 0
+      }
+    ],
+    "volume_us": 1000,
+    "volume_uk": 260,
+    "kd": 0,
+    "intent": "transactional",
+    "cluster_volume_us": 1720,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 1900
+    },
+    "serp_notes": "Top 5: reddit.com, boardgamegeek.com (geeklist), bardsandcards.com (game shop), facebook.com, dicetower.com (top 10); bogleheads.org, amazon.com, a shop and a BGG thread next. Forums plus one Dice Tower list.",
+    "silo": "board-games",
+    "pushes": [
+      "/board-games/carcassonne-print-and-play-demo/",
+      "/card-games/citadels-print-and-play-demo/",
+      "/dice-games/goblin-teeth/",
+      "/card-games/village-pillage/",
+      "/board-games/printable-chinese-checkers/"
+    ],
+    "needs": [],
+    "article_type": "list",
+    "interactive_tool": "Quiz mode=\"match\": 'Which 3-player game tonight?'. Table of best player count per game (BoardGameGeek poll, to be read on api.geekdo.com).",
+    "angle": "Three is awkward (two gang up on one, kingmaking). We choose games whose BoardGameGeek 'best with' poll includes 3 (to be checked per game) and explain why they work at three. Free print-and-play options: Carcassonne and Citadels demos, Goblin Teeth, Village Pillage (each player plays against both neighbours, perfect at three), Chinese checkers on a three-player star. Sister article of 'card-games-for-3-people' (plan B).",
+    "outline": [
+      "Why three players is tricky",
+      "The 12 games at a glance (table)",
+      "Light games for three",
+      "Strategy games that are best at three",
+      "Free games to print for three",
+      "Which one tonight? (quiz)"
+    ],
+    "season_deadline": "2026-12-01",
+    "priority": 1
+  },
+  {
+    "rank": 19,
+    "slug": "games-to-play-on-a-plane",
+    "title": "Games to play on a plane: 12 tiny games that fit a tray table",
+    "target_keyword": "games to play on a plane",
+    "secondary_keywords": [
+      {
+        "keyword": "travel board games",
+        "volume_us": 1000,
+        "volume_uk": 720,
+        "kd": 0
+      },
+      {
+        "keyword": "travel games for adults",
+        "volume_us": 720,
+        "volume_uk": 1000,
+        "kd": 3
+      }
+    ],
+    "volume_us": 880,
+    "volume_uk": 320,
+    "kd": 5,
+    "intent": "informational",
+    "cluster_volume_us": 2600,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 1300
+    },
+    "serp_notes": "Top 5: beaches.com (resort blog, kids), reddit.com (r/iosgaming), facebook.com, tiktok.com, lemon8-app.com; facebook.com, gamefaqs.gamespot.com and ticstacktoe.com next. Social posts and app threads, no list of physical games for adults. 'travel board games' (1,000, KD 0) shows a hobby-blog and shop SERP (bitewinggames.com, amazon.com, whatsericplaying.com): secondary.",
+    "silo": "board-games/solo",
+    "pushes": [
+      "/card-games/orchard-9-card-solitaire/",
+      "/card-games/mini-rogue-print-and-play/",
+      "/dice-games/under-falling-skies-9-card-solo-game/",
+      "/card-games/zombie-in-my-pocket/",
+      "/rules/dots-and-boxes/"
+    ],
+    "needs": [],
+    "article_type": "list",
+    "interactive_tool": "Checklist 'packing a game kit for a flight' (printed cards in a sleeve, pencil, dice in a tin or a dice app). DiceRoller for games that need dice.",
+    "angle": "A tray-table test: footprint, no loose pieces, no rolling dice, playable alone or with your neighbour. Free microgames make the best answer: Orchard (9 cards), Mini Rogue, Under Falling Skies 9-card, Zombie in my Pocket, all printable in a few pages, plus pen-and-paper duels (Dots and Boxes) and commercial travel picks (Hive Pocket, Love Letter, The Mind; to be checked). Demand peaks in summer and around the holidays.",
+    "outline": [
+      "The tray-table test",
+      "Solo microgames to print",
+      "Games for two side by side",
+      "Pen-and-paper games",
+      "Small boxes worth buying",
+      "Pack your flight game kit"
+    ],
+    "season_deadline": "2026-11-20",
+    "priority": 1
+  },
+  {
+    "rank": 20,
+    "slug": "board-games-for-large-groups",
+    "title": "Board games for large groups: 12 games for 8 to 20+ players",
+    "target_keyword": "board games for large groups",
+    "secondary_keywords": [
+      {
+        "keyword": "board games for big groups",
+        "volume_us": 720,
+        "volume_uk": 110,
+        "kd": 0
+      }
+    ],
+    "volume_us": 720,
+    "volume_uk": 110,
+    "kd": 0,
+    "intent": "commercial",
+    "cluster_volume_us": 1440,
+    "peak_month_us": {
+      "month": "2025-11",
+      "volume": 1300
+    },
+    "serp_notes": "Top 5: reddit.com, boardgamegeek.com (thread), bigpotato.com (publisher shop), wccls.bibliocommons.com (library list), facebook.com; boardgamesforlearning.com, amazon.com, nytimes.com (Wirecutter party games) and thechaosandtheclutter.com next. Forums, a shop and a library list; Wirecutter at 8.",
+    "silo": "party-games",
+    "pushes": [
+      "/party-games/two-rooms-and-a-boom/",
+      "/party-games/concept-print-and-play-demo/",
+      "/card-games/meow/",
+      "/party-games/secret-hitler/",
+      "/party-games/dixit-print-and-play/"
+    ],
+    "needs": [],
+    "article_type": "list",
+    "interactive_tool": "Quiz mode=\"match\" by group size (6-8, 9-12, 13+) and mood. Timer for team rounds.",
+    "angle": "Sorted by the real maximum player count (to be checked on BoardGameGeek): 6-8 (Dixit, Secret Hitler), 9-12 (Concept, Meow up to 12), 13+ (Two Rooms and a Boom, 6 to 30 players). Several are free to print, which matters when you need many copies of cards. Links to 'social-deduction-games' (plan B) for the hidden-role games and to the card-games-for-large-groups reserve topic. Peak in December.",
+    "outline": [
+      "What works with a big group (and what doesn't)",
+      "Games for 6 to 8",
+      "Games for 9 to 12",
+      "Games for 13 and more",
+      "Free printable party games",
+      "Which game for your group size? (quiz)"
+    ],
+    "season_deadline": "2026-11-30",
+    "priority": 2
+  },
+  {
+    "rank": 21,
+    "slug": "quick-board-games",
+    "title": "Quick board games: 15 games you can play in 20 minutes",
+    "target_keyword": "quick board games",
+    "secondary_keywords": [
+      {
+        "keyword": "filler games",
+        "volume_us": 480,
+        "volume_uk": 70,
+        "kd": 0
+      },
+      {
+        "keyword": "short board games",
+        "volume_us": 110,
+        "volume_uk": 20,
+        "kd": 1
+      }
+    ],
+    "volume_us": 320,
+    "volume_uk": 90,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 910,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 480
+    },
+    "serp_notes": "Top 5: reddit.com, bitewinggames.com (publisher blog), facebook.com, veryspecialgames.com (shop), darcyandbrian.com (family blog); walmart.com, forum.rpg.net, instagram.com, thetabletopfamily.com next. For 'filler games': tabletopbellhop.com, bitewinggames.com, reddit.com, boardgamegeek.com, twinkl.com (classroom), then hobby blogs.",
+    "silo": "board-games",
+    "pushes": [
+      "/card-games/love-letter-print-and-play/",
+      "/card-games/spot-it-dobble-print-and-play-demo/",
+      "/card-games/ninjitsu/",
+      "/board-games/the-closest-ghost/",
+      "/board-games/printable-three-mens-morris/"
+    ],
+    "needs": [],
+    "article_type": "list",
+    "interactive_tool": "Timer seconds=1200 ('can you finish before the timer?'). Table: time, players, setup time.",
+    "angle": "Quick means play time and setup time: we give both. Commercial fillers (Love Letter, Sushi Go, Hanabi, The Mind, No Thanks; times to be checked on BoardGameGeek) next to free ones that set up in a minute: Love Letter print-and-play, Spot it demo, Ninjitsu (5 minutes), The Closest Ghost (5 minutes, played with real sweets), Three Men's Morris. 'filler games' brings the hobby audience.",
+    "outline": [
+      "What counts as a quick game (play and setup)",
+      "Card games under 20 minutes",
+      "Board games under 20 minutes",
+      "Two-player quickies",
+      "Free quick games to print",
+      "Fillers for game night"
+    ],
+    "season_deadline": null,
+    "priority": 2
+  },
+  {
+    "rank": 22,
+    "slug": "cooperative-board-games",
+    "title": "Cooperative board games: 15 games where you win or lose together",
+    "target_keyword": "cooperative board games",
+    "secondary_keywords": [
+      {
+        "keyword": "cooperative card games",
+        "volume_us": 1600,
+        "volume_uk": 30,
+        "kd": 0
+      },
+      {
+        "keyword": "best cooperative board games",
+        "volume_us": 1300,
+        "volume_uk": 260,
+        "kd": 0
+      },
+      {
+        "keyword": "cooperative board games for 2 players",
+        "volume_us": 720,
+        "volume_uk": 50,
+        "kd": 4
+      },
+      {
+        "keyword": "2 player cooperative board games",
+        "volume_us": 720,
+        "volume_uk": 50,
+        "kd": 0
+      },
+      {
+        "keyword": "cooperative board games for families",
+        "volume_us": 590,
+        "volume_uk": 30,
+        "kd": 0
+      }
+    ],
+    "volume_us": 40500,
+    "volume_uk": 720,
+    "kd": 4,
+    "intent": "informational",
+    "cluster_volume_us": 45430,
+    "peak_month_us": {
+      "month": "2025-11",
+      "volume": 74000
+    },
+    "serp_notes": "Top 5: shutupandsitdown.com (major review site), whatboardgame.com, reddit.com, nerdsonearth.com (list), habausa.com (publisher shop); facebook.com (3 posts), miniaturemarket.com and nytimes.com (Wirecutter) next. KD 4 but SU&SD and Wirecutter are strong. Caution on volume: the 12-month average (40,500) comes from a spike (60,500 to 74,000 from October 2025 to January 2026) and fell to 5,400 in September 2026; the level before 2025 was 3,000 to 8,000.",
+    "silo": "board-games",
+    "pushes": [
+      "/board-games/pandemic-hot-zone-north-america-print-and-play/",
+      "/card-games/bandido-covid-19-edition/",
+      "/board-games/bloc-by-bloc-uprising/",
+      "/escape-games/the-secret-of-langton-manor-episode-1-legacy/",
+      "/escape-games/unlock-demo-the-temple-of-ra/"
+    ],
+    "needs": [],
+    "article_type": "list",
+    "interactive_tool": "Quiz mode=\"match\" (players, age, difficulty, time). BarChart of BoardGameGeek weight per game (to be read on api.geekdo.com).",
+    "angle": "Organised by who plays: families with young children (Bandido, free, age 6+; Hoot Owl Hoot), couples and two players (Pandemic, Sky Team, The Crew), groups (Hanabi, The Mind), deep campaigns (Spirit Island, Gloomhaven), plus cooperative escape rooms. One section on the 'alpha player' problem and how designs avoid it. Free print-and-play block: Pandemic Hot Zone, Bandido, Bloc by Bloc (CC licence), Langton Manor, Unlock demos. Growth target (strong sites in the SERP), but every sub-intent (2 players, families, card games) is weak.",
+    "outline": [
+      "What is a cooperative board game?",
+      "Co-op games for families",
+      "Co-op games for two",
+      "Co-op games for groups",
+      "Deep co-op campaigns",
+      "Escape rooms: the co-op puzzle",
+      "Free co-op games to print",
+      "Which one is for you? (quiz)"
+    ],
+    "season_deadline": "2026-11-15",
+    "priority": 3
+  },
+  {
+    "rank": 23,
+    "slug": "best-board-games-for-adults",
+    "title": "Best board games for adults: 20 picks from party to strategy",
+    "target_keyword": "best board games for adults",
+    "secondary_keywords": [
+      {
+        "keyword": "board games for adults",
+        "volume_us": 8100,
+        "volume_uk": 4400,
+        "kd": 14
+      }
+    ],
+    "volume_us": 5400,
+    "volume_uk": 2400,
+    "kd": 0,
+    "intent": "informational",
+    "cluster_volume_us": 13500,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 18100
+    },
+    "serp_notes": "Top results: wargamer.com, reddit.com, youtube.com, anindigoday.com (blog), youtube.com; gamenightgames.com, boardgames.world, ign.com and Pinterest next. KD 0 for the 'best' form, KD 14 for 'board games for adults'; Wargamer and IGN are strong media sites. Growth target.",
+    "silo": "board-games",
+    "pushes": [
+      "/party-games/secret-hitler/",
+      "/card-games/citadels-print-and-play-demo/",
+      "/card-games/unfair-base-game/",
+      "/party-games/dixit-print-and-play/",
+      "/board-games/pandemic-hot-zone-north-america-print-and-play/"
+    ],
+    "needs": [],
+    "article_type": "list",
+    "interactive_tool": "Quiz mode=\"match\" (party, strategy, co-op, two-player; time available). Table: players, time, BoardGameGeek weight.",
+    "angle": "A hub-like list by occasion (party night, strategy night, co-op, two players), each with a commercial pick and a free print-and-play alternative where one exists (Secret Hitler, CC BY-NC-SA 4.0; Citadels demo; Unfair; Dixit demo; Pandemic Hot Zone). Links out to the more specific articles of this plan (couples, Catan, Risk, mystery, co-op). Strong media competition: publish after the quick wins and build internal links to it first. Peak in December.",
+    "outline": [
+      "How we picked (and what 'for adults' means)",
+      "Party games for adults",
+      "Strategy games",
+      "Cooperative games",
+      "Games for two adults",
+      "Free games to print",
+      "Which one for your game night? (quiz)"
+    ],
+    "season_deadline": "2026-11-30",
+    "priority": 3
+  },
+  {
+    "rank": 24,
+    "slug": "abstract-strategy-board-games",
+    "title": "Abstract strategy board games: 15 classics and modern picks",
+    "target_keyword": "abstract strategy board games",
+    "secondary_keywords": [
+      {
+        "keyword": "best abstract strategy games",
+        "volume_us": 40,
+        "volume_uk": 10,
+        "kd": 4
+      }
+    ],
+    "volume_us": 14800,
+    "volume_uk": 50,
+    "kd": 9,
+    "intent": "transactional",
+    "cluster_volume_us": 14840,
+    "peak_month_us": {
+      "month": "2025-12",
+      "volume": 40500
+    },
+    "serp_notes": "Top 5: boardgamegeek.com (geeklist, ranking page), reddit.com, dicetower.com (top 10), facebook.com; boardgamegeekstore.com, two more BGG pages and boardgamebliss.com (shop) next. BGG owns 4 of 10 spots. Caution on volume: the 14,800 average comes from a spike (40,500 in December 2025); the series was under 300 a month until 2025 and was 2,400 to 8,100 in mid-2026. Growth target.",
+    "silo": "board-games/printable-boards",
+    "pushes": [
+      "/board-games/printable-go-board-9x9/",
+      "/board-games/printable-reversi-board/",
+      "/board-games/printable-nine-mens-morris/",
+      "/board-games/printable-mancala-board/",
+      "/board-games/icetoids/"
+    ],
+    "needs": [],
+    "article_type": "list",
+    "interactive_tool": "Figure: families of abstract games (alignment, territory, capture, connection, sowing, race). Quiz mode=\"match\".",
+    "angle": "Definition (perfect information, little or no luck, theme optional), then the families with one classic and one modern game each: territory (Go / Blokus), flipping (Reversi), mills (Nine Men's Morris), sowing (Mancala), connection (Hex, TwixT), stacking and movement (Hive, Santorini, Onitama, Quarto; details to be checked on BoardGameGeek). The classics are public domain and their boards print free on the site. 'games-like-chess' covers the chess family; this article links to it and pushes the other boards.",
+    "outline": [
+      "What makes a game 'abstract'",
+      "Territory games: Go and its heirs",
+      "Flipping and capture: Reversi, checkers",
+      "Mill games: Nine Men's Morris",
+      "Sowing games: Mancala",
+      "Modern abstracts worth buying",
+      "Print a classic board free"
+    ],
+    "season_deadline": null,
+    "priority": 3
+  }
+]

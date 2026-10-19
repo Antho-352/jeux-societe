@@ -1,0 +1,595 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.1267 sec.",
+  "cost": 0.01212,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190443-2588-0607-0000-5262230499c1",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0.0711 sec.",
+    "cost": 0.01212,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "dataforseo_labs",
+     "google",
+     "keyword_overview",
+     "live"
+    ],
+    "data": {
+     "api": "dataforseo_labs",
+     "function": "keyword_overview",
+     "se_type": "google",
+     "keywords": [
+      "monopoly type game",
+      "two player strategy games",
+      "best detective board games"
+     ],
+     "location_code": 2826,
+     "language_code": "en",
+     "include_serp_info": true
+    },
+    "result": [
+     {
+      "se_type": "google",
+      "location_code": 2826,
+      "language_code": "en",
+      "items_count": 1,
+      "items": [
+       {
+        "se_type": "google",
+        "keyword": "best detective board games",
+        "location_code": 2826,
+        "language_code": "en",
+        "search_partners": false,
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-10-18 03:49:09 +00:00",
+         "competition": 1,
+         "competition_level": "HIGH",
+         "cpc": 0.61,
+         "search_volume": 30,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10015,
+          10125
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 40
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 110
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 90
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 40
+          },
+          {
+           "year": 2025,
+           "month": 9,
+           "search_volume": 40
+          },
+          {
+           "year": 2025,
+           "month": 8,
+           "search_volume": 40
+          },
+          {
+           "year": 2025,
+           "month": 7,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 6,
+           "search_volume": 20
+          },
+          {
+           "year": 2025,
+           "month": 5,
+           "search_volume": 40
+          },
+          {
+           "year": 2025,
+           "month": 4,
+           "search_volume": 20
+          },
+          {
+           "year": 2025,
+           "month": 3,
+           "search_volume": 20
+          },
+          {
+           "year": 2025,
+           "month": 2,
+           "search_volume": 30
+          },
+          {
+           "year": 2025,
+           "month": 1,
+           "search_volume": 50
+          },
+          {
+           "year": 2024,
+           "month": 12,
+           "search_volume": 170
+          },
+          {
+           "year": 2024,
+           "month": 11,
+           "search_volume": 70
+          },
+          {
+           "year": 2024,
+           "month": 10,
+           "search_volume": 50
+          },
+          {
+           "year": 2024,
+           "month": 9,
+           "search_volume": 30
+          },
+          {
+           "year": 2024,
+           "month": 8,
+           "search_volume": 20
+          },
+          {
+           "year": 2024,
+           "month": 7,
+           "search_volume": 20
+          },
+          {
+           "year": 2024,
+           "month": 6,
+           "search_volume": 30
+          },
+          {
+           "year": 2024,
+           "month": 5,
+           "search_volume": 20
+          },
+          {
+           "year": 2024,
+           "month": 4,
+           "search_volume": 30
+          },
+          {
+           "year": 2024,
+           "month": 3,
+           "search_volume": 30
+          },
+          {
+           "year": 2024,
+           "month": 2,
+           "search_volume": 20
+          },
+          {
+           "year": 2024,
+           "month": 1,
+           "search_volume": 50
+          },
+          {
+           "year": 2023,
+           "month": 12,
+           "search_volume": 170
+          },
+          {
+           "year": 2023,
+           "month": 11,
+           "search_volume": 110
+          },
+          {
+           "year": 2023,
+           "month": 10,
+           "search_volume": 40
+          },
+          {
+           "year": 2023,
+           "month": 9,
+           "search_volume": 50
+          },
+          {
+           "year": 2023,
+           "month": 8,
+           "search_volume": 40
+          },
+          {
+           "year": 2023,
+           "month": 7,
+           "search_volume": 20
+          },
+          {
+           "year": 2023,
+           "month": 6,
+           "search_volume": 40
+          },
+          {
+           "year": 2023,
+           "month": 5,
+           "search_volume": 30
+          },
+          {
+           "year": 2023,
+           "month": 4,
+           "search_volume": 40
+          },
+          {
+           "year": 2023,
+           "month": 3,
+           "search_volume": 50
+          },
+          {
+           "year": 2023,
+           "month": 2,
+           "search_volume": 30
+          },
+          {
+           "year": 2023,
+           "month": 1,
+           "search_volume": 90
+          },
+          {
+           "year": 2022,
+           "month": 12,
+           "search_volume": 210
+          },
+          {
+           "year": 2022,
+           "month": 11,
+           "search_volume": 110
+          },
+          {
+           "year": 2022,
+           "month": 10,
+           "search_volume": 50
+          },
+          {
+           "year": 2022,
+           "month": 9,
+           "search_volume": 40
+          },
+          {
+           "year": 2022,
+           "month": 8,
+           "search_volume": 30
+          },
+          {
+           "year": 2022,
+           "month": 7,
+           "search_volume": 30
+          },
+          {
+           "year": 2022,
+           "month": 6,
+           "search_volume": 50
+          },
+          {
+           "year": 2022,
+           "month": 5,
+           "search_volume": 40
+          },
+          {
+           "year": 2022,
+           "month": 4,
+           "search_volume": 30
+          },
+          {
+           "year": 2022,
+           "month": 3,
+           "search_volume": 20
+          },
+          {
+           "year": 2022,
+           "month": 2,
+           "search_volume": 20
+          },
+          {
+           "year": 2022,
+           "month": 1,
+           "search_volume": 50
+          },
+          {
+           "year": 2021,
+           "month": 12,
+           "search_volume": 140
+          },
+          {
+           "year": 2021,
+           "month": 11,
+           "search_volume": 90
+          },
+          {
+           "year": 2021,
+           "month": 10,
+           "search_volume": 50
+          },
+          {
+           "year": 2021,
+           "month": 9,
+           "search_volume": 30
+          },
+          {
+           "year": 2021,
+           "month": 8,
+           "search_volume": 40
+          },
+          {
+           "year": 2021,
+           "month": 7,
+           "search_volume": 30
+          },
+          {
+           "year": 2021,
+           "month": 6,
+           "search_volume": 20
+          },
+          {
+           "year": 2021,
+           "month": 5,
+           "search_volume": 30
+          },
+          {
+           "year": 2021,
+           "month": 4,
+           "search_volume": 30
+          },
+          {
+           "year": 2021,
+           "month": 3,
+           "search_volume": 50
+          },
+          {
+           "year": 2021,
+           "month": 2,
+           "search_volume": 70
+          },
+          {
+           "year": 2021,
+           "month": 1,
+           "search_volume": 90
+          },
+          {
+           "year": 2020,
+           "month": 12,
+           "search_volume": 170
+          },
+          {
+           "year": 2020,
+           "month": 11,
+           "search_volume": 70
+          },
+          {
+           "year": 2020,
+           "month": 10,
+           "search_volume": 30
+          },
+          {
+           "year": 2020,
+           "month": 9,
+           "search_volume": 30
+          },
+          {
+           "year": 2020,
+           "month": 8,
+           "search_volume": 30
+          },
+          {
+           "year": 2020,
+           "month": 7,
+           "search_volume": 50
+          },
+          {
+           "year": 2020,
+           "month": 6,
+           "search_volume": 30
+          },
+          {
+           "year": 2020,
+           "month": 5,
+           "search_volume": 50
+          },
+          {
+           "year": 2020,
+           "month": 4,
+           "search_volume": 70
+          },
+          {
+           "year": 2020,
+           "month": 3,
+           "search_volume": 50
+          },
+          {
+           "year": 2020,
+           "month": 2,
+           "search_volume": 20
+          },
+          {
+           "year": 2020,
+           "month": 1,
+           "search_volume": 40
+          },
+          {
+           "year": 2019,
+           "month": 12,
+           "search_volume": 110
+          },
+          {
+           "year": 2019,
+           "month": 11,
+           "search_volume": 50
+          },
+          {
+           "year": 2019,
+           "month": 10,
+           "search_volume": 40
+          },
+          {
+           "year": 2019,
+           "month": 9,
+           "search_volume": 20
+          },
+          {
+           "year": 2019,
+           "month": 8,
+           "search_volume": 30
+          },
+          {
+           "year": 2019,
+           "month": 7,
+           "search_volume": 50
+          },
+          {
+           "year": 2019,
+           "month": 6,
+           "search_volume": 20
+          },
+          {
+           "year": 2019,
+           "month": 5,
+           "search_volume": 20
+          },
+          {
+           "year": 2019,
+           "month": 4,
+           "search_volume": 20
+          },
+          {
+           "year": 2019,
+           "month": 3,
+           "search_volume": 10
+          },
+          {
+           "year": 2019,
+           "month": 2,
+           "search_volume": 20
+          },
+          {
+           "year": 2019,
+           "month": 1,
+           "search_volume": 20
+          },
+          {
+           "year": 2018,
+           "month": 12,
+           "search_volume": 40
+          },
+          {
+           "year": 2018,
+           "month": 11,
+           "search_volume": 50
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": -50,
+          "quarterly": 0,
+          "yearly": -75
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": null,
+         "synonym_clustering_algorithm": "text_processing",
+         "keyword_difficulty": 12,
+         "detected_language": "en",
+         "is_another_language": false
+        },
+        "serp_info": {
+         "se_type": "google",
+         "check_url": "https://www.google.co.uk/search?q=best%20detective%20board%20games&num=100&hl=en&gl=GB&gws_rd=cr&ie=UTF-8&oe=UTF-8&uule=w+CAIQIFISCamRx0IRO1oCEXoliDJDoPjE",
+         "serp_item_types": [
+          "featured_snippet",
+          "organic",
+          "popular_products",
+          "related_searches"
+         ],
+         "se_results_count": 23600000,
+         "last_updated_time": "2024-01-20 02:24:10 +00:00",
+         "previous_updated_time": "2023-12-20 04:57:44 +00:00"
+        },
+        "avg_backlinks_info": {
+         "se_type": "google",
+         "backlinks": 81.4,
+         "dofollow": 38.1,
+         "referring_pages": 53.8,
+         "referring_domains": 16.3,
+         "referring_main_domains": 15.2,
+         "rank": 105.9,
+         "main_domain_rank": 545.1,
+         "last_updated_time": "2024-01-20 02:24:10 +00:00"
+        },
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "informational",
+         "foreign_intent": null,
+         "last_updated_time": "2026-04-29 10:38:19 +00:00"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]
