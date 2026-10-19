@@ -1,0 +1,763 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "4.7666 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190345-2588-0139-0000-9bd9a252f6ef",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "4.6745 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "date night games",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "date night games",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=date%20night%20games&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:45:04 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "related_searches"
+      ],
+      "se_results_count": 117,
+      "pages_count": 1,
+      "items_count": 12,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "Date night games give you and your partner a fun way to connect, laugh, and skip the usual TV routine.[[1]](https://www.tiktok.com/@atwistofdate/video/7515504602138119446)\n\n### Cooperative & Teamwork Games\n\n- **[Codenames Duet](https://www.lowkeycoffeesnobs.com/best-board-games-for-couples/):** A two-player word-association game where you both work as a team to uncover secret agents before time runs out.\n- **Pandemic:** A high-stakes cooperative board game where you team up to stop global diseases and save the world.\n- **The Game / The Mind:** Card games that rely on non-linear or non-verbal number sequencing, testing how well you read each other's flow.[[1]](https://www.boardgamequest.com/top-10-couples-date-night-games/)[[2]](https://www.lowkeycoffeesnobs.com/best-board-games-for-couples/)[[3]](https://www.offtheeatenpathblog.com/8-fun-board-games-for-couples/)[[4]](https://tabletopbellhop.com/gaming-advice/date-night-games/)\n\n### Competitive & Strategy 2-Player Games\n\n- **The Fox in the Forest:** A clever, fairy-tale-themed trick-taking card game built specifically for two players (try *The Fox in the Forest: Duet* for a co-op version).\n- **Patchwork:** A relaxing, Tetris-style tile-laying game where you stitch together a quilt against your partner.\n- **Jaipur:** A fast-paced card game of trading, bluffing, and collecting goods as rival merchants.\n- **Hive:** A portable, boardless tile game where you try to surround your partner's queen bee.[[1]](https://www.lowkeycoffeesnobs.com/best-board-games-for-couples/)[[2]](https://tabletopbellhop.com/gaming-advice/date-night-games/)[[3]](https://www.offtheeatenpathblog.com/8-fun-board-games-for-couples/)\n\n### Conversation & Connection Decks\n\n- **We're Not Really Strangers (Couples Edition):** A popular question-and-answer card game designed to deepen emotional intimacy and vulnerability ($20.99).\n- **Why Don't We – Spice It Up:** A 150-card box featuring conversation prompts and light dares to break up routine date nights.\n- **Let's Have a Date:** A scratch-off card deck featuring 20 indoor and 20 outdoor surprise date ideas.[[1]](https://www.target.com/s/the+ultimate+game+for+couples)[[2]](https://www.amazon.com/Why-Dont-We-Relationships-Conversations/dp/B093BCC4VP)[[3]](https://www.amazon.com/Couples-Games-Romantic-Date-Night/dp/B0DWMM1SVX)\n\nCheck out this video breakdown of top cooperative and board games built specifically for couples to play at home:\n\n![](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPhWrIpqcvtygLzK_DyB3a2nKcjwk5tMlZ-qLJBNygz3XKwETC)\n3:11\n[](https://www.youtube.com/watch?v=ToZJtedKvHM) 10 Best games for Couples to play together at home 3 months ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · Games Puff\n\nWould you prefer something **cooperative** , a **fast-paced card game** , or **deep conversation prompts** for your next date night?",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Date night games give you and your partner a fun way to connect, laugh, and skip the usual TV routine.",
+          "markdown": "Date night games give you and your partner a fun way to connect, laugh, and skip the usual TV routine.[[1]](https://www.tiktok.com/@atwistofdate/video/7515504602138119446)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "TikTok",
+            "domain": "www.tiktok.com",
+            "url": "https://www.tiktok.com/@atwistofdate/video/7515504602138119446",
+            "title": "Research says that couples who regularly try new experiences ...",
+            "text": "Research says that couples who regularly try new experiences together show the same activity patterns as people newly in love (Ace..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Cooperative & Teamwork Games",
+          "text": "Codenames Duet : A two-player word-association game where you both work as a team to uncover secret agents before time runs out. Pandemic: A high-stakes cooperative board game where you team up to stop global diseases and save the world. The Game / The Mind: Card games that rely on non-linear or non-verbal number sequencing, testing how well you read each other's flow.",
+          "markdown": "- **[Codenames Duet](https://www.lowkeycoffeesnobs.com/best-board-games-for-couples/):** A two-player word-association game where you both work as a team to uncover secret agents before time runs out.\n- **Pandemic:** A high-stakes cooperative board game where you team up to stop global diseases and save the world.\n- **The Game / The Mind:** Card games that rely on non-linear or non-verbal number sequencing, testing how well you read each other's flow.[[1]](https://www.boardgamequest.com/top-10-couples-date-night-games/)[[2]](https://www.lowkeycoffeesnobs.com/best-board-games-for-couples/)[[3]](https://www.offtheeatenpathblog.com/8-fun-board-games-for-couples/)[[4]](https://tabletopbellhop.com/gaming-advice/date-night-games/)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Codenames Duet",
+            "description": null,
+            "url": "https://www.lowkeycoffeesnobs.com/best-board-games-for-couples/",
+            "domain": "www.lowkeycoffeesnobs.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Board Game Quest",
+            "domain": "www.boardgamequest.com",
+            "url": "https://www.boardgamequest.com/top-10-couples-date-night-games/",
+            "title": "Top 10 Couples Date Night Games - Board Game Quest",
+            "text": "Top 10 Couples Date Night Games: Wits and Wagers (trivia/betting); Junk Art (creativity/sculpture); Walk the Plank (movement plann..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Low-Key Coffee Snobs",
+            "domain": "www.lowkeycoffeesnobs.com",
+            "url": "https://www.lowkeycoffeesnobs.com/best-board-games-for-couples/",
+            "title": "9 Best Board Games for Couples We've Found [Updated 2026]",
+            "text": "Megan here. On our first date, David asked me: “Do you like playing board games?” “Of COURSE, I love board games!” I replied, thin..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Off the Eaten Path Blog",
+            "domain": "www.offtheeatenpathblog.com",
+            "url": "https://www.offtheeatenpathblog.com/8-fun-board-games-for-couples/",
+            "title": "The Best Board Games For Couples For At Home Date Night",
+            "text": "Recommended Board Games for Couples: Ticket to Ride (cross-country train route building); Cribbage (classic card and wooden board ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Tabletop Bellhop",
+            "domain": "tabletopbellhop.com",
+            "url": "https://tabletopbellhop.com/gaming-advice/date-night-games/",
+            "title": "What are some of the best two player board games for date night?",
+            "text": "Small and Portable: Hive (zippered pack, durable bakelite tiles, surround Queen Bee); Onitama (abstract duel, modular movement car..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Competitive & Strategy 2-Player Games",
+          "text": "The Fox in the Forest : A clever, fairy-tale-themed trick-taking card game built specifically for two players (try The Fox in the Forest: Duet for a co-op version). The Fox in the Forest Patchwork: A relaxing, Tetris-style tile-laying game where you stitch together a quilt against your partner. Jaipur: A fast-paced card game of trading, bluffing, and collecting goods as rival merchants. Hive: A portable, boardless tile game where you try to surround your partner's queen bee.",
+          "markdown": "- **The Fox in the Forest:** A clever, fairy-tale-themed trick-taking card game built specifically for two players (try *The Fox in the Forest: Duet* for a co-op version).\n- **Patchwork:** A relaxing, Tetris-style tile-laying game where you stitch together a quilt against your partner.\n- **Jaipur:** A fast-paced card game of trading, bluffing, and collecting goods as rival merchants.\n- **Hive:** A portable, boardless tile game where you try to surround your partner's queen bee.[[1]](https://www.lowkeycoffeesnobs.com/best-board-games-for-couples/)[[2]](https://tabletopbellhop.com/gaming-advice/date-night-games/)[[3]](https://www.offtheeatenpathblog.com/8-fun-board-games-for-couples/)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Low-Key Coffee Snobs",
+            "domain": "www.lowkeycoffeesnobs.com",
+            "url": "https://www.lowkeycoffeesnobs.com/best-board-games-for-couples/",
+            "title": "9 Best Board Games for Couples We've Found [Updated 2026]",
+            "text": "Megan here. On our first date, David asked me: “Do you like playing board games?” “Of COURSE, I love board games!” I replied, thin..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Tabletop Bellhop",
+            "domain": "tabletopbellhop.com",
+            "url": "https://tabletopbellhop.com/gaming-advice/date-night-games/",
+            "title": "What are some of the best two player board games for date night?",
+            "text": "Small and Portable: Hive (zippered pack, durable bakelite tiles, surround Queen Bee); Onitama (abstract duel, modular movement car..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Off the Eaten Path Blog",
+            "domain": "www.offtheeatenpathblog.com",
+            "url": "https://www.offtheeatenpathblog.com/8-fun-board-games-for-couples/",
+            "title": "The Best Board Games For Couples For At Home Date Night",
+            "text": "Recommended Board Games for Couples: Ticket to Ride (cross-country train route building); Cribbage (classic card and wooden board ..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Conversation & Connection Decks",
+          "text": "We're Not Really Strangers (Couples Edition): A popular question-and-answer card game designed to deepen emotional intimacy and vulnerability ($20.99). Why Don't We – Spice It Up: A 150-card box featuring conversation prompts and light dares to break up routine date nights. Let's Have a Date: A scratch-off card deck featuring 20 indoor and 20 outdoor surprise date ideas.",
+          "markdown": "- **We're Not Really Strangers (Couples Edition):** A popular question-and-answer card game designed to deepen emotional intimacy and vulnerability ($20.99).\n- **Why Don't We – Spice It Up:** A 150-card box featuring conversation prompts and light dares to break up routine date nights.\n- **Let's Have a Date:** A scratch-off card deck featuring 20 indoor and 20 outdoor surprise date ideas.[[1]](https://www.target.com/s/the+ultimate+game+for+couples)[[2]](https://www.amazon.com/Why-Dont-We-Relationships-Conversations/dp/B093BCC4VP)[[3]](https://www.amazon.com/Couples-Games-Romantic-Date-Night/dp/B0DWMM1SVX)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Target",
+            "domain": "www.target.com",
+            "url": "https://www.target.com/s/the+ultimate+game+for+couples",
+            "title": "The Ultimate Game for Couples | Fun Date Night Games",
+            "text": "Couples and Party Games: What Do You Meme? Date Night Game ($14.99), The Couples Game Late Night ($19.99), Are We Compatible? ($18..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Amazon.com",
+            "domain": "www.amazon.com",
+            "url": "https://www.amazon.com/Why-Dont-We-Relationships-Conversations/dp/B093BCC4VP",
+            "title": "Amazon.com: Why Don't We - Spice IT UP - Super Fun Couples Games for Date Nights: 150 Cards with Conversations, Spicy Dares & More - Best Date Night Games for Couples - Romantic Adult Couple Game : Health & Household",
+            "text": "Product: Why Don't We - Spice IT UP - Super Fun Couples Games for Date Nights (Sold by WhyDontWe, ships from Amazon). Contents: 15..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Amazon.com",
+            "domain": "www.amazon.com",
+            "url": "https://www.amazon.com/Couples-Games-Romantic-Date-Night/dp/B0DWMM1SVX",
+            "title": "Fun Couples Games for Romantic Date Night",
+            "text": "Warranty details Additional details Introducing the ultimate games for couples who want to add a little bit of excitement, romance..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_video_element",
+          "position": "left",
+          "title": "10 Best games for Couples to play together at home",
+          "snippet": null,
+          "url": "https://www.youtube.com/watch?v=ToZJtedKvHM",
+          "domain": "www.youtube.com",
+          "image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPhWrIpqcvtygLzK_DyB3a2nKcjwk5tMlZ-qLJBNygz3XKwETC",
+          "source": "YouTube",
+          "date": "3 months ago",
+          "timestamp": "2026-07-19 03:45:04 +00:00"
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Check out this video breakdown of top cooperative and board games built specifically for couples to play at home: 3:11 10 Best games for Couples to play together at home 3 months ago YouTube · Games Puff",
+          "markdown": "Check out this video breakdown of top cooperative and board games built specifically for couples to play at home:\n\n![](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPhWrIpqcvtygLzK_DyB3a2nKcjwk5tMlZ-qLJBNygz3XKwETC)\n3:11\n[](https://www.youtube.com/watch?v=ToZJtedKvHM) 10 Best games for Couples to play together at home 3 months ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · Games Puff",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Would you prefer something cooperative, a fast-paced card game, or deep conversation prompts for your next date night?",
+          "markdown": "Would you prefer something **cooperative** , a **fast-paced card game** , or **deep conversation prompts** for your next date night?",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Board Game Quest",
+          "domain": "www.boardgamequest.com",
+          "url": "https://www.boardgamequest.com/top-10-couples-date-night-games/",
+          "title": "Top 10 Couples Date Night Games - Board Game Quest",
+          "text": "Top 10 Couples Date Night Games: Wits and Wagers (trivia/betting); Junk Art (creativity/sculpture); Walk the Plank (movement planning/reactions); Pairs (push-your"
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Target",
+          "domain": "www.target.com",
+          "url": "https://www.target.com/s/the+ultimate+game+for+couples",
+          "title": "The Ultimate Game for Couples | Fun Date Night Games",
+          "text": "Couples and Party Games: What Do You Meme? Date Night Game ($14.99), The Couples Game Late Night ($19.99), Are We Compatible? ($18.99), PlayMonster Tales Edition ("
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Amazon.com",
+          "domain": "www.amazon.com",
+          "url": "https://www.amazon.com/Why-Dont-We-Relationships-Conversations/dp/B093BCC4VP",
+          "title": "Amazon.com: Why Don't We - Spice IT UP - Super Fun Couples Games for Date Nights: 150 Cards with Conversations, Spicy Dares & More - Best Date Night Games for Couples - Romantic Adult Couple Game : Health & Household",
+          "text": "Product: Why Don't We - Spice IT UP - Super Fun Couples Games for Date Nights (Sold by WhyDontWe, ships from Amazon). Contents: 150 cards featuring conversations, ..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "www.youtube.com",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=ToZJtedKvHM",
+          "title": "10 Best games for Couples to play together at home",
+          "text": "world death is always close but somehow that shared risk makes every small victory. feel 100 times sweeter. code Name's duet needs no screen just two minds. and on..."
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+        "domain": "thetabletopfamily.com",
+        "title": "Best Board Games for Date Night: 15 We Actually Play",
+        "url": "https://thetabletopfamily.com/best-board-games-for-date-night-2025/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://thetabletopfamily.com › Blog",
+        "website_name": "The Tabletop Family",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Best Board Games for Date Night 2025 · Lord of the Rings Duel · King of Tokyo Duel · Flip Circus · Caper · Cathedral · Donuts · Rainbow · Tzaar. If you're a ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "date night games from thetabletopfamily.com",
+          "url": "https://thetabletopfamily.com/best-board-games-for-date-night-2025/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-9bd9a252f6ef:0"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Lord of the Rings Duel"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://thetabletopfamily.com/best-board-games-for-date-night-2025/#:~:text=Best%20Board%20Games%20for%20Date,Night%202025&text=Lord%20of%20the%20Rings%20Duel&text=King%20of%20Tokyo%20Duel&text=Flip%20Circus&text=Caper&text=Cathedral&text=Donuts&text=Rainbow&text=Tzaar,is%20not%20one%20to%20miss!",
+          "domain": "thetabletopfamily.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What are 21 questions for couples?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What games are good for a game night?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some good board games for two people?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are games in dating?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+        "domain": "www.pinterest.com",
+        "title": "Board Games for Date Night",
+        "url": "https://www.pinterest.com/pin/125537908358093554/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.pinterest.com › pin",
+        "website_name": "Pinterest",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Feb 3, 2026 — Click here to read about some of our favorite date night board games. Each is easy to learn and great for a cozy evening in together.",
+        "pre_snippet": "02/03/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "date night board games"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-02-03 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+        "domain": "abc7news.com",
+        "title": "At-home date night activities for couples this Valentine's ...",
+        "url": "https://abc7news.com/post/valentines-day-games-activities-date-night/14280959/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://abc7news.com › post › valentines-day-games-act...",
+        "website_name": "ABC7 San Francisco",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jan 7, 2024 — WE'RE NOT REALLY STRANGERS Couples Edition Card Game. $19.82 ; The Couples Game That's Actually Fun. $13.29 ; Custom Personalized Puzzle. $23.24. Read more",
+        "pre_snippet": "01/07/2024 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "WE'RE NOT REALLY STRANGERS Couples Edition Card Game"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://abc7news.com/post/valentines-day-games-activities-date-night/14280959/#:~:text=WE'RE%20NOT%20REALLY%20STRANGERS%20Couples,%2419.82&text=The%20Couples%20Game%20That's%20Actually,%2413.29&text=Custom%20Personalized%20Puzzle,%2423.24",
+          "domain": "abc7news.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2024-01-07 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+        "domain": "wezoree.com",
+        "title": "60 Unique Couple Games for Unforgettable Date Nights",
+        "url": "https://wezoree.com/inspiration/60-unique-couple-games-for-unforgettable-date-nights/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://wezoree.com › Inspiration › Family & Friends",
+        "website_name": "Wezoree",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Nov 18, 2024 — Hive \"Hive\" is a two-player abstract game. Patchwork \"Patchwork\" Memory Lane Trivia Prepare. Couple's Bucket List in a Jar. Two Truths and a Lie",
+        "pre_snippet": "11/18/2024 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Hive"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2024-11-18 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]",
+        "domain": "www.bestbuy.com",
+        "title": "Fun Games For Date Night",
+        "url": "https://www.bestbuy.com/site/shop/fun-games-for-date-night",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.bestbuy.com › ... › games › dice games",
+        "website_name": "Best Buy",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Cooperative video games, two-player board games, card games, trivia games, and puzzle games are popular date night options.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "games",
+         "date night"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]",
+        "domain": "www.youtube.com",
+        "title": "10 Board Games for Couples | Date Night Games",
+        "url": "https://www.youtube.com/watch?v=cJQXh38u-mg&xstg=CAMSBhUDzO3xHw%3D%3D",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "20.6K+ views  ·  3 years ago",
+        "website_name": "YouTube · Foster the Meeple",
+        "is_image": false,
+        "is_video": true,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_video"
+        ],
+        "description": "Join us as we chat about some of our favourite board games for couples ! Zatu Games has thousands of games to choose from across all genres, 10 ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "board games for couples"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2023-10-19 03:45:04 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Cute Couples Games for Date Night!",
+        "url": "https://boardgamegeek.com/blog/6298/blogpost/134493/cute-couples-games-for-date-night",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › blog › blogpost › cute-co...",
+        "website_name": "BGG",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jul 22, 2022 — Cute 2 PLAYER Couples Board Games to Play on Date Night ... Paris City of Lights was a game that really reminded of our trip to Paris over 3 years ... Read more",
+        "pre_snippet": "07/22/2022 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Cute 2 PLAYER Couples Board Games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://boardgamegeek.com/blog/6298/blogpost/134493/cute-couples-games-for-date-night#:~:text=Cute%202%20PLAYER%20Couples%20Board,to%20Play%20on%20Date%20Night&text=Paris%20City%20of%20Lights%20was,years%20ago%20before%20covid%20hit.",
+          "domain": "boardgamegeek.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2022-07-22 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]",
+        "domain": "www.kaciewashington.com",
+        "title": "Top 9 Games for Date Night",
+        "url": "https://www.kaciewashington.com/blog/hank-8c5rx",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.kaciewashington.com › blog",
+        "website_name": "Kacie Washington",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Dec 10, 2025 — Our favorite games: Phase 10 Chess Checkers Jenga with a twist! Scrabble Guesstures Would You Rather Truth or Dare Backgammon",
+        "pre_snippet": "12/10/2025 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Phase 10 Chess Checkers Jenga"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-12-10 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]",
+        "domain": "www.pinterest.com",
+        "title": "40 Fun Date Night Games for Married Couples at Home",
+        "url": "https://www.pinterest.com/pin/62628251061554926/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.pinterest.com › pin",
+        "website_name": "Pinterest",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Feb 16, 2022 — Board games are a great way to spend quality time together, but these new date night games for married couples at home are so much more fun!",
+        "pre_snippet": "02/16/2022 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Board games are a great way to spend quality time together"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2022-02-16 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Date night games online",
+         "Date night games for couples",
+         "Date night games free",
+         "Best games to play for couples",
+         "2 player games in person",
+         "Best couples games at target",
+         "Games like cribbage",
+         "Easy board games for adults"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,820 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "1.9300 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190343-2588-0139-0000-3bab38ae7040",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "1.8606 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "deduction board games",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "deduction board games",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=deduction%20board%20games&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:43:19 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "popular_products",
+       "related_searches"
+      ],
+      "se_results_count": 119,
+      "pages_count": 1,
+      "items_count": 13,
+      "items": [
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "domain": "coopgestalt.com",
+        "title": "Top 10 Cooperative Light Deduction Board and Card Games",
+        "url": "https://coopgestalt.com/2022/09/03/top-10-cooperative-light-deduction-board-and-card-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://coopgestalt.com › 2022/09/03 › top-10-cooperat...",
+        "website_name": "coopgestalt",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Sep 3, 2022 — 1. Hanabi · 2. Shipwreck Arcana · 3. Paint The Roses · 4. Rising 5: Runes of Asteros · 5. Stop Thief! · 6. 5-Minute Mystery · 7. Outfoxed · 8. Read more",
+        "pre_snippet": "09/03/2022 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1. Hanabi"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://coopgestalt.com/2022/09/03/top-10-cooperative-light-deduction-board-and-card-games/#:~:text=1.%20Hanabi&text=2.%20Shipwreck%20Arcana&text=3.%20Paint%20The%20Roses&text=4.%20Rising%205%3A%20Runes%20of,Asteros&text=5.%20Stop%20Thief!&text=6.%205-Minute%20Mystery&text=7.%20Outfoxed&text=8.%20Mysterium%20Park",
+          "domain": "coopgestalt.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2022-09-03 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": true,
+        "markdown": null,
+        "items": null,
+        "references": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[3]/div[1]/div[1]",
+        "domain": "hexagamers.com",
+        "title": "Best Social Deduction Board Games",
+        "url": "https://hexagamers.com/best-social-deduction-board-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://hexagamers.com › Best-Of List",
+        "website_name": "Hexagamers",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Sep 14, 2017 — Best Social Deduction Board Games · 2. Bang! The Dice Game · 3. Secret Hitler · 4. Deception: Murder in Hong Kong · 5. Coup · 6. Saboteur 2 · 7. Read more",
+        "pre_snippet": "09/14/2017 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Best Social Deduction Board Games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://hexagamers.com/best-social-deduction-board-games/#:~:text=Best%20Social%20Deduction%20Board%20Games&text=2.%20Bang!%20The%20Dice%20Game&text=3.%20Secret%20Hitler&text=4.%20Deception%3A%20Murder%20in%20Hong,Kong&text=5.%20Coup&text=6.%20Saboteur%202&text=7.%20Mascarade",
+          "domain": "hexagamers.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2017-09-14 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[5]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "deduction game recommendation",
+        "url": "https://boardgamegeek.com/thread/2837130/deduction-game-recommendation",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › ... › Forums › General",
+        "website_name": "BGG",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Mar 24, 2022 — Technically, Beyond Baker Street, SHCD, So Clover and Just One are the only fully cooperative games I've mentioned. The rest are competitive. So ... Read more",
+        "pre_snippet": "03/24/2022 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Beyond Baker Street, SHCD, So Clover and Just One"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://boardgamegeek.com/thread/2837130/deduction-game-recommendation#:~:text=Technically%2C%20Beyond%20Baker%20Street%2C%20SHCD%2C,competitive.%20So%20you%20have%20options.",
+          "domain": "boardgamegeek.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2022-03-24 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[7]/div[1]/div[1]",
+        "domain": "www.meeplemountain.com",
+        "title": "Deduction Board Games",
+        "url": "https://www.meeplemountain.com/category/deduction-board-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.meeplemountain.com › category › deducti...",
+        "website_name": "Meeple Mountain",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Deduction games are those in which players use their own reasoning ability to discover hidden information in order to complete the game. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Deduction games",
+         "game"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.meeplemountain.com/category/deduction-board-games/#:~:text=Deduction%20games%20are%20those%20in,order%20to%20complete%20the%20game.",
+          "domain": "www.meeplemountain.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[9]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What are the best board games for deduction?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "How to play decipher board game?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What is the most controversial card game?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are all the types of board games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[11]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What is your favourite deduction game and why?",
+        "url": "https://www.facebook.com/groups/boardgamerevolution/posts/3830387387253171/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "9 comments  ·  1 year ago",
+        "website_name": "Facebook · Board Game Revolution Community",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "What is your favourite Deduction game and why? \n\nThe Search for Lost Species is an awesome deduction game.  We loved The Search for Planet X even more ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Deduction games to play and enjoy",
+          "description": null,
+          "url": "https://www.facebook.com/groups/boardgamerevolution/posts/3122460974712486/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What are your favorite deduction games? - Facebook",
+          "description": null,
+          "url": "https://www.facebook.com/groups/BoardGameSpotlight/posts/3824613310901097/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.facebook.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=deduction+board+games+site:www.facebook.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnsj3NpA-0E2U0DA67iAsSlJT5yHGQ:1792381398269&sa=X&ved=2ahUKEwj3xa6ElcWXAxUi9LsIHc7zBI8QrQIoAnoECEIQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[12]/div[1]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Jonathan Frakes Presents the Best Deduction Board Games",
+        "url": "https://www.reddit.com/r/boardgames/comments/1moge5i/jonathan_frakes_presents_the_best_deduction_board/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "10+ comments  ·  1 year ago",
+        "website_name": "Reddit · r/boardgames",
+        "is_image": false,
+        "is_video": true,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_video"
+        ],
+        "description": "No Deduce or Die ? No Sleuth? No Paint The Roses? No Decorum? No The Shipwreck Arcana? No The Search for Lost Species? No The Search for UAPs?",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "No Deduce or Die"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-10-19 03:43:18 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[14]/div[1]/div[1]",
+        "domain": "brain-games.com",
+        "title": "Deductio family board game",
+        "url": "https://brain-games.com/en-us/products/deductio-family-board-game",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://brain-games.com › en-us › products › deductio-fa...",
+        "website_name": "Brain Games Publishing",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Deductio is intense and easy to learn card game. Your goal is to deduce your opponents' Secret Numbers before they figure out yours. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "intense and easy to learn card game"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://brain-games.com/en-us/products/deductio-family-board-game#:~:text=Deductio%20is%20intense%20and%20easy,before%20they%20figure%20out%20yours.",
+          "domain": "brain-games.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[16]/div[1]/div[1]",
+        "domain": "shopportalgames.com",
+        "title": "All Board Game Products Tagged \"Deduction\" - Portal Games",
+        "url": "https://shopportalgames.com/collections/all-board-game-products-1/deduction?srsltid=AU7gw4UyLZa4E148eDuJuDx1dI7X1mItpDgyyuKeK5l1w7prNQZRBcAU",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://shopportalgames.com › collections › deduction",
+        "website_name": "shopportalgames.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Home / All Board Game Products / Deduction. Featured, Best Selling, Alphabetically: A-Z, Alphabetically: Z-A, Price: Low to High, Price: High to Low, Date: New ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "All Board Game Products / Deduction"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://shopportalgames.com/collections/all-board-game-products-1/deduction?srsltid=AU7gw4UyLZa4E148eDuJuDx1dI7X1mItpDgyyuKeK5l1w7prNQZRBcAU#:~:text=Home%20%2F%20All%20Board%20Game,Featured",
+          "domain": "shopportalgames.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 1,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[18]/div[1]",
+        "title": "More products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Deduction Game - Ideal 1976 Complete (read Description)",
+          "url": "https://www.google.com/search?ibp=oshop&q=deduction+board+games&prds=headlineOfferDocid:12262729597096385465,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "eBay - fishingbugman34\nStrategy",
+          "more_sellers": false,
+          "seller": "eBay - fishingbugman34",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSCYp4sWt-W-v1wCdNd2NzV11y33LypvwaeuiAc3w8tyEq9LZiwAbgzmDGLix1gto8Fpe7LU6yUrmD6naGt87O1Dtc1jqWMJWwD7gvz7bla",
+          "price": {
+           "current": 18.12,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$18.12 Pre-owned"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": null,
+           "data_docid": "12262729597096385465",
+           "gid": null
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Kosmos 692742 Children & Adults Deduction board game",
+          "url": "https://www.google.com/search?ibp=oshop&q=deduction+board+games&prds=gpcid:6439412366109262525,rds:PC_6439412366109262525%7CPROD_PC_6439412366109262525,headlineOfferDocid:797533023697902621,catalogid:6889993661261376221,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Grooves-Inc.com\nBoard Game · Adults · Family Friendly",
+          "more_sellers": false,
+          "seller": "Grooves-Inc.com",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTEx9sjvApX8kWJtvPwfWgA35B5WJuGGNqeDBZtgNEOEd1fiJALA1bFRJi6KqdHSS74a4Kd94L9td_86sXSM4nARW1S8y1h7fbsnwqkaxEUoANM8akdll-K",
+          "price": {
+           "current": 14.52,
+           "regular": 18,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$14.52 $18"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 26,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "6889993661261376221",
+           "data_docid": "8816621441234555003",
+           "gid": "6439412366109262525"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Deduckto Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=deduction+board+games&prds=gpcid:13906603159458892839,rds:PC_13906603159458892839%7CPROD_PC_13906603159458892839,headlineOfferDocid:6336694973667622277,catalogid:10570886625210494481,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Labyrinth Games & Puzzles & more",
+          "more_sellers": true,
+          "seller": "Labyrinth Games & Puzzles",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTowoGenlQHn7zpI09RfVmqugyjFxWdkcFAQrQR-TzgXGaoHZ-gMSAuM1JThSmTcxeKE2ITV-qp-puBBRwgqMGoCNQ4wX3H0L_UjqmKm62kcXlGE66DA8JqTQ",
+          "price": {
+           "current": 14.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$14.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 41,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "10570886625210494481",
+           "data_docid": "15830477435809769560",
+           "gid": "13906603159458892839"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Vintage 1976 Deduction Board Game by Ideal - Complete Family Strategy Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=deduction+board+games&prds=headlineOfferDocid:7519909198552358373,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Etsy - Seller\nStrategy",
+          "more_sellers": false,
+          "seller": "Etsy - Seller",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQfRy2lxiE2DD-1QvEQDcsAN7iNkn2Hjr2_waVRWRIsEqaBvjMKjafHR9XiEnMBN7c6igO69Em98KPBgetFpR7kjaeO7cwkqcAaAbX1pEY",
+          "price": {
+           "current": 20,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$20.00 Pre-owned"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": null,
+           "data_docid": "7519909198552358373",
+           "gid": null
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Kosmos 692681 Children & Adults Deduction board game",
+          "url": "https://coopboardgames.com/cooperative-board-game-reviews/exit-the-game-review/",
+          "domain": "coopboardgames.com",
+          "description": "Grooves-Inc.com & more\nAll of the puzzles are solvable by any group, which is not something that I … · I don't like that you have to destroy components in these games. And it's … Co-op Board Games",
+          "more_sellers": true,
+          "seller": "Grooves-Inc.com",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSGLIhxcFf36N8RX_idh4gP-6E7WMZGyO3DQNA_aaNE5mGvKsEZ2UnBjqdh_8BKfh5gnPKrhiFtSWLZjLL7IAFSBmsXzc4tmvDH9meT1qQxa3dH-YV2UPOO",
+          "price": {
+           "current": 15.88,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$15.88"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4,
+           "votes_count": 41,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "217490279326353528",
+           "data_docid": "14103856148706543483",
+           "gid": "13264435781193122744"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Gamewright Deduckto Game Meijer",
+          "url": "https://www.google.com/search?ibp=oshop&q=deduction+board+games&prds=gpcid:9044028066209712699,rds:PC_9044028066209712699%7CPROD_PC_9044028066209712699,headlineOfferDocid:15030493153196951517,catalogid:12485207951523711885,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Walmart & more\nThe mix of strategy, humor, and quirky duck detectives makes every round fun and unpredictable. A reviewer on influenster.com",
+          "more_sellers": true,
+          "seller": "Walmart",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQkMXy4LZo90idLsFpHv8h7KsrnVLg22sCeAIxDYO6AK8EtTTTTAV_nTTXRfe9knO1aVf7QCKlqmtAk1s0ij61MBAK7Hyj6Ljn8prIF4Ut1mHSACQVBYseWDQ",
+          "price": {
+           "current": 11.04,
+           "regular": 13,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$11.04 $13"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 27,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "12485207951523711885",
+           "data_docid": "296724242157658391",
+           "gid": "9044028066209712699"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Vintage Complete 1976 deduction board game Never been played!",
+          "url": "https://www.google.com/search?ibp=oshop&q=deduction+board+games&prds=headlineOfferDocid:9949707287195948961,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "eBay\nStrategy",
+          "more_sellers": false,
+          "seller": "eBay",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRKLPXp2K62E23__931Erw_YAj0pIZEH_xEoNt-5cYv6byrJcjDU1hsAQAkEO09qEgRx8bYjabw5t4plZbyxBYJECloyHIr7n6y9fAhRDiW",
+          "price": {
+           "current": 59,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$59.00"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": null,
+           "data_docid": "9949707287195948961",
+           "gid": null
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Deduction Game - Ideal 1976 Complete Nice Condition",
+          "url": "https://www.google.com/search?ibp=oshop&q=deduction+board+games&prds=headlineOfferDocid:16775725922002590627,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "eBay - generalzods_gamingzone\nFree delivery\nStrategy · 2 Player · 8+ Years",
+          "more_sellers": false,
+          "seller": "eBay - generalzods_gamingzone",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTY1Q-5w1yoqEEfuFbWskfnwr5C2N7XaZ-yvMLr-u5mvglZy1Z7obKeQSjduzlaPTdOTwbgbYrgCAq_LmaUVVrTg0HBSJr6HZllz3tLzr0",
+          "price": {
+           "current": 24.95,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.95 Pre-owned"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": null,
+           "data_docid": "16775725922002590627",
+           "gid": null
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[19]/div[1]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Top 10 Deduction Games - with Mike DiLisio | Video",
+        "url": "https://boardgamegeek.com/video/547820/tom-vasel/top-10-deduction-games-with-mike-dilisio",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com · Apr 9, 2025",
+        "website_name": "BoardGameGeek · The Dice Tower",
+        "is_image": false,
+        "is_video": true,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_video"
+        ],
+        "description": "Tom Vasel · Videos / · Top 10 Deduction Games - with Mike DiLisio ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Top 10 Deduction Games"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-04-09 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 13,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Deduction board games for adults",
+         "Best deduction board games",
+         "Best social deduction board games",
+         "Obscurio board game",
+         "Dixit Board game",
+         "Deduction puzzle games",
+         "Games like Mysterium",
+         "Social deduction games"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

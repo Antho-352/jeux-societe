@@ -1,0 +1,858 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "2.6977 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190342-2588-0139-0000-3e12e2bceba4",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "2.6286 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "games like risk",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "games like risk",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=games%20like%20risk&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:42:24 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "related_searches"
+      ],
+      "se_results_count": 186,
+      "pages_count": 1,
+      "items_count": 12,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "If you like Risk, you will enjoy games that feature `territory control, troop movement, and strategic warfare with fewer luck factors or more modern mechanics`.[[1]](https://www.reddit.com/r/boardgames/comments/13losud/what_are_some_games_like_risk_but_doesnt/)[[2]](https://www.youtube.com/watch?v=IEdlF7HmTRw&t=18)[[3]](https://boardgamegeek.com/video/447417/risk/best-games-like-risk-5-alternatives)\n\n### Top Alternatives to Risk\n\n- **Small World** : A light civilization conquest game where players pick fantasy races with special powers to conquer territories, before sending them into \"decline\" to play a new race. It captures the map-conquest feel of Risk with much less reliance on luck and a strict time limit.[[1]](https://www.donteatthemeeples.com/seven-games-like-risk/)[[2]](https://www.reddit.com/r/boardgames/comments/13losud/what_are_some_games_like_risk_but_doesnt/)\n- **Kemet: Blood and Sand** : A fast-paced game set in ancient Egypt that pushes players into constant, direct combat instead of letting people hide or turtle at their borders. It uses a system of customizable power tiles rather than standard dice luck.[[1]](https://www.youtube.com/shorts/0dLwkDnPfKk)\n- **Risk Legacy** : An official variant of classic Risk that changes permanently with every session. You write on the board, apply stickers, open secret boxes, and tear up cards to build a completely unique campaign history.[[1]](https://www.youtube.com/watch?v=YfJTMNf8WAk&t=24)[[2]](https://assortedmeeples.com/23-strategy-games-better-than-risk)\n- **Root** : An asymmetrical game where each animal faction plays by completely different rules to fight for control of a woodland board. It maintains deep strategic positioning while offering vastly more replay value than standard Risk.[[1]](https://boardgamegeek.com/video/447417/risk/best-games-like-risk-5-alternatives)[[2]](https://www.donteatthemeeples.com/seven-games-like-risk/)\n- **Axis & Allies** : A heavier, historical World War II board game that steps up the scale of global warfare, unit types, and economic management for players ready for a more complex challenge.[[1]](https://boardgamegeek.com/geeklist/56205/risk-style-games)[[2]](https://boardgamegeek.com/geeklist/38013/the-best-alternatives-to-risk)\n- **Twilight Struggle** : A high-tension, card-driven game built strictly for two players fighting out the Cold War across the globe through political influence and area majority.[[1]](https://www.youtube.com/watch?v=IEdlF7HmTRw&t=18)\n\nYou can browse more options or classic editions on platforms like [BoardGameGeek](https://boardgamegeek.com/geeklist/56205/risk-style-games) or shop for physical copies through online retailers like [Amazon](https://www.amazon.com/games-like-risk/s?k=games+like+risk).[[1]](https://boardgamegeek.com/geeklist/56205/risk-style-games)[[2]](https://www.amazon.com/games-like-risk/s?k=games+like+risk)Here is a video breaking down some of the best board game alternatives to Risk:\n\n![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQl6VL0XodLQC1QZkikz46Hj_-GoVl6rjQOhKEoFOQSjCy-P192)\n6m\n[](https://www.youtube.com/watch?v=i3he6rBpWug&t=21) 10 Games Better Than Risk - with Tom Vasel 196K views  · 9 years ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · The Dice Tower\n\nTo help narrow down the best choice for your group, tell me:\n\n- **How many players** normally join your game night?\n- Do you want something **quick and light** , or a **deep, long strategy game**?",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "If you like Risk, you will enjoy games that feature territory control, troop movement, and strategic warfare with fewer luck factors or more modern mechanics.",
+          "markdown": "If you like Risk, you will enjoy games that feature `territory control, troop movement, and strategic warfare with fewer luck factors or more modern mechanics`.[[1]](https://www.reddit.com/r/boardgames/comments/13losud/what_are_some_games_like_risk_but_doesnt/)[[2]](https://www.youtube.com/watch?v=IEdlF7HmTRw&t=18)[[3]](https://boardgamegeek.com/video/447417/risk/best-games-like-risk-5-alternatives)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/boardgames/comments/13losud/what_are_some_games_like_risk_but_doesnt/",
+            "title": "What are some games like Risk, but doesn't completely rely on luck.",
+            "text": "To add; in War of Whispers you don't play as a particular group on the map. None of the men on the map are \"yours\". You partially ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=IEdlF7HmTRw&t=18",
+            "title": "Top 5 Alternatives to Risk That are Actually Good Games",
+            "text": "Top 5 Alternatives to Risk That are Actually Good Games and in fact. sometimes. I might want your territory Matt you give it to me..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BoardGameGeek",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/video/447417/risk/best-games-like-risk-5-alternatives",
+            "title": "Best Games Like Risk | 5 Alternatives | Video",
+            "text": "Best Games Like Risk | 5 Recommendations hey I'm Ryan this is my brother Daniel. and this is Rolls in the Family. today we are goi..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Top Alternatives to Risk",
+          "text": "Small World : A light civilization conquest game where players pick fantasy races with special powers to conquer territories, before sending them into \"decline\" to play a new race. It captures the map-conquest feel of Risk with much less reliance on luck and a strict time limit. Small World Kemet: Blood and Sand : A fast-paced game set in ancient Egypt that pushes players into constant, direct combat instead of letting people hide or turtle at their borders. It uses a system of customizable power tiles rather than standard dice luck. Kemet: Blood and Sand Risk Legacy : An official variant of classic Risk that changes permanently with every session. You write on the board, apply stickers, open secret boxes, and tear up cards to build a completely unique campaign history. Risk Legacy Root : An asymmetrical game where each animal faction plays by completely different rules to fight for control of a woodland board. It maintains deep strategic positioning while offering vastly more replay value than standard Risk. Root Axis & Allies : A heavier, historical World War II board game that steps up the scale of global warfare, unit types, and economic management for players ready for a more complex challenge. Twilight Struggle : A high-tension, card-driven game built strictly for two players fighting out the Cold War across the globe through political influence and area majority. Twilight Struggle",
+          "markdown": "- **Small World** : A light civilization conquest game where players pick fantasy races with special powers to conquer territories, before sending them into \"decline\" to play a new race. It captures the map-conquest feel of Risk with much less reliance on luck and a strict time limit.[[1]](https://www.donteatthemeeples.com/seven-games-like-risk/)[[2]](https://www.reddit.com/r/boardgames/comments/13losud/what_are_some_games_like_risk_but_doesnt/)\n- **Kemet: Blood and Sand** : A fast-paced game set in ancient Egypt that pushes players into constant, direct combat instead of letting people hide or turtle at their borders. It uses a system of customizable power tiles rather than standard dice luck.[[1]](https://www.youtube.com/shorts/0dLwkDnPfKk)\n- **Risk Legacy** : An official variant of classic Risk that changes permanently with every session. You write on the board, apply stickers, open secret boxes, and tear up cards to build a completely unique campaign history.[[1]](https://www.youtube.com/watch?v=YfJTMNf8WAk&t=24)[[2]](https://assortedmeeples.com/23-strategy-games-better-than-risk)\n- **Root** : An asymmetrical game where each animal faction plays by completely different rules to fight for control of a woodland board. It maintains deep strategic positioning while offering vastly more replay value than standard Risk.[[1]](https://boardgamegeek.com/video/447417/risk/best-games-like-risk-5-alternatives)[[2]](https://www.donteatthemeeples.com/seven-games-like-risk/)\n- **Axis & Allies** : A heavier, historical World War II board game that steps up the scale of global warfare, unit types, and economic management for players ready for a more complex challenge.[[1]](https://boardgamegeek.com/geeklist/56205/risk-style-games)[[2]](https://boardgamegeek.com/geeklist/38013/the-best-alternatives-to-risk)\n- **Twilight Struggle** : A high-tension, card-driven game built strictly for two players fighting out the Cold War across the globe through political influence and area majority.[[1]](https://www.youtube.com/watch?v=IEdlF7HmTRw&t=18)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Don't Eat the Meeples",
+            "domain": "www.donteatthemeeples.com",
+            "url": "https://www.donteatthemeeples.com/seven-games-like-risk/",
+            "title": "Seven games like Risk - by Matt Montgomery",
+            "text": "Alternatives to Risk: Small World (2009, Philippe Keyaerts; civilization conquest, light dice combat, decline mechanic); Inis (201..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/boardgames/comments/13losud/what_are_some_games_like_risk_but_doesnt/",
+            "title": "What are some games like Risk, but doesn't completely rely on luck.",
+            "text": "To add; in War of Whispers you don't play as a particular group on the map. None of the men on the map are \"yours\". You partially control some armies in some ways."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/shorts/0dLwkDnPfKk",
+            "title": "5 Games Better Than Risk #boardgames ...",
+            "text": "5 Games Better Than Risk #boardgames #risk #riskgame #tabletopgames #boardgamegeek #areacontrol here are five games I'd rather pla..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=YfJTMNf8WAk&t=24",
+            "title": "Best Games Like Risk | 5 Recommendations",
+            "text": "Best Games Like Risk | 5 Recommendations and are worth checking out and as always we've got links to them down in the description."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Assorted Meeples",
+            "domain": "assortedmeeples.com",
+            "url": "https://assortedmeeples.com/23-strategy-games-better-than-risk",
+            "title": "23 Strategy Games Better Than Risk",
+            "text": "Quick Stats: Designed for 3-5 players best best with 4-5 Game for players 13+ years in age Mild levels of complexity 7.4 Board Gam..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BoardGameGeek",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/video/447417/risk/best-games-like-risk-5-alternatives",
+            "title": "Best Games Like Risk | 5 Alternatives | Video",
+            "text": "Best Games Like Risk | 5 Recommendations hey I'm Ryan this is my brother Daniel. and this is Rolls in the Family. today we are goi..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BoardGameGeek",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/geeklist/56205/risk-style-games",
+            "title": "Risk-style Games | BoardGameGeek",
+            "text": "Risk-style board games and world-domination variants: Risk, Risk (Revised Edition), Castle Risk, Axis & Allies: 1942, Power, Fortr..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BoardGameGeek",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/geeklist/38013/the-best-alternatives-to-risk",
+            "title": "The Best Alternatives to Risk | BoardGameGeek",
+            "text": "Ranked Light Wargames Alternatives to Risk (Best/Recommended with 3+ players, wargame category, sorted by combined BGG rating, ran..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=IEdlF7HmTRw&t=18",
+            "title": "Top 5 Alternatives to Risk That are Actually Good Games",
+            "text": "Top 5 Alternatives to Risk That are Actually Good Games and in fact. sometimes. I might want your territory Matt you give it to me..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "You can browse more options or classic editions on platforms like BoardGameGeek or shop for physical copies through online retailers like Amazon.",
+          "markdown": "You can browse more options or classic editions on platforms like [BoardGameGeek](https://boardgamegeek.com/geeklist/56205/risk-style-games) or shop for physical copies through online retailers like [Amazon](https://www.amazon.com/games-like-risk/s?k=games+like+risk).[[1]](https://boardgamegeek.com/geeklist/56205/risk-style-games)[[2]](https://www.amazon.com/games-like-risk/s?k=games+like+risk)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "BoardGameGeek",
+            "description": null,
+            "url": "https://boardgamegeek.com/geeklist/56205/risk-style-games",
+            "domain": "boardgamegeek.com"
+           },
+           {
+            "type": "link_element",
+            "title": "Amazon",
+            "description": null,
+            "url": "https://www.amazon.com/games-like-risk/s?k=games+like+risk",
+            "domain": "www.amazon.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BoardGameGeek",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/geeklist/56205/risk-style-games",
+            "title": "Risk-style Games | BoardGameGeek",
+            "text": "Risk-style board games and world-domination variants: Risk, Risk (Revised Edition), Castle Risk, Axis & Allies: 1942, Power, Fortress America, Risk 2210 A.D., Mons..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Amazon.com",
+            "domain": "www.amazon.com",
+            "url": "https://www.amazon.com/games-like-risk/s?k=games+like+risk",
+            "title": "Games Like Risk - Amazon.com",
+            "text": "Ages: 13 years and up Risk The 1980's Edition, Strategy Board Game, by Winning Moves Games USA Original 1980's Artwork and Compone..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_video_element",
+          "position": "left",
+          "title": "10 Games Better Than Risk - with Tom Vasel",
+          "snippet": "6m",
+          "url": "https://www.youtube.com/watch?v=i3he6rBpWug&t=21",
+          "domain": "www.youtube.com",
+          "image_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQl6VL0XodLQC1QZkikz46Hj_-GoVl6rjQOhKEoFOQSjCy-P192",
+          "source": "YouTube",
+          "date": "9 years ago",
+          "timestamp": "2017-10-19 03:42:23 +00:00"
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Here is a video breaking down some of the best board game alternatives to Risk: 6m 10 Games Better Than Risk - with Tom Vasel 196K views · 9 years ago YouTube · The Dice Tower",
+          "markdown": "Here is a video breaking down some of the best board game alternatives to Risk:\n\n![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQl6VL0XodLQC1QZkikz46Hj_-GoVl6rjQOhKEoFOQSjCy-P192)\n6m\n[](https://www.youtube.com/watch?v=i3he6rBpWug&t=21) 10 Games Better Than Risk - with Tom Vasel 196K views  · 9 years ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · The Dice Tower",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "To help narrow down the best choice for your group, tell me:How many players normally join your game night?\nDo you want something quick and light, or a deep, long strategy game ?",
+          "markdown": "To help narrow down the best choice for your group, tell me:\n\n- **How many players** normally join your game night?\n- Do you want something **quick and light** , or a **deep, long strategy game**?",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Reddit",
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/boardgames/comments/13losud/what_are_some_games_like_risk_but_doesnt/",
+          "title": "What are some games like Risk, but doesn't completely rely on luck.",
+          "text": "To add; in War of Whispers you don't play as a particular group on the map. None of the men on the map are \"yours\". You partially control some armies in some ways."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "BoardGameGeek",
+          "domain": "boardgamegeek.com",
+          "url": "https://boardgamegeek.com/geeklist/56205/risk-style-games",
+          "title": "Risk-style Games | BoardGameGeek",
+          "text": "Risk-style board games and world-domination variants: Risk, Risk (Revised Edition), Castle Risk, Axis & Allies: 1942, Power, Fortress America, Risk 2210 A.D., Mons..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "YouTube",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=YfJTMNf8WAk&t=24",
+          "title": "Best Games Like Risk | 5 Recommendations",
+          "text": "Best Games Like Risk | 5 Recommendations and are worth checking out and as always we've got links to them down in the description. below if you want to check them"
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "www.youtube.com",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=1iL_8j4gEM8",
+          "title": "Top 10 Games That Are Better Than Risk",
+          "text": "powers that's two words I lie epic powers Kamath is a game where the whole crux of the game is that you have a panels of power tiles that are available to all play..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "www.youtube.com",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=i3he6rBpWug",
+          "title": "10 Games Better Than Risk - with Tom Vasel",
+          "text": "have risk in the title. but you'll see first one is Risk Legacy now Risk Legacy takes Risk and stands it on its head it's Risk in the Future. and each person has a..."
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "What are some games like Risk, but doesn't completely rely ...",
+        "url": "https://www.reddit.com/r/boardgames/comments/13losud/what_are_some_games_like_risk_but_doesnt/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "190+ comments  ·  3 years ago",
+        "website_name": "Reddit · r/boardgames",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Never have been a big board game guy before. Just never really been my thing. But last night my friend convinced me to play Risk with him and our other ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "What boardgames are like better versions of Risk ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/193bxkd/what_boardgames_are_like_better_versions_of_risk/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What is the best Risk style game? : r/boardgames ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/1j48oox/what_is_the_best_risk_style_game/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+risk+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnuG4waet8sTmDePEgVCikaynXFMog:1792381343012&sa=X&ved=2ahUKEwjm8IHqlMWXAxV_D1kFHejPKG8QrQIoAnoECC0QAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What is better than Risk?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What's better, Catan or Risk?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What game is similar to Risk Online?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What genre of game is Risk?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Risk-style Games",
+        "url": "https://boardgamegeek.com/geeklist/56205/risk-style-games",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › geeklist › risk-style-games",
+        "website_name": "BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "1. Risk · 2. Risk (Revised Edition) · 3. Castle Risk · 4. Axis & Allies: 1942 · 5. Power · 6. Fortress America · 7. Risk 2210 A.D. · 8. Monsters Menace America. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1. Risk"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://boardgamegeek.com/geeklist/56205/risk-style-games#:~:text=1.,Risk&text=2.,Risk%20(Revised%20Edition)&text=3.,Castle%20Risk&text=4.,Axis%20%26%20Allies%3A%201942&text=5.,Power&text=6.,Fortress%20America&text=7.,Risk%202210%20A.D.&text=8.,Monsters%20Menace%20America",
+          "domain": "boardgamegeek.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[8]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "Games similar to Risk with sci-fi or fantasy theme?",
+        "url": "https://www.facebook.com/groups/boardgamerevolution/posts/4017286251896616/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "50+ comments  ·  1 year ago",
+        "website_name": "Facebook · Board Game Revolution Community",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Recommendations include Eclipse, Root, and Star Wars Rebellion for sci-fi and fantasy themed games similar to Risk, with varying complexity ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Eclipse, Root, and Star Wars Rebellion"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "What are some board games similar to Risk?",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10161260780567829/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Games like Risk for 3-4 players",
+          "description": null,
+          "url": "https://www.facebook.com/groups/theboardgamegroup/posts/8897823823604891/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.facebook.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+risk+site:www.facebook.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnuG4waet8sTmDePEgVCikaynXFMog:1792381343012&sa=X&ved=2ahUKEwjm8IHqlMWXAxV_D1kFHejPKG8QrQIoAnoECD4QAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]",
+        "domain": "www.youtube.com",
+        "title": "Top 5 Alternatives to Risk That are Actually Good Games",
+        "url": "https://www.youtube.com/watch?v=IEdlF7HmTRw",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "5.7K+ views  ·  2 years ago",
+        "website_name": "YouTube · Board Stupid",
+        "is_image": false,
+        "is_video": true,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_video"
+        ],
+        "description": null,
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2024-05-09 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+        "domain": "assortedmeeples.com",
+        "title": "23 Strategy Games Better Than Risk",
+        "url": "https://assortedmeeples.com/23-strategy-games-better-than-risk",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://assortedmeeples.com › 23-strategy-games-better-...",
+        "website_name": "Assorted Meeples",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jun 23, 2022 — 23 Strategy Games Better Than Risk · #1: Settlers of Catan · #2: Axis & Allies · #3: Lords of Waterdeep · #4: Small World · #5: Ikusa aka Shogun aka ... Read more",
+        "pre_snippet": "06/23/2022 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Settlers of Catan"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://assortedmeeples.com/23-strategy-games-better-than-risk#:~:text=23%20Strategy%20Games%20Better%20Than,Risk&text=%231%3A%20Settlers%20of%20Catan&text=%232%3A%20Axis%20%26%20Allies&text=%233%3A%20Lords%20of%20Waterdeep&text=%234%3A%20Small%20World&text=%235%3A%20Ikusa%20aka%20Shogun%20aka,Samurai%20Swords",
+          "domain": "assortedmeeples.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2022-06-23 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+        "domain": "www.donteatthemeeples.com",
+        "title": "Seven games like Risk - by Matt Montgomery",
+        "url": "https://www.donteatthemeeples.com/seven-games-like-risk/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.donteatthemeeples.com › seven-games-like-r...",
+        "website_name": "Don't Eat the Meeples",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Aug 23, 2023 — Sign up for Don't Eat the Meeples · Small World · Inis · Brian Boru · Pandemic Legacy · Terraforming Mars · Root · Spirit Island. The final game ... Read more",
+        "pre_snippet": "08/23/2023 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Sign up for Don't Eat the Meeples"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.donteatthemeeples.com/seven-games-like-risk/#:~:text=Small%20World&text=Small%20World&text=Inis&text=Brian%20Boru&text=Pandemic%20Legacy&text=Terraforming%20Mars&text=Root&text=Spirit%20Island,sort%20of%20an%20inverse%20position.",
+          "domain": "www.donteatthemeeples.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2023-08-23 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+        "domain": "steamcommunity.com",
+        "title": "Massively multiplayer territory control games that play like ...",
+        "url": "https://steamcommunity.com/discussions/forum/12/494631967666420600/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://steamcommunity.com › discussions › forum",
+        "website_name": "Steam Community",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Dec 13, 2015 — I know there exists an online Risk-like game site called Conquer Club but that's the closest thing I've seen; all that is is basically Risk ... Read more",
+        "pre_snippet": "12/13/2015 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Conquer Club"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://steamcommunity.com/discussions/forum/12/494631967666420600/#:~:text=I%20know%20there%20exists%20an,not%20a%20massively%20multiplayer%20thing.",
+          "domain": "steamcommunity.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2015-12-13 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+        "domain": "www.amazon.com",
+        "title": "Games Like Risk",
+        "url": "https://www.amazon.com/games-like-risk/s?k=games+like+risk",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.amazon.com › games-like-risk › k=games+li...",
+        "website_name": "Amazon.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Hasbro Gaming Risk Strike Cards and Dice Game for Adults, Teens, and Kids, Quick-Playing Strategy Game, 2-5 Players, 20 Min. Average, Fun Summer Activities, ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Hasbro Gaming Risk Strike Cards and Dice Game"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.amazon.com/games-like-risk/s?k=games+like+risk#:~:text=Hasbro%20Gaming%20Risk%20Strike%20Cards,Vacation%20Travel%20Essentials%2C%20Ages%2010%2B",
+          "domain": "www.amazon.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+        "domain": "minireview.io",
+        "title": "60+ Games Like RISK: Global Domination",
+        "url": "https://minireview.io/strategy/risk-global-domination/games-like",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://minireview.io › ... › RISK: Global Domination",
+        "website_name": "MiniReview",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "60 mobiles games likeRIS K: Global Domination · #1 Lichess · #2 Chess - Play and Learn Online · #3 SOVL: Fantasy Warfare · #4 Wingspan: The Board Game · #5 Hex ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "games like risk from minireview.io",
+          "url": "https://minireview.io/strategy/risk-global-domination/games-like",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBaNHbxLtEDM0fNXJWdRxeYvTEC0sGbIyz_X3KARE&usqp=CAE&s"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "60 mobiles games likeRIS"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://minireview.io/strategy/risk-global-domination/games-like#:~:text=60%20mobiles%20games%20likeRISK%3A%20Global,Domination&text=%231%20Lichess&text=%232%20Chess%20-%20Play%20and,Learn%20Online&text=%233%20SOVL%3A%20Fantasy%20Warfare&text=%234%20Wingspan%3A%20The%20Board%20Game&text=%235%20Hex%20of%20Steel",
+          "domain": "minireview.io"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Board games like risk",
+         "Games like risk reddit",
+         "Games like risk and strategy",
+         "Games like risk for kids",
+         "Risk like games Android",
+         "Games like Risk online free",
+         "Games like Risk: global",
+         "Games like risk for adults"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

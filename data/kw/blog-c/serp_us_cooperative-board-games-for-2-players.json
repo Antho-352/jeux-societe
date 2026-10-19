@@ -1,0 +1,1300 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.0763 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190342-2588-0139-0000-12b7a48f5262",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "2.9925 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "cooperative board games for 2 players",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "cooperative board games for 2 players",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=cooperative%20board%20games%20for%202%20players&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:42:42 +00:00",
+      "spell": null,
+      "refinement_chips": {
+       "type": "refinement_chips",
+       "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+       "items": [
+        {
+         "type": "refinement_chips_element",
+         "title": "Board Game",
+         "url": "https://www.google.com/search?q=board+game+cooperative+games+for+2+players&hl=en&gl=US&shoprs=GAEqJWNvb3BlcmF0aXZlIGJvYXJkIGdhbWVzIGZvciAyIHBsYXllcnMyHAgBEgpCb2FyZCBHYW1lOgwI1J2eAhDXnZ4CMANY08kgYAE&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKAF6BQgzEIIB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Strategy",
+         "url": "https://www.google.com/search?q=strategy+cooperative+board+games+for+2+players&hl=en&gl=US&shoprs=GAEqJWNvb3BlcmF0aXZlIGJvYXJkIGdhbWVzIGZvciAyIHBsYXllcnMyGAgBEghTdHJhdGVneToKCKG4PhCiuD4wAFjTySBgAQ&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKAJ6BQgzEIMB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adults",
+         "url": "https://www.google.com/search?q=adults+cooperative+board+games+for+2+players&hl=en&gl=US&shoprs=GAEqJWNvb3BlcmF0aXZlIGJvYXJkIGdhbWVzIGZvciAyIHBsYXllcnMyFggBEgZBZHVsdHM6Cgj8kG8Q_ZBvMABY08kgYAE&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKAN6BQgzEIQB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board & Card Games",
+         "url": "https://www.google.com/search?q=board+%26+card+games+cooperative+for+2+players&hl=en&gl=US&shoprs=GAkqJWNvb3BlcmF0aXZlIGJvYXJkIGdhbWVzIGZvciAyIHBsYXllcnMyFggJEhJCb2FyZCAmIENhcmQgR2FtZXNgAQ&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKAR6BQgzEIUB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids",
+         "url": "https://www.google.com/search?q=kids+cooperative+board+games+for+2+players&hl=en&gl=US&shoprs=GAEqJWNvb3BlcmF0aXZlIGJvYXJkIGdhbWVzIGZvciAyIHBsYXllcnMyFAgBEgRLaWRzOgoI_JBvEP6QbzAAWNPJIGAB&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKAV6BQgzEIYB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "On sale",
+         "url": "https://www.google.com/search?q=cooperative+board+games+for+2+players+sale&hl=en&gl=US&shoprs=EgRKAhgBGAYqJWNvb3BlcmF0aXZlIGJvYXJkIGdhbWVzIGZvciAyIHBsYXllcnMyEwgGEgdPbiBzYWxlGAIiBEoCGAFY08kgYAE&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKAZ6BQgzEIcB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Card Game",
+         "url": "https://www.google.com/search?q=card+game+cooperative+board+games+for+2+players&hl=en&gl=US&shoprs=GAEqJWNvb3BlcmF0aXZlIGJvYXJkIGdhbWVzIGZvciAyIHBsYXllcnMyGwgBEglDYXJkIEdhbWU6DAi2wvcBELfC9wEwA1jTySBgAQ&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKAd6BQgzEIgB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Get it fast",
+         "url": "https://www.google.com/search?q=cooperative+board+games+for+2+players&hl=en&gl=US&shoprs=Eg2aAQoKCBADOAFAA0gBGBQqJWNvb3BlcmF0aXZlIGJvYXJkIGdhbWVzIGZvciAyIHBsYXllcnMyJAgUEgtHZXQgaXQgZmFzdCINmgEKCggQAzgBQANIASoEEAEYAWAB&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKAh6BQgzEIkB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Reviews",
+         "url": "https://www.google.com/search?q=reviews+cooperative+board+games+for+2+players&hl=en&gl=US&shoprs=GBIqJWNvb3BlcmF0aXZlIGJvYXJkIGdhbWVzIGZvciAyIHBsYXllcnMyCwgSEgdSZXZpZXdzYAE&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKAl6BQgzEIoB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "10+ Years",
+         "url": "https://www.google.com/search?q=10%2B+years+cooperative+board+games+for+2+players&hl=en&gl=US&shoprs=GAEqJWNvb3BlcmF0aXZlIGJvYXJkIGdhbWVzIGZvciAyIHBsYXllcnMyGwgBEgkxMCsgWWVhcnM6DAje9rUBEMeotgEwAFjTySBgAQ&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKAp6BQgzEIsB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "30 – 45 minutes",
+         "url": "https://www.google.com/search?q=30+minutes+to+45+minutes+cooperative+board+games+for+2+players&hl=en&gl=US&shoprs=EhoqGAjGvj0SEgkAAAAAAAA-QBEAAAAAAIBGQBgBKiVjb29wZXJhdGl2ZSBib2FyZCBnYW1lcyBmb3IgMiBwbGF5ZXJzMlkIARIRMzAg4oCTIDQ1IG1pbnV0ZXMiGioYCMa-PRISCQAAAAAAAD5AEQAAAAAAgEZAKhwKGDMwIG1pbnV0ZXMgdG8gNDUgbWludXRlcxgBOggIxr49EAAwBljTySBgAQ&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKAt6BQgzEIwB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "For Sale",
+         "url": "https://www.google.com/search?q=cooperative+board+games+for+2+players+sale&hl=en&gl=US&shoprs=GBIqJWNvb3BlcmF0aXZlIGJvYXJkIGdhbWVzIGZvciAyIHBsYXllcnMyDAgSEghGb3IgU2FsZWAB&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKAx6BQgzEI0B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Under $25",
+         "url": "https://www.google.com/search?q=cooperative+board+games+for+2+players+under+$25&hl=en&gl=US&shoprs=Eg0SCxEAAAAAhNd3QRgBGAUqJWNvb3BlcmF0aXZlIGJvYXJkIGdhbWVzIGZvciAyIHBsYXllcnMyIggFEglVbmRlciAkMjUYAiINEgsRAAAAAITXd0EYASoCGAFY08kgYAE&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKA16BQgzEI4B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "45 – 90 minutes",
+         "url": "https://www.google.com/search?q=45+minutes+to+90+minutes+cooperative+board+games+for+2+players&hl=en&gl=US&shoprs=EhoqGAjGvj0SEgkAAAAAAIBGQBEAAAAAAIBWQBgBKiVjb29wZXJhdGl2ZSBib2FyZCBnYW1lcyBmb3IgMiBwbGF5ZXJzMlkIARIRNDUg4oCTIDkwIG1pbnV0ZXMiGioYCMa-PRISCQAAAAAAgEZAEQAAAAAAgFZAKhwKGDQ1IG1pbnV0ZXMgdG8gOTAgbWludXRlcxgBOggIxr49EAAwBljTySBgAQ&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKA56BQgzEI8B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "2 players or more",
+         "url": "https://www.google.com/search?q=2+players+or+more+cooperative+board+games+for&hl=en&gl=US&shoprs=EhsqGQiPmdQCEhIJAAAAAAAAAEARAAAAAAAAAEAYASolY29vcGVyYXRpdmUgYm9hcmQgZ2FtZXMgZm9yIDIgcGxheWVyczJBCAESETIgcGxheWVycyBvciBtb3JlIhsqGQiPmdQCEhIJAAAAAAAAAEARAAAAAAAAAEAqAhgBOgkIj5nUAhAAMAZY08kgYAE&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKA96BQgzEJAB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Free",
+         "url": "https://www.google.com/search?q=free+cooperative+board+games+for+2+players&hl=en&gl=US&shoprs=GBIqJWNvb3BlcmF0aXZlIGJvYXJkIGdhbWVzIGZvciAyIHBsYXllcnMyCAgSEgRGcmVlYAE&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKBB6BQgzEJEB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Online",
+         "url": "https://www.google.com/search?q=online+cooperative+board+games+for+2+players&hl=en&gl=US&shoprs=GBIqJWNvb3BlcmF0aXZlIGJvYXJkIGdhbWVzIGZvciAyIHBsYXllcnMyCggSEgZPbmxpbmVgAQ&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKBF6BQgzEJIB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "1 player or more",
+         "url": "https://www.google.com/search?q=1+player+or+more+cooperative+board+games+for+2+players&hl=en&gl=US&shoprs=EhsqGQiPmdQCEhIJAAAAAAAA8D8RAAAAAAAA8D8YASolY29vcGVyYXRpdmUgYm9hcmQgZ2FtZXMgZm9yIDIgcGxheWVyczJACAESEDEgcGxheWVyIG9yIG1vcmUiGyoZCI-Z1AISEgkAAAAAAADwPxEAAAAAAADwPyoCGAE6CQiPmdQCEAAwBljTySBgAQ&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKBJ6BQgzEJMB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "15 – 30 minutes",
+         "url": "https://www.google.com/search?q=15+minutes+to+30+minutes+cooperative+board+games+for+2+players&hl=en&gl=US&shoprs=EhoqGAjGvj0SEgkAAAAAAAAuQBEAAAAAAAA-QBgBKiVjb29wZXJhdGl2ZSBib2FyZCBnYW1lcyBmb3IgMiBwbGF5ZXJzMlkIARIRMTUg4oCTIDMwIG1pbnV0ZXMiGioYCMa-PRISCQAAAAAAAC5AEQAAAAAAAD5AKhwKGDE1IG1pbnV0ZXMgdG8gMzAgbWludXRlcxgBOggIxr49EAAwBljTySBgAQ&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKBN6BQgzEJQB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Single Player",
+         "url": "https://www.google.com/search?q=single+player+cooperative+board+games+for+2+players&hl=en&gl=US&shoprs=GAEqJWNvb3BlcmF0aXZlIGJvYXJkIGdhbWVzIGZvciAyIHBsYXllcnMyHwgBEg1TaW5nbGUgUGxheWVyOgwImoaeAhCbhp4CMANY08kgYAE&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKBR6BQgzEJUB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids' Games",
+         "url": "https://www.google.com/search?q=kids'+games+cooperative+board+for+2+players&hl=en&gl=US&shoprs=GAkqJWNvb3BlcmF0aXZlIGJvYXJkIGdhbWVzIGZvciAyIHBsYXllcnMyDwgJEgtLaWRzJyBHYW1lc2AB&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKBV6BQgzEJYB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Family Friendly",
+         "url": "https://www.google.com/search?q=family+friendly+cooperative+board+games+for+2+players&hl=en&gl=US&shoprs=GAEqJWNvb3BlcmF0aXZlIGJvYXJkIGdhbWVzIGZvciAyIHBsYXllcnMyIQgBEg9GYW1pbHkgRnJpZW5kbHk6DAjdsZ4CEN6xngIwA1jTySBgAQ&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKBZ6BQgzEJcB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Books",
+         "url": "https://www.google.com/search?q=books+cooperative+board+games+for+2+players&hl=en&gl=US&shoprs=GAkqJWNvb3BlcmF0aXZlIGJvYXJkIGdhbWVzIGZvciAyIHBsYXllcnMyCQgJEgVCb29rc2AB&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKBd6BQgzEJgB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "New",
+         "url": "https://www.google.com/search?q=new+cooperative+board+games+for+2+players&hl=en&gl=US&shoprs=GAoqJWNvb3BlcmF0aXZlIGJvYXJkIGdhbWVzIGZvciAyIHBsYXllcnMyBwgKEgNOZXdY08kgYAE&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKBh6BQgzEJkB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Used",
+         "url": "https://www.google.com/search?q=used+cooperative+board+games+for+2+players&hl=en&gl=US&shoprs=GAoqJWNvb3BlcmF0aXZlIGJvYXJkIGdhbWVzIGZvciAyIHBsYXllcnMyCAgKEgRVc2VkWNPJIGAB&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKBl6BQgzEJoB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Role Playing",
+         "url": "https://www.google.com/search?q=role+playing+cooperative+board+games+for+2+players&hl=en&gl=US&shoprs=GAEqJWNvb3BlcmF0aXZlIGJvYXJkIGdhbWVzIGZvciAyIHBsYXllcnMyHAgBEgxSb2xlIFBsYXlpbmc6CgihuD4Qqrg-MABY08kgYAE&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQip4GKBp6BQgzEJsB",
+         "domain": "www.google.com",
+         "options": null
+        }
+       ]
+      },
+      "item_types": [
+       "organic",
+       "people_also_ask",
+       "popular_products",
+       "related_searches"
+      ],
+      "se_results_count": 184,
+      "pages_count": 1,
+      "items_count": 14,
+      "items": [
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Good 2 player cooperative games",
+        "url": "https://boardgamegeek.com/thread/3561557/good-2-player-cooperative-games",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › ... › Recommendations",
+        "website_name": "BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Aug 18, 2025 — Marvel Champions: The Card Game is a great 2 player game if you like the theme. Aeon's End: War Eternal and others in the Game: Aeon's End ... Read more",
+        "pre_snippet": "08/18/2025 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Marvel Champions: The Card Game"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Cooperative Games that Play with 2-Players",
+          "description": null,
+          "url": "https://boardgamegeek.com/geeklist/216858/cooperative-games-that-play-with-2-players",
+          "domain": "boardgamegeek.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Cooperative game for two players",
+          "description": null,
+          "url": "https://boardgamegeek.com/thread/3492846/cooperative-game-for-two-players",
+          "domain": "boardgamegeek.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from boardgamegeek.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=cooperative+board+games+for+2+players+site:boardgamegeek.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQntVZU3zoxu7zYyXDzD1OtWs4ZH95A:1792381361030&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQrQIoAnoECCUQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-08-18 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What is the best cooperative board game for 2 people?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are good 2 player co-op games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some good board games for 2 players?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What board games are fun for only two people?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+        "domain": "www.gamersdungeon.net",
+        "title": "Top 10 Boardgames for Two Players",
+        "url": "https://www.gamersdungeon.net/?p=6350",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.gamersdungeon.net › ...",
+        "website_name": "Gamers Dungeon",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jul 28, 2026 — 1. Patchwork. One of the easiest games to recommend to everyone, it's a universal kind of fun. I don' ... Read more",
+        "pre_snippet": "07/28/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Patchwork"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.gamersdungeon.net/?p=6350#:~:text=1.%20Patchwork,pick%20will%20surprise%20many%20hobbyists.",
+          "domain": "www.gamersdungeon.net"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-07-28 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "2 players co-op game : r/boardgames",
+        "url": "https://www.reddit.com/r/boardgames/comments/168c8xr/2_players_coop_game/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "120+ comments  ·  3 years ago",
+        "website_name": "Reddit · r/boardgames",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Sleeping Gods: Primeval Perils, Sky Team, Iberia, Mists Over Carcassonne, Atlantis Rising. If you're okay with heavier games - Gloomhaven: Jaws ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Sleeping Gods: Primeval Perils"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "I am lost. Seeking the perfect 2 player co-op : r ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/1djhrcc/i_am_lost_seeking_the_perfect_2_player_coop/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Looking for 2p co-op board games : r/boardgames ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/1p4afv0/looking_for_2p_coop_board_games/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=cooperative+board+games+for+2+players+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQntVZU3zoxu7zYyXDzD1OtWs4ZH95A:1792381361030&sa=X&ved=2ahUKEwjqzc3ylMWXAxVwT0EAHWtqAsEQrQIoAnoECCsQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+        "domain": "www.lowkeycoffeesnobs.com",
+        "title": "The Best Cooperative Board Games We've Found",
+        "url": "https://www.lowkeycoffeesnobs.com/best-coop-board-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.lowkeycoffeesnobs.com › best-coop-board...",
+        "website_name": "Low-Key Coffee Snobs",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jun 10, 2026 — A recap of the best 2 player co op board games we've found: The Fox in the Forest Duet Codenames Duet Harry Potter Hogwarts Battle Pandemic",
+        "pre_snippet": "06/10/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "The Fox in the Forest"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-06-10 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]",
+        "domain": "www.moxboardinghouse.com",
+        "title": "Cooperative Board Games",
+        "url": "https://www.moxboardinghouse.com/collections/cooperative?srsltid=AU7gw4URWYad6SSH_mBAKGsbvoK7B42Yq_p0W8Pu6V-xkMeBcM61waV1",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.moxboardinghouse.com › collections › coo...",
+        "website_name": "Mox Boarding House",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Cooperative Two-Player Party Magic: The Gathering. Root Catan Cascadia Wingspan (Second Edition) Wyrmspan Finspan Arcs Two-Player 59. Slay the Spire: The ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 8,
+         "regular": null,
+         "max_value": 185,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$8 to $185"
+        },
+        "highlighted": [
+         "Cooperative Two-Player Party Magic: The Gathering"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]",
+        "domain": "coopgestalt.com",
+        "title": "Top 10 Cooperative Board And Card Games of 2024!",
+        "url": "https://coopgestalt.com/2024/12/20/top-10-cooperative-board-and-card-games-of-2024/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://coopgestalt.com › 2024/12/20 › top-10-cooperat...",
+        "website_name": "coopgestalt",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Dec 20, 2024 — 10. Slay The Spire: The Board Game · 9. Union City Alliance: Heroes Unite! · 8. Flock Together · 7. Hissy Fit! · 6. Endeavor Deep Sea · 5. Tidal ... Read more",
+        "pre_snippet": "12/20/2024 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Slay The Spire: The Board Game"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://coopgestalt.com/2024/12/20/top-10-cooperative-board-and-card-games-of-2024/#:~:text=10.%20Slay%20The%20Spire%3A%20The,Board%20Game&text=9.%20Union%20City%20Alliance%3A%20Heroes,Unite!&text=8.%20Flock%20Together&text=7.%20Hissy%20Fit!&text=6.%20Endeavor%20Deep%20Sea&text=5.%20Tidal%20Blades%202%3A%20Rise,of%20the%20Unfolders",
+          "domain": "coopgestalt.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2024-12-20 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]",
+        "domain": "tabletopbellhop.com",
+        "title": "24 More of the Best Two Player Board Games for Date ...",
+        "url": "https://tabletopbellhop.com/gaming-advice/date-night-board-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://tabletopbellhop.com › Gaming Advice",
+        "website_name": "Tabletop Bellhop",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "My top three games that take all of these things into consideration are Zensu, Rack-O, and Point Salad. For some two player cooperative game suggestions, check ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Zensu, Rack-O, and Point Salad"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What are good 2-player co-op board games?",
+        "url": "https://www.facebook.com/groups/132851767828/posts/10164402065097829/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "80+ comments  ·  5 months ago",
+        "website_name": "Facebook · BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Our other favourites are Pandemic and Sky Team. 20w Sara Minnich Blackburn Beacon Patrol is a good coop",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "coop"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]",
+        "domain": "www.amazon.com",
+        "title": "2 Player Cooperative Board Games",
+        "url": "https://www.amazon.com/2-Player-cooperative-Board-Games/s?k=2+Player+cooperative+Board+Games",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.amazon.com › 2-Player-cooperative-Board-...",
+        "website_name": "Amazon.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Browse cooperative board games suitable for different age groups and experience levels. Enjoy games designed for meaningful shared experiences.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "cooperative board games suitable for different age groups and experience levels"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 10,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[21]/div[1]/div[1]",
+        "domain": "bitewinggames.com",
+        "title": "40 of the Best 2-Player Board Games of All Time",
+        "url": "https://bitewinggames.com/40-of-the-best-2-player-board-games-of-all-time/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://bitewinggames.com › Blog",
+        "website_name": "Bitewing Games",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "May 10, 2024 — Nick shares 40 of the best 2-player board games of all time including spicy games, abstract games, cooperative games, and more!",
+        "pre_snippet": "05/10/2024 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "40 of the best 2-player board games of all time"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2024-05-10 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[23]/div[1]",
+        "title": "Popular products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Defenders of the Wild",
+          "url": "https://www.google.com/search?ibp=oshop&q=cooperative+board+games+for+2+players&prds=gpcid:3049625286529254669,rds:PC_3049625286529254669%7CPROD_PC_3049625286529254669,headlineOfferDocid:17921935089334468622,catalogid:4974337573917161443,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Cardhaus Games & more",
+          "more_sellers": true,
+          "seller": "Cardhaus Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTmeun3_DM9l-uwx_UzxkTseiLGeYkdQYllKUG4kAKUsrtPwlsDHv2CSFJvwANjsvs_mz5arJu3sz8Uo7dq_8lSAbUbupkJTvvFXVv0ir7aPSrOMD5dYvV8",
+          "price": {
+           "current": 53.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$53.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 5,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "4974337573917161443",
+           "data_docid": "3576562481847973017",
+           "gid": "3049625286529254669"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Mice and Mystics",
+          "url": "https://www.google.com/search?ibp=oshop&q=cooperative+board+games+for+2+players&prds=gpcid:1299069629776613005,rds:PC_1299069629776613005%7CPROD_PC_1299069629776613005,headlineOfferDocid:207730686301783098,catalogid:16487634502607010332,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery by Sat",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQsyKEMANsuck4ApULXYFwLh5KUmT6y-QAWRUz9BGehp08LTRCzfAXZzovRq7uRi9DX_LQemLJueEYLO_JCxs6UY1GYx4hdpzlIGlicoJCl5oFV3_q6Miwx",
+          "price": {
+           "current": 88.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$88.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.9,
+           "votes_count": 51,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "16487634502607010332",
+           "data_docid": "15855370724019923930",
+           "gid": "1299069629776613005"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "The Gang",
+          "url": "https://www.google.com/search?ibp=oshop&q=cooperative+board+games+for+2+players&prds=gpcid:917461200685101023,rds:PC_917461200685101023%7CPROD_PC_917461200685101023,headlineOfferDocid:16484229829311591449,catalogid:4190026482510833565,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Kingslayer Games & more\nFree delivery on $130+",
+          "more_sellers": true,
+          "seller": "Kingslayer Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQWY8adxY3C9JhfdhvsVj1E6BneqZeO7lwTCPnVSaeLk_8XvKkxQ9A-n1MN02iAGBLXYlnphmyrAnAacfoADad8Sg8lGPm5-8BPiCCc0YlGk1mwVfUYwxOO7w",
+          "price": {
+           "current": 14.95,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$14.95"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 68,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "4190026482510833565",
+           "data_docid": "17597486598191621968",
+           "gid": "917461200685101023"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Codenames Duet Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=cooperative+board+games+for+2+players&prds=gpcid:8847022354689057055,rds:PC_8847022354689057055%7CPROD_PC_8847022354689057055,headlineOfferDocid:13347215661564169804,catalogid:481329432065532538,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Turner Toys & more",
+          "more_sellers": true,
+          "seller": "Turner Toys",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTkUqe5J6tjdN7DJ4EB1GerTKOqsp8vZaNEJyUV-L21sQ1DFAi2uAUIbIBi4DGacKsEaPUqaN2e-eL-C78xp8e412NeIy44",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 113,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "481329432065532538",
+           "data_docid": "7843316337015064293",
+           "gid": "8847022354689057055"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Stellar Factory Ravine A Crafty and Cooperative Card Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=cooperative+board+games+for+2+players&prds=gpcid:2290479238436759540,rds:PC_2290479238436759540%7CPROD_PC_2290479238436759540,headlineOfferDocid:14752423115983855526,catalogid:13703527809169456335,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Henry Bear's Park & more\nFree delivery on $50+",
+          "more_sellers": true,
+          "seller": "Henry Bear's Park",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBpi_50fWY1STqVGJSQqVeYTF9ssUmhhNJj6kVNUQmUrDpTvfjeyPLeUAddiH-wToh-Ut3d2twrFPb6MVgsOWjaRMbpGdLGaQhbbvyXGxXO6XHTJgklcqITg",
+          "price": {
+           "current": 37.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$37.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 176,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "13703527809169456335",
+           "data_docid": "13138552223531608936",
+           "gid": "2290479238436759540"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Board Game Pandemic",
+          "url": "https://www.google.com/search?ibp=oshop&q=cooperative+board+games+for+2+players&prds=gpcid:11855778488561194923,rds:PC_11855778488561194923%7CPROD_PC_11855778488561194923,headlineOfferDocid:5497838137940356060,catalogid:10593681648813577985,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Boardtopia & more\nFree delivery on $150+",
+          "more_sellers": true,
+          "seller": "Boardtopia",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSpXF0XcsARPQN-XJbh3YrgtGTbmKUSMKr0mGXhUlApjuOTIenCTG9XA4te_zs0f9yziCzAqgGylnQNcZwf01bY4Wff5u2Zr1Nvg291GWxCaoo2DhrATmF0",
+          "price": {
+           "current": 25.99,
+           "regular": 50,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$25.99 $50"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 753,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "10593681648813577985",
+           "data_docid": "7075071789786305493",
+           "gid": "11855778488561194923"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Vantage Board Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=cooperative+board+games+for+2+players&prds=gpcid:1292321647979742237,rds:PC_1292321647979742237%7CPROD_PC_1292321647979742237,headlineOfferDocid:14474583611263327524,catalogid:11913361020683099677,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Stonemaier Games & more\nFree delivery",
+          "more_sellers": true,
+          "seller": "Stonemaier Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTlv4jsB9v-lExhj7ROdoqWqy_gZKVPmf_ZZAmDHCyfKsEaaek-dYqyPKcGGAIwQYD_2gaXs2_ATZFU3KIVVoiEi_6B50cc80gB7roQO9f50OLHFr3UGfRXhg",
+          "price": {
+           "current": 79,
+           "regular": 90,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$79.00 $90"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 40,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "11913361020683099677",
+           "data_docid": "1393061304514321062",
+           "gid": "1292321647979742237"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Crew The Mission Deep Sea",
+          "url": "https://www.google.com/search?ibp=oshop&q=cooperative+board+games+for+2+players&prds=gpcid:3875098600466776807,rds:PC_3875098600466776807%7CPROD_PC_3875098600466776807,headlineOfferDocid:14238367478550707422,catalogid:14678083395466749222,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Thames & Kosmos & more",
+          "more_sellers": true,
+          "seller": "Thames & Kosmos",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRrMN6XiD0u6bB72QRzL8PSPqxzG6eOa1oTRsFLVZOSmuvyApWAQ9UxLyJeXtbqw_pd49yzCUjZ84x9EC6FLBRqEhRBpks9X9RqQYp9dD7euYvO-83-i2Kl",
+          "price": {
+           "current": 14.95,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$14.95"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 125,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "14678083395466749222",
+           "data_docid": "16606082866220870834",
+           "gid": "3875098600466776807"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 2,
+        "rank_absolute": 13,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[25]/div[1]",
+        "title": "More products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Far Away - A 2-player Cooperative Board Game — Cherry Picked Games",
+          "url": "https://www.google.com/search?ibp=oshop&q=cooperative+board+games+for+2+players&prds=headlineOfferDocid:891652881912253055,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Cherry Picked Games",
+          "more_sellers": false,
+          "seller": "Cherry Picked Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQsGDX6oPWYMHolDzepgiA-1gIXA2apwRdc_8B9lWMASg59rL5lDYkOMp1NVRs8GClgjza2YKYLGNIA2O2T1bd4itRy0Rsp7g",
+          "price": {
+           "current": 60,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$60.00"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": null,
+           "data_docid": "891652881912253055",
+           "gid": null
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Azul Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=cooperative+board+games+for+2+players&prds=gpcid:16277784982869458591,rds:PC_16277784982869458591%7CPROD_PC_16277784982869458591,headlineOfferDocid:12513349154840040614,catalogid:5525313397194565835,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRPNWJI-DMEdxgnXS3s_561zKGpjrfAbl60Oi2TQEJ8pDe2Btg8-FH7cCfYYGfAOgjgAnmi9LzbCAGo_JEXDuXFzsfnO5fjGaozG2lio-m90pLmmLBJDPmN",
+          "price": {
+           "current": 31.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$31.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 821,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "5525313397194565835",
+           "data_docid": "5213794068131047571",
+           "gid": "16277784982869458591"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Peaceable Kingdom Count Your Chickens Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=cooperative+board+games+for+2+players&prds=gpcid:5814349464909031902,rds:PC_5814349464909031902%7CPROD_PC_5814349464909031902,headlineOfferDocid:3775673483978301673,catalogid:11169741156117802378,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Little Lincoln's Toy Shop & more\nFree delivery on $75+",
+          "more_sellers": true,
+          "seller": "Little Lincoln's Toy Shop",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQFrv6e3QZhiKjZQxSPjyAGXLNlxgkBuCDnXw8lp-muvDf77lTHX_4wM64bkwqcTjjN-K-QTkmbLj13o_0_RetGHUui3AHY0iyBMDUmKJr7K6nY3uKL8JMndg",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 202,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "11169741156117802378",
+           "data_docid": "11540361993814533658",
+           "gid": "5814349464909031902"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Sky Team Board Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=cooperative+board+games+for+2+players&prds=gpcid:13802372555356498256,rds:PC_13802372555356498256%7CPROD_PC_13802372555356498256,headlineOfferDocid:13662666864240289619,catalogid:9688023952297683165,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Detective Hawk Games & more",
+          "more_sellers": true,
+          "seller": "Detective Hawk Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQKQpVCfBzQ7yXAd_QLG9ZEZiU-A-OkRipKeZpAq-WwOUNBV_pNe8BpFlEBN4N6p8owE6kWYoT1M71slfhV_UeyB-tERJxPtusETummxUVcOeOi8PvkCHci",
+          "price": {
+           "current": 26.39,
+           "regular": 33,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$26.39 $33"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.9,
+           "votes_count": 120,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "9688023952297683165",
+           "data_docid": "14181203480670797245",
+           "gid": "13802372555356498256"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Codenames Duet 2.0",
+          "url": "https://www.google.com/search?ibp=oshop&q=cooperative+board+games+for+2+players&prds=gpcid:790654127370044392,rds:PC_790654127370044392%7CPROD_PC_790654127370044392,headlineOfferDocid:5197130805529236524,catalogid:8082925120378302431,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Elderwoods & more\nFree delivery by Fri",
+          "more_sellers": true,
+          "seller": "Elderwoods",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQb5HJmjPVZ5MQypNZA2mxMgt_PPRzjhWDy4dUTSY7rGKSHlSFwpG_iWU-Hw9aIfEIGMq6x71dnDq_A9pS9km1dDLBVV3rx-bCZZrL1QdFk9J_BxDpUxlwR",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 31,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "8082925120378302431",
+           "data_docid": "6231253358228181792",
+           "gid": "790654127370044392"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "The Fox in The Forest Duet",
+          "url": "https://www.google.com/search?ibp=oshop&q=cooperative+board+games+for+2+players&prds=gpcid:13376295272164772138,rds:PC_13376295272164772138%7CPROD_PC_13376295272164772138,headlineOfferDocid:11763204402557239289,catalogid:3358128554694323399,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Rainbow Resource Center & more\nFree delivery on $50+",
+          "more_sellers": true,
+          "seller": "Rainbow Resource Center",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSvzMxIVuPGUfvcBiGSWmBLI1FUMACGedSE4ds4f_4uyr-pCaZp-zIVpfbBQm48pQdpbOLDnpVkgg6Mq8uv32psge64HDFvMkM76sr0e8B-OwU7vmuA-4llag",
+          "price": {
+           "current": 12.95,
+           "regular": 16,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$12.95 $16"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 19,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "3358128554694323399",
+           "data_docid": "6453354849397249517",
+           "gid": "13376295272164772138"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Gamewright Outfoxed! Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=cooperative+board+games+for+2+players&prds=gpcid:15818365237247509589,rds:PC_15818365237247509589%7CPROD_PC_15818365237247509589,headlineOfferDocid:17392096475048469688,catalogid:7631211949690998159,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Beyond the Blackboard & more",
+          "more_sellers": true,
+          "seller": "Beyond the Blackboard",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRNTGrUg_vjuYC6qaXrqAYZKoL9cTcFd4Q8hz-37vuyo6F5rlKXXzvje2rpgklYgauEBfAIJOjDlqGTs5IU70ZOTVT2E39zX1hn3KoYbETzY_O8xfxo1OWcDQ",
+          "price": {
+           "current": 29.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$29.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.9,
+           "votes_count": 172,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "7631211949690998159",
+           "data_docid": "3309686636213778600",
+           "gid": "15818365237247509589"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Bomb Busters Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=cooperative+board+games+for+2+players&prds=gpcid:11562433456989734792,rds:PC_11562433456989734792%7CPROD_PC_11562433456989734792,headlineOfferDocid:14940388485424370914,catalogid:12848648256452753314,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "The Little Seedling & more",
+          "more_sellers": true,
+          "seller": "The Little Seedling",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTogCY87zQ7k5HtG8eJ87lW6ftJEJ0sSSwQTzMdpUahMmMtj3nm6JlB7VW4TIWoNoZlB39CPd8RjXBLdIL_vsH_tl5wcJ6F9LVm4LHppEwT_I1DGuiLA3D9kQ",
+          "price": {
+           "current": 39.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$39.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.9,
+           "votes_count": 37,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "12848648256452753314",
+           "data_docid": "13325708492911665859",
+           "gid": "11562433456989734792"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 14,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Best cooperative board games for 2 players",
+         "Cooperative board games for 2 players adults",
+         "Best 2 player board games for adults",
+         "Top 10 cooperative board games",
+         "Best 2 player campaign board games",
+         "Classic board games for 2 players",
+         "2 player cooperative games online",
+         "Best cooperative board games for families"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

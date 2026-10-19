@@ -1,0 +1,738 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "4.2760 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190341-2588-0139-0000-695ed1882bcd",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "4.1804 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "games like tic tac toe",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "games like tic tac toe",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=games%20like%20tic%20tac%20toe&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:41:42 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "video",
+       "related_searches"
+      ],
+      "se_results_count": 147,
+      "pages_count": 1,
+      "items_count": 12,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "Here are several great games similar to Tic-Tac-Toe, ranging from quick paper-and-pencil variations to deeper strategy games:\n\n### Direct Tic-Tac-Toe Variations & Extensions\n\n- **Ultimate Tic-Tac-Toe:** You draw a large 3×3 grid, and inside each of the 9 squares, you draw a smaller 3×3 Tic-Tac-Toe board. Where you play in a small board dictates *which* small board your opponent must play in next (e.g., playing in the top-right square sends your opponent to the top-right small board). Win 3 small boards in a row to win the game.[[1]](https://www.reddit.com/r/boardgames/comments/2fnjlw/what_are_your_favorite_penandpaper_games/)[[2]](https://www.youtube.com/watch?v=KXjv4JFLWfs)\n- **5×5 Tic-Tac-Toe:** Played on a larger 5×5 grid where two players take turns placing Xs and Os. Instead of just one 3-in-a-row, you count how many individual three-in-a-row lines (horizontally, vertically, or diagonally) each player makes once the grid is filled.[[1]](https://www.whatdowedoallday.com/tic-tac-toe-variations/)\n- **Order and Chaos:** Played on a 6×6 grid where *both* players can place either an X or an O on any turn. \"Order\" tries to get 5 of the same symbol in a row, while \"Chaos\" tries to stop them from doing so.[[1]](https://www.tiktok.com/@tabletopfamily/video/7519137305844567351?lang=en)\n- **Kongen (Nim Variation):** Played on a 3×3 grid where players take turns writing numbers 1 through 9. The first player to get a line of three numbers that add up to 15 wins (this shares the exact mathematical structure of Tic-Tac-Toe).[[1]](https://www.quora.com/What-are-some-simple-games-tic-tac-toe-for-example-you-can-play-between-two-people-using-just-a-piece-of-paper-and-a-pen-or-pencil)\n- **Toe Tac Tic:** A reverse-psychology twist where the goal is *not* to get three in a row—whoever gets three in a row loses.[[1]](https://www.facebook.com/belloflostsouls/posts/five-pen-and-paper-games-that-are-better-than-tic-tac-toe/1162560209253133/)\n\n### Other Classic Paper-and-Pencil Strategy Games\n\n- **Dots and Boxes:** Players take turns drawing lines between a grid of dots. Completing the fourth side of a 1x1 box claims that box (you write your initial inside) and earns you another turn. The player with the most boxes wins.[[1]](https://www.belloflostsouls.net/2025/08/5-pen-and-paper-games-that-are-better-than-tic-tac-toe.html)\n- **Sim:** Played on 6 dots arranged in a hexagon. Two players take turns drawing colored lines between the dots. The goal is to *avoid* completing a triangle in your own color.[[1]](https://www.playworks.org/resource/fun-paper-and-pencil-games-to-play/)\n- **Bunch of Grapes:** An area-control game where you draw a cluster of connected \"grapes\" (circles). Players take turns hopping to connected grapes while blocking paths to trap the other player with nowhere left to move.[[1]](https://www.youtube.com/shorts/nj_r9JKvDx0)\n\nHere is a quick overview of Ultimate Tic-Tac-Toe and other creative paper-and-pencil games you can play with a friend:![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3nJSvtEFm9PgAXHvZh2G7XUneE1kU1v2kCdxzD3CYkbsfLOD_Vr3mhtcWqNIBFD7N9LcokrVOFD-IPFL-rpY0ZrHuhw)\n![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvBapW7PuFKhqio5bRG9v8lmdEoruF419x1umXQSfdoyAFeOE6huOPyWNOWv2esf6B6uxDh4P431R5tjf7Wm2Z4AcQn8s)\n1:05[](https://www.youtube.com/watch?v=KXjv4JFLWfs) Fun Paper & Pen Games You Can Play Anywhere ...1 year ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=128&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · wikiHow![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNNq3-lH7F5cYP0uV0bU9ekJpOoE0AH1bCwzgXsR537dH9w1W32c3_jBIhRBkfDP9SDGBsO0RH3EzZcRwn5n2OZHkDbA)\n![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnpWt8mOkAV3DGK-VMggj-eGcgmngFlryKFEqxXI6Qu6Q2rL9Ub7FB5tM-BuYhDX_4cE3c_aELtrvHSIo2CiJ4bq1fLFc)\n1:04[](https://www.youtube.com/shorts/nj_r9JKvDx0) Easy paper and pen game!492K views  · 1 year ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=128&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · The Tabletop Family![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxP4arAo0fihz0ZWc0IeOU9tJcBCwV8bToTcMYUgHF1M4cEV8-18V6otBqcFG_wZdJjUReZnoEM7fFYESG0vLD3NZOsA)\n![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTjjf15mC5SG_qPWSUT54L4B5h8tT2lYbEgN0VgM9q1VQgPt3jDntJrxemD5mzjgXzRy2CL9nZPUaJdk7a9fjLPKOTHlk)\n57s[](https://www.youtube.com/shorts/aLvfcrVCbpU) Paper and Pencil Games You Can Play Anywhere!39K views  · 10 months ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=128&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · The Tabletop Family Would you like the **full step-by-step rules** for a specific game on this list, or are you looking for a game tailored to a **certain number of players or age group**?",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Here are several great games similar to Tic-Tac-Toe, ranging from quick paper-and-pencil variations to deeper strategy games:",
+          "markdown": "Here are several great games similar to Tic-Tac-Toe, ranging from quick paper-and-pencil variations to deeper strategy games:",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Direct Tic-Tac-Toe Variations & Extensions",
+          "text": "Ultimate Tic-Tac-Toe: You draw a large 3×3 grid, and inside each of the 9 squares, you draw a smaller 3×3 Tic-Tac-Toe board. Where you play in a small board dictates which small board your opponent must play in next (e.g., playing in the top-right square sends your opponent to the top-right small board). Win 3 small boards in a row to win the game. 5×5 Tic-Tac-Toe: Played on a larger 5×5 grid where two players take turns placing Xs and Os. Instead of just one 3-in-a-row, you count how many individual three-in-a-row lines (horizontally, vertically, or diagonally) each player makes once the grid is filled. Order and Chaos: Played on a 6×6 grid where both players can place either an X or an O on any turn. \"Order\" tries to get 5 of the same symbol in a row, while \"Chaos\" tries to stop them from doing so. Kongen (Nim Variation): Played on a 3×3 grid where players take turns writing numbers 1 through 9. The first player to get a line of three numbers that add up to 15 wins (this shares the exact mathematical structure of Tic-Tac-Toe). Toe Tac Tic: A reverse-psychology twist where the goal is not to get three in a row—whoever gets three in a row loses.",
+          "markdown": "- **Ultimate Tic-Tac-Toe:** You draw a large 3×3 grid, and inside each of the 9 squares, you draw a smaller 3×3 Tic-Tac-Toe board. Where you play in a small board dictates *which* small board your opponent must play in next (e.g., playing in the top-right square sends your opponent to the top-right small board). Win 3 small boards in a row to win the game.[[1]](https://www.reddit.com/r/boardgames/comments/2fnjlw/what_are_your_favorite_penandpaper_games/)[[2]](https://www.youtube.com/watch?v=KXjv4JFLWfs)\n- **5×5 Tic-Tac-Toe:** Played on a larger 5×5 grid where two players take turns placing Xs and Os. Instead of just one 3-in-a-row, you count how many individual three-in-a-row lines (horizontally, vertically, or diagonally) each player makes once the grid is filled.[[1]](https://www.whatdowedoallday.com/tic-tac-toe-variations/)\n- **Order and Chaos:** Played on a 6×6 grid where *both* players can place either an X or an O on any turn. \"Order\" tries to get 5 of the same symbol in a row, while \"Chaos\" tries to stop them from doing so.[[1]](https://www.tiktok.com/@tabletopfamily/video/7519137305844567351?lang=en)\n- **Kongen (Nim Variation):** Played on a 3×3 grid where players take turns writing numbers 1 through 9. The first player to get a line of three numbers that add up to 15 wins (this shares the exact mathematical structure of Tic-Tac-Toe).[[1]](https://www.quora.com/What-are-some-simple-games-tic-tac-toe-for-example-you-can-play-between-two-people-using-just-a-piece-of-paper-and-a-pen-or-pencil)\n- **Toe Tac Tic:** A reverse-psychology twist where the goal is *not* to get three in a row—whoever gets three in a row loses.[[1]](https://www.facebook.com/belloflostsouls/posts/five-pen-and-paper-games-that-are-better-than-tic-tac-toe/1162560209253133/)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/boardgames/comments/2fnjlw/what_are_your_favorite_penandpaper_games/",
+            "title": "What are your favorite pen-and-paper games? : r/boardgames - Reddit",
+            "text": "Super noughts and crosses (or tic tac toe). Start with a normal three by three grid. Then divide each square into another three by..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=KXjv4JFLWfs",
+            "title": "Fun Paper & Pen Games You Can Play Anywhere ...",
+            "text": "Fun Paper & Pen Games You Can Play Anywhere #shorts feeling bored all you need to entertain yourself is a pencil and a piece of pa..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "What Do We Do All Day",
+            "domain": "www.whatdowedoallday.com",
+            "url": "https://www.whatdowedoallday.com/tic-tac-toe-variations/",
+            "title": "8 Tic-Tac-Toe Variations",
+            "text": "5 x 5 Tic-Tac-Toe Materials and set up: You need pen and paper, grid board This tic-tac-toe variation is played on a 5x5 grid. As ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "TikTok",
+            "domain": "www.tiktok.com",
+            "url": "https://www.tiktok.com/@tabletopfamily/video/7519137305844567351?lang=en",
+            "title": "Tic Tac Toe Games",
+            "text": "Definitely bookmark this one because it's quickly become of my favorite alternative tic-tac-toe games! I can't decide if I like be..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Quora",
+            "domain": "www.quora.com",
+            "url": "https://www.quora.com/What-are-some-simple-games-tic-tac-toe-for-example-you-can-play-between-two-people-using-just-a-piece-of-paper-and-a-pen-or-pencil",
+            "title": "What are some simple games (tic-tac-toe, for example) you can ...",
+            "text": "Kongen (Nim Variation): Kongen is a Nim-style game played on a 3x3 grid. Players take turns marking cells with numbers 1 through 9..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Facebook",
+            "domain": "www.facebook.com",
+            "url": "https://www.facebook.com/belloflostsouls/posts/five-pen-and-paper-games-that-are-better-than-tic-tac-toe/1162560209253133/",
+            "title": "Five Pen and Paper Games That Are Better Than Tic-Tac-Toe",
+            "text": "Pen and Paper Games: Tic-Tac-Toe, Hangman, Battleships, Mastermind, Tangram, Sudoku, Sprouts, Toe Tac Tic (lose by scoring 3 in a ..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Other Classic Paper-and-Pencil Strategy Games",
+          "text": "Dots and Boxes: Players take turns drawing lines between a grid of dots. Completing the fourth side of a 1x1 box claims that box (you write your initial inside) and earns you another turn. The player with the most boxes wins. Sim: Played on 6 dots arranged in a hexagon. Two players take turns drawing colored lines between the dots. The goal is to avoid completing a triangle in your own color. Bunch of Grapes: An area-control game where you draw a cluster of connected \"grapes\" (circles). Players take turns hopping to connected grapes while blocking paths to trap the other player with nowhere left to move.",
+          "markdown": "- **Dots and Boxes:** Players take turns drawing lines between a grid of dots. Completing the fourth side of a 1x1 box claims that box (you write your initial inside) and earns you another turn. The player with the most boxes wins.[[1]](https://www.belloflostsouls.net/2025/08/5-pen-and-paper-games-that-are-better-than-tic-tac-toe.html)\n- **Sim:** Played on 6 dots arranged in a hexagon. Two players take turns drawing colored lines between the dots. The goal is to *avoid* completing a triangle in your own color.[[1]](https://www.playworks.org/resource/fun-paper-and-pencil-games-to-play/)\n- **Bunch of Grapes:** An area-control game where you draw a cluster of connected \"grapes\" (circles). Players take turns hopping to connected grapes while blocking paths to trap the other player with nowhere left to move.[[1]](https://www.youtube.com/shorts/nj_r9JKvDx0)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Bell of Lost Souls",
+            "domain": "www.belloflostsouls.net",
+            "url": "https://www.belloflostsouls.net/2025/08/5-pen-and-paper-games-that-are-better-than-tic-tac-toe.html",
+            "title": "Five Pen and Paper Games That Are Better Than Tic-Tac-Toe - Bell of Lost Souls",
+            "text": "Sprouts: Connect 2 dots, draw a new dot on the line, max 3 lines per dot, lose if unable. Mastermind: 2-player decoding; one write..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "www.playworks.org",
+            "domain": "www.playworks.org",
+            "url": "https://www.playworks.org/resource/fun-paper-and-pencil-games-to-play/",
+            "title": "Fun Paper and Pencil Games to Play",
+            "text": "These games will challenge kids and keep them entertained for hours. * Tic Tac Toe. The simple game of tic tac toe is a two player..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/shorts/nj_r9JKvDx0",
+            "title": "Easy paper and pen game!",
+            "text": "Easy paper and pen game! welcome back to Paper. and Pen Games 101. where I teach you truly easy games so that you don't just have ..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Here is a quick overview of Ultimate Tic-Tac-Toe and other creative paper-and-pencil games you can play with a friend: 1:05 Fun Paper & Pen Games You Can Play Anywhere ... 1 year ago YouTube · wikiHow 1:04 Easy paper and pen game! 492K views · 1 year ago YouTube · The Tabletop Family 57s Paper and Pencil Games You Can Play Anywhere! 39K views · 10 months ago YouTube · The Tabletop Family",
+          "markdown": "Here is a quick overview of Ultimate Tic-Tac-Toe and other creative paper-and-pencil games you can play with a friend:![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3nJSvtEFm9PgAXHvZh2G7XUneE1kU1v2kCdxzD3CYkbsfLOD_Vr3mhtcWqNIBFD7N9LcokrVOFD-IPFL-rpY0ZrHuhw)\n![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvBapW7PuFKhqio5bRG9v8lmdEoruF419x1umXQSfdoyAFeOE6huOPyWNOWv2esf6B6uxDh4P431R5tjf7Wm2Z4AcQn8s)\n1:05[](https://www.youtube.com/watch?v=KXjv4JFLWfs) Fun Paper & Pen Games You Can Play Anywhere ...1 year ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=128&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · wikiHow![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNNq3-lH7F5cYP0uV0bU9ekJpOoE0AH1bCwzgXsR537dH9w1W32c3_jBIhRBkfDP9SDGBsO0RH3EzZcRwn5n2OZHkDbA)\n![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnpWt8mOkAV3DGK-VMggj-eGcgmngFlryKFEqxXI6Qu6Q2rL9Ub7FB5tM-BuYhDX_4cE3c_aELtrvHSIo2CiJ4bq1fLFc)\n1:04[](https://www.youtube.com/shorts/nj_r9JKvDx0) Easy paper and pen game!492K views  · 1 year ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=128&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · The Tabletop Family![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxP4arAo0fihz0ZWc0IeOU9tJcBCwV8bToTcMYUgHF1M4cEV8-18V6otBqcFG_wZdJjUReZnoEM7fFYESG0vLD3NZOsA)\n![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTjjf15mC5SG_qPWSUT54L4B5h8tT2lYbEgN0VgM9q1VQgPt3jDntJrxemD5mzjgXzRy2CL9nZPUaJdk7a9fjLPKOTHlk)\n57s[](https://www.youtube.com/shorts/aLvfcrVCbpU) Paper and Pencil Games You Can Play Anywhere!39K views  · 10 months ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=128&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · The Tabletop Family",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Would you like the full step-by-step rules for a specific game on this list, or are you looking for a game tailored to a certain number of players or age group ?",
+          "markdown": "Would you like the **full step-by-step rules** for a specific game on this list, or are you looking for a game tailored to a **certain number of players or age group**?",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Reddit",
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/boardgames/comments/2fnjlw/what_are_your_favorite_penandpaper_games/",
+          "title": "What are your favorite pen-and-paper games? : r/boardgames - Reddit",
+          "text": "Super noughts and crosses (or tic tac toe). Start with a normal three by three grid. Then divide each square into another three by three grid. Play noughts and cro..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "www.playworks.org",
+          "domain": "www.playworks.org",
+          "url": "https://www.playworks.org/resource/fun-paper-and-pencil-games-to-play/",
+          "title": "Fun Paper and Pencil Games to Play",
+          "text": "These games will challenge kids and keep them entertained for hours. * Tic Tac Toe. The simple game of tic tac toe is a two player game of Xs and Os. Play begins w..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Facebook",
+          "domain": "www.facebook.com",
+          "url": "https://www.facebook.com/belloflostsouls/posts/five-pen-and-paper-games-that-are-better-than-tic-tac-toe/1162560209253133/",
+          "title": "Five Pen and Paper Games That Are Better Than Tic-Tac-Toe",
+          "text": "Pen and Paper Games: Tic-Tac-Toe, Hangman, Battleships, Mastermind, Tangram, Sudoku, Sprouts, Toe Tac Tic (lose by scoring 3 in a row), Cubulus. Roll and Write Gam..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "www.youtube.com",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/shorts/aLvfcrVCbpU",
+          "title": "Paper and Pencil Games You Can Play Anywhere!",
+          "text": "you could choose any circle to ride in but at the end there will be one circle. left which becomes the black hole the player. who has the lowest score from their c..."
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]",
+        "domain": "www.foxinaboxchicago.com",
+        "title": "10 Must-Try Pen and Paper Games for Your Next Group ...",
+        "url": "https://www.foxinaboxchicago.com/10_must-try_pen_and_paper_games_for_your_next_group_hangout/l-265",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.foxinaboxchicago.com › 10_must-try_pen...",
+        "website_name": "Fox in a Box - Escape Room Chicago",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "5 top pen-and-paper games for groups · Pictionary · Hangman · Tic-Tac-Toe (Noughts and Crosses) · Dots and Boxes · Word Search. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Pictionary"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.foxinaboxchicago.com/10_must-try_pen_and_paper_games_for_your_next_group_hangout/l-265#:~:text=5%20top%20pen-and-paper%20games%20for,groups&text=Pictionary&text=Hangman&text=Tic-Tac-Toe%20(Noughts%20and%20Crosses)&text=Dots%20and%20Boxes&text=Word%20Search",
+          "domain": "www.foxinaboxchicago.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What is a tied game of tic-tac-toe called?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some fun games to play while drawing?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "How to play 5 in a row?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Is there pro tic-tac-toe?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "Alternative games to play with a tic tac toe set?",
+        "url": "https://www.facebook.com/groups/AbstractNationX/posts/695057711120866/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "3 comments  ·  6 years ago",
+        "website_name": "Facebook · Abstract Nation",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "If I have a tic tac toe set (board, 5 pieces per player), is there a better game to play than tic tac toe?",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "is there a better game to play than tic tac toe"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[8]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "What are some games you can play with just a piece of ...",
+        "url": "https://www.reddit.com/r/AskReddit/comments/31b8ks/what_are_some_games_you_can_play_with_just_a/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "2.4K+ comments  ·  11 years ago",
+        "website_name": "Reddit · r/AskReddit",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Im bored at work and can't always be on my phone. Any suggestions?",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Game similar to tic tac toe : r/boardgames - Reddit",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/76dzww/game_similar_to_tic_tac_toe/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What simple doodle games are there, other than Tic ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/AskReddit/comments/dfjqxz/what_simple_doodle_games_are_there_other_than/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+tic+tac+toe+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnuwdmtlM5dMAb3jAVmtV1Ik3JwlDg:1792381298972&sa=X&ved=2ahUKEwiG9YHVlMWXAxU37QIHHWr_HgIQrQIoAnoECEYQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[10]/div[1]/div[1]",
+        "domain": "battlepencils.com",
+        "title": "Pencil and Paper Games: 12 Two-Player Classics You Can ...",
+        "url": "https://battlepencils.com/pencil-and-paper-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://battlepencils.com › Guides",
+        "website_name": "Battle Pencils",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Aug 24, 2026 — Tic-Tac-Toe, Hangman and Squiggle work from around age five. Dots and Boxes and SOS suit six and up. Sprouts, Sim and Number Chain are better ... Read more",
+        "pre_snippet": "08/24/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Tic-Tac-Toe, Hangman and Squiggle"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://battlepencils.com/pencil-and-paper-games/#:~:text=Tic-Tac-Toe%2C%20Hangman%20and%20Squiggle%20work,can%20plan%20several%20moves%20ahead.",
+          "domain": "battlepencils.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-08-24 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "video",
+        "rank_group": 1,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[12]/div[1]",
+        "items": [
+         {
+          "type": "video_element",
+          "source": "YouTube · The Tabletop Family",
+          "title": "Paper and Pencil Games You Can Play Anywhere!",
+          "timestamp": "2025-11-22 00:00:00 +00:00",
+          "url": "https://www.youtube.com/shorts/aLvfcrVCbpU"
+         },
+         {
+          "type": "video_element",
+          "source": "Instagram · Kelsey + Adam | Board Game Recommendations",
+          "title": "play it today and let me know which is your fave! Don't forget ...",
+          "timestamp": "2025-06-23 00:00:00 +00:00",
+          "url": "https://www.instagram.com/reel/DLPcIiROcWs/?hl=en"
+         },
+         {
+          "type": "video_element",
+          "source": "Instagram · Kelsey + Adam | Board Game Recommendations",
+          "title": "Which paper and pencil game has been your favorite so far? If ...",
+          "timestamp": "2026-07-17 00:00:00 +00:00",
+          "url": "https://www.instagram.com/reel/Da5NPcgKhLh/?hl=en"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[14]/div[1]/div[1]",
+        "domain": "www.tiktok.com",
+        "title": "What Kind of Games Are Like Tic Tac Toe",
+        "url": "https://www.tiktok.com/discover/what-kind-of-games-are-like-tic-tac-toe",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.tiktok.com › Discover",
+        "website_name": "TikTok",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jul 13, 2026 — Gobble Game: A Fun Twist on Tic Tac Toe for Everyone. Discover Gobble Game, a modern twist on Tic Tac Toe! Perfect for kids and adults alike, it ... Read more",
+        "pre_snippet": "07/13/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Gobble Game"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.tiktok.com/discover/what-kind-of-games-are-like-tic-tac-toe#:~:text=Gobble%20Game%3A%20A%20Fun%20Twist,guarantees%20fun%20for%20all%20ages.",
+          "domain": "www.tiktok.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-07-13 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[16]/div[1]/div[1]",
+        "domain": "www.ymcagta.org",
+        "title": "4 games you can play with nothing but a pencil and paper",
+        "url": "https://www.ymcagta.org/blog/4-games-you-can-play-with-nothing-but-a-pencil-and-paper",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.ymcagta.org › blog › 4-games-you-can-play...",
+        "website_name": "YMCA of Greater Toronto",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Apr 9, 2020 — 4 games you can play with nothing but a pencil and paper · 1. Join the Dots · 2. Tic Tac Toe · 3. Pictionary · 4. Name, Place, Animal, Thing Read more",
+        "pre_snippet": "04/09/2020 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1. Join the Dots"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.ymcagta.org/blog/4-games-you-can-play-with-nothing-but-a-pencil-and-paper#:~:text=4%20games%20you%20can%20play,but%20a%20pencil%20and%20paper&text=1.%20Join%20the%20Dots&text=2.%20Tic%20Tac%20Toe&text=3.%20Pictionary&text=4.%20Name%2C%20Place%2C%20Animal%2C%20Thing",
+          "domain": "www.ymcagta.org"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2020-04-09 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[18]/div[1]/div[1]",
+        "domain": "www.foxinaboxchicago.com",
+        "title": "20 Pen And Paper Games You Can Play At Home ...",
+        "url": "https://www.foxinaboxchicago.com/20_pen_and_paper_games_you_can_play_at_home_updated_on/l-103",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.foxinaboxchicago.com › 20_pen_and_pap...",
+        "website_name": "Fox in a Box - Escape Room Chicago",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Nov 29, 2021 — 1 - MASH · 2 - Charades · 3 - Tic tac toe, squared · 4 - Who am I? · 5 - Boxes · 6 - Kaladont · 7 - Battleship · 8 - Mafia. Read more",
+        "pre_snippet": "11/29/2021 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1 - MASH"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.foxinaboxchicago.com/20_pen_and_paper_games_you_can_play_at_home_updated_on/l-103#:~:text=20%20PEN%20AND%20PAPER%20GAMES&text=20%20PEN%20AND%20PAPER%20GAMES&text=20%20PEN%20AND%20PAPER%20GAMES&text=20%20PEN%20AND%20PAPER%20GAMES&text=20%20PEN%20AND%20PAPER%20GAMES&text=20%20PEN%20AND%20PAPER%20GAMES&text=20%20PEN%20AND%20PAPER%20GAMES&text=20%20PEN%20AND%20PAPER%20GAMES",
+          "domain": "www.foxinaboxchicago.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2021-11-29 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[20]/div[1]/div[1]",
+        "domain": "blog.hmns.org",
+        "title": "Pencil & Paper DIY Board Games - Beyond Bones",
+        "url": "https://blog.hmns.org/2020/04/pencil-paper-diy-board-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://blog.hmns.org › Science",
+        "website_name": "Houston Museum of Natural Science",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Apr 6, 2020 — To start, grab one piece of paper and drawing utensil for each player and have the players fold the paper into three equal segments “hamburger” ... Read more",
+        "pre_snippet": "04/06/2020 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://blog.hmns.org/2020/04/pencil-paper-diy-board-games/#:~:text=To%20start%2C%20grab%20one%20piece,into%20three%20equal%20segments%20%E2%80%9Chamburger%E2%80%9D",
+          "domain": "blog.hmns.org"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2020-04-06 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Games like tic tac toe reddit",
+         "Games like tic tac toe for adults",
+         "Free games like tic tac toe",
+         "Games like tic tac toe for kids",
+         "Ultimate Tic Tac Toe",
+         "Paper games like tic tac toe",
+         "Games like tic tac-toe and Hangman",
+         "Games like tic tac toe for toddlers"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

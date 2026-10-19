@@ -1,0 +1,1072 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "8.4878 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190345-2588-0139-0000-7be9541befb5",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "8.3769 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "quick board games",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "quick board games",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=quick%20board%20games&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:45:21 +00:00",
+      "spell": null,
+      "refinement_chips": {
+       "type": "refinement_chips",
+       "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+       "items": [
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids",
+         "url": "https://www.google.com/search?q=kids+quick+board+games&hl=en&gl=US&shoprs=GAEqEXF1aWNrIGJvYXJkIGdhbWVzMhQIARIES2lkczoKCPyQbxD-kG8wAFjTySBgAQ&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKAF6BQgzEIgB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Online",
+         "url": "https://www.google.com/search?q=online+quick+board+games&hl=en&gl=US&shoprs=GBIqEXF1aWNrIGJvYXJkIGdhbWVzMgoIEhIGT25saW5lYAE&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKAJ6BQgzEIkB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids' Games",
+         "url": "https://www.google.com/search?q=kids'+games+quick+board&hl=en&gl=US&shoprs=GAkqEXF1aWNrIGJvYXJkIGdhbWVzMg8ICRILS2lkcycgR2FtZXNgAQ&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKAN6BQgzEIoB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adults",
+         "url": "https://www.google.com/search?q=adults+quick+board+games&hl=en&gl=US&shoprs=GAEqEXF1aWNrIGJvYXJkIGdhbWVzMhYIARIGQWR1bHRzOgoI_JBvEP2QbzAAWNPJIGAB&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKAR6BQgzEIsB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Free",
+         "url": "https://www.google.com/search?q=free+quick+board+games&hl=en&gl=US&shoprs=GBIqEXF1aWNrIGJvYXJkIGdhbWVzMggIEhIERnJlZWAB&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKAV6BQgzEIwB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Nearby",
+         "url": "https://www.google.com/search?q=quick+board+games+nearby&hl=en&gl=US&shoprs=GAMqEXF1aWNrIGJvYXJkIGdhbWVzMgwIAxIGTmVhcmJ5GAJY08kgYAE&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKAZ6BQgzEI0B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Reviews",
+         "url": "https://www.google.com/search?q=reviews+quick+board+games&hl=en&gl=US&shoprs=GBIqEXF1aWNrIGJvYXJkIGdhbWVzMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKAd6BQgzEI4B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "On sale",
+         "url": "https://www.google.com/search?q=quick+board+games+sale&hl=en&gl=US&shoprs=EgRKAhgBGAYqEXF1aWNrIGJvYXJkIGdhbWVzMhMIBhIHT24gc2FsZRgCIgRKAhgBWNPJIGAB&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKAh6BQgzEI8B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Buy",
+         "url": "https://www.google.com/search?q=buy+quick+board+games&hl=en&gl=US&shoprs=GBIqEXF1aWNrIGJvYXJkIGdhbWVzMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKAl6BQgzEJAB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "2 Player",
+         "url": "https://www.google.com/search?q=2+player+quick+board+games&hl=en&gl=US&shoprs=GAEqEXF1aWNrIGJvYXJkIGdhbWVzMhoIARIIMiBQbGF5ZXI6DAjpnJoCEOucmgIwAFjTySBgAQ&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKAp6BQgzEJEB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board Game",
+         "url": "https://www.google.com/search?q=board+game+quick+games&hl=en&gl=US&shoprs=GAEqEXF1aWNrIGJvYXJkIGdhbWVzMhwIARIKQm9hcmQgR2FtZToMCNSdngIQ152eAjADWNPJIGAB&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKAt6BQgzEJIB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board & Card Games",
+         "url": "https://www.google.com/search?q=board+%26+card+games+quick&hl=en&gl=US&shoprs=GAkqEXF1aWNrIGJvYXJkIGdhbWVzMhYICRISQm9hcmQgJiBDYXJkIEdhbWVzYAE&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKAx6BQgzEJMB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adult",
+         "url": "https://www.google.com/search?q=adult+quick+board+games&hl=en&gl=US&shoprs=GBIqEXF1aWNrIGJvYXJkIGdhbWVzMgkIEhIFQWR1bHRgAQ&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKA16BQgzEJQB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Get it fast",
+         "url": "https://www.google.com/search?q=quick+board+games&hl=en&gl=US&shoprs=Eg2aAQoKCBADOAFAA0gBGBQqEXF1aWNrIGJvYXJkIGdhbWVzMiQIFBILR2V0IGl0IGZhc3QiDZoBCgoIEAM4AUADSAEqBBABGAFgAQ&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKA56BQgzEJUB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adult Games",
+         "url": "https://www.google.com/search?q=adult+games+quick+board&hl=en&gl=US&shoprs=GAkqEXF1aWNrIGJvYXJkIGdhbWVzMg8ICRILQWR1bHQgR2FtZXNgAQ&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKA96BQgzEJYB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Diy",
+         "url": "https://www.google.com/search?q=diy+quick+board+games&hl=en&gl=US&shoprs=GBIqEXF1aWNrIGJvYXJkIGdhbWVzMgcIEhIDRGl5YAE&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKBB6BQgzEJcB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Family Friendly",
+         "url": "https://www.google.com/search?q=family+friendly+quick+board+games&hl=en&gl=US&shoprs=GAEqEXF1aWNrIGJvYXJkIGdhbWVzMiEIARIPRmFtaWx5IEZyaWVuZGx5OgwI3bGeAhDesZ4CMANY08kgYAE&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKBF6BQgzEJgB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "For Sale",
+         "url": "https://www.google.com/search?q=quick+board+games+for+sale&hl=en&gl=US&shoprs=GBIqEXF1aWNrIGJvYXJkIGdhbWVzMgwIEhIIRm9yIFNhbGVgAQ&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKBJ6BQgzEJkB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "4 Player",
+         "url": "https://www.google.com/search?q=4+player+quick+board+games&hl=en&gl=US&shoprs=GAEqEXF1aWNrIGJvYXJkIGdhbWVzMhoIARIINCBQbGF5ZXI6DAjpnJoCEO2cmgIwAFjTySBgAQ&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKBN6BQgzEJoB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Black",
+         "url": "https://www.google.com/search?q=black+quick+board+games&hl=en&gl=US&shoprs=GAEqEXF1aWNrIGJvYXJkIGdhbWVzMhcIARIFQmxhY2s6DAjYjPUBEOWK9QEwC1jTySBgAQ&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKBR6BQgzEJsB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Under $15",
+         "url": "https://www.google.com/search?q=quick+board+games+under+$15&hl=en&gl=US&shoprs=Eg0SCxEAAAAAOJxsQRgBGAUqEXF1aWNrIGJvYXJkIGdhbWVzMiIIBRIJVW5kZXIgJDE1GAIiDRILEQAAAAA4nGxBGAEqAhgBWNPJIGAB&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKBV6BQgzEJwB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Card Game",
+         "url": "https://www.google.com/search?q=card+game+quick+board+games&hl=en&gl=US&shoprs=GAEqEXF1aWNrIGJvYXJkIGdhbWVzMhsIARIJQ2FyZCBHYW1lOgwItsL3ARC3wvcBMANY08kgYAE&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKBZ6BQgzEJ0B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "10+ Years",
+         "url": "https://www.google.com/search?q=10%2B+years+quick+board+games&hl=en&gl=US&shoprs=GAEqEXF1aWNrIGJvYXJkIGdhbWVzMhsIARIJMTArIFllYXJzOgwI3va1ARDHqLYBMABY08kgYAE&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKBd6BQgzEJ4B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Classic",
+         "url": "https://www.google.com/search?q=classic+quick+board+games&hl=en&gl=US&shoprs=GBIqEXF1aWNrIGJvYXJkIGdhbWVzMgsIEhIHQ2xhc3NpY2AB&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKBh6BQgzEJ8B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Word",
+         "url": "https://www.google.com/search?q=word+quick+board+games&hl=en&gl=US&shoprs=GAEqEXF1aWNrIGJvYXJkIGdhbWVzMhQIARIEV29yZDoKCKG4PhCmuD4wAFjTySBgAQ&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48Qip4GKBl6BQgzEKAB",
+         "domain": "www.google.com",
+         "options": null
+        }
+       ]
+      },
+      "item_types": [
+       "organic",
+       "people_also_ask",
+       "popular_products",
+       "related_searches"
+      ],
+      "se_results_count": 187,
+      "pages_count": 1,
+      "items_count": 13,
+      "items": [
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Need Recommendations for <20 minute games.",
+        "url": "https://www.reddit.com/r/boardgamearena/comments/193h73z/need_recommendations_for_20_minute_games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "10+ comments  ·  2 years ago",
+        "website_name": "Reddit · r/boardgamearena",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "I really enjoy: Space Base. King Domino. Azul. Games that can play quick, are relatively strategic, and have a healthy player base so I can ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Space Base"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "22 Fast Board Games to Play with Your Friends ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgame/comments/1p7izyf/22_fast_board_games_to_play_with_your_friends/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Strategy game with quick setup and short play time - Reddit",
+          "description": null,
+          "url": "https://www.reddit.com/r/soloboardgaming/comments/18k8y72/strategy_game_with_quick_setup_and_short_play_time/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=quick+board+games+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQntNiOF33xsK4IGNQ1DeGdn6V_AzVg:1792381517999&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48QrQIoAnoECCEQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+        "domain": "bitewinggames.com",
+        "title": "Top 10 Quick & Easy Solo Games + Play Trailblazers Epic ...",
+        "url": "https://bitewinggames.com/top-10-quick-easy-solo-games-play-trailblazers-epic-solo-today/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://bitewinggames.com › Blog",
+        "website_name": "Bitewing Games",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Feb 27, 2022 — What are the best and easiest card and board games to play solo? Today we explore the Top 10 Quick & Easy Solo Games.",
+        "pre_snippet": "02/27/2022 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Top 10 Quick & Easy Solo Games"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2022-02-27 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What are your go-to short board games?",
+        "url": "https://www.facebook.com/groups/boardgamerevolution/posts/3807129639578946/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "1 comment  ·  1 year ago",
+        "website_name": "Facebook · Board Game Revolution Community",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "I almost always start with a Skull or a Coup. Gets people involved together and plays quickly! Other quick ones are Akropolis, ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Skull or a Coup"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Quick board games for short playtime",
+          "description": null,
+          "url": "https://www.facebook.com/groups/boardgamerevolution/posts/3808137309478179/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What's a board game with short setup time?",
+          "description": null,
+          "url": "https://www.facebook.com/groups/boardgamerevolution/posts/3594622614162984/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.facebook.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=quick+board+games+site:www.facebook.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQntNiOF33xsK4IGNQ1DeGdn6V_AzVg:1792381517999&sa=X&ved=2ahUKEwj7m7q9lcWXAxX47QIHHWIPO48QrQIoAnoECCYQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+        "domain": "www.veryspecialgames.com",
+        "title": "The Best Fast Paced Board Games for Instant Fun",
+        "url": "https://www.veryspecialgames.com/blogs/news/fast-paced-board-games?srsltid=AU7gw4X1TmETLG2VJJ6qJrg8FFcgqYHwaSK4uc7l1-ok23b8vClgD5jB",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.veryspecialgames.com › blogs › news › fast-...",
+        "website_name": "Very Special Games",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Feb 22, 2026 — Discover fast paced board games that get everyone playing and laughing in minutes. 30 minutes or less. Ransom Notes: Puns of Anarchy: ...",
+        "pre_snippet": "02/22/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "fast paced board games that get everyone playing and laughing in minutes"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-02-22 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What's the shortest board game?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some really good board games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some good fast-paced games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some fun quick games for adults?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]",
+        "domain": "www.darcyandbrian.com",
+        "title": "10 Family Board Games Played in 20 Minutes",
+        "url": "https://www.darcyandbrian.com/10-family-board-games-played-in-20-minutes/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.darcyandbrian.com › 10-family-board-ga...",
+        "website_name": "Darcy and Brian",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Dec 28, 2023 — 10 Family Board Games Played in 20 Minutes · 1. Zombie Dice · 2. El Capitan · 3. Robits · 4. Sticky Chameleons · 5. Conex · 6. MemoARRR · 7. Dragonwood. Read more",
+        "pre_snippet": "12/28/2023 00:00:00",
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "quick board games from www.darcyandbrian.com",
+          "url": "https://www.darcyandbrian.com/10-family-board-games-played-in-20-minutes/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-7be9541befb5:0"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1. Zombie Dice"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.darcyandbrian.com/10-family-board-games-played-in-20-minutes/#:~:text=10%20Family%20Board%20Games%20Played,in%2020%20Minutes&text=1.%20Zombie%20Dice&text=2.%20El%20Capitan&text=3.%20Robits&text=4.%20Sticky%20Chameleons&text=5.%20Conex&text=6.%20MemoARRR&text=7.%20Dragonwood",
+          "domain": "www.darcyandbrian.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2023-12-28 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]",
+        "domain": "www.walmart.com",
+        "title": "Quick Simple Fun Games All Board Games in Board Games",
+        "url": "https://www.walmart.com/browse/toys/all-board-games/quick-simple-fun-games/4171_4191_133123_4497274/YnJhbmQ6UXVpY2sgU2ltcGxlIEZ1biiBHYW1lcwieie",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.walmart.com › ... › All Board Games",
+        "website_name": "Walmart",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "5 Results · Robits Quick Simple Fun 177622Qsf $15.99 · Robits Quick Simple Fun 177622Qsf · Mess Machine $24.99 · Mess Machine · Ore the Mining Game Quick Simple ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Robits Quick Simple Fun 177622Qsf $15.99"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.walmart.com/browse/toys/all-board-games/quick-simple-fun-games/4171_4191_133123_4497274/YnJhbmQ6UXVpY2sgU2ltcGxlIEZ1biiBHYW1lcwieie#:~:text=5%20Results&text=%241599&text=Robits%20Quick%20Simple%20Fun%20177622Qsf&text=%242499&text=Mess%20Machine&text=%244288",
+          "domain": "www.walmart.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]",
+        "domain": "forum.rpg.net",
+        "title": "Recommend me some fairly quick & easy board and card ...",
+        "url": "https://forum.rpg.net/index.php?threads/recommend-me-some-fairly-quick-easy-board-and-card-games.611997/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://forum.rpg.net › ... › Other Games Open",
+        "website_name": "RPGnet",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jan 26, 2012 — Flash Duel is an incredibly easy but fun game. The game plays in about 15 minutes. It has many modes of play. Cosmic Encounter is probably my ... Read more",
+        "pre_snippet": "01/26/2012 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Flash Duel"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://forum.rpg.net/index.php?threads/recommend-me-some-fairly-quick-easy-board-and-card-games.611997/#:~:text=Flash%20Duel%20is%20an%20incredibly,probably%20my%20current%20favorite%20game.",
+          "domain": "forum.rpg.net"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2012-01-26 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]/div[1]",
+        "domain": "www.instagram.com",
+        "title": "5 great board games that are super quick to set up but are still ...",
+        "url": "https://www.instagram.com/reel/Ddf9k_tMa2O/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "230+ likes  ·  4 weeks ago",
+        "website_name": "Instagram · emgamescoring",
+        "is_image": false,
+        "is_video": true,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_video"
+        ],
+        "description": "5 great board games that are super quick to set up but are still medium weight strategy games! · 5 Trick-Taking Games for 2 Players!",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "5 great board games that are super quick to set up"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-09-21 03:45:18 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 1,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[18]/div[1]",
+        "title": "Popular products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Quick Quick Quick",
+          "url": "https://www.google.com/search?ibp=oshop&q=quick+board+games&prds=gpcid:12819953009475531778,rds:PC_12819953009475531778%7CPROD_PC_12819953009475531778,headlineOfferDocid:7483028591726395391,catalogid:12984332938302986964,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Little Lincoln's Toy Shop & more\nFree delivery",
+          "more_sellers": true,
+          "seller": "Little Lincoln's Toy Shop",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-7be9541befb5:1",
+          "price": {
+           "current": 21.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$21.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 30,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "12984332938302986964",
+           "data_docid": "4369700807488644854",
+           "gid": "12819953009475531778"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Hasbro Sorry! Game",
+          "url": "https://trisomegames2016.org/best-board-games-under-50/",
+          "domain": "trisomegames2016.org",
+          "description": "Gamers Guild USA & more\nFree delivery on $99+\nEncourages interaction and laughter, perfect for family game nights · Some users report concerns about the game's durability and light feel trisomegames2016.org",
+          "more_sellers": true,
+          "seller": "Gamers Guild USA",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-7be9541befb5:2",
+          "price": {
+           "current": 9.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$9.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 2100,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "15296212671520906566",
+           "data_docid": "16577124040082014078",
+           "gid": "10280653579956577894"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Exploding Kittens The Board Game",
+          "url": "https://rolltoreview.com/exploding-kittens-board-game-review/",
+          "domain": "rolltoreview.com",
+          "description": "Exploding Kittens & more\nFree delivery on $40+\nGreat for casual play with people who don't often play board games · The strategy is becomes obvious to players almost immediately Roll to Review",
+          "more_sellers": true,
+          "seller": "Exploding Kittens",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-7be9541befb5:3",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 154,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "2290121467920167409",
+           "data_docid": "1347844132714559356",
+           "gid": "7096552961700473263"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Root Board Game",
+          "url": "https://gamingrespawn.com/board-game-reviews/40105/root-board-game-review/",
+          "domain": "gamingrespawn.com",
+          "description": "Off the Wagon Shop.com & more\nEasy to learn · Clearly designed with more than two players in mind Gaming Respawn",
+          "more_sellers": true,
+          "seller": "Off the Wagon Shop.com",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-7be9541befb5:4",
+          "price": {
+           "current": 49.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$49.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 300,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "17343369600885410046",
+           "data_docid": "8680922240689520409",
+           "gid": "3735461444958424254"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "The Quick and The Undead",
+          "url": "https://www.google.com/search?ibp=oshop&q=quick+board+games&prds=gpcid:9810922616093538514,rds:PC_9810922616093538514%7CPROD_PC_9810922616093538514,headlineOfferDocid:3158658883154897811,catalogid:8790759613437715901,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Zatu Games & more\nThe Walking Dead",
+          "more_sellers": true,
+          "seller": "Zatu Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-7be9541befb5:5",
+          "price": {
+           "current": 33.54,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$33.54"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 5,
+           "votes_count": 1,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "8790759613437715901",
+           "data_docid": "16836818740239217511",
+           "gid": "9810922616093538514"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Azul Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=quick+board+games&prds=gpcid:16277784982869458591,rds:PC_16277784982869458591%7CPROD_PC_16277784982869458591,headlineOfferDocid:15839595788606929583,catalogid:5525313397194565835,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Saga Concepts & more\nFree delivery on $99+\nFun (397 user reviews)",
+          "more_sellers": true,
+          "seller": "Saga Concepts",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-7be9541befb5:6",
+          "price": {
+           "current": 31.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$31.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 821,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "5525313397194565835",
+           "data_docid": "5213794068131047571",
+           "gid": "16277784982869458591"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Azul Mini",
+          "url": "https://www.google.com/search?ibp=oshop&q=quick+board+games&prds=gpcid:17339856686586481363,rds:PC_17339856686586481363%7CPROD_PC_17339856686586481363,headlineOfferDocid:6349091898887671269,catalogid:10125060854789831573,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-7be9541befb5:7",
+          "price": {
+           "current": 21.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$21.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 48,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "10125060854789831573",
+           "data_docid": "12291881869046964594",
+           "gid": "17339856686586481363"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Quacks Board Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=quick+board+games&prds=gpcid:1953841623173237668,rds:PC_1953841623173237668%7CPROD_PC_1953841623173237668,headlineOfferDocid:9112085657853089486,catalogid:8225824554778947271,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Board Game Barrister & more\nFree delivery on $125+",
+          "more_sellers": true,
+          "seller": "Board Game Barrister",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-7be9541befb5:8",
+          "price": {
+           "current": 45,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$45.00"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 46,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "8225824554778947271",
+           "data_docid": "8050486009259742158",
+           "gid": "1953841623173237668"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]",
+        "domain": "thetabletopfamily.com",
+        "title": "Rating 9 Small Box Card Games We Tried for Game Night",
+        "url": "https://thetabletopfamily.com/rating-9-small-box-card-games-we-tried-for-game-night/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://thetabletopfamily.com › Blog",
+        "website_name": "The Tabletop Family",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Rating 9 Small Box Card Games We Tried for Game Night · Vegetable Stock: 9/10 · Gap: 8/10 · Mojo 6/10 · Turnip 2/10 · Jalape-NO! 9/10 · Combo 6.5/10 · Pixies 8.5/10. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Vegetable Stock: 9/10"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Vegetable Stock: 9/10",
+          "description": null,
+          "url": "https://thetabletopfamily.com/rating-9-small-box-card-games-we-tried-for-game-night/#:~:text=Vegetable%20Stock%3A%209%2F10",
+          "domain": "thetabletopfamily.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Mojo 6/10",
+          "description": null,
+          "url": "https://thetabletopfamily.com/rating-9-small-box-card-games-we-tried-for-game-night/#:~:text=Mojo%206%2F10",
+          "domain": "thetabletopfamily.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Turnip 2/10",
+          "description": null,
+          "url": "https://thetabletopfamily.com/rating-9-small-box-card-games-we-tried-for-game-night/#:~:text=Turnip%202%2F10",
+          "domain": "thetabletopfamily.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 10,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[21]/div[1]/div[1]/div[1]",
+        "domain": "www.youtube.com",
+        "title": "The Game: Quick & Easy — Fun & Board Games w/ WEM",
+        "url": "https://www.youtube.com/watch?v=kODzbY1N2xU",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "5.4K+ views  ·  6 years ago",
+        "website_name": "YouTube · BoardGameGeek",
+        "is_image": false,
+        "is_video": true,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_video"
+        ],
+        "description": null,
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2020-01-06 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 13,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Quick board games reddit",
+         "Quick board games review",
+         "Pocket sized board games",
+         "Upcoming solo board games",
+         "Single player board games with miniatures",
+         "Best heavy solo board games",
+         "Best solo space board games",
+         "Board game recommendation NYT"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

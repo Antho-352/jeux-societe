@@ -1,0 +1,788 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "4.9966 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190341-2588-0139-0000-5484d3112ac9",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "4.9036 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "games like exploding kittens",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "games like exploding kittens",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=games%20like%20exploding%20kittens&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:41:59 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "related_searches"
+      ],
+      "se_results_count": 78,
+      "pages_count": 1,
+      "items_count": 13,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "If you like Exploding Kittens, several fast-paced, funny, and chaotic card games share its light strategy and \"take-that\" player-elimination or push-your-luck mechanics.\n\n### Top Recommendations\n\n- **Unstable Unicorns** : A strategic card game by the same creative ecosystem where you build a unicorn army while ruthlessly sabotaging your friends.[[1]](https://www.reddit.com/r/ExplodingKittens/comments/13emnia/similar_games_to_exploding_kittens/)\n- **Bears vs. Babies** : A creature-building and card-battling game from the creators of Exploding Kittens featuring quirky art and silly humor.\n- **Taco Cat Goat Cheese Pizza** : A high-energy slap-card game that tests your reflexes and keeps everyone laughing.[[1]](https://www.amazon.com/games-like-exploding-kittens/s?k=games+like+exploding+kittens)\n- **Mantis** : A colorful, cutthroat card game of collecting and revenge with quick rules and sneaky steals.[[1]](https://www.explodingkittens.com/collections/games)\n- **Zombie Kittens** : The direct spin-off/sequel concept to Exploding Kittens that lets players come back from the dead.[[1]](https://www.facebook.com/groups/132851767828/posts/10165001528762829/)\n- **Fluxx** : A chaotic card game where the rules and the winning conditions constantly change on every turn.\n- **Here to Slay** : A role-playing fantasy card game focused on monster slaying and party building with plenty of player interference.\n\nHere is a video showcasing fun small-box card games similar in vibe and playstyle to Exploding Kittens:\n\n![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSg3vegzWR61YFhec6eqlx7a7YdW2Ahzj0BB1-GIguuwW7a0R4h)\n12m\n[](https://www.youtube.com/watch?v=bKVx9k-_kH8&t=31) Like Exploding Kittens? Try These Games! Board ...6.8K views  · 3 years ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · Foster the Meeple\n\nIf you want to narrow down the list, tell me:\n\n- **Who** are you playing with (kids, adults, or a mix)?\n- Do you prefer **pure chaos/laughter** or **a bit more strategy**?",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "If you like Exploding Kittens, several fast-paced, funny, and chaotic card games share its light strategy and \"take-that\" player-elimination or push-your-luck mechanics.",
+          "markdown": "If you like Exploding Kittens, several fast-paced, funny, and chaotic card games share its light strategy and \"take-that\" player-elimination or push-your-luck mechanics.",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Top Recommendations",
+          "text": "Unstable Unicorns : A strategic card game by the same creative ecosystem where you build a unicorn army while ruthlessly sabotaging your friends. Unstable Unicorns Bears vs. Babies : A creature-building and card-battling game from the creators of Exploding Kittens featuring quirky art and silly humor. Bears vs. Babies Taco Cat Goat Cheese Pizza : A high-energy slap-card game that tests your reflexes and keeps everyone laughing. Taco Cat Goat Cheese Pizza Mantis : A colorful, cutthroat card game of collecting and revenge with quick rules and sneaky steals. Mantis Zombie Kittens : The direct spin-off/sequel concept to Exploding Kittens that lets players come back from the dead. Zombie Kittens Fluxx : A chaotic card game where the rules and the winning conditions constantly change on every turn. Fluxx Here to Slay : A role-playing fantasy card game focused on monster slaying and party building with plenty of player interference. Here to Slay",
+          "markdown": "- **Unstable Unicorns** : A strategic card game by the same creative ecosystem where you build a unicorn army while ruthlessly sabotaging your friends.[[1]](https://www.reddit.com/r/ExplodingKittens/comments/13emnia/similar_games_to_exploding_kittens/)\n- **Bears vs. Babies** : A creature-building and card-battling game from the creators of Exploding Kittens featuring quirky art and silly humor.\n- **Taco Cat Goat Cheese Pizza** : A high-energy slap-card game that tests your reflexes and keeps everyone laughing.[[1]](https://www.amazon.com/games-like-exploding-kittens/s?k=games+like+exploding+kittens)\n- **Mantis** : A colorful, cutthroat card game of collecting and revenge with quick rules and sneaky steals.[[1]](https://www.explodingkittens.com/collections/games)\n- **Zombie Kittens** : The direct spin-off/sequel concept to Exploding Kittens that lets players come back from the dead.[[1]](https://www.facebook.com/groups/132851767828/posts/10165001528762829/)\n- **Fluxx** : A chaotic card game where the rules and the winning conditions constantly change on every turn.\n- **Here to Slay** : A role-playing fantasy card game focused on monster slaying and party building with plenty of player interference.",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/ExplodingKittens/comments/13emnia/similar_games_to_exploding_kittens/",
+            "title": "Similar games to exploding kittens : r/ExplodingKittens - Reddit",
+            "text": "Similar Games: Several games by Exploding Kittens or Unstable Games/Tee Turtle are recommended as similar alternatives."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Amazon.com",
+            "domain": "www.amazon.com",
+            "url": "https://www.amazon.com/games-like-exploding-kittens/s?k=games+like+exploding+kittens",
+            "title": "Games Like Exploding Kittens - Amazon.com",
+            "text": "Stay alive and finish with the most points to win! 700+ bought in past month Ages: 7 years and up Taco Cat Goat Cheese Pizza Card ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Exploding Kittens",
+            "domain": "www.explodingkittens.com",
+            "url": "https://www.explodingkittens.com/collections/games",
+            "title": "All Games",
+            "text": "Sort by * You Little Stinker (Pig Edition) $19.99 USD A stinkin 'good picture matching game with 20 dice and a Piggy Shaker. 1 Rev..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Facebook",
+            "domain": "www.facebook.com",
+            "url": "https://www.facebook.com/groups/132851767828/posts/10165001528762829/",
+            "title": "Recommendations for games similar to Exploding Kittens and Cards ...",
+            "text": "What people are saying. Similar games recommended include So Clover, Green Team Wins, Zombie Kittens, and Sheriff of Nottingham, w..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_video_element",
+          "position": "left",
+          "title": "Like Exploding Kittens? Try These Games! Board ...",
+          "snippet": "12m",
+          "url": "https://www.youtube.com/watch?v=bKVx9k-_kH8&t=31",
+          "domain": "www.youtube.com",
+          "image_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSg3vegzWR61YFhec6eqlx7a7YdW2Ahzj0BB1-GIguuwW7a0R4h",
+          "source": "YouTube",
+          "date": "3 years ago",
+          "timestamp": "2023-10-19 03:41:58 +00:00"
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Here is a video showcasing fun small-box card games similar in vibe and playstyle to Exploding Kittens: 12m Like Exploding Kittens? Try These Games! Board ... 6.8K views · 3 years ago YouTube · Foster the Meeple",
+          "markdown": "Here is a video showcasing fun small-box card games similar in vibe and playstyle to Exploding Kittens:\n\n![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSg3vegzWR61YFhec6eqlx7a7YdW2Ahzj0BB1-GIguuwW7a0R4h)\n12m\n[](https://www.youtube.com/watch?v=bKVx9k-_kH8&t=31) Like Exploding Kittens? Try These Games! Board ...6.8K views  · 3 years ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · Foster the Meeple",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "If you want to narrow down the list, tell me:Who are you playing with (kids, adults, or a mix)?\nDo you prefer pure chaos/laughter or a bit more strategy ?",
+          "markdown": "If you want to narrow down the list, tell me:\n\n- **Who** are you playing with (kids, adults, or a mix)?\n- Do you prefer **pure chaos/laughter** or **a bit more strategy**?",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Reddit",
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/ExplodingKittens/comments/13emnia/similar_games_to_exploding_kittens/",
+          "title": "Similar games to exploding kittens : r/ExplodingKittens - Reddit",
+          "text": "Similar Games: Several games by Exploding Kittens or Unstable Games/Tee Turtle are recommended as similar alternatives."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Amazon.com",
+          "domain": "www.amazon.com",
+          "url": "https://www.amazon.com/games-like-exploding-kittens/s?k=games+like+exploding+kittens",
+          "title": "Games Like Exploding Kittens - Amazon.com",
+          "text": "Stay alive and finish with the most points to win! 700+ bought in past month Ages: 7 years and up Taco Cat Goat Cheese Pizza Card Game by Taco Cat Games, Age 7+, 2..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Exploding Kittens",
+          "domain": "www.explodingkittens.com",
+          "url": "https://www.explodingkittens.com/collections/games",
+          "title": "All Games",
+          "text": "Sort by * You Little Stinker (Pig Edition) $19.99 USD A stinkin 'good picture matching game with 20 dice and a Piggy Shaker. 1 Review AGE 4+ 5 min * Coyote $9.99 U..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "www.youtube.com",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=AdL8d1FYbEg",
+          "title": "5 Small Games Better than UNO",
+          "text": "is Exploding Kittens here this game is amazing and the only reason it's my honorable mention is I think most of you already have seen this or at least know of it. ..."
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+        "domain": "www.explodingkittens.com",
+        "title": "Kitten Games For Family Fun",
+        "url": "https://www.explodingkittens.com/collections/kitten-games?srsltid=AU7gw4Waq0if5YqjsFdAOwZWtctklEd60naP9WIFGeNxAGvMWdnwmCS9",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.explodingkittens.com › collections › kitten-...",
+        "website_name": "Exploding Kittens",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Exploding Kittens 9 games, 3 expansions, 2 Bundles. Throw Throw Burrito 3 games. Poetry for Neanderthals. Hand-to-Hand Wombat, You Lying Sack, and A. A card ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 13,
+         "regular": null,
+         "max_value": 20,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$13 to $20"
+        },
+        "highlighted": [
+         "Exploding Kittens 9 games"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Which Exploding Kittens game do we start with?",
+        "url": "https://www.reddit.com/r/ExplodingKittens/comments/185khs8/which_exploding_kittens_game_do_we_start_with/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "10+ comments  ·  2 years ago",
+        "website_name": "Reddit · r/ExplodingKittens",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "We haven't played this game yet but I know my family will love it. Do we start with the original Exploding Kittens or would it be okay to get the Good ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Best Version of the Game : r/ExplodingKittens - Reddit",
+          "description": null,
+          "url": "https://www.reddit.com/r/ExplodingKittens/comments/1igt151/best_version_of_the_game/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Best party card games, similar to Cards Against ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/5vlg8r/best_party_card_games_similar_to_cards_against/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+exploding+kittens+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnt5fTJ0vgy3Iaro_bNPuFVgxhzV5w:1792381316013&sa=X&ved=2ahUKEwjCgJLdlMWXAxVAREEAHQuXAucQrQIoAnoECCEQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Party games for groups when tired of playing Exploding ...",
+        "url": "https://boardgamegeek.com/thread/3179116/party-games-for-groups-when-tired-of-playing-explo",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › thread › party-games-for-...",
+        "website_name": "BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Apr 2, 2024 — I noticed whenever I am playing in a group, not at my FLGS or my college's gaming club, I end up playing Exploding Kittens. It is simple to teach and people ...",
+        "pre_snippet": "04/02/2024 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Exploding Kittens"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Card games similar to exploding kittens, unstable unicorns ...",
+          "description": null,
+          "url": "https://boardgamegeek.com/thread/2649529/card-games-similar-to-exploding-kittens-unstable-u",
+          "domain": "boardgamegeek.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Seeking a family card game better than Exploding Kittens",
+          "description": null,
+          "url": "https://boardgamegeek.com/thread/2696193/seeking-a-family-card-game-better-than-exploding-k",
+          "domain": "boardgamegeek.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from boardgamegeek.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+exploding+kittens+site:boardgamegeek.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnt5fTJ0vgy3Iaro_bNPuFVgxhzV5w:1792381316013&sa=X&ved=2ahUKEwjCgJLdlMWXAxVAREEAHQuXAucQrQIoAnoECCMQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2024-04-02 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+        "domain": "www.explodingkittens.com",
+        "title": "Best Sellers",
+        "url": "https://www.explodingkittens.com/collections/best-sellers?srsltid=AU7gw4XXVSrcDbkOJYWK36CZZ9ZOWQfw_h3fy435cwdLNdstPflbAeDb",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.explodingkittens.com › collections › best-sel...",
+        "website_name": "Exploding Kittens",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Exploding Kittens is a kitty powered version of Russian Roulette. A competitive word-guessing. A Hot-Potato kids game … animal noises! A card guessing game ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 13,
+         "regular": null,
+         "max_value": 25,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$13 to $25"
+        },
+        "highlighted": [
+         "Exploding Kittens is a kitty powered version of Russian Roulette"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "Looking for recommendations for Card based games.",
+        "url": "https://www.facebook.com/groups/132851767828/posts/10159447752232829/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "120+ comments  ·  5 years ago",
+        "website_name": "Facebook · BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Similar to Monopoly Deal, exploding Kittens, Warren Wars and Grass. Harry Grigg Point salad is. Star Fluxx, The Crew, Unstable Unicorns. y Deal ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "exploding Kittens"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "What card games are good to own besides Sleeping Queens ...",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10160388568907829/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What are fun and simple card games to add to my collection?",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10158920559117829/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.facebook.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+exploding+kittens+site:www.facebook.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnt5fTJ0vgy3Iaro_bNPuFVgxhzV5w:1792381316013&sa=X&ved=2ahUKEwjCgJLdlMWXAxVAREEAHQuXAucQrQIoAnoECDgQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+        "domain": "www.simplesimonandco.com",
+        "title": "Top 10 Fun Family Card Games (that aren't UNO)",
+        "url": "https://www.simplesimonandco.com/2024/12/top-10-fun-family-card-games-that-arent-uno.html/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.simplesimonandco.com › 2024/12 › top-1...",
+        "website_name": "Simple Simon and Company -",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Dec 5, 2024 — Exploding Kittens. We have been playing Exploding Kittens for years. The cards are quirky and funny. Winning the game is simple…don't explode ... Read more",
+        "pre_snippet": "12/05/2024 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Exploding Kittens"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.simplesimonandco.com/2024/12/top-10-fun-family-card-games-that-arent-uno.html/#:~:text=Exploding%20Kittens,the%20game%20is%20simple%E2%80%A6don't%20explode.",
+          "domain": "www.simplesimonandco.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2024-12-05 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some games similar to Kittens Game?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Is Exploding Kittens a board game or card game?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are games that are like Battle Cats?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "How to play Explosion Kittens?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[14]/div[1]/div[1]/div[1]",
+        "domain": "www.youtube.com",
+        "title": "Ranking EVERYTHING Exploding Kittens!",
+        "url": "https://www.youtube.com/watch?v=XiMhb-y1KVo",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "273K+ views  ·  8 months ago",
+        "website_name": "YouTube · Games With Denver James",
+        "is_image": false,
+        "is_video": true,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_video"
+        ],
+        "description": null,
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-02-07 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[16]/div[1]/div[1]",
+        "domain": "www.explodingkittens.com",
+        "title": "Shop Exploding Kittens + Expansion",
+        "url": "https://www.explodingkittens.com/collections/exploding-kittens-collection?srsltid=AU7gw4XHXVHVJHcIoKBCZejBCb-catjCJxJGbmmXD1Y4-sNRywc1SN7Q",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.explodingkittens.com › collections › explodi...",
+        "website_name": "Exploding Kittens",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Exploding Kittens: Original Edition · Exploding Kittens: The Board Game · Exploding Kittens: Good vs Evil · Zombie Kittens · Exploding Kittens: Party Pack Edition. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 4,
+         "regular": null,
+         "max_value": 30,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$4 to $30"
+        },
+        "highlighted": [
+         "Exploding Kittens: Original Edition"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.explodingkittens.com/collections/exploding-kittens-collection?srsltid=AU7gw4XHXVHVJHcIoKBCZejBCb-catjCJxJGbmmXD1Y4-sNRywc1SN7Q#:~:text=Exploding%20Kittens%3A%20Original%20Edition&text=Exploding%20Kittens%3A%20The%20Board%20Game&text=Exploding%20Kittens%3A%20Good%20vs%20Evil&text=Zombie%20Kittens&text=Exploding%20Kittens%3A%20Party%20Pack%20Edition",
+          "domain": "www.explodingkittens.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[18]/div[1]/div[1]",
+        "domain": "minireview.io",
+        "title": "60+ Games Like Exploding Kittens® 2",
+        "url": "https://minireview.io/card/exploding-kittens-2/games-like",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://minireview.io › Card › Exploding Kittens® 2",
+        "website_name": "MiniReview",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "60 mobiles games likeExploding Kittens® 2 · #1 Exploding Kittens® · #2 solitaire multiplayer crapette · #3 Kumome · #4 CardGames.io - Play Card Games · #5 ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "games likeExploding Kittens"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://minireview.io/card/exploding-kittens-2/games-like#:~:text=60%20mobiles%20games%20likeExploding%20Kittens%C2%AE,2&text=%231%20Exploding%20Kittens%C2%AE&text=%232%20solitaire%20multiplayer%20crapette&text=%233%20Kumome&text=%234%20CardGames.io%20-%20Play%20Card,Games&text=%235%20Sentinels%20of%20the%20Multiverse",
+          "domain": "minireview.io"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 10,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[20]/div[1]/div[1]",
+        "domain": "www.jackboxgames.com",
+        "title": "5 Games Like Exploding Kittens To Play With Friends",
+        "url": "https://www.jackboxgames.com/blog/games-like-exploding-kittens",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.jackboxgames.com › blog › games-like-ex...",
+        "website_name": "Jackbox Games",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Sep 3, 2022 — Fans of Exploding Kittens will love these party games: · #1 - The Quiplash Series · #2 - Fibbage 4 · #3 - Survive the Internet · #4 - ... Read more",
+        "pre_snippet": "09/03/2022 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "The Quiplash Series"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.jackboxgames.com/blog/games-like-exploding-kittens#:~:text=Fans%20of%20Exploding%20Kittens%20will,love%20these%20party%20games%3A&text=%231%20-%20The%20Quiplash%20Series&text=%232%20-%20Fibbage%204&text=%233%20-%20Survive%20the%20Internet&text=%234%20-%20Dictionarium",
+          "domain": "www.jackboxgames.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2022-09-03 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 13,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Here to Slay",
+         "Games like exploding kittens reddit",
+         "Games like exploding kittens for 2",
+         "Games like exploding kittens for kids",
+         "Exploding Kittens Party Pack",
+         "All Exploding Kittens games",
+         "Exploding Kittens expansion",
+         "Exploding Kittens Recipes for Disaster"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

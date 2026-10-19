@@ -1,0 +1,767 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "4.4016 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190341-2588-0139-0000-f58b56963b4d",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "4.3454 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "games like yahtzee",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "games like yahtzee",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=games%20like%20yahtzee&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:41:47 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "video",
+       "related_searches"
+      ],
+      "se_results_count": 63,
+      "pages_count": 1,
+      "items_count": 12,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "Several great board and dice games capture the feel of Yahtzee through rolling, rerolling, push-your-luck mechanics, or pattern matching:[[1]](https://www.youtube.com/watch?v=2u9zkMijpm8&t=5)\n\n### Roll-and-Write & Pattern Matching\n\n- **[Qwixx](https://boardgamegeek.com/blog/10104/blogpost/162558/5-games-better-than-yahtzee):** A fast-paced filler game where you roll colored and white dice to cross numbers off sequential rows on your score sheet.[[1]](https://boardgamegeek.com/blog/10104/blogpost/162558/5-games-better-than-yahtzee)[[2]](https://www.nytimes.com/wirecutter/reviews/great-modern-yahtzee-alternatives/)[[3]](https://www.youtube.com/watch?v=Ho2-kFDH_6Y&t=57)\n- **That’s Pretty Clever (Ganz schön clever):** An optimization puzzle where you draft colored dice to trigger clever, multi-step scoring chains on your sheet.[[1]](https://www.nytimes.com/wirecutter/reviews/great-modern-yahtzee-alternatives/)[[2]](https://www.youtube.com/watch?v=lVJ1ID22RRA&t=1)\n- **Kismet:** A direct spiritual relative to Yahtzee that uses specialized dice marked with red and black symbols to make scoring more challenging and varied.\n\n### Push-Your-Luck & Party Dice Games\n\n- **Farkle:** A classic high-risk dice game where you roll to bank points, deciding whether to stop or push your luck by rolling remaining dice (and risking losing your turn's points).[[1]](https://www.donteatthemeeples.com/five-games-to-replace-yahtzee/)\n- **Liar’s Dice (Pirates Dice):** A bluffing and deduction game where players hide their dice under cups and guess how many of a certain number are hidden around the table.[[1]](https://boardgamegeek.com/blog/10104/blogpost/162558/5-games-better-than-yahtzee)[[2]](https://thetabletopfamily.com/best-board-games-like-yahtzee/)\n- **Stuck in the Mud (Drop Dead):** A quick push-your-luck game using five dice where rolling specific numbers like 2 or 5 gets \"stuck\" in the mud, testing your nerve to keep going.[[1]](https://www.dicegamedepot.com/dice-n-games-blog/tired-of-yahtzee-here-are-six-familyfriendly-dice-games-to-try-instead/)\n- **Spots:** A light, push-your-luck card and dice game about matching and rolling dice to fill out cartoon dog cards.[[1]](https://www.donteatthemeeples.com/five-games-to-replace-yahtzee/)[[2]](https://thetabletopfamily.com/best-board-games-like-yahtzee/)\n\n### Combat & Thematic Dice Games\n\n- **Dice Throne:** Often described as \"Combat Yahtzee,\" players roll and reroll a set of unique character dice up to three times to activate special attacks and defend against opponents in a head-to-head duel.[[1]](https://www.facebook.com/groups/132851767828/posts/10161195329552829/)[[2]](https://www.youtube.com/watch?v=lVJ1ID22RRA&t=1)\n- **King of Tokyo:** A high-energy game where you roll custom dice up to three times to gain points, heal, or attack other giant monsters fighting for control of Tokyo.[[1]](https://www.youtube.com/watch?v=lVJ1ID22RRA&t=1)[[2]](https://boardgamegeek.com/blog/10104/blogpost/162558/5-games-better-than-yahtzee)[[3]](https://www.youtube.com/watch?v=2u9zkMijpm8&t=5)\n- **Elder Sign:** A cooperative horror game where players roll custom dice to match patterns and solve investigations at a museum before ancient evils awaken.[[1]](https://www.youtube.com/watch?v=lVJ1ID22RRA&t=1)[[2]](https://www.youtube.com/watch?v=2u9zkMijpm8&t=5)\n\nTo help narrow down the best choice for you, tell me:\n\n- Are you looking for a **casual family game** or a **strategy/combat game**?\n- How **many players** usually join your game nights?",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Several great board and dice games capture the feel of Yahtzee through rolling, rerolling, push-your-luck mechanics, or pattern matching :",
+          "markdown": "Several great board and dice games capture the feel of Yahtzee through rolling, rerolling, push-your-luck mechanics, or pattern matching:[[1]](https://www.youtube.com/watch?v=2u9zkMijpm8&t=5)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=2u9zkMijpm8&t=5",
+            "title": "🎲 Tuesday Teach – Yahtzee-Style Games! 🎲",
+            "text": "🎲 Tuesday Teach – Yahtzee-Style Games! 🎲 and on today's Twoday Teach we're covering one of my favorite mechanics i like a heavy ..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Roll-and-Write & Pattern Matching",
+          "text": "Qwixx : A fast-paced filler game where you roll colored and white dice to cross numbers off sequential rows on your score sheet. That’s Pretty Clever (Ganz schön clever): An optimization puzzle where you draft colored dice to trigger clever, multi-step scoring chains on your sheet. Kismet: A direct spiritual relative to Yahtzee that uses specialized dice marked with red and black symbols to make scoring more challenging and varied.",
+          "markdown": "- **[Qwixx](https://boardgamegeek.com/blog/10104/blogpost/162558/5-games-better-than-yahtzee):** A fast-paced filler game where you roll colored and white dice to cross numbers off sequential rows on your score sheet.[[1]](https://boardgamegeek.com/blog/10104/blogpost/162558/5-games-better-than-yahtzee)[[2]](https://www.nytimes.com/wirecutter/reviews/great-modern-yahtzee-alternatives/)[[3]](https://www.youtube.com/watch?v=Ho2-kFDH_6Y&t=57)\n- **That’s Pretty Clever (Ganz schön clever):** An optimization puzzle where you draft colored dice to trigger clever, multi-step scoring chains on your sheet.[[1]](https://www.nytimes.com/wirecutter/reviews/great-modern-yahtzee-alternatives/)[[2]](https://www.youtube.com/watch?v=lVJ1ID22RRA&t=1)\n- **Kismet:** A direct spiritual relative to Yahtzee that uses specialized dice marked with red and black symbols to make scoring more challenging and varied.",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Qwixx",
+            "description": null,
+            "url": "https://boardgamegeek.com/blog/10104/blogpost/162558/5-games-better-than-yahtzee",
+            "domain": "boardgamegeek.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BoardGameGeek",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/blog/10104/blogpost/162558/5-games-better-than-yahtzee",
+            "title": "5 Games better than Yahtzee | Gaming with Coach Troy | BoardGameGeek",
+            "text": "Recommended Alternatives to Yahtzee by Troy Wellington: Qwixx (risk/reward, utilizes opponents' rolls); Liar's Dice (hidden rolls,"
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "The New York Times",
+            "domain": "www.nytimes.com",
+            "url": "https://www.nytimes.com/wirecutter/reviews/great-modern-yahtzee-alternatives/",
+            "title": "4 Great Modern Yahtzee Alternatives, According to a Board Game Expert | Reviews by Wirecutter",
+            "text": "Roll-and-write games involve rolling dice and marking personal scoresheets. Four recommended modern alternatives include: Qwixx: S..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=Ho2-kFDH_6Y&t=57",
+            "title": "Five Games Better Than Yahtzee",
+            "text": "Five Games Better Than Yahtzee now if you like rolling dice and marking things off on your score. sheet. but the idea of going aro..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=lVJ1ID22RRA&t=1",
+            "title": "8 Games for people who loved Yahtzee",
+            "text": "8 Games for people who loved Yahtzee brought to you by boardameatlas.com. the fastest growing board game community in the world. K..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Push-Your-Luck & Party Dice Games",
+          "text": "Farkle : A classic high-risk dice game where you roll to bank points, deciding whether to stop or push your luck by rolling remaining dice (and risking losing your turn's points). Farkle : Liar’s Dice (Pirates Dice): A bluffing and deduction game where players hide their dice under cups and guess how many of a certain number are hidden around the table. Stuck in the Mud (Drop Dead): A quick push-your-luck game using five dice where rolling specific numbers like 2 or 5 gets \"stuck\" in the mud, testing your nerve to keep going. Spots : A light, push-your-luck card and dice game about matching and rolling dice to fill out cartoon dog cards. Spots :",
+          "markdown": "- **Farkle:** A classic high-risk dice game where you roll to bank points, deciding whether to stop or push your luck by rolling remaining dice (and risking losing your turn's points).[[1]](https://www.donteatthemeeples.com/five-games-to-replace-yahtzee/)\n- **Liar’s Dice (Pirates Dice):** A bluffing and deduction game where players hide their dice under cups and guess how many of a certain number are hidden around the table.[[1]](https://boardgamegeek.com/blog/10104/blogpost/162558/5-games-better-than-yahtzee)[[2]](https://thetabletopfamily.com/best-board-games-like-yahtzee/)\n- **Stuck in the Mud (Drop Dead):** A quick push-your-luck game using five dice where rolling specific numbers like 2 or 5 gets \"stuck\" in the mud, testing your nerve to keep going.[[1]](https://www.dicegamedepot.com/dice-n-games-blog/tired-of-yahtzee-here-are-six-familyfriendly-dice-games-to-try-instead/)\n- **Spots:** A light, push-your-luck card and dice game about matching and rolling dice to fill out cartoon dog cards.[[1]](https://www.donteatthemeeples.com/five-games-to-replace-yahtzee/)[[2]](https://thetabletopfamily.com/best-board-games-like-yahtzee/)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Don't Eat the Meeples",
+            "domain": "www.donteatthemeeples.com",
+            "url": "https://www.donteatthemeeples.com/five-games-to-replace-yahtzee/",
+            "title": "Replace Yahtzee with these five great dice-rolling games",
+            "text": "Recommended Dice Games (alternatives to Yahtzee): Spots: Push-your-luck dog card game by Alex Hague, Jon Perry, Justin Vickers (CY..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BoardGameGeek",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/blog/10104/blogpost/162558/5-games-better-than-yahtzee",
+            "title": "5 Games better than Yahtzee | Gaming with Coach Troy | BoardGameGeek",
+            "text": "Recommended Alternatives to Yahtzee by Troy Wellington: Qwixx (risk/reward, utilizes opponents' rolls); Liar's Dice (hidden rolls, guessing/bluffing); Bang! The Di..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "The Tabletop Family",
+            "domain": "thetabletopfamily.com",
+            "url": "https://thetabletopfamily.com/best-board-games-like-yahtzee/",
+            "title": "Best Board Games like Yahtzee - The Tabletop Family",
+            "text": "Recommended Board Games like Yahtzee: Spots (push-your-luck dog placement); King of Tokyo (monster combat, custom dice); Qwixx (st..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Dice Game Depot",
+            "domain": "www.dicegamedepot.com",
+            "url": "https://www.dicegamedepot.com/dice-n-games-blog/tired-of-yahtzee-here-are-six-familyfriendly-dice-games-to-try-instead/",
+            "title": "Tired of Yahtzee? Here Are Six Family-Friendly Dice Games to Try Instead",
+            "text": "* Tired of Yahtzee? Here Are Six Family-Friendly Dice Games to Try Instead. * Klondike: The Classic Gambling Dice Game. * Lock In:"
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Combat & Thematic Dice Games",
+          "text": "Dice Throne : Often described as \"Combat Yahtzee,\" players roll and reroll a set of unique character dice up to three times to activate special attacks and defend against opponents in a head-to-head duel. Dice Throne : King of Tokyo : A high-energy game where you roll custom dice up to three times to gain points, heal, or attack other giant monsters fighting for control of Tokyo. King of Tokyo : Elder Sign : A cooperative horror game where players roll custom dice to match patterns and solve investigations at a museum before ancient evils awaken. Elder Sign :",
+          "markdown": "- **Dice Throne:** Often described as \"Combat Yahtzee,\" players roll and reroll a set of unique character dice up to three times to activate special attacks and defend against opponents in a head-to-head duel.[[1]](https://www.facebook.com/groups/132851767828/posts/10161195329552829/)[[2]](https://www.youtube.com/watch?v=lVJ1ID22RRA&t=1)\n- **King of Tokyo:** A high-energy game where you roll custom dice up to three times to gain points, heal, or attack other giant monsters fighting for control of Tokyo.[[1]](https://www.youtube.com/watch?v=lVJ1ID22RRA&t=1)[[2]](https://boardgamegeek.com/blog/10104/blogpost/162558/5-games-better-than-yahtzee)[[3]](https://www.youtube.com/watch?v=2u9zkMijpm8&t=5)\n- **Elder Sign:** A cooperative horror game where players roll custom dice to match patterns and solve investigations at a museum before ancient evils awaken.[[1]](https://www.youtube.com/watch?v=lVJ1ID22RRA&t=1)[[2]](https://www.youtube.com/watch?v=2u9zkMijpm8&t=5)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Facebook",
+            "domain": "www.facebook.com",
+            "url": "https://www.facebook.com/groups/132851767828/posts/10161195329552829/",
+            "title": "What are modern board games similar to Yahtzee and Scrabble?",
+            "text": "Dice Throne as Combat Yahtzee: Dice Throne is frequently recommended as a modern alternative to Yahtzee, characterized as \"Combat ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=lVJ1ID22RRA&t=1",
+            "title": "8 Games for people who loved Yahtzee",
+            "text": "8 Games for people who loved Yahtzee brought to you by boardameatlas.com. the fastest growing board game community in the world. K..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BoardGameGeek",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/blog/10104/blogpost/162558/5-games-better-than-yahtzee",
+            "title": "5 Games better than Yahtzee | Gaming with Coach Troy | BoardGameGeek",
+            "text": "Recommended Alternatives to Yahtzee by Troy Wellington: Qwixx (risk/reward, utilizes opponents' rolls); Liar's Dice (hidden rolls, guessing/bluffing); Bang! The Di..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=2u9zkMijpm8&t=5",
+            "title": "🎲 Tuesday Teach – Yahtzee-Style Games! 🎲",
+            "text": "🎲 Tuesday Teach – Yahtzee-Style Games! 🎲 and on today's Twoday Teach we're covering one of my favorite mechanics i like a heavy ..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "To help narrow down the best choice for you, tell me:Are you looking for a casual family game or a strategy/combat game ?\nHow many players usually join your game nights?",
+          "markdown": "To help narrow down the best choice for you, tell me:\n\n- Are you looking for a **casual family game** or a **strategy/combat game**?\n- How **many players** usually join your game nights?",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "BoardGameGeek",
+          "domain": "boardgamegeek.com",
+          "url": "https://boardgamegeek.com/blog/10104/blogpost/162558/5-games-better-than-yahtzee",
+          "title": "5 Games better than Yahtzee | Gaming with Coach Troy | BoardGameGeek",
+          "text": "Recommended Alternatives to Yahtzee by Troy Wellington: Qwixx (risk/reward, utilizes opponents' rolls); Liar's Dice (hidden rolls, guessing/bluffing); Bang! The Di..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "The New York Times",
+          "domain": "www.nytimes.com",
+          "url": "https://www.nytimes.com/wirecutter/reviews/great-modern-yahtzee-alternatives/",
+          "title": "4 Great Modern Yahtzee Alternatives, According to a Board Game Expert | Reviews by Wirecutter",
+          "text": "Roll-and-write games involve rolling dice and marking personal scoresheets. Four recommended modern alternatives include: Qwixx: Simple, fast-paced game using six ..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Facebook",
+          "domain": "www.facebook.com",
+          "url": "https://www.facebook.com/groups/132851767828/posts/10161195329552829/",
+          "title": "What are modern board games similar to Yahtzee and Scrabble?",
+          "text": "Dice Throne as Combat Yahtzee: Dice Throne is frequently recommended as a modern alternative to Yahtzee, characterized as \"Combat Yahtzee\" or \"Battle Yahtzee.\" It ..."
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Games that are Just \"Themed Yahtzee\"",
+        "url": "https://boardgamegeek.com/geeklist/208958/games-that-are-just-themed-yahtzee",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › geeklist › games-that-are-...",
+        "website_name": "BGG",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "May 18, 2016 — This list, although supposed to be ironic, is NOT ironic. The first few entries on the list made by the author are indeed \"themed yahtzee\". Read more",
+        "pre_snippet": "05/18/2016 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "yahtzee"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://boardgamegeek.com/geeklist/208958/games-that-are-just-themed-yahtzee#:~:text=This%20list%2C%20although%20supposed%20to,author%20are%20indeed%20%22themed%20yahtzee%22.",
+          "domain": "boardgamegeek.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2016-05-18 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Dice chuckers / Yahtzee style games?",
+        "url": "https://boardgamegeek.com/thread/2931451/dice-chuckers-yahtzee-style-games",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › thread › dice-chuckers-ya...",
+        "website_name": "BGG",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Sep 8, 2022 — Dice chuckers / Yahtzee style games? Browse All Boardgames Categories Artists",
+        "pre_snippet": "09/08/2022 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Dice chuckers / Yahtzee style games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Best yahtzee game? | 1 Player guild - BoardGameGeek",
+          "description": null,
+          "url": "https://boardgamegeek.com/thread/3311203/best-yahtzee-game",
+          "domain": "boardgamegeek.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Dice Game that plays like Yahtzee but more fun..",
+          "description": null,
+          "url": "https://boardgamegeek.com/thread/647374/dice-game-that-plays-like-yahtzee-but-more-fun/page/3",
+          "domain": "boardgamegeek.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from boardgamegeek.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+yahtzee+site:boardgamegeek.com&sca_esv=9e597e613f614ac0&hl=en&gl=US&sxsrf=APpeQnsCw1SnLpbEyRj_xy-uRQUAGD66SA:1792381305662&sa=X&ved=2ahUKEwi6n5rYlMWXAxU-h_0HHaq2NkMQrQIoAnoECCkQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2022-09-08 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+        "domain": "buddyboardgames.com",
+        "title": "Yahtzee - BuddyBoardGames",
+        "url": "https://buddyboardgames.com/yahtzee",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://buddyboardgames.com › yahtzee",
+        "website_name": "buddyboardgames.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Play Yahtzee in your browser, solo or with up to 8 players. Create a room, share the name, and fill your scoresheet. No sign-in or download.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Play Yahtzee in your browser, solo or with up to 8 players"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "Is Yahtzee a popular game?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "How to play Yahtzee with buddies?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What other dice games are there?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Is there a game like Tetris?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What small dice games exist besides LCR and Yathzee?",
+        "url": "https://www.facebook.com/groups/132851767828/posts/10163668041607829/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "6 comments  ·  10 months ago",
+        "website_name": "Facebook · BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "So I just picked this up from my LFG, and im thinking of making an insert of my photo carrier small board game collection including this and a few other ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "video",
+        "rank_group": 1,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]",
+        "items": [
+         {
+          "type": "video_element",
+          "source": "YouTube · Gateway Games",
+          "title": "If You Like Yahtzee, You'll Like These Games! #boardgames # ...",
+          "timestamp": "2026-03-01 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=xU9cyC0o3vI"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · Chesborn",
+          "title": "Tuesday Teach – Yahtzee-Style Games!",
+          "timestamp": "2026-03-03 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=2u9zkMijpm8"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · 3 Minute Board Games",
+          "title": "8 Games for people who loved Yahtzee",
+          "timestamp": "2020-05-01 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=lVJ1ID22RRA"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+        "domain": "www.yahtzee.org.uk",
+        "title": "Other Dice Games - The Yahtzee Page",
+        "url": "http://www.yahtzee.org.uk/other_games.html",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "http://www.yahtzee.org.uk › other_games",
+        "website_name": "yahtzee.org.uk",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Dice City. Dice city has plenty of dice-rolling entertainment for those looking to play games similar to Yahtzee. · BANG! The Dice Game · Qwixx. A colorful and ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Dice City"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "http://www.yahtzee.org.uk/other_games.html#:~:text=Dice%20City,play%20games%20similar%20to%20Yahtzee.&text=BANG!%20The%20Dice%20Game&text=Qwixx,for%20games%20similar%20to%20Yahtzee.",
+          "domain": "www.yahtzee.org.uk"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+        "domain": "www.amazon.com",
+        "title": "Hasbro Gaming Yahtzee Game, Fast-Playing Dice Games ...",
+        "url": "https://www.amazon.com/Yahtzee-Fast-Playing-Adults-Strategy-Players/dp/B00TLEMRKM",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.amazon.com › Yahtzee-Fast-Playing-Adults-...",
+        "website_name": "Amazon.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "THE SHAKE, SCORE, AND SHOUT GAME: This strategy game for 2 or more players has opponents rolling dice to get different combos and earn the highest score. Who ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.amazon.com/Yahtzee-Fast-Playing-Adults-Strategy-Players/dp/B00TLEMRKM#:~:text=THE%20SHAKE%2C%20SCORE%2C%20AND%20SHOUT,will%20be%20the%20high%20roller%3F",
+          "domain": "www.amazon.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+        "domain": "scopely-yux.en.uptodown.com",
+        "title": "Best alternatives to YAHTZEE® With Buddies for Android",
+        "url": "https://scopely-yux.en.uptodown.com/android/alternatives",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://scopely-yux.en.uptodown.com › android › alterna...",
+        "website_name": "Uptodown",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "More games like YAHTZEE® With Buddies · Dice Game - Home Design · Yacht - Dice Game · DADOO · Solitaire Dice · Dicetown Yatzy · Triple Yatzy · Five Dice · Crag Dice. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Dice Game - Home Design"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://scopely-yux.en.uptodown.com/android/alternatives#:~:text=More%20games%20like%20YAHTZEE%C2%AE%20With,Buddies&text=Dice%20Game%20-%20Home%20Design&text=Yacht%20-%20Dice%20Game&text=DADOO&text=Solitaire%20Dice&text=Dicetown%20Yatzy&text=Triple%20Yatzy&text=Five%20Dice&text=Crag%20Dice",
+          "domain": "scopely-yux.en.uptodown.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Not-zee: Category Dice Games OTHER Than Yahtzee",
+        "url": "https://boardgamegeek.com/geeklist/178858/not-zee-category-dice-games-other-than-yahtzee",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › geeklist › not-zee-categor...",
+        "website_name": "BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "1. Kismet · 2. Royal Kismet · 3. Yum · 4. Cammy · 5. Cameroon · 6. Sam's Hooligan · 7. 7-Spot Yott · 8. Slots n' Spots. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1. Kismet"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://boardgamegeek.com/geeklist/178858/not-zee-category-dice-games-other-than-yahtzee#:~:text=1.,Kismet&text=2.,Royal%20Kismet&text=3.,Yum&text=4.,Cammy&text=5.,Cameroon&text=6.,Sam's%20Hooligan&text=7.,7-Spot%20Yott&text=8.,Slots%20n'%20Spots",
+          "domain": "boardgamegeek.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Yahtzee free download",
+         "Yahtzee 2 player offline",
+         "Yahtzee online with friends",
+         "Yahtzee game Original",
+         "Buddy games Yahtzee",
+         "Yahtzee free download for Android",
+         "Yahtzee game original online",
+         "Yahtzee pass and play"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

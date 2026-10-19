@@ -1,0 +1,735 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "2.1649 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190347-2588-0139-0000-65adf699f805",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "2.1138 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "fun games to play on paper",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "fun games to play on paper",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=fun%20games%20to%20play%20on%20paper&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:47:25 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "video",
+       "related_searches"
+      ],
+      "se_results_count": 164,
+      "pages_count": 1,
+      "items_count": 12,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "Fun paper-and-pencil games require nothing more than a sheet of paper and a pen or pencil . They are great for travel, waiting rooms, or quick boredom busters.[[1]](https://www.instagram.com/reel/DM7vpvXMu8b/?hl=en)[[2]](https://en.wikipedia.org/wiki/Paper-and-pencil_game)[[3]](https://keiki.app/blog/paper-games-kids-activities)[[4]](https://www.papermate.com/blog?cid=games-paper)\n\n### Two-Player Classics\n\n- **Dots and Boxes:** Players take turns drawing a single horizontal or vertical line between adjacent dots in a grid. Complete the fourth side of a 1x1 box to claim it with your initial and take another turn.[[1]](https://www.youtube.com/watch?v=GdgQ0yxjyYo)\n- **Tic-Tac-Toe (Noughts and Crosses):** Draw a 3x3 grid. Players alternate placing an X or an O, aiming to get three in a row horizontally, vertically, or diagonally.[[1]](https://www.playworks.org/resource/fun-paper-and-pencil-games-to-play/)[[2]](https://www.papermate.com/blog?cid=games-paper)\n- **Hangman:** One player thinks of a secret word and draws a series of dashes for each letter. The other player guesses letters; wrong guesses build a stick figure before the word is solved.[[1]](https://www.mybaba.com/pen-and-paper-games/)\n\n### Strategy and Math Games\n\n- **Sim:** Draw six dots in a hexagon shape. Two players take turns drawing colored lines between the dots, trying to force their opponent into completing a triangle in their own color.[[1]](https://www.playworks.org/resource/fun-paper-and-pencil-games-to-play/)\n- **Black Hole:** Players build a number pyramid and take turns filling circles with numbers 1 through 10. The final empty circle is the \"black hole,\" and the player with the lowest sum in adjacent circles wins.[[1]](https://www.youtube.com/shorts/nrrMWiV1cpQ)\n\n### Group and Creative Games\n\n- **Telestrations (Telephone Pictionary):** Players write a secret word or phrase, pass the paper, and the next player draws a picture of it. The paper passes again for someone to guess the word from the drawing, leading to funny transformations.[[1]](https://www.reddit.com/r/boardgames/comments/93ox7m/are_there_any_cool_games_you_just_need_a_pen_and/)\n- **Exquisite Corpse (Heads, Bodies, and Legs):** Players take turns drawing a section of a body (head, torso, legs) on a folded piece of paper without seeing what the previous person drew, unfolding it at the end for a surreal creation.[[1]](https://www.mybaba.com/pen-and-paper-games/)[[2]](https://www.whatdowedoallday.com/pen-and-paper-games/)\n\nLearn how to play the quick paper game Black Hole with this visual guide:\n\n![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTABYPcIneiPL_nox6nO18hwWDtujpizxN8JX9uPCzOdnAhlCen6OsIL-wLnj3wrjic7joPtqKBjs7aeSQUYN-gpsLWJg)\n![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKx96_TZa2AMlgKJSjukoidQbYoQBzG9B__96HInNNTy5n5f6hNRgsk-yAKtBbhbP6eIjFBhlfsssv1Cp13BahNrJUSB8)\n1:14\n[](https://www.youtube.com/shorts/nrrMWiV1cpQ) Paper & Pencil Game: How to Play Black Hole 6M views  · 1 year ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · The Tabletop Family\n\nAre you looking for games for **kids**, **adults** , or a **specific number of players** ? Let me know and I can give you rules tailored to your group!",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Fun paper-and-pencil games require nothing more than a sheet of paper and a pen or pencil. They are great for travel, waiting rooms, or quick boredom busters.",
+          "markdown": "Fun paper-and-pencil games require nothing more than a sheet of paper and a pen or pencil . They are great for travel, waiting rooms, or quick boredom busters.[[1]](https://www.instagram.com/reel/DM7vpvXMu8b/?hl=en)[[2]](https://en.wikipedia.org/wiki/Paper-and-pencil_game)[[3]](https://keiki.app/blog/paper-games-kids-activities)[[4]](https://www.papermate.com/blog?cid=games-paper)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Instagram",
+            "domain": "www.instagram.com",
+            "url": "https://www.instagram.com/reel/DM7vpvXMu8b/?hl=en",
+            "title": "Comment “Paper” and I'll send you a link to our post with all of the ...",
+            "text": "Comment “Paper” and I’ll send you a link to our post with all of the paper and pencil games we’ve taught so far along with the lin..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Wikipedia",
+            "domain": "en.wikipedia.org",
+            "url": "https://en.wikipedia.org/wiki/Paper-and-pencil_game",
+            "title": "Paper-and-pencil game - Wikipedia",
+            "text": "Paper-and-pencil games or paper-and-pen games (or some variation on those terms) are games that can be played solely with paper an..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Keiki",
+            "domain": "keiki.app",
+            "url": "https://keiki.app/blog/paper-games-kids-activities",
+            "title": "20 Paper Games for Kids: Simple & Fun Pen and ...",
+            "text": "What Are Paper Games for Kids? Paper games for kids are games played with nothing but paper and a pen, pencil, or crayon, no board..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Paper Mate",
+            "domain": "www.papermate.com",
+            "url": "https://www.papermate.com/blog?cid=games-paper",
+            "title": "Games on Paper - Paper Mate",
+            "text": "Put down the electronics, grab a pen or pencil and piece of paper and let your creativity soar with traditional games. These games..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Two-Player Classics",
+          "text": "Dots and Boxes: Players take turns drawing a single horizontal or vertical line between adjacent dots in a grid. Complete the fourth side of a 1x1 box to claim it with your initial and take another turn. Tic-Tac-Toe (Noughts and Crosses): Draw a 3x3 grid. Players alternate placing an X or an O, aiming to get three in a row horizontally, vertically, or diagonally. Hangman: One player thinks of a secret word and draws a series of dashes for each letter. The other player guesses letters; wrong guesses build a stick figure before the word is solved.",
+          "markdown": "- **Dots and Boxes:** Players take turns drawing a single horizontal or vertical line between adjacent dots in a grid. Complete the fourth side of a 1x1 box to claim it with your initial and take another turn.[[1]](https://www.youtube.com/watch?v=GdgQ0yxjyYo)\n- **Tic-Tac-Toe (Noughts and Crosses):** Draw a 3x3 grid. Players alternate placing an X or an O, aiming to get three in a row horizontally, vertically, or diagonally.[[1]](https://www.playworks.org/resource/fun-paper-and-pencil-games-to-play/)[[2]](https://www.papermate.com/blog?cid=games-paper)\n- **Hangman:** One player thinks of a secret word and draws a series of dashes for each letter. The other player guesses letters; wrong guesses build a stick figure before the word is solved.[[1]](https://www.mybaba.com/pen-and-paper-games/)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=GdgQ0yxjyYo",
+            "title": "7 EASY Paper and Pen Games For Kids",
+            "text": "7 EASY Paper and Pen Games For Kids - YouTube Learn more This content isn't available. 7 Genius paper and pen games for kids. Look..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "www.playworks.org",
+            "domain": "www.playworks.org",
+            "url": "https://www.playworks.org/resource/fun-paper-and-pencil-games-to-play/",
+            "title": "Fun Paper and Pencil Games to Play",
+            "text": "These games will challenge kids and keep them entertained for hours. * Tic Tac Toe. The simple game of tic tac toe is a two player..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Paper Mate",
+            "domain": "www.papermate.com",
+            "url": "https://www.papermate.com/blog?cid=games-paper",
+            "title": "Games on Paper - Paper Mate",
+            "text": "Put down the electronics, grab a pen or pencil and piece of paper and let your creativity soar with traditional games. These games..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "My Baba",
+            "domain": "www.mybaba.com",
+            "url": "https://www.mybaba.com/pen-and-paper-games/",
+            "title": "10 Pen And Paper Games | My Baba",
+            "text": "Games: Hangman (5Y+, 2P+, guess word/saying via dashed letters before hanged man completes); Noughts and Crosses (4Y+, 2P); Square..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Strategy and Math Games",
+          "text": "Sim: Draw six dots in a hexagon shape. Two players take turns drawing colored lines between the dots, trying to force their opponent into completing a triangle in their own color. Black Hole: Players build a number pyramid and take turns filling circles with numbers 1 through 10. The final empty circle is the \"black hole,\" and the player with the lowest sum in adjacent circles wins.",
+          "markdown": "- **Sim:** Draw six dots in a hexagon shape. Two players take turns drawing colored lines between the dots, trying to force their opponent into completing a triangle in their own color.[[1]](https://www.playworks.org/resource/fun-paper-and-pencil-games-to-play/)\n- **Black Hole:** Players build a number pyramid and take turns filling circles with numbers 1 through 10. The final empty circle is the \"black hole,\" and the player with the lowest sum in adjacent circles wins.[[1]](https://www.youtube.com/shorts/nrrMWiV1cpQ)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "www.playworks.org",
+            "domain": "www.playworks.org",
+            "url": "https://www.playworks.org/resource/fun-paper-and-pencil-games-to-play/",
+            "title": "Fun Paper and Pencil Games to Play",
+            "text": "These games will challenge kids and keep them entertained for hours. * Tic Tac Toe. The simple game of tic tac toe is a two player..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/shorts/nrrMWiV1cpQ",
+            "title": "Paper & Pencil Game: How to Play Black Hole",
+            "text": "Paper & Pencil Game: How to Play Black Hole welcome to Paper. and Pink Games 101. where I teach you truly. easy games so that you ..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Group and Creative Games",
+          "text": "Telestrations (Telephone Pictionary): Players write a secret word or phrase, pass the paper, and the next player draws a picture of it. The paper passes again for someone to guess the word from the drawing, leading to funny transformations. Exquisite Corpse (Heads, Bodies, and Legs): Players take turns drawing a section of a body (head, torso, legs) on a folded piece of paper without seeing what the previous person drew, unfolding it at the end for a surreal creation.",
+          "markdown": "- **Telestrations (Telephone Pictionary):** Players write a secret word or phrase, pass the paper, and the next player draws a picture of it. The paper passes again for someone to guess the word from the drawing, leading to funny transformations.[[1]](https://www.reddit.com/r/boardgames/comments/93ox7m/are_there_any_cool_games_you_just_need_a_pen_and/)\n- **Exquisite Corpse (Heads, Bodies, and Legs):** Players take turns drawing a section of a body (head, torso, legs) on a folded piece of paper without seeing what the previous person drew, unfolding it at the end for a surreal creation.[[1]](https://www.mybaba.com/pen-and-paper-games/)[[2]](https://www.whatdowedoallday.com/pen-and-paper-games/)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/boardgames/comments/93ox7m/are_there_any_cool_games_you_just_need_a_pen_and/",
+            "title": "Are there any cool games you just need a pen and paper for? - Reddit",
+            "text": "Telestrations (Eat Poop You Cat): Telestrations, also known by its original name \"Eat Poop You Cat\" or \"Telephone Pictionary,\" is ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "My Baba",
+            "domain": "www.mybaba.com",
+            "url": "https://www.mybaba.com/pen-and-paper-games/",
+            "title": "10 Pen And Paper Games | My Baba",
+            "text": "Games: Hangman (5Y+, 2P+, guess word/saying via dashed letters before hanged man completes); Noughts and Crosses (4Y+, 2P); Squares (6Y+, 2P+, connect dot grid lin..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "What Do We Do All Day",
+            "domain": "www.whatdowedoallday.com",
+            "url": "https://www.whatdowedoallday.com/pen-and-paper-games/",
+            "title": "Fun Pen and Paper Games to Cure Boredom",
+            "text": "Single Player: Blind Drawing (draw object with eyes closed); Word Flip (practice grammar, make funny sentences); Drawing/Exquisite..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_video_element",
+          "position": "left",
+          "title": "Paper & Pencil Game: How to Play Black Hole",
+          "snippet": null,
+          "url": "https://www.youtube.com/shorts/nrrMWiV1cpQ",
+          "domain": "www.youtube.com",
+          "image_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKx96_TZa2AMlgKJSjukoidQbYoQBzG9B__96HInNNTy5n5f6hNRgsk-yAKtBbhbP6eIjFBhlfsssv1Cp13BahNrJUSB8",
+          "source": "YouTube",
+          "date": "1 year ago",
+          "timestamp": "2025-10-19 03:47:24 +00:00"
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Learn how to play the quick paper game Black Hole with this visual guide: 1:14 Paper & Pencil Game: How to Play Black Hole 6M views · 1 year ago YouTube · The Tabletop Family",
+          "markdown": "Learn how to play the quick paper game Black Hole with this visual guide:\n\n![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTABYPcIneiPL_nox6nO18hwWDtujpizxN8JX9uPCzOdnAhlCen6OsIL-wLnj3wrjic7joPtqKBjs7aeSQUYN-gpsLWJg)\n![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKx96_TZa2AMlgKJSjukoidQbYoQBzG9B__96HInNNTy5n5f6hNRgsk-yAKtBbhbP6eIjFBhlfsssv1Cp13BahNrJUSB8)\n1:14\n[](https://www.youtube.com/shorts/nrrMWiV1cpQ) Paper & Pencil Game: How to Play Black Hole 6M views  · 1 year ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · The Tabletop Family",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Are you looking for games for kids, adults, or a specific number of players ? Let me know and I can give you rules tailored to your group!",
+          "markdown": "Are you looking for games for **kids**, **adults** , or a **specific number of players** ? Let me know and I can give you rules tailored to your group!",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Reddit",
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/boardgames/comments/93ox7m/are_there_any_cool_games_you_just_need_a_pen_and/",
+          "title": "Are there any cool games you just need a pen and paper for? - Reddit",
+          "text": "Telestrations (Eat Poop You Cat): Telestrations, also known by its original name \"Eat Poop You Cat\" or \"Telephone Pictionary,\" is a drawing and word-guessing game ..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "What Do We Do All Day",
+          "domain": "www.whatdowedoallday.com",
+          "url": "https://www.whatdowedoallday.com/pen-and-paper-games/",
+          "title": "Fun Pen and Paper Games to Cure Boredom",
+          "text": "Single Player: Blind Drawing (draw object with eyes closed); Word Flip (practice grammar, make funny sentences); Drawing/Exquisite Corpse (alternate drawing body p..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "My Baba",
+          "domain": "www.mybaba.com",
+          "url": "https://www.mybaba.com/pen-and-paper-games/",
+          "title": "10 Pen And Paper Games | My Baba",
+          "text": "Games: Hangman (5Y+, 2P+, guess word/saying via dashed letters before hanged man completes); Noughts and Crosses (4Y+, 2P); Squares (6Y+, 2P+, connect dot grid lin..."
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+        "domain": "www.papermate.com",
+        "title": "Games on Paper",
+        "url": "https://www.papermate.com/blog?cid=games-paper",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.papermate.com › blog › cid=games-paper",
+        "website_name": "Paper Mate",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Tic-Tac-Toe : To play: Draw a grid on your paper of two vertical lines dissecting two horizontal lines. Connect the Dots: MASH: The first player (“the fortune ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Tic-Tac-Toe"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "How to make fun games with paper?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "How to play black hole game?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "How do you play Sprouts?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What is 10 indoor games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+        "domain": "www.quora.com",
+        "title": "What are the best games you can play by yourself with just ...",
+        "url": "https://www.quora.com/What-are-the-best-games-you-can-play-by-yourself-with-just-pen-and-paper",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "50+ answers",
+        "website_name": "Quora",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "What are the best games you can play by yourself with just pen and paper?",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "54 answers",
+          "description": null,
+          "url": "https://www.quora.com/What-are-the-best-games-you-can-play-by-yourself-with-just-pen-and-paper?top_ans=8580170",
+          "domain": "www.quora.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+        "domain": "en.wikipedia.org",
+        "title": "Paper-and-pencil game",
+        "url": "https://en.wikipedia.org/wiki/Paper-and-pencil_game",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://en.wikipedia.org › wiki › Paper-and-pencil_game",
+        "website_name": "Wikipedia",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Some popular examples of pencil-and-paper games include tic-tac-toe, sprouts, dots and boxes, hangman, MASH, paper soccer, and spellbinder.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "tic-tac-toe, sprouts, dots and boxes, hangman, MASH, paper soccer, and spellbinder"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+        "domain": "www.pinterest.com",
+        "title": "Pen and paper games",
+        "url": "https://www.pinterest.com/martisharman/pen-and-paper-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.pinterest.com › martisharman › pen-and-pa...",
+        "website_name": "Pinterest",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "From games to play with paper and pencil to games to play with pen and paper, find what you're looking for on Pinterest!",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "games to play with paper and pencil"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "video",
+        "rank_group": 1,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]",
+        "items": [
+         {
+          "type": "video_element",
+          "source": "YouTube · The Tabletop Family",
+          "title": "Easy paper and pen game!",
+          "timestamp": "2025-09-09 00:00:00 +00:00",
+          "url": "https://www.youtube.com/shorts/nj_r9JKvDx0"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · The Tabletop Family",
+          "title": "Paper & Pencil Game: How to Play Black Hole",
+          "timestamp": "2025-08-26 00:00:00 +00:00",
+          "url": "https://www.youtube.com/shorts/nrrMWiV1cpQ"
+         },
+         {
+          "type": "video_element",
+          "source": "Instagram · Kelsey + Adam | Board Game Recommendations",
+          "title": "Comment “Paper” and I'll send you a link to our post with all of ...",
+          "timestamp": "2025-08-04 00:00:00 +00:00",
+          "url": "https://www.instagram.com/reel/DM7vpvXMu8b/?hl=en"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "What are some games a high schooler would find fun that ...",
+        "url": "https://www.reddit.com/r/printandplay/comments/1pjesu0/what_are_some_games_a_high_schooler_would_find/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "8 comments  ·  10 months ago",
+        "website_name": "Reddit · r/printandplay",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "I know this is the print and play subreddit but I thought you all might have some good ideas.\n\nI mentor a 15 year old refugee who is still learning English. ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "8 answers",
+          "description": null,
+          "url": "https://www.reddit.com/r/printandplay/comments/1pjesu0/what_are_some_games_a_high_schooler_would_find/ntcx5ni/",
+          "domain": "www.reddit.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+        "domain": "signup.com",
+        "title": "Pen & Paper Games Kids Will Love",
+        "url": "https://signup.com/summer-activities-and-events/pen-and-paper-games-for-kids",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://signup.com › summer-activities-and-events › pe...",
+        "website_name": "SignUp.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Apr 17, 2026 — Dots & Boxes, Tic-Tac-Toe, Hangman, and drawing games like Pictionary are simple, engaging, and easy to set up anywhere.",
+        "pre_snippet": "04/17/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Dots & Boxes, Tic-Tac-Toe, Hangman, and drawing games"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-04-17 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+        "domain": "www.wales247.co.uk",
+        "title": "101 games that you can play using pen and paper",
+        "url": "https://www.wales247.co.uk/101-games-that-you-can-play-using-pen-and-paper",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.wales247.co.uk › 101-games-that-you-can-...",
+        "website_name": "Wales 247",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Dec 30, 2021 — Hangman – A game. Noughts & Crosses – Sudoku – A game. Pen & Paper telephone “Gossip” – Pencil Rubbings-",
+        "pre_snippet": "12/30/2021 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Hangman – A game"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2021-12-30 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+        "domain": "secretmanchester.com",
+        "title": "6 Games For Adults To Play With Just Pen, Paper And A Bit ...",
+        "url": "https://secretmanchester.com/paper-and-pen-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://secretmanchester.com › Things to do",
+        "website_name": "Secret Manchester",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jan 27, 2021 — Paper Telephones each participating player begins with writing a sentence at the top of their page, for example, 'the cat is in heat', before ...",
+        "pre_snippet": "01/27/2021 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Paper Telephones"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2021-01-27 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Fun games to play on paper for kids",
+         "Fun games to play on paper for adults",
+         "Games to play on paper with friends",
+         "Pen and paper games for adults",
+         "Easy games to play on paper alone",
+         "Paper and pencil game",
+         "Games to play on paper for two with friends",
+         "Pen and paper games for kids"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

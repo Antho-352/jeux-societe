@@ -1,0 +1,1409 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "8.9115 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190344-2588-0139-0000-cfbd8b09787b",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "8.7921 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "travel board games",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "travel board games",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=travel%20board%20games&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:44:56 +00:00",
+      "spell": null,
+      "refinement_chips": {
+       "type": "refinement_chips",
+       "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+       "items": [
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids",
+         "url": "https://www.google.com/search?q=kids+travel+board+games&hl=en&gl=US&shoprs=CAEYASoSdHJhdmVsIGJvYXJkIGdhbWVzMhQIARIES2lkczoKCPyQbxD-kG8wAFihzCBgAQ&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKAF6BQgzEJQB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Best",
+         "url": "https://www.google.com/search?q=best+travel+board+games&hl=en&gl=US&shoprs=CAESBWIDCJADGBMqEnRyYXZlbCBib2FyZCBnYW1lczIPCBMSBEJlc3QiBWIDCJADYAE&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKAJ6BQgzEJUB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adults",
+         "url": "https://www.google.com/search?q=adults+travel+board+games&hl=en&gl=US&shoprs=CAEYASoSdHJhdmVsIGJvYXJkIGdhbWVzMhYIARIGQWR1bHRzOgoI_JBvEP2QbzAAWKHMIGAB&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKAN6BQgzEJYB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Strategy",
+         "url": "https://www.google.com/search?q=strategy+travel+board+games&hl=en&gl=US&shoprs=CAEYASoSdHJhdmVsIGJvYXJkIGdhbWVzMhgIARIIU3RyYXRlZ3k6CgihuD4Qorg-MABYocwgYAE&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKAR6BQgzEJcB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Nearby",
+         "url": "https://www.google.com/search?q=travel+board+games+nearby&hl=en&gl=US&shoprs=CAEYAyoSdHJhdmVsIGJvYXJkIGdhbWVzMgwIAxIGTmVhcmJ5GAJYocwgYAE&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKAV6BQgzEJgB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Family Friendly",
+         "url": "https://www.google.com/search?q=family+friendly+travel+board+games&hl=en&gl=US&shoprs=CAEYASoSdHJhdmVsIGJvYXJkIGdhbWVzMiEIARIPRmFtaWx5IEZyaWVuZGx5OgwI3bGeAhDesZ4CMANYocwgYAE&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKAZ6BQgzEJkB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Online",
+         "url": "https://www.google.com/search?q=online+travel+board+games&hl=en&gl=US&shoprs=CAEYEioSdHJhdmVsIGJvYXJkIGdhbWVzMgoIEhIGT25saW5lYAE&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKAd6BQgzEJoB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "On sale",
+         "url": "https://www.google.com/search?q=travel+board+games+sale&hl=en&gl=US&shoprs=CAESBEoCGAEYBioSdHJhdmVsIGJvYXJkIGdhbWVzMhMIBhIHT24gc2FsZRgCIgRKAhgBWKHMIGAB&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKAh6BQgzEJsB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "2 Player",
+         "url": "https://www.google.com/search?q=2+player+travel+board+games&hl=en&gl=US&shoprs=CAEYASoSdHJhdmVsIGJvYXJkIGdhbWVzMhoIARIIMiBQbGF5ZXI6DAjpnJoCEOucmgIwAFihzCBgAQ&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKAl6BQgzEJwB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids' Games",
+         "url": "https://www.google.com/search?q=kids'+games+travel+board&hl=en&gl=US&shoprs=CAEYCSoSdHJhdmVsIGJvYXJkIGdhbWVzMg8ICRILS2lkcycgR2FtZXNgAQ&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKAp6BQgzEJ0B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Reviews",
+         "url": "https://www.google.com/search?q=reviews+travel+board+games&hl=en&gl=US&shoprs=CAEYEioSdHJhdmVsIGJvYXJkIGdhbWVzMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKAt6BQgzEJ4B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Get it by Tue",
+         "url": "https://www.google.com/search?q=travel+board+games&hl=en&gl=US&shoprs=CAESDZoBCgoIEAI4AUACSAEYFCoSdHJhdmVsIGJvYXJkIGdhbWVzMiYIFBINR2V0IGl0IGJ5IFR1ZSINmgEKCggQAjgBQAJIASoEEAEYAWAB&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKAx6BQgzEJ8B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adult",
+         "url": "https://www.google.com/search?q=adult+travel+board+games&hl=en&gl=US&shoprs=CAEYEioSdHJhdmVsIGJvYXJkIGdhbWVzMgkIEhIFQWR1bHRgAQ&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKA16BQgzEKAB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adult Games",
+         "url": "https://www.google.com/search?q=adult+games+travel+board&hl=en&gl=US&shoprs=CAEYCSoSdHJhdmVsIGJvYXJkIGdhbWVzMg8ICRILQWR1bHQgR2FtZXNgAQ&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKA56BQgzEKEB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Free",
+         "url": "https://www.google.com/search?q=free+travel+board+games&hl=en&gl=US&shoprs=CAEYEioSdHJhdmVsIGJvYXJkIGdhbWVzMggIEhIERnJlZWAB&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKA96BQgzEKIB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Under $7",
+         "url": "https://www.google.com/search?q=travel+board+games+under+$7&hl=en&gl=US&shoprs=CAESDRILEQAAAADws1pBGAEYBSoSdHJhdmVsIGJvYXJkIGdhbWVzMiEIBRIIVW5kZXIgJDcYAiINEgsRAAAAAPCzWkEYASoCGAFYocwgYAE&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKBB6BQgzEKMB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Buy",
+         "url": "https://www.google.com/search?q=buy+travel+board+games&hl=en&gl=US&shoprs=CAEYEioSdHJhdmVsIGJvYXJkIGdhbWVzMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKBF6BQgzEKQB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "4 Player",
+         "url": "https://www.google.com/search?q=4+player+travel+board+games&hl=en&gl=US&shoprs=CAEYASoSdHJhdmVsIGJvYXJkIGdhbWVzMhoIARIINCBQbGF5ZXI6DAjpnJoCEO2cmgIwAFihzCBgAQ&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKBJ6BQgzEKUB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "For Sale",
+         "url": "https://www.google.com/search?q=travel+board+games+for+sale&hl=en&gl=US&shoprs=CAEYEioSdHJhdmVsIGJvYXJkIGdhbWVzMgwIEhIIRm9yIFNhbGVgAQ&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKBN6BQgzEKYB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Card Game",
+         "url": "https://www.google.com/search?q=card+game+travel+board+games&hl=en&gl=US&shoprs=CAEYASoSdHJhdmVsIGJvYXJkIGdhbWVzMhsIARIJQ2FyZCBHYW1lOgwItsL3ARC3wvcBMANYocwgYAE&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKBR6BQgzEKcB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "8+ Years",
+         "url": "https://www.google.com/search?q=8%2B+years+travel+board+games&hl=en&gl=US&shoprs=CAEYASoSdHJhdmVsIGJvYXJkIGdhbWVzMhoIARIIOCsgWWVhcnM6DAje9rUBEMWotgEwAFihzCBgAQ&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKBV6BQgzEKgB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "10+ Years",
+         "url": "https://www.google.com/search?q=10%2B+years+travel+board+games&hl=en&gl=US&shoprs=CAEYASoSdHJhdmVsIGJvYXJkIGdhbWVzMhsIARIJMTArIFllYXJzOgwI3va1ARDHqLYBMABYocwgYAE&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKBZ6BQgzEKkB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Single Player",
+         "url": "https://www.google.com/search?q=single+player+travel+board+games&hl=en&gl=US&shoprs=CAEYASoSdHJhdmVsIGJvYXJkIGdhbWVzMh8IARINU2luZ2xlIFBsYXllcjoMCJqGngIQm4aeAjADWKHMIGAB&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKBd6BQgzEKoB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Party",
+         "url": "https://www.google.com/search?q=party+travel+board+games&hl=en&gl=US&shoprs=CAEYASoSdHJhdmVsIGJvYXJkIGdhbWVzMhUIARIFUGFydHk6CgihuD4Qp7g-MABYocwgYAE&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKBh6BQgzEKsB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "2 players or more",
+         "url": "https://www.google.com/search?q=2+players+or+more+travel+board+games&hl=en&gl=US&shoprs=CAESGyoZCI-Z1AISEgkAAAAAAAAAQBEAAAAAAAAAQBgBKhJ0cmF2ZWwgYm9hcmQgZ2FtZXMyQQgBEhEyIHBsYXllcnMgb3IgbW9yZSIbKhkIj5nUAhISCQAAAAAAAABAEQAAAAAAAABAKgIYAToJCI-Z1AIQADAGWKHMIGAB&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQip4GKBl6BQgzEKwB",
+         "domain": "www.google.com",
+         "options": null
+        }
+       ]
+      },
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "popular_products",
+       "people_also_ask",
+       "images",
+       "related_searches"
+      ],
+      "se_results_count": 201,
+      "pages_count": 1,
+      "items_count": 14,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": true,
+        "markdown": null,
+        "items": null,
+        "references": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+        "domain": "bitewinggames.com",
+        "title": "Best Travel Size Board Games",
+        "url": "https://bitewinggames.com/best-travel-size-board-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://bitewinggames.com › Blog",
+        "website_name": "Bitewing Games",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Best Travel Size Board Games · Best Travel Size Board Games (Featuring Chris Yi) · DroPolter · Viking See-Saw · Rainbow · Panda Panda & Fairy.",
+        "pre_snippet": "04/03/2025 00:00:00",
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": null,
+          "url": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-cfbd8b09787b:0"
+         },
+         {
+          "type": "images_element",
+          "alt": null,
+          "url": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-cfbd8b09787b:1"
+         },
+         {
+          "type": "images_element",
+          "alt": null,
+          "url": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-cfbd8b09787b:2"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Best Travel Size Board Games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://bitewinggames.com/best-travel-size-board-games/#:~:text=Best%20Travel%20Size%20Board%20Games&text=Best%20Travel%20Size%20Board%20Games,(Featuring%20Chris%20Yi)&text=DroPolter&text=Viking%20See-Saw&text=Rainbow&text=Panda%20Panda%20%26%20Fairy",
+          "domain": "bitewinggames.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-04-03 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]",
+        "domain": "www.amazon.com",
+        "title": "Portable Board Games For Travel",
+        "url": "https://www.amazon.com/portable-board-games-travel/s?k=portable+board+games+for+travel",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.amazon.com › portable-board-games-travel",
+        "website_name": "Amazon.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Explore a wide range of portable board games perfect for travel. Find compact versions of classics and new games designed for on-the-go fun.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Explore a wide range of portable board games perfect for travel"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]",
+        "domain": "www.wsgamecompany.com",
+        "title": "Travel Board Games",
+        "url": "https://www.wsgamecompany.com/collections/travel-games?srsltid=AU7gw4UOlBFMTghcqSSgCAr_-jWFdyHb7q43dSsq0AHX9TESdcxaJdoQ",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.wsgamecompany.com › collections › travel-...",
+        "website_name": "WS Game Company",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Take your favorite Hasbro games on the go with our premium Travel editions. With wooden construction and self-contained storage, these compact sets are ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "travel board games from www.wsgamecompany.com",
+          "url": "https://www.wsgamecompany.com/collections/travel-games?srsltid=AU7gw4UOlBFMTghcqSSgCAr_-jWFdyHb7q43dSsq0AHX9TESdcxaJdoQ",
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-cfbd8b09787b:3"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "premium Travel editions"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 1,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]",
+        "title": "Popular products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Chuckle & Roar Games On the Go Tin Travel Game Set for Kids Ages 3-6+",
+          "url": "https://www.google.com/search?ibp=oshop&q=travel+board+games&prds=gpcid:9622122785711216751,rds:PC_9622122785711216751%7CPROD_PC_9622122785711216751,headlineOfferDocid:293000751134770361,catalogid:1493042663283310818,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-cfbd8b09787b:4",
+          "price": {
+           "current": 14.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$14.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 16,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "1493042663283310818",
+           "data_docid": "6487143667847909148",
+           "gid": "9622122785711216751"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Deluxe Travel Edition Scrabble",
+          "url": "https://www.google.com/search?ibp=oshop&q=travel+board+games&prds=gpcid:10669395789199358806,rds:PC_10669395789199358806%7CPROD_PC_10669395789199358806,headlineOfferDocid:6290927253177524241,catalogid:15064017275202200493,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Barnes & Noble & more\nNext-day delivery $7",
+          "more_sellers": true,
+          "seller": "Barnes & Noble",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-cfbd8b09787b:5",
+          "price": {
+           "current": 44.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$44.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.1,
+           "votes_count": 79,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "15064017275202200493",
+           "data_docid": "1222788984654760721",
+           "gid": "10669395789199358806"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "The Chameleon Travel",
+          "url": "https://www.google.com/search?ibp=oshop&q=travel+board+games&prds=gpcid:9141781967967639257,rds:PC_9141781967967639257%7CPROD_PC_9141781967967639257,headlineOfferDocid:12386028926793627020,catalogid:11851270745963941063,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Big Potato Games US & more\nFree delivery by Fri",
+          "more_sellers": true,
+          "seller": "Big Potato Games US",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-cfbd8b09787b:6",
+          "price": {
+           "current": 13.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$13.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 44,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "11851270745963941063",
+           "data_docid": "7662150494481297942",
+           "gid": "9141781967967639257"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Gamie Magnetic Travel Board Game Set 12 Retro Games Compact",
+          "url": "https://www.google.com/search?ibp=oshop&q=travel+board+games&prds=gpcid:11097042876766617990,rds:PC_11097042876766617990%7CPROD_PC_11097042876766617990,headlineOfferDocid:1918019103765193063,catalogid:10532333749763786134,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+\nStrategy · 2 Player · Chess, Tic-tac-toe",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-cfbd8b09787b:7",
+          "price": {
+           "current": 30.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$30.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 5,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "10532333749763786134",
+           "data_docid": "6947271087926633627",
+           "gid": "11097042876766617990"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "MindWare Qwirkle Travel",
+          "url": "https://www.google.com/search?ibp=oshop&q=travel+board+games&prds=gpcid:18229809223933910175,rds:PC_18229809223933910175%7CPROD_PC_18229809223933910175,headlineOfferDocid:3289991324693406828,catalogid:8877639005454007247,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Turner Toys & more\nFun (68 user reviews)",
+          "more_sellers": true,
+          "seller": "Turner Toys",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-cfbd8b09787b:8",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 173,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "8877639005454007247",
+           "data_docid": "17752449927546720951",
+           "gid": "18229809223933910175"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Clue Deluxe Travel Edition",
+          "url": "https://www.google.com/search?ibp=oshop&q=travel+board+games&prds=headlineOfferDocid:18348807126666187298,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "WS Game Company\nFree delivery\nMystery · Clue",
+          "more_sellers": false,
+          "seller": "WS Game Company",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-cfbd8b09787b:9",
+          "price": {
+           "current": 46,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$46.00"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": null,
+           "data_docid": "18348807126666187298",
+           "gid": null
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Pressman Rummikub Travel Tin",
+          "url": "https://pixelfy.me/guides/retail/best-travel-games-for-adults/",
+          "domain": "pixelfy.me",
+          "description": "Barnes & Noble & more\nNext-day delivery $7\nThe game is easy to learn and can be played by anyone above the age of 8 · The tiles can be a bit difficult to separate at times, which can slow down … Pixelfy.me",
+          "more_sellers": true,
+          "seller": "Barnes & Noble",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-cfbd8b09787b:10",
+          "price": {
+           "current": 12.99,
+           "regular": null,
+           "max_value": 16,
+           "currency": "USD",
+           "is_price_range": true,
+           "displayed_price": "$12.99 Usually $16"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 56,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "5013793786197736661",
+           "data_docid": "6845378223161039245",
+           "gid": "8072229329468014712"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Bananagrams Game",
+          "url": "https://www.fractuslearning.com/best-toys-gifts-7-year-old-girls/",
+          "domain": "www.fractuslearning.com",
+          "description": "Target & more\nFree delivery on $35+\nA quick but intense game for those with limited time who enjoy the action · Players who don't like thinking on their feet may find the game too stressful Fractus Learning",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-cfbd8b09787b:11",
+          "price": {
+           "current": 11.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$11.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.9,
+           "votes_count": 1100,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "4315840983976599331",
+           "data_docid": "14885089176940085127",
+           "gid": "14993600698068759812"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Connect 4 Grab & Go",
+          "url": "https://www.google.com/search?ibp=oshop&q=travel+board+games&prds=gpcid:13361412106533391055,rds:PC_13361412106533391055%7CPROD_PC_13361412106533391055,headlineOfferDocid:3244777080959185698,catalogid:10103256693223700563,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Five Below & more",
+          "more_sellers": true,
+          "seller": "Five Below",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-cfbd8b09787b:12",
+          "price": {
+           "current": 6,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$6.00"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 23,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "10103256693223700563",
+           "data_docid": "13392905879639170105",
+           "gid": "13361412106533391055"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Ingenious Single-Player Travel Edition",
+          "url": "https://www.google.com/search?ibp=oshop&q=travel+board+games&prds=gpcid:17195789717453948421,rds:PC_17195789717453948421%7CPROD_PC_17195789717453948421,headlineOfferDocid:14879285923347374172,catalogid:1855422124439185311,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Thames & Kosmos & more\nIt will occupy you for a few hours and it is perfectly good for that price tag. A reviewer on chaoscards.co.uk",
+          "more_sellers": true,
+          "seller": "Thames & Kosmos",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-cfbd8b09787b:13",
+          "price": {
+           "current": 14.95,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$14.95"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4,
+           "votes_count": 1,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "1855422124439185311",
+           "data_docid": "10658193844710919953",
+           "gid": "17195789717453948421"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What are the best travel board games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What is a good board game about travel?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What is a good board game about traveling the world?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some good travel games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "What games do you pack when traveling? : r/boardgames",
+        "url": "https://www.reddit.com/r/boardgames/comments/18z7qfz/what_games_do_you_pack_when_traveling/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "100+ comments  ·  2 years ago",
+        "website_name": "Reddit · r/boardgames",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "We end up packing a few games that can be easily taken out of the box or otherwise reduced in size to travel with.\n\nThat got me thinking, what games do ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "What are some of your favorite super small ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/18zc75p/what_are_some_of_your_favorite_super/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Great travel games : r/boardgames - Reddit",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/14j8sur/great_travel_games/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=travel+board+games+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnvVqvZCe59PtvJd8C-XIGjQFrPiGA:1792381493889&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQrQIoAnoECFQQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 2,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]/div[1]",
+        "title": "More products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "The Original Tapple Mini",
+          "url": "https://www.google.com/search?ibp=oshop&q=travel+board+games&prds=gpcid:16057467272226829693,rds:PC_16057467272226829693%7CPROD_PC_16057467272226829693,headlineOfferDocid:17123597698157117425,catalogid:5315335674187044190,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $100+\nFun (51 user reviews)",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTqpZ_y8Tb0AlTb1yAcnxzxaKYPLT5O1X3M9C-0j4_LpQONOJ33WIPIC_dXx3nvzo---WIBJu6tZkIvLE8w2FEAziqEBlr0-5rCom7hAZU55z7ynWSR5Y_tSg",
+          "price": {
+           "current": 9.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$9.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 111,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "5315335674187044190",
+           "data_docid": "12454247126873150779",
+           "gid": "16057467272226829693"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Catan Zip!",
+          "url": "https://www.google.com/search?ibp=oshop&q=travel+board+games&prds=gpcid:15671221055628242442,rds:PC_15671221055628242442%7CPROD_PC_15671221055628242442,headlineOfferDocid:6312050934499761058,catalogid:15154804217858407591,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "The Pieceful Project & more\nStrategy · 4 Player · Settlers of Catan",
+          "more_sellers": true,
+          "seller": "The Pieceful Project",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS6K-kwynSj_eIQAarqq2ynRB0wxOEjvHljhOwbw3DoLq5r0QstfhrFLYVRFVnKqiFi303rk1jAOvGPArlJXBqkKmNcq0eOHExlxQOF0zBqalO7CJ71ErIV",
+          "price": {
+           "current": 19.99,
+           "regular": 25,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99 $25"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": "15154804217858407591",
+           "data_docid": "1777742418340184417",
+           "gid": "15671221055628242442"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "GSI 5 in 1 Backpack Magnetic Game Set",
+          "url": "https://www.google.com/search?ibp=oshop&q=travel+board+games&prds=gpcid:15531225924462936585,rds:PC_15531225924462936585%7CPROD_PC_15531225924462936585,headlineOfferDocid:11840250082904978955,catalogid:5169426626853881842,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "REI & more\nFree delivery on $100+",
+          "more_sellers": true,
+          "seller": "REI",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ-9of7dMgKx2e4UUGa84GMBM-piM3M3vXCgMIXSZtuIner6fiUvAKOYodR-p1M2Stkbz148vgkI4TYfkLCrFM8loIGa3uGUivd3IueZZJyldOnyLbh3PiS",
+          "price": {
+           "current": 29.95,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$29.95"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 26,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "5169426626853881842",
+           "data_docid": "13763170613066091711",
+           "gid": "15531225924462936585"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Catan On the Road",
+          "url": "https://toyworldmag.co.uk/asmodee-launches-catan-on-the-road/",
+          "domain": "toyworldmag.co.uk",
+          "description": "Many Realms & more\nQuick to play · Easy to learn Toy World Magazine",
+          "more_sellers": true,
+          "seller": "Many Realms",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT185hOWHtabtyKi7YAqg2PBaqjUmVLQ8taxM80fEdQLPpGb18pqa8CYwBAfFCOVa4KMkg0NMtS3yYx-4LSrskYplwJgh-TsHweqqIMRPFp6T5ezvbCauoO9A",
+          "price": {
+           "current": 7.99,
+           "regular": 9.99,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$7.99 $9.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 46,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "7164845000538241532",
+           "data_docid": "3252938390416756527",
+           "gid": "12865070504304296137"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Tapple Game",
+          "url": "https://www.thegamer.com/best-word-board-games/",
+          "domain": "www.thegamer.com",
+          "description": "Target & more\nFree delivery on $35+\nFast-paced and exciting gameplay · Can be stressful for players who don't like being put on the spot TheGamer",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQyT862xrgLorY48l5ZugIouWeaq7BETJtGAyhJblyxKElV7PI9pSFDCddb4Po05CKeF_YrK0tY9V9Gglds0IacAg7GYArG6OtfDKrie44VvrP8q1alDn9c",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 1200,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "11735642665355992479",
+           "data_docid": "16947985508799951895",
+           "gid": "11810378174198701195"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Herd Mentality Game",
+          "url": "https://coopboardgames.com/cooperative-board-game-reviews/herd-mentality-game/",
+          "domain": "coopboardgames.com",
+          "description": "Zatu Games & more\nSimple rules that anyone can learn in two minutes · Limited strategic depth for experienced gamers Co-op Board Games",
+          "more_sellers": true,
+          "seller": "Zatu Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQqbqjZeFQgyRhS8K5oUgeE5StDYEwKJI_yRwnGyM3tvx-4EzLrGfXQkw2VVoV5YdGnoDNdY423ynHyu4KxaCpbnU7TUmr6ilOT5e6Xb3Rnf8Bnn7ZNjiqLYA",
+          "price": {
+           "current": 10.09,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$10.09"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 463,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "769111061915498126",
+           "data_docid": "6936328639570919477",
+           "gid": "17930780519217331802"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "World's Smallest Catan Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=travel+board+games&prds=gpcid:7056373040163061184,rds:PC_7056373040163061184%7CPROD_PC_7056373040163061184,headlineOfferDocid:3219565153209321682,catalogid:1026980724138258827,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Kohl's & more",
+          "more_sellers": true,
+          "seller": "Kohl's",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRSSPSGLfJXPr6Duin-OJ2MXu7z-TaEJlcFk_7vaFWq0LT0nc-F0MRgwkD9Slwft7WQ_l2ygkO2R7cK8ZJObbtspTvxp5kMtUbxhqPOrBiN-mXRUgqyK6uf",
+          "price": {
+           "current": 15,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$15.00"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 12,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "1026980724138258827",
+           "data_docid": "4811030752391657041",
+           "gid": "7056373040163061184"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Othello On The Move Travel",
+          "url": "https://www.google.com/search?ibp=oshop&q=travel+board+games&prds=gpcid:5550889469381117649,rds:PC_5550889469381117649%7CPROD_PC_5550889469381117649,headlineOfferDocid:18357416997414426016,catalogid:311733681944715563,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Zatu Games & more\nGreat game for working the little gray cells. A reviewer on ebay.com",
+          "more_sellers": true,
+          "seller": "Zatu Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSoQ56ALBJyTs5gaskW26DIq-LgOHDx3RwdUAwyHuYM2rfCc-uVa5BMV4UvzMGThJBUmg5Wisdo9au1e-eVdHt-IrzzlmwoKKy-a2SzNnThiCjmyLHZlj0aZw",
+          "price": {
+           "current": 11.21,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$11.21"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 5,
+           "votes_count": 2,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "311733681944715563",
+           "data_docid": "6194494349468479225",
+           "gid": "5550889469381117649"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Abalone Travel Version",
+          "url": "https://www.google.com/search?ibp=oshop&q=travel+board+games&prds=gpcid:13843847020299239970,rds:PC_13843847020299239970%7CPROD_PC_13843847020299239970,headlineOfferDocid:14977834598754822019,catalogid:2967138616695822933,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "areyougame.com & more\nStrategy · Chinese Checkers · 5 minutes",
+          "more_sellers": true,
+          "seller": "areyougame.com",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTu0v7U_NrjhCvR2UUvuAppx2TbUrd3p_QTVlBzAYEcmq9vJa_toxRDqta40qiXSe6wvaM7w39nkLra0EA0C-pQJAWqZhCS2WYfUOGijP1WLqTmESPZibqV",
+          "price": {
+           "current": 11.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$11.99"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": "2967138616695822933",
+           "data_docid": "11098283749680781536",
+           "gid": "13843847020299239970"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "University Games Scholastic Time Machine Travel Game Tin",
+          "url": "https://www.google.com/search?ibp=oshop&q=travel+board+games&prds=gpcid:13479370380861560565,rds:PC_13479370380861560565%7CPROD_PC_13479370380861560565,headlineOfferDocid:8477171778804167970,catalogid:6948816195876755249,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "McGuckin Hardware & more\n4 Player · 8+ Years · Kids",
+          "more_sellers": true,
+          "seller": "McGuckin Hardware",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQsbEBvYSozRItoWZzXVYzwBzN3Jee3jxATIHVOFypLq96Cvvb3WVrwkwmqa_fLjkj2tU-c9IlgdffbDwTJAojtxiX7LyijSx5SW-ap4xE7bjqswPSGKNtGqA",
+          "price": {
+           "current": 12.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$12.99"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": "6948816195876755249",
+           "data_docid": "10995974746682602285",
+           "gid": "13479370380861560565"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]/div[1]",
+        "domain": "whatsericplaying.com",
+        "title": "Wallet Games, Micro Games, and Travel Board Games",
+        "url": "https://whatsericplaying.com/small-box-and-wallet-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://whatsericplaying.com › small-box-and-wallet-ga...",
+        "website_name": "What's Eric Playing?",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Looking for the best travel board games? Explore my top picks for portable, small-box, and wallet games that pack huge strategy into tiny boxes.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Explore my top picks for portable, small-box, and wallet games"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]/div[1]",
+        "domain": "discussion.tekeli.li",
+        "title": "Top travel (or travel-able) games - Boardgames",
+        "url": "https://discussion.tekeli.li/t/top-travel-or-travel-able-games/4952",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://discussion.tekeli.li › top-travel-or-travel-able-ga...",
+        "website_name": "tekeli.li",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Aug 7, 2023 — Innovation, Race for the Galaxy, Glory to Rome, and Mottainai are first that come to mind. All basically decks of cards. Hive (homemade, ... Read more",
+        "pre_snippet": "08/07/2023 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Innovation, Race for the Galaxy, Glory to Rome, and Mottainai"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://discussion.tekeli.li/t/top-travel-or-travel-able-games/4952#:~:text=Innovation%2C%20Race%20for%20the%20Galaxy%2C,actually%20taken%20travelling%20for%20months.",
+          "domain": "discussion.tekeli.li"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2023-08-07 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]/div[1]",
+        "domain": "www.5losttogether.com",
+        "title": "Family Games: The 15 Best Travel Games for Kids",
+        "url": "https://www.5losttogether.com/best-travel-games-for-kids/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.5losttogether.com › best-travel-games-for-kids",
+        "website_name": "5 Lost Together",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "We love playing games together as a family when we travel. Here is our top 10 list of the best travel games for kids to enjoy some wholesome family fun.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "best travel games for kids"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "images",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[22]/div[1]",
+        "title": "Images",
+        "url": "https://www.google.com/search?sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnvVqvZCe59PtvJd8C-XIGjQFrPiGA:1792381493889&q=travel+board+games&udm=2&source=univ&fir=i4MxH6eTCsYWyM%252CFgQ3eGhMIIdotM%252C_%253BxrpBtfuRVVcoyM%252CzbjV9FYm7MejrM%252C_%253Bf_EmTJvJ7t0tqM%252CCmD0wJn7-WufMM%252C_%253BEEgYS8HfWxmTxM%252CvgaeuT6A_oXhuM%252C_%253BBc0Preh-IEHDXM%252CYCBXZi1PO2wgZM%252C_%253BO8MC4wBLra6VxM%252CcDsuRyNe2FmkeM%252C_%253B6GQ-vVGq0OlWmM%252Ckp3FUcPTWLbNqM%252C_%253BrM1YVPCqSCpNGM%252CrrmoaFuVniDCZM%252C_&usg=AI4_-kSyybAaBmLZTHUDQl6_5VoOJiZo3w&sa=X&ved=2ahUKEwju0vqxlcWXAxWPH0QIHX1iAhEQ7Al6BAhqEAU",
+        "items": [
+         {
+          "type": "images_element",
+          "alt": "Best Travel-Friendly Board Games - Bitewing Games",
+          "url": "https://bitewinggames.com/best-travel-friendly-board-games/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiy0DTM3C6GiccbFEVPqLoEnAjfHnxxv7ngTeyejRKhMsntOQzqwGorb0&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "5 x 2 1/2 Assorted Magnetic Plastic Travel Games - 12 Pc.",
+          "url": "https://www.orientaltrading.com/5-x-2-1-2-assorted-magnetic-plastic-travel-games-12-pc--a2-12_37.fltr",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOsbc1D3-735bFEpHUKwQPsO1JOeW0gafyqn7x9lJcL9vanfjRj9I6DtU&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Best Board Games for Travel with Family -Small Board Games ...",
+          "url": "https://www.thepassportkids.com/best-board-games-for-travel-family/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNNbAFaxIFUZnjgLKuSZGkTF8A9mmRzTZkF6wAX7Dx6Rz7pG0OUnPle3Q&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Best Board Games & Card Games for Travel | Zest In A Tote",
+          "url": "https://zestinatote.com/best-board-games-for-travel/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9EtG4dLjGYNpqlw-nd630_S1J-qnjFrn-uC_9jKxJCSeAgILbJjS-oTA&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Best Travel Size Board Games - Bitewing Games",
+          "url": "https://bitewinggames.com/best-travel-size-board-games/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIf7ohLBQq8_O1sz72Npj7RqAqg130E--0Gv29_wReuJi5i2ArAnTkFv8&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Exciting Travel-Themed Board Games For Families In 2023 ...",
+          "url": "https://wanderingwagars.com/travel-themed-board-games/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu194diralxzNFpx6vJkmcXd0Ug8zW_YXYOk-bIFKzX8S3AXW9rD07IOI&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Aggravation Travel 4 Player Wooden Board Game, Dice and ...",
+          "url": "https://www.etsy.com/listing/1512925431/aggravation-travel-4-player-wooden-board",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgZTGfIIHJDa7fhy-yvCa1KCwBrr-H2G2fHlEc9rFqQOSFHQJezd35HME&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Travel Board Games – WS Game Company",
+          "url": "https://www.wsgamecompany.com/collections/travel-games?srsltid=AU7gw4UftXIOxQ5gVqhuM9G08JXUZ8C67Xoq8U0UHVB3c9C7qFzwDe6x",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgpLOyF2eiV5T0yfh9KNQuXCI6We0qjI3dXhZ4LHtKYdIf1ow_ZmBNGdw&s"
+         }
+        ],
+        "related_image_searches": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 13,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[24]/div[1]/div[1]/div[1]",
+        "domain": "www.target.com",
+        "title": "travel sized games",
+        "url": "https://www.target.com/s/travel+sized+games",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.target.com › Toys & Games",
+        "website_name": "Target",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Discover compact travel games, including board games, card games, and magnetic sets. Waterproof, wooden, and portable options for on-the-go fun.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 5,
+         "regular": null,
+         "max_value": 42,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$5 to $42"
+        },
+        "highlighted": [
+         "board games, card games, and magnetic sets"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 14,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Best travel board games",
+         "Travel board games adults",
+         "Travel games for 2 adults",
+         "Travel Board games kids",
+         "Travel board games Magnetic",
+         "Travel board games for 2 players",
+         "Mini board games for travel",
+         "Travel board games for family"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

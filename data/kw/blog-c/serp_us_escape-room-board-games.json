@@ -1,0 +1,1424 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "5.4091 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190342-2588-0139-0000-f1d97ef336f9",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "5.3135 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "escape room board games",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "escape room board games",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=escape%20room%20board%20games&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:42:48 +00:00",
+      "spell": null,
+      "refinement_chips": {
+       "type": "refinement_chips",
+       "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+       "items": [
+        {
+         "type": "refinement_chips_element",
+         "title": "Free",
+         "url": "https://www.google.com/search?q=free+escape+room+board+games&hl=en&gl=US&shoprs=GBIqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMggIEhIERnJlZWAB&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKAF6BQgdEIIB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids",
+         "url": "https://www.google.com/search?q=kids+escape+room+board+games&hl=en&gl=US&shoprs=GAEqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMhQIARIES2lkczoKCPyQbxD-kG8wAFjTySBgAQ&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKAJ6BQgdEIMB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adults",
+         "url": "https://www.google.com/search?q=adults+escape+room+board+games&hl=en&gl=US&shoprs=GAEqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMhYIARIGQWR1bHRzOgoI_JBvEP2QbzAAWNPJIGAB&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKAN6BQgdEIQB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board Game",
+         "url": "https://www.google.com/search?q=board+game+escape+room+games&hl=en&gl=US&shoprs=GAEqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMhwIARIKQm9hcmQgR2FtZToMCNSdngIQ152eAjADWNPJIGAB&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKAR6BQgdEIUB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Nearby",
+         "url": "https://www.google.com/search?q=escape+room+board+games+nearby&hl=en&gl=US&shoprs=GAMqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMgwIAxIGTmVhcmJ5GAJY08kgYAE&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKAV6BQgdEIYB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Reviews",
+         "url": "https://www.google.com/search?q=reviews+escape+room+board+games&hl=en&gl=US&shoprs=GBIqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKAZ6BQgdEIcB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Buy",
+         "url": "https://www.google.com/search?q=buy+escape+room+board+games&hl=en&gl=US&shoprs=GBIqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKAd6BQgdEIgB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "On sale",
+         "url": "https://www.google.com/search?q=escape+room+board+games+sale&hl=en&gl=US&shoprs=EgRKAhgBGAYqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMhMIBhIHT24gc2FsZRgCIgRKAhgBWNPJIGAB&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKAh6BQgdEIkB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board & Card Games",
+         "url": "https://www.google.com/search?q=board+%26+card+games+escape+room&hl=en&gl=US&shoprs=GAkqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMhYICRISQm9hcmQgJiBDYXJkIEdhbWVzYAE&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKAl6BQgdEIoB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Family Friendly",
+         "url": "https://www.google.com/search?q=family+friendly+escape+room+board+games&hl=en&gl=US&shoprs=GAEqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMiEIARIPRmFtaWx5IEZyaWVuZGx5OgwI3bGeAhDesZ4CMANY08kgYAE&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKAp6BQgdEIsB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "For Sale",
+         "url": "https://www.google.com/search?q=escape+room+board+games+for+sale&hl=en&gl=US&shoprs=GBIqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMgwIEhIIRm9yIFNhbGVgAQ&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKAt6BQgdEIwB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "4 Player",
+         "url": "https://www.google.com/search?q=4+player+escape+room+board+games&hl=en&gl=US&shoprs=GAEqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMhoIARIINCBQbGF5ZXI6DAjpnJoCEO2cmgIwAFjTySBgAQ&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKAx6BQgdEI0B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Under $30",
+         "url": "https://www.google.com/search?q=escape+room+board+games+under+$30&hl=en&gl=US&shoprs=Eg0SCxEAAAAAOJx8QRgBGAUqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMiIIBRIJVW5kZXIgJDMwGAIiDRILEQAAAAA4nHxBGAEqAhgBWNPJIGAB&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKA16BQgdEI4B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Online",
+         "url": "https://www.google.com/search?q=online+escape+room+board+games&hl=en&gl=US&shoprs=GBIqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMgoIEhIGT25saW5lYAE&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKA56BQgdEI8B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Single Player",
+         "url": "https://www.google.com/search?q=single+player+escape+room+board+games&hl=en&gl=US&shoprs=GAEqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMh8IARINU2luZ2xlIFBsYXllcjoMCJqGngIQm4aeAjADWNPJIGAB&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKA96BQgdEJAB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Mystery",
+         "url": "https://www.google.com/search?q=mystery+escape+room+board+games&hl=en&gl=US&shoprs=GAEqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMhcIARIHTXlzdGVyeToKCKG4PhCruD4wAFjTySBgAQ&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKBB6BQgdEJEB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids' Games",
+         "url": "https://www.google.com/search?q=kids'+games+escape+room+board&hl=en&gl=US&shoprs=GAkqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMg8ICRILS2lkcycgR2FtZXNgAQ&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKBF6BQgdEJIB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adult Games",
+         "url": "https://www.google.com/search?q=adult+games+escape+room+board&hl=en&gl=US&shoprs=GAkqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMg8ICRILQWR1bHQgR2FtZXNgAQ&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKBJ6BQgdEJMB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Card Game",
+         "url": "https://www.google.com/search?q=card+game+escape+room+board+games&hl=en&gl=US&shoprs=GAEqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMhsIARIJQ2FyZCBHYW1lOgwItsL3ARC3wvcBMANY08kgYAE&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKBN6BQgdEJQB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adult",
+         "url": "https://www.google.com/search?q=adult+escape+room+board+games&hl=en&gl=US&shoprs=GBIqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMgkIEhIFQWR1bHRgAQ&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKBR6BQgdEJUB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Price",
+         "url": "https://www.google.com/search?q=price+escape+room+board+games&hl=en&gl=US&shoprs=GBIqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMgkIEhIFUHJpY2VgAQ&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKBV6BQgdEJYB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Diy",
+         "url": "https://www.google.com/search?q=diy+escape+room+board+games&hl=en&gl=US&shoprs=GBIqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMgcIEhIDRGl5YAE&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKBZ6BQgdEJcB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board & Card Game Expansion ...",
+         "url": "https://www.google.com/search?q=board+%26+card+game+expansion+packs+escape+room+games&hl=en&gl=US&shoprs=GAkqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMiUICRIhQm9hcmQgJiBDYXJkIEdhbWUgRXhwYW5zaW9uIFBhY2tzYAE&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKBd6BQgdEJgB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "New",
+         "url": "https://www.google.com/search?q=new+escape+room+board+games&hl=en&gl=US&shoprs=GAoqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMgcIChIDTmV3WNPJIGAB&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKBh6BQgdEJkB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Used",
+         "url": "https://www.google.com/search?q=used+escape+room+board+games&hl=en&gl=US&shoprs=GAoqF2VzY2FwZSByb29tIGJvYXJkIGdhbWVzMggIChIEVXNlZFjTySBgAQ&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8Qip4GKBl6BQgdEJoB",
+         "domain": "www.google.com",
+         "options": null
+        }
+       ]
+      },
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "popular_products",
+       "people_also_ask",
+       "related_searches"
+      ],
+      "se_results_count": 168,
+      "pages_count": 1,
+      "items_count": 14,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "Escape room board games `bring the thrill of a physical escape room into your home, typically challenging 1 to 6 players to solve riddles, manipulate physical components, and crack codes against a 60-minute timer`.[[1]](https://thamesandkosmos.com/collections/exit-the-game)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:8871829172071579498,catalogid:71183592876396956,gpcid:13847378891359099531,mid:576462782937773118&ibp=oshop)\n\n### Top Tabletop Escape Room Series\n\n- **[EXIT: The Game](https://thamesandkosmos.com/collections/exit-the-game):** An award-winning, one-time-use series by Thames & Kosmos featuring clever, multi-step puzzles, decoder wheels, and tactile card components.[[1]](https://islaythedragon.com/guides/a-guide-to-tabletop-escape-rooms/)[[2]](https://thamesandkosmos.com/collections/exit-the-game)\n- **Escape Room: The Game:** A cooperative system by Spin Master that uses an electronic Chrono Decoder, plastic keys, and 3-part scenarios with timed hints.[[1]](https://www.boardgamequest.com/escape-room-the-game-review/)[[2]](https://opinionatedgamers.com/2017/02/15/review-of-escape-room-the-game-no-spoilers/)\n- **Unlock!:** A card-based system that integrates a companion mobile app for digital clues, timers, and code-checking.[[1]](https://islaythedragon.com/guides/a-guide-to-tabletop-escape-rooms/)\n- **Escape the Room (ThinkFun):** A more linear, story-driven, and family-friendly option (such as *Secret of Dr. Gravely's Retreat* ) that uses sealed envelopes and can often be repacked and reset.[[1]](https://islaythedragon.com/guides/a-guide-to-tabletop-escape-rooms/)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:6310692002532741078,catalogid:6707211832792295120,gpcid:133047410771670707,mid:576462877858902324&ibp=oshop)\n- **Deckscape:** A portable, card-only series where you make single-try decisions and flip through a deck to progress without destroying components.[[1]](https://islaythedragon.com/guides/a-guide-to-tabletop-escape-rooms/)\n\nTom Vasel shares a curated breakdown of popular escape room board game series and mechanics:\n\n![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMEBggZUZ6s0yrYaXD46IoozfhBOttIaLoJahslzws5ZSww1xL)\n9m\n[](https://www.youtube.com/watch?v=Zfz2EZXQdxs&t=10) Top 10 Escape Room Games - with Tom Vasel 13K views  · 1 year ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · The Dice Tower\n\nIf you'd like to narrow down the right game, let me know:\n\n- **How many players** will be joining?\n- Do you prefer a **one-time-use game** (where you might write on or fold components) or a **reusable/resettable** game?\n- What kind of **theme** (horror, sci-fi, mystery, or family-friendly) do you like?",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Escape room board games bring the thrill of a physical escape room into your home, typically challenging 1 to 6 players to solve riddles, manipulate physical components, and crack codes against a 60-minute timer.",
+          "markdown": "Escape room board games `bring the thrill of a physical escape room into your home, typically challenging 1 to 6 players to solve riddles, manipulate physical components, and crack codes against a 60-minute timer`.[[1]](https://thamesandkosmos.com/collections/exit-the-game)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:8871829172071579498,catalogid:71183592876396956,gpcid:13847378891359099531,mid:576462782937773118&ibp=oshop)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Thames & Kosmos",
+            "domain": "thamesandkosmos.com",
+            "url": "https://thamesandkosmos.com/collections/exit-the-game",
+            "title": "Exit The Game® - The award-winning escape room game series from Kosmos – Thames & Kosmos",
+            "text": "EXIT: The Game by Kosmos / Thames & Kosmos is an award-winning at-home escape room series where players solve riddles, puzzles, an..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Google",
+            "domain": "www.google.com",
+            "url": "https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:8871829172071579498,catalogid:71183592876396956,gpcid:13847378891359099531,mid:576462782937773118&ibp=oshop",
+            "title": "Star Wars Unlock!",
+            "text": "The Unlock! - Star Wars Escape Room Game by Enigma offers an exciting and interactive experience for fans of the Star Wars univers..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Top Tabletop Escape Room Series",
+          "text": "EXIT: The Game : An award-winning, one-time-use series by Thames & Kosmos featuring clever, multi-step puzzles, decoder wheels, and tactile card components. Escape Room: The Game: A cooperative system by Spin Master that uses an electronic Chrono Decoder, plastic keys, and 3-part scenarios with timed hints. Unlock!: A card-based system that integrates a companion mobile app for digital clues, timers, and code-checking. Escape the Room (ThinkFun): A more linear, story-driven, and family-friendly option (such as Secret of Dr. Gravely's Retreat) that uses sealed envelopes and can often be repacked and reset. Deckscape: A portable, card-only series where you make single-try decisions and flip through a deck to progress without destroying components.",
+          "markdown": "- **[EXIT: The Game](https://thamesandkosmos.com/collections/exit-the-game):** An award-winning, one-time-use series by Thames & Kosmos featuring clever, multi-step puzzles, decoder wheels, and tactile card components.[[1]](https://islaythedragon.com/guides/a-guide-to-tabletop-escape-rooms/)[[2]](https://thamesandkosmos.com/collections/exit-the-game)\n- **Escape Room: The Game:** A cooperative system by Spin Master that uses an electronic Chrono Decoder, plastic keys, and 3-part scenarios with timed hints.[[1]](https://www.boardgamequest.com/escape-room-the-game-review/)[[2]](https://opinionatedgamers.com/2017/02/15/review-of-escape-room-the-game-no-spoilers/)\n- **Unlock!:** A card-based system that integrates a companion mobile app for digital clues, timers, and code-checking.[[1]](https://islaythedragon.com/guides/a-guide-to-tabletop-escape-rooms/)\n- **Escape the Room (ThinkFun):** A more linear, story-driven, and family-friendly option (such as *Secret of Dr. Gravely's Retreat* ) that uses sealed envelopes and can often be repacked and reset.[[1]](https://islaythedragon.com/guides/a-guide-to-tabletop-escape-rooms/)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:6310692002532741078,catalogid:6707211832792295120,gpcid:133047410771670707,mid:576462877858902324&ibp=oshop)\n- **Deckscape:** A portable, card-only series where you make single-try decisions and flip through a deck to progress without destroying components.[[1]](https://islaythedragon.com/guides/a-guide-to-tabletop-escape-rooms/)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "EXIT: The Game",
+            "description": null,
+            "url": "https://thamesandkosmos.com/collections/exit-the-game",
+            "domain": "thamesandkosmos.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "iSlaytheDragon",
+            "domain": "islaythedragon.com",
+            "url": "https://islaythedragon.com/guides/a-guide-to-tabletop-escape-rooms/",
+            "title": "A Guide to Tabletop Escape Rooms",
+            "text": "Series Overview: Deckscape (reusable cards, one-try puzzles); Dispatch (monthly subscription, physical/online components, story-dr..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Thames & Kosmos",
+            "domain": "thamesandkosmos.com",
+            "url": "https://thamesandkosmos.com/collections/exit-the-game",
+            "title": "Exit The Game® - The award-winning escape room game series from Kosmos – Thames & Kosmos",
+            "text": "EXIT: The Game by Kosmos / Thames & Kosmos is an award-winning at-home escape room series where players solve riddles, puzzles, and crack codes against a ticking c..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Board Game Quest",
+            "domain": "www.boardgamequest.com",
+            "url": "https://www.boardgamequest.com/escape-room-the-game-review/",
+            "title": "Escape Room: The Game Review - Board Game Quest",
+            "text": "Overview: Escape Room: The Game by Spinmaster (3-5 players, 60 minutes, $30). Components: Includes 4 missions of increasing comple..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "The Opinionated Gamers",
+            "domain": "opinionatedgamers.com",
+            "url": "https://opinionatedgamers.com/2017/02/15/review-of-escape-room-the-game-no-spoilers/",
+            "title": "Review of Escape Room The Game (NO SPOILERS) | The Opinionated Gamers",
+            "text": "Overview: Cooperative escape room board game for 3-5 players aged 16+ with a 60-minute time limit per adventure. Components: Elect..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Google",
+            "domain": "www.google.com",
+            "url": "https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:6310692002532741078,catalogid:6707211832792295120,gpcid:133047410771670707,mid:576462877858902324&ibp=oshop",
+            "title": "Escape the Room Secret of Dr Gravely's Retreat",
+            "text": "Players are locked in a room and must uncover clues and hidden objects to escape Includes Instruction Manual, Scene Card, 4x Seale..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_video_element",
+          "position": "left",
+          "title": "Top 10 Escape Room Games - with Tom Vasel",
+          "snippet": "9m",
+          "url": "https://www.youtube.com/watch?v=Zfz2EZXQdxs&t=10",
+          "domain": "www.youtube.com",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMEBggZUZ6s0yrYaXD46IoozfhBOttIaLoJahslzws5ZSww1xL",
+          "source": "YouTube",
+          "date": "1 year ago",
+          "timestamp": "2025-10-19 03:42:46 +00:00"
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Tom Vasel shares a curated breakdown of popular escape room board game series and mechanics: 9m Top 10 Escape Room Games - with Tom Vasel 13K views · 1 year ago YouTube · The Dice Tower",
+          "markdown": "Tom Vasel shares a curated breakdown of popular escape room board game series and mechanics:\n\n![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMEBggZUZ6s0yrYaXD46IoozfhBOttIaLoJahslzws5ZSww1xL)\n9m\n[](https://www.youtube.com/watch?v=Zfz2EZXQdxs&t=10) Top 10 Escape Room Games - with Tom Vasel 13K views  · 1 year ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · The Dice Tower",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "If you'd like to narrow down the right game, let me know:How many players will be joining?\nDo you prefer a one-time-use game (where you might write on or fold components) or a reusable/resettable game?\nWhat kind of theme (horror, sci-fi, mystery, or family-friendly) do you like?",
+          "markdown": "If you'd like to narrow down the right game, let me know:\n\n- **How many players** will be joining?\n- Do you prefer a **one-time-use game** (where you might write on or fold components) or a **reusable/resettable** game?\n- What kind of **theme** (horror, sci-fi, mystery, or family-friendly) do you like?",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Thames & Kosmos",
+          "domain": "thamesandkosmos.com",
+          "url": "https://thamesandkosmos.com/collections/exit-the-game",
+          "title": "Exit The Game® - The award-winning escape room game series from Kosmos – Thames & Kosmos",
+          "text": "EXIT: The Game by Kosmos / Thames & Kosmos is an award-winning at-home escape room series where players solve riddles, puzzles, and crack codes against a ticking c..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Board Game Quest",
+          "domain": "www.boardgamequest.com",
+          "url": "https://www.boardgamequest.com/escape-room-the-game-review/",
+          "title": "Escape Room: The Game Review - Board Game Quest",
+          "text": "Overview: Escape Room: The Game by Spinmaster (3-5 players, 60 minutes, $30). Components: Includes 4 missions of increasing complexity, various puzzle types, hint ..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "iSlaytheDragon",
+          "domain": "islaythedragon.com",
+          "url": "https://islaythedragon.com/guides/a-guide-to-tabletop-escape-rooms/",
+          "title": "A Guide to Tabletop Escape Rooms",
+          "text": "Series Overview: Deckscape (reusable cards, one-try puzzles); Dispatch (monthly subscription, physical/online components, story-driven); Escape Room: The Game (chr..."
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+        "domain": "islaythedragon.com",
+        "title": "A Guide to Tabletop Escape Rooms",
+        "url": "https://islaythedragon.com/guides/a-guide-to-tabletop-escape-rooms/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://islaythedragon.com › Guides",
+        "website_name": "iSlaytheDragon",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "May 23, 2018 — Deckscape (DV Giochi) · Dispatch (Breakout Games) · Escape Room: The Game (Spin Master) · Escape Room in a Box: The Werewolf Experiment (Mattel). Read more",
+        "pre_snippet": "05/23/2018 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Deckscape (DV Giochi"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://islaythedragon.com/guides/a-guide-to-tabletop-escape-rooms/#:~:text=Deckscape%20(DV%20Giochi)&text=Dispatch%20(Breakout%20Games)&text=Escape%20Room%3A%20The%20Game%20(Spin,Master)&text=Escape%20Room%20in%20a%20Box%3A,The%20Werewolf%20Experiment%20(Mattel)",
+          "domain": "islaythedragon.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2018-05-23 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]",
+        "title": "Popular products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Unlock! Escape Adventures",
+          "url": "https://coopboardgames.com/cooperative-board-game-reviews/unlock-review/",
+          "domain": "coopboardgames.com",
+          "description": "Walmart - Big Bang Toys & more\nThe designers did a great job of creating an escape room experience with … · Some of the puzzles were more frustrating than fun for my group. We'd have … Co-op Board Games",
+          "more_sellers": true,
+          "seller": "Walmart - Big Bang Toys",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-f1d97ef336f9:0",
+          "price": {
+           "current": 28.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$28.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 30,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "10962803976171686488",
+           "data_docid": "10433728040870171338",
+           "gid": "15002615289374393014"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Exit The Abandoned Cabin",
+          "url": "https://whatsericplaying.com/2019/02/18/exit-the-abandoned-cabin/",
+          "domain": "whatsericplaying.com",
+          "description": "Goblin Games & more\nSolid theme. Spooky cabins are a lot of fun · Be careful with color puzzles. The disc has some issues with (at least via … What's Eric Playing?",
+          "more_sellers": true,
+          "seller": "Goblin Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-f1d97ef336f9:1",
+          "price": {
+           "current": 18,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$18.00"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 63,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "4071553883214338245",
+           "data_docid": "14018171503132413439",
+           "gid": "17894156377115937946"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Escape Room The Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=escape+room+board+games&prds=gpcid:17756915341570247833,rds:PC_17756915341570247833%7CPROD_PC_17756915341570247833,headlineOfferDocid:13797389648467447343,catalogid:15428857347829726913,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Noble Knight Games\nFree delivery on $149+\nDefinitely taxes the brain but good fun for people who enjoy escape rooms. A reviewer on mightyape.com.au",
+          "more_sellers": false,
+          "seller": "Noble Knight Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-f1d97ef336f9:2",
+          "price": {
+           "current": 28,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$28.00 Pre-owned"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 574,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "15428857347829726913",
+           "data_docid": "1550029648246486311",
+           "gid": "17756915341570247833"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Escape Room Dragon Edition",
+          "url": "https://www.google.com/search?ibp=oshop&q=escape+room+board+games&prds=gpcid:12520021538024969613,rds:PC_12520021538024969613%7CPROD_PC_12520021538024969613,headlineOfferDocid:18108492797441904804,catalogid:14560985849891612707,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Barnes & Noble & more\nNext-day delivery $7\nThe puzzles and challenges are varied and fun enough to keep everyone engaged and we all had a great time working together as a team. A reviewer on uncommongoods.com",
+          "more_sellers": true,
+          "seller": "Barnes & Noble",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-f1d97ef336f9:3",
+          "price": {
+           "current": 34.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$34.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 5,
+           "votes_count": 4,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "14560985849891612707",
+           "data_docid": "13346640442905812187",
+           "gid": "12520021538024969613"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Escape Room the Game Family Edition",
+          "url": "https://www.google.com/search?ibp=oshop&q=escape+room+board+games&prds=gpcid:14436806288035046883,rds:PC_14436806288035046883%7CPROD_PC_14436806288035046883,headlineOfferDocid:1004909228466454274,catalogid:14892416622521722226,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Noble Knight Games & more\nFree delivery on $149+",
+          "more_sellers": true,
+          "seller": "Noble Knight Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-f1d97ef336f9:4",
+          "price": {
+           "current": 43.2,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$43.20 Pre-owned"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 17,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "14892416622521722226",
+           "data_docid": "15376257009359949777",
+           "gid": "14436806288035046883"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Escape Your House",
+          "url": "https://www.google.com/search?ibp=oshop&q=escape+room+board+games&prds=gpcid:15365866508655693552,rds:PC_15365866508655693552%7CPROD_PC_15365866508655693552,headlineOfferDocid:1233036269805507751,catalogid:14527965237065304972,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Walmart & more\nFun (62 user reviews)",
+          "more_sellers": true,
+          "seller": "Walmart",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-f1d97ef336f9:5",
+          "price": {
+           "current": 17.99,
+           "regular": 30,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$17.99 $30"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 90,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "14527965237065304972",
+           "data_docid": "15100923748613270831",
+           "gid": "15365866508655693552"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Uncommon Goods Pop-Up Mystery Escape Room Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=escape+room+board+games&prds=gpcid:16232109631190052909,rds:PC_16232109631190052909%7CPROD_PC_16232109631190052909,headlineOfferDocid:15167174038679529611,catalogid:2194650266621073217,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Macy's & more\nFree delivery\nThis oversizedpop-up book turns into a mansion which supplies clues and interactive puzzles. A reviewer on uncommongoods.com",
+          "more_sellers": true,
+          "seller": "Macy's",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-f1d97ef336f9:6",
+          "price": {
+           "current": 80,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$80.00"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 5,
+           "votes_count": 3,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "2194650266621073217",
+           "data_docid": "8777966289087132376",
+           "gid": "16232109631190052909"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Escape the Room Secret of Dr Gravely's Retreat",
+          "url": "https://www.google.com/search?ibp=oshop&q=escape+room+board+games&prds=gpcid:133047410771670707,rds:PC_133047410771670707%7CPROD_PC_133047410771670707,headlineOfferDocid:11541587831482426857,catalogid:6707211832792295120,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Miniature Market & more\nFree delivery on $76+\nA High Quality product, totally reusable by a fresh team. A reviewer on mightyape.com.au",
+          "more_sellers": true,
+          "seller": "Miniature Market",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-f1d97ef336f9:7",
+          "price": {
+           "current": 13.99,
+           "regular": 27,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$13.99 $27"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 5,
+           "votes_count": 4,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "6707211832792295120",
+           "data_docid": "6310692002532741078",
+           "gid": "133047410771670707"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+        "domain": "unfilteredgamer.com",
+        "title": "Escape Room Board Games - Our favorite tabletop versions",
+        "url": "https://unfilteredgamer.com/escape-room-board-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://unfilteredgamer.com › Game Reviews",
+        "website_name": "Unfiltered Gamer",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jul 6, 2018 — Escape Room the Game comes with 4 unique scenarios taking about an hour each. You can find Escape Room: The Game on Amazon for ~$30.",
+        "pre_snippet": "07/06/2018 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Escape Room the Game comes with 4 unique scenarios taking about an hour each"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2018-07-06 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Exit/Escape/Adventure Games",
+        "url": "https://boardgamegeek.com/geeklist/258136/exitescapeadventure-games",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › geeklist › exitescapeadve...",
+        "website_name": "BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "1. Escape Tales: The Awakening · 2. Deckscape: Test Time · 3. Sherlock: The Tomb of the Archaeologist · 4. Undo: Cherry Blossom Festival · 5. Adventure Games: ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1. Escape Tales: The Awakening"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://boardgamegeek.com/geeklist/258136/exitescapeadventure-games#:~:text=1.,Escape%20Tales%3A%20The%20Awakening&text=2.,Deckscape%3A%20Test%20Time&text=3.,The%20Tomb%20of%20the%20Archaeologist&text=4.,Undo%3A%20Cherry%20Blossom%20Festival&text=5.,Adventure%20Games%3A%20Monochrome%20Inc.",
+          "domain": "boardgamegeek.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Escape Room Board Games : r/boardgames",
+        "url": "https://www.reddit.com/r/boardgames/comments/kik2pn/escape_room_board_games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "20+ comments  ·  5 years ago",
+        "website_name": "Reddit · r/boardgames",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Escape Room the Game, there's a version that includes 3 scenarios, The Secret Agent, The Dentist and The Space Station or something like that,",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Escape Room the Game"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Are there games that are like escape rooms? : r/boardgames",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/1cvmfri/are_there_games_that_are_like_escape_rooms/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Where to find Escape Room Board Games? - Reddit",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/7jqg9x/where_to_find_escape_room_board_games/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=escape+room+board+games+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnsntXKL50znE9wwYgdawb5QuQLgKA:1792381365395&sa=X&ved=2ahUKEwi5i9j0lMWXAxXZiysGHZTjHE8QrQIoAnoECEwQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]",
+        "domain": "www.playpartyplan.com",
+        "title": "The Best Escape Room Board Games",
+        "url": "https://www.playpartyplan.com/escape-room-board-game/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.playpartyplan.com › ... › Board Games",
+        "website_name": "Play.Party.Plan",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Oct 1, 2026 — These are some of the most popular Exit the Game options available: The Circus Mystery The Enchanted Forest The Magical Academy Exit: Advent ...",
+        "pre_snippet": "10/01/2026 00:00:00",
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "escape room board games from www.playpartyplan.com",
+          "url": "https://www.playpartyplan.com/escape-room-board-game/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-f1d97ef336f9:8"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "The Circus Mystery"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-10-01 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 2,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]/div[1]",
+        "title": "More products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Exit Prison Break",
+          "url": "https://www.google.com/search?ibp=oshop&q=escape+room+board+games&prds=gpcid:16119020594292684672,rds:PC_16119020594292684672%7CPROD_PC_16119020594292684672,headlineOfferDocid:6718396132315687502,catalogid:14498056606025760276,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Thames & Kosmos & more\nMystery · 4 Player · 12+ Years",
+          "more_sellers": true,
+          "seller": "Thames & Kosmos",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRVc8W7_GtPkM3eyO7s2sc3-HFvXeziDykIcRlGPIcRYBpZvxAjZlOgDsDc9QzIpJIS_7BF466ab-fmSkg0KKACrOwxMAxD3Pa0CIFWrk7Yzf4LJNuq89n_",
+          "price": {
+           "current": 17.95,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$17.95"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4,
+           "votes_count": 3,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "14498056606025760276",
+           "data_docid": "6401708525634905845",
+           "gid": "16119020594292684672"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Escape the Room Mystery at Stargazer's Manor",
+          "url": "https://roomescapeartist.com/2016/03/20/thinkfun-escape-the-room-mystery-at-the-stargazers-manor-review/#:~:text=It%27s%20a%20better%2C%20more,escape%20rooms%20I%27ve%20played.",
+          "domain": "roomescapeartist.com",
+          "description": "Walmart - The Act of Living & more\n… better, more creative game than at least 50% of the escape rooms I've played … Room Escape Artist",
+          "more_sellers": true,
+          "seller": "Walmart - The Act of Living",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQckrYSLdheoumVUWRlMuBT5M0Uw23sjFaTE0jksVengDcp-fa8GRKfkYDyRd42c5cZIaexMy62ijYRxsPWaKB7_lCL6RcjZz9bzgvNs-Jlxf_YcutMLYLpqA",
+          "price": {
+           "current": 14.28,
+           "regular": 17,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$14.28 $17"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.3,
+           "votes_count": 6,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "7950315351694528701",
+           "data_docid": "17225758314010289979",
+           "gid": "7761249960846642940"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "EXIT Kids Midnight Spooktacular",
+          "url": "https://www.google.com/search?ibp=oshop&q=escape+room+board+games&prds=gpcid:2612790945677380304,rds:PC_2612790945677380304%7CPROD_PC_2612790945677380304,headlineOfferDocid:15516195971978901240,catalogid:10803178949132196803,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Barnes & Noble & more\nNext-day delivery $7\nParty, Mystery · 4 Player · 5+ Years",
+          "more_sellers": true,
+          "seller": "Barnes & Noble",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSvPAAMWxVitg1BmPvJT_QKV-ORO8SbWeczWcRAnaVuKrSX8-OJ8CTQQtRyCIaNEeOxt4xuPZ3ib1RCaDwUaOrxBJ134BTXP1WQ92BbEyH2Mwu3BxDDPArK",
+          "price": {
+           "current": 12.59,
+           "regular": 18,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$12.59 $18"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 5,
+           "votes_count": 1,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "10803178949132196803",
+           "data_docid": "104083585772417447",
+           "gid": "2612790945677380304"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Madame Medora's House of Curiosities",
+          "url": "https://www.google.com/search?ibp=oshop&q=escape+room+board+games&prds=gpcid:2011820856198007751,rds:PC_2011820856198007751%7CPROD_PC_2011820856198007751,headlineOfferDocid:5452519395133859404,catalogid:14523019671857024130,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "earlham.myshopify.com & more\nMystery · 5 Player · 14+ Years",
+          "more_sellers": true,
+          "seller": "earlham.myshopify.com",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQD1EnN7IUzJeqMBz0kiMVf7x4hHI-V8TehTVZCSVsewlo_mfsyefjrQ-acMVtm_frNsjvJpcuzAlvZXhPaPFPhnTco7is8",
+          "price": {
+           "current": 25.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$25.99"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": "14523019671857024130",
+           "data_docid": "9521664281370418997",
+           "gid": "2011820856198007751"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Escape Room the Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=escape+room+board+games&prds=gpcid:967886373206529924,rds:PC_967886373206529924%7CPROD_PC_967886373206529924,headlineOfferDocid:7243392251679734068,catalogid:12827123927120493275,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Popcultcha & more",
+          "more_sellers": true,
+          "seller": "Popcultcha",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRouVPprb1yWNYvRmujU53ZZjOYgVx6s3n1INqCg3wpvko1lFy5iSOJkrFs6NKU6rk4EZtLZplyDPOTKzi5dWyIRC4RIitHsnO40d6XFHA3YQgY974N2YMG",
+          "price": {
+           "current": 34.81,
+           "regular": 42,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$34.81 $42"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 103,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "12827123927120493275",
+           "data_docid": "2344463943370766769",
+           "gid": "967886373206529924"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Curse of the Dark Escape Room Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=escape+room+board+games&prds=gpcid:15505714144604263489,rds:PC_15505714144604263489%7CPROD_PC_15505714144604263489,headlineOfferDocid:10053866391106911878,catalogid:14657236956157314166,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Board Game Barrister & more\nFree delivery on $125+",
+          "more_sellers": true,
+          "seller": "Board Game Barrister",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRtOlgrKrAdIV_r_1AZprOXEUlPBaCjvABoVX2APxSiKXEX0Ks4S8TR71XwTsfXp9zO-B3zEuYmnhv_dDv8NLuRVa1KvcDW7EYyPyzQ5BDKgnEudxa21FeP",
+          "price": {
+           "current": 26,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$26.00"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 5,
+           "votes_count": 5,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "14657236956157314166",
+           "data_docid": "16667965360455893075",
+           "gid": "15505714144604263489"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Clue Escape Sabotage on the High Seas",
+          "url": "https://www.google.com/search?ibp=oshop&q=escape+room+board+games&prds=gpcid:3138594577374300884,rds:PC_3138594577374300884%7CPROD_PC_3138594577374300884,headlineOfferDocid:12463261388593006097,catalogid:1161706391307097914,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Walmart - Game Room Plaza & more\nFree delivery",
+          "more_sellers": true,
+          "seller": "Walmart - Game Room Plaza",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQzUyO_VQ8TZI9ekeycyZGEBRLDw8OqCOXinftE9Pac6XVgU3g9A5ZaFRkkT1kh6R017NTFcCiJxGULsP0usJVimCOHR60vy8Ppah1wsQaUkpfIz5r1Weir",
+          "price": {
+           "current": 16.69,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$16.69"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 12,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "1161706391307097914",
+           "data_docid": "8749720904682186177",
+           "gid": "3138594577374300884"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "The Sabotage Escape Room",
+          "url": "https://www.google.com/search?ibp=oshop&q=escape+room+board+games&prds=gpcid:15982242305496624137,rds:PC_15982242305496624137%7CPROD_PC_15982242305496624137,headlineOfferDocid:14678901988701438414,catalogid:17071838770637641376,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Little Red Hen & more",
+          "more_sellers": true,
+          "seller": "Little Red Hen",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQYlIT7AHcwlh5-a0qSW7UoCEmXZehuYscTsh35FG0CUDIcWnpdPgqklpRXJMb3vQhQcl5QxYPdeHcMLtQqYRQNd0ZgjDXNd4YtPfdGoYA16gszadbQ1eO1",
+          "price": {
+           "current": 26.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$26.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 75,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "17071838770637641376",
+           "data_docid": "18131538929472749452",
+           "gid": "15982242305496624137"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]",
+        "domain": "trade.talkingtables.com",
+        "title": "Wholesale Escape Room Games - Talking Tables",
+        "url": "https://trade.talkingtables.com/collections/escape-room-games",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://trade.talkingtables.com › collections › escape-roo...",
+        "website_name": "talkingtables.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Wholesale Escape Room Games – Talking Tables US Trade Free shipping on US mainland orders over $750. Board Games Dipsticks Jigsaw Puzzles Products",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 500,
+         "regular": null,
+         "max_value": null,
+         "currency": "USD",
+         "is_price_range": false,
+         "displayed_price": "Free delivery over $500"
+        },
+        "highlighted": [
+         "Escape Room Games",
+         "Board Games"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "Is there a board game called escape room?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What is the best puzzle game for adults?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What is an escape room video game?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Can you play escape room the game with two players?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]",
+        "domain": "www.target.com",
+        "title": "EXIT Games: Puzzles & Escape Adventures",
+        "url": "https://www.target.com/s/exit+the+game",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.target.com › Toys & Games",
+        "website_name": "Target",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Explore our collection of EXIT games featuring puzzles, riddles, and thrilling adventures. Solve mysteries, crack codes, and embark on exciting journeys ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 8,
+         "regular": null,
+         "max_value": 49,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$8 to $49"
+        },
+        "highlighted": [
+         "Explore our collection of EXIT games"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[22]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What are recent escape room board game ...",
+        "url": "https://www.facebook.com/groups/595655420584414/posts/2603221709827765/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "5 comments  ·  2 years ago",
+        "website_name": "Facebook · Escape Room Enthusiasts of Ontario",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Hi, any recommendations for an escape room board game that you tried recently and really enjoyed? I have already tried most of the Exit and Unlock board ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 13,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[24]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Escape Room boardgames",
+        "url": "https://boardgamegeek.com/geeklist/224641/escape-room-boardgames",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › geeklist › escape-room-b...",
+        "website_name": "BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "With this geeklist I would like to classify all the escape room games present in the market with all the information related to every game. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "classify all the escape room games present in the market"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://boardgamegeek.com/geeklist/224641/escape-room-boardgames#:~:text=With%20this%20geeklist%20I%20would,information%20related%20to%20every%20game.",
+          "domain": "boardgamegeek.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 14,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Best escape room board games",
+         "Escape room board games online",
+         "Exit The Game",
+         "Escape room board games free",
+         "Tabletop escape room ideas",
+         "Escape the Crate",
+         "Unlock board game",
+         "Best escape room board games 2025"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

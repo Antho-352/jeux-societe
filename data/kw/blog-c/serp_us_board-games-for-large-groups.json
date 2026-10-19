@@ -1,0 +1,1364 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.8613 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190343-2588-0139-0000-fc26bc9d28e2",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "2.9074 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "board games for large groups",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "board games for large groups",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=board%20games%20for%20large%20groups&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:43:59 +00:00",
+      "spell": null,
+      "refinement_chips": {
+       "type": "refinement_chips",
+       "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+       "items": [
+        {
+         "type": "refinement_chips_element",
+         "title": "Adults",
+         "url": "https://www.google.com/search?q=adults+board+games+for+large+groups&hl=en&gl=US&shoprs=GAEqHGJvYXJkIGdhbWVzIGZvciBsYXJnZSBncm91cHMyFggBEgZBZHVsdHM6Cgj8kG8Q_ZBvMABY08kgYAE&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKAF6BQg3EI0B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids",
+         "url": "https://www.google.com/search?q=kids+board+games+for+large+groups&hl=en&gl=US&shoprs=GAEqHGJvYXJkIGdhbWVzIGZvciBsYXJnZSBncm91cHMyFAgBEgRLaWRzOgoI_JBvEP6QbzAAWNPJIGAB&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKAJ6BQg3EI4B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board Game",
+         "url": "https://www.google.com/search?q=board+game+games+for+large+groups&hl=en&gl=US&shoprs=GAEqHGJvYXJkIGdhbWVzIGZvciBsYXJnZSBncm91cHMyHAgBEgpCb2FyZCBHYW1lOgwI1J2eAhDXnZ4CMANY08kgYAE&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKAN6BQg3EI8B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board & Card Games",
+         "url": "https://www.google.com/search?q=board+%26+card+games+for+large+groups&hl=en&gl=US&shoprs=GAkqHGJvYXJkIGdhbWVzIGZvciBsYXJnZSBncm91cHMyFggJEhJCb2FyZCAmIENhcmQgR2FtZXNgAQ&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKAR6BQg3EJAB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adult Games",
+         "url": "https://www.google.com/search?q=adult+games+board+for+large+groups&hl=en&gl=US&shoprs=GAkqHGJvYXJkIGdhbWVzIGZvciBsYXJnZSBncm91cHMyDwgJEgtBZHVsdCBHYW1lc2AB&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKAV6BQg3EJEB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Family Friendly",
+         "url": "https://www.google.com/search?q=family+friendly+board+games+for+large+groups&hl=en&gl=US&shoprs=GAEqHGJvYXJkIGdhbWVzIGZvciBsYXJnZSBncm91cHMyIQgBEg9GYW1pbHkgRnJpZW5kbHk6DAjdsZ4CEN6xngIwA1jTySBgAQ&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKAZ6BQg3EJIB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Party Games",
+         "url": "https://www.google.com/search?q=party+games+board+for+large+groups&hl=en&gl=US&shoprs=GAkqHGJvYXJkIGdhbWVzIGZvciBsYXJnZSBncm91cHMyDwgJEgtQYXJ0eSBHYW1lc2AB&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKAd6BQg3EJMB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "On sale",
+         "url": "https://www.google.com/search?q=board+games+for+large+groups+sale&hl=en&gl=US&shoprs=EgRKAhgBGAYqHGJvYXJkIGdhbWVzIGZvciBsYXJnZSBncm91cHMyEwgGEgdPbiBzYWxlGAIiBEoCGAFY08kgYAE&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKAh6BQg3EJQB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "4 Player",
+         "url": "https://www.google.com/search?q=4+player+board+games+for+large+groups&hl=en&gl=US&shoprs=GAEqHGJvYXJkIGdhbWVzIGZvciBsYXJnZSBncm91cHMyGggBEgg0IFBsYXllcjoMCOmcmgIQ7ZyaAjAAWNPJIGAB&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKAl6BQg3EJUB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Get it fast",
+         "url": "https://www.google.com/search?q=board+games+for+large+groups&hl=en&gl=US&shoprs=Eg2aAQoKCBADOAFAA0gBGBQqHGJvYXJkIGdhbWVzIGZvciBsYXJnZSBncm91cHMyJAgUEgtHZXQgaXQgZmFzdCINmgEKCggQAzgBQANIASoEEAEYAWAB&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKAp6BQg3EJYB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "2 Player",
+         "url": "https://www.google.com/search?q=2+player+board+games+for+large+groups&hl=en&gl=US&shoprs=GAEqHGJvYXJkIGdhbWVzIGZvciBsYXJnZSBncm91cHMyGggBEggyIFBsYXllcjoMCOmcmgIQ65yaAjAAWNPJIGAB&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKAt6BQg3EJcB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Card Game",
+         "url": "https://www.google.com/search?q=card+game+board+games+for+large+groups&hl=en&gl=US&shoprs=GAEqHGJvYXJkIGdhbWVzIGZvciBsYXJnZSBncm91cHMyGwgBEglDYXJkIEdhbWU6DAi2wvcBELfC9wEwA1jTySBgAQ&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKAx6BQg3EJgB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "10+ Years",
+         "url": "https://www.google.com/search?q=10%2B+years+board+games+for+large+groups&hl=en&gl=US&shoprs=GAEqHGJvYXJkIGdhbWVzIGZvciBsYXJnZSBncm91cHMyGwgBEgkxMCsgWWVhcnM6DAje9rUBEMeotgEwAFjTySBgAQ&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKA16BQg3EJkB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Party",
+         "url": "https://www.google.com/search?q=party+board+games+for+large+groups&hl=en&gl=US&shoprs=GAEqHGJvYXJkIGdhbWVzIGZvciBsYXJnZSBncm91cHMyFQgBEgVQYXJ0eToKCKG4PhCnuD4wAFjTySBgAQ&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKA56BQg3EJoB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adult",
+         "url": "https://www.google.com/search?q=adult+board+games+for+large+groups&hl=en&gl=US&shoprs=GBIqHGJvYXJkIGdhbWVzIGZvciBsYXJnZSBncm91cHMyCQgSEgVBZHVsdGAB&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKA96BQg3EJsB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Online",
+         "url": "https://www.google.com/search?q=online+board+games+for+large+groups&hl=en&gl=US&shoprs=GBIqHGJvYXJkIGdhbWVzIGZvciBsYXJnZSBncm91cHMyCggSEgZPbmxpbmVgAQ&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKBB6BQg3EJwB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Under $10",
+         "url": "https://www.google.com/search?q=board+games+for+large+groups+under+$10&hl=en&gl=US&shoprs=Eg0SCxEAAAAA0BJjQRgBGAUqHGJvYXJkIGdhbWVzIGZvciBsYXJnZSBncm91cHMyIggFEglVbmRlciAkMTAYAiINEgsRAAAAANASY0EYASoCGAFY08kgYAE&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKBF6BQg3EJ0B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "2 players or more",
+         "url": "https://www.google.com/search?q=2+players+or+more+board+games+for+large+groups&hl=en&gl=US&shoprs=EhsqGQiPmdQCEhIJAAAAAAAAAEARAAAAAAAAAEAYASocYm9hcmQgZ2FtZXMgZm9yIGxhcmdlIGdyb3VwczJBCAESETIgcGxheWVycyBvciBtb3JlIhsqGQiPmdQCEhIJAAAAAAAAAEARAAAAAAAAAEAqAhgBOgkIj5nUAhAAMAZY08kgYAE&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKBJ6BQg3EJ4B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Role Playing",
+         "url": "https://www.google.com/search?q=role+playing+board+games+for+large+groups&hl=en&gl=US&shoprs=GAEqHGJvYXJkIGdhbWVzIGZvciBsYXJnZSBncm91cHMyHAgBEgxSb2xlIFBsYXlpbmc6CgihuD4Qqrg-MABY08kgYAE&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKBN6BQg3EJ8B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids' Games",
+         "url": "https://www.google.com/search?q=kids'+games+board+for+large+groups&hl=en&gl=US&shoprs=GAkqHGJvYXJkIGdhbWVzIGZvciBsYXJnZSBncm91cHMyDwgJEgtLaWRzJyBHYW1lc2AB&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKBR6BQg3EKAB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "30 – 60 minutes",
+         "url": "https://www.google.com/search?q=30+minutes+to+60+minutes+board+games+for+large+groups&hl=en&gl=US&shoprs=EhoqGAjGvj0SEgkAAAAAAAA-QBEAAAAAAABOQBgBKhxib2FyZCBnYW1lcyBmb3IgbGFyZ2UgZ3JvdXBzMlkIARIRMzAg4oCTIDYwIG1pbnV0ZXMiGioYCMa-PRISCQAAAAAAAD5AEQAAAAAAAE5AKhwKGDMwIG1pbnV0ZXMgdG8gNjAgbWludXRlcxgBOggIxr49EAAwBljTySBgAQ&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKBV6BQg3EKEB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Black",
+         "url": "https://www.google.com/search?q=black+board+games+for+large+groups&hl=en&gl=US&shoprs=GAEqHGJvYXJkIGdhbWVzIGZvciBsYXJnZSBncm91cHMyFwgBEgVCbGFjazoMCNiM9QEQ5Yr1ATALWNPJIGAB&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKBZ6BQg3EKIB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "4 players or more",
+         "url": "https://www.google.com/search?q=4+players+or+more+board+games+for+large+groups&hl=en&gl=US&shoprs=EhsqGQiPmdQCEhIJAAAAAAAAEEARAAAAAAAAEEAYASocYm9hcmQgZ2FtZXMgZm9yIGxhcmdlIGdyb3VwczJBCAESETQgcGxheWVycyBvciBtb3JlIhsqGQiPmdQCEhIJAAAAAAAAEEARAAAAAAAAEEAqAhgBOgkIj5nUAhAAMAZY08kgYAE&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKBd6BQg3EKMB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "6 Player",
+         "url": "https://www.google.com/search?q=6+player+board+games+for+large+groups&hl=en&gl=US&shoprs=GAEqHGJvYXJkIGdhbWVzIGZvciBsYXJnZSBncm91cHMyGggBEgg2IFBsYXllcjoMCOmcmgIQ75yaAjAAWNPJIGAB&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQip4GKBh6BQg3EKQB",
+         "domain": "www.google.com",
+         "options": null
+        }
+       ]
+      },
+      "item_types": [
+       "organic",
+       "people_also_ask",
+       "popular_products",
+       "related_searches"
+      ],
+      "se_results_count": 213,
+      "pages_count": 1,
+      "items_count": 14,
+      "items": [
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Board games for large groups : r/boardgames",
+        "url": "https://www.reddit.com/r/boardgames/comments/5s7q59/board_games_for_large_groups/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "50+ comments  ·  9 years ago",
+        "website_name": "Reddit · r/boardgames",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "BANG !, Codenames , Jungle Speed, Spyfall, Bang Dice, 7 Wonders, Dungeon World, End of the World, Ladies & Gentlemen, The Resistance, Deception: ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "BANG"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Large party game (10+ players) recs for people who ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/1mgsaz4/large_party_game_10_players_recs_for_people_who/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Games for large groups of people (15-20) : r/boardgames",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/z4c6yf/games_for_large_groups_of_people_1520/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=board+games+for+large+groups+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQntVpO77aPZ6H5egea7dAucfiKFdUg:1792381437621&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQrQIoAnoECCAQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Board game for large groups",
+        "url": "https://boardgamegeek.com/thread/3594688/board-game-for-large-groups",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › ... › Recommendations",
+        "website_name": "BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Oct 18, 2025 — Secret Hitler - Citadels - Feed the Kraken - Bang - Captain Sonar - Hellapagos - Panic on Wall Street - Magic Maze - Alice in Wonderland. Zoo ...",
+        "pre_snippet": "10/18/2025 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Secret Hitler"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-10-18 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[1]/div[2]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What are good board games for large groups?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[1]/div[2]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some good games for a large group party?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[1]/div[2]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some good games for 12 people?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[1]/div[2]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Is there a board game for 10 people?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[1]/div[2]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[1]/div[2]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+        "domain": "bigpotato.com",
+        "title": "Large Groups (more than 8 players)",
+        "url": "https://bigpotato.com/collections/large-group-board-games",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://bigpotato.com › large-group-board-games",
+        "website_name": "Big Potato Games",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Herd Mentality · Cards vs Gravity · Chicken vs Hotdog · The Chameleon · You Can't Say Umm · Tilt n Shout · Colorbrain · Noodle Flip. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "board games for large groups from bigpotato.com",
+          "url": "https://bigpotato.com/collections/large-group-board-games",
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-fc26bc9d28e2:0"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 10,
+         "regular": null,
+         "max_value": 34,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$10 to $34"
+        },
+        "highlighted": [
+         "Herd Mentality"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://bigpotato.com/collections/large-group-board-games#:~:text=Herd%20Mentality&text=Cards%20vs%20Gravity&text=Chicken%20vs%20Hotdog&text=The%20Chameleon&text=You%20Can't%20Say%20Umm&text=Tilt%20n%20Shout&text=Colorbrain&text=Noodle%20Flip",
+          "domain": "bigpotato.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[1]/div[2]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+        "domain": "wccls.bibliocommons.com",
+        "title": "BIIIIIG List of Board Games for Big Groups",
+        "url": "https://wccls.bibliocommons.com/v2/list/display/1310913377/1544321909",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://wccls.bibliocommons.com › list › display",
+        "website_name": "BiblioCommons",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "BIIIIIG List of Board Games for Big Groups Like this list · Hues and Cues · Sushi Go Party! · Victorian Parlour Games · Deception · Mystical Loteria: A ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "board games for large groups from wccls.bibliocommons.com",
+          "url": "https://wccls.bibliocommons.com/v2/list/display/1310913377/1544321909",
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-fc26bc9d28e2:1"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "BIIIIIG List of Board Games for Big Groups"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://wccls.bibliocommons.com/v2/list/display/1310913377/1544321909#:~:text=BIIIIIG%20List%20of%20Board%20Games,for%20Big%20Groups&text=Hues%20and%20Cues&text=Sushi%20Go%20Party!&text=Victorian%20Parlour%20Games&text=Deception&text=Mystical%20Loteria%3A%20A%20Spiritual%20Celebration,the%20Classic%20Latin%20Party%20Game",
+          "domain": "wccls.bibliocommons.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 1,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[1]/div[2]/div[2]/div[1]/div[1]/div[12]/div[1]",
+        "title": "Popular products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Dolphin Hat Games Taco Cat Goat Cheese Pizza Ridiculously Large Card Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+large+groups&prds=gpcid:2206315699202949537,rds:PC_2206315699202949537%7CPROD_PC_2206315699202949537,headlineOfferDocid:3623948604497481101,catalogid:14669809561722030845,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+\nFun (49 user reviews)",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-fc26bc9d28e2:2",
+          "price": {
+           "current": 14.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$14.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 58,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "14669809561722030845",
+           "data_docid": "9683553534674782392",
+           "gid": "2206315699202949537"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Big Potato Games Herd Mentality Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+large+groups&prds=gpcid:15184972706700881569,rds:PC_15184972706700881569%7CPROD_PC_15184972706700881569,headlineOfferDocid:6913960651553509498,catalogid:2861622160605468726,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Kohl's & more\nFun (75 user reviews)",
+          "more_sellers": true,
+          "seller": "Kohl's",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-fc26bc9d28e2:3",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 99,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "2861622160605468726",
+           "data_docid": "2714041716578834644",
+           "gid": "15184972706700881569"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "DSS Games You Laugh You're Out",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+large+groups&prds=gpcid:16874190980645785637,rds:PC_16874190980645785637%7CPROD_PC_16874190980645785637,headlineOfferDocid:16887737661578611252,catalogid:2807554973302488041,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-fc26bc9d28e2:4",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.1,
+           "votes_count": 190,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "2807554973302488041",
+           "data_docid": "13049878001777923534",
+           "gid": "16874190980645785637"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Catan Game",
+          "url": "https://www.ubuy.co.in/productuk/Q66IRTQQG-6th-edition-board-game",
+          "domain": "www.ubuy.co.in",
+          "description": "Catan Shop - Official Store & more\nEngaging gameplay with strategic depth · Beautifully crafted game components Ubuy India",
+          "more_sellers": true,
+          "seller": "Catan Shop - Official Store",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-fc26bc9d28e2:5",
+          "price": {
+           "current": 49.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$49.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 201,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "8673379403246775114",
+           "data_docid": "10139617312849150232",
+           "gid": "9148757966263496590"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Azul Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+large+groups&prds=gpcid:16277784982869458591,rds:PC_16277784982869458591%7CPROD_PC_16277784982869458591,headlineOfferDocid:6059037526650711439,catalogid:5525313397194565835,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "BigBadToyStore & more\nFun (397 user reviews)",
+          "more_sellers": true,
+          "seller": "BigBadToyStore",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-fc26bc9d28e2:6",
+          "price": {
+           "current": 31.99,
+           "regular": 40,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$31.99 $40"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 821,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "5525313397194565835",
+           "data_docid": "5213794068131047571",
+           "gid": "16277784982869458591"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Tapple Game",
+          "url": "https://www.thegamer.com/best-word-board-games/",
+          "domain": "www.thegamer.com",
+          "description": "Target & more\nFree delivery on $35+\nFast-paced and exciting gameplay · Can be stressful for players who don't like being put on the spot TheGamer",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-fc26bc9d28e2:7",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 1200,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "11735642665355992479",
+           "data_docid": "16947985508799951895",
+           "gid": "11810378174198701195"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "One Night Ultimate Werewolf",
+          "url": "https://www.thegamer.com/clue-similar-board-games-recommendations/",
+          "domain": "www.thegamer.com",
+          "description": "The Haven Games & more\nFree delivery\nWith multiple roles and the option to mix in expansions, every game offers a … · With a smaller core set of roles, the game might lose its luster after many … TheGamer",
+          "more_sellers": true,
+          "seller": "The Haven Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-fc26bc9d28e2:8",
+          "price": {
+           "current": 25,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$25.00"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 354,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "3199286986801832624",
+           "data_docid": "9926165992657999226",
+           "gid": "2185463913356808427"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Exploding Kittens The Board Game",
+          "url": "https://rolltoreview.com/exploding-kittens-board-game-review/",
+          "domain": "rolltoreview.com",
+          "description": "Exploding Kittens & more\nFree delivery on $40+\nGreat for casual play with people who don't often play board games · The strategy is becomes obvious to players almost immediately Roll to Review",
+          "more_sellers": true,
+          "seller": "Exploding Kittens",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-fc26bc9d28e2:9",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 154,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "2290121467920167409",
+           "data_docid": "1347844132714559356",
+           "gid": "7096552961700473263"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[1]/div[2]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "best board games for large groups?",
+        "url": "https://www.facebook.com/groups/boardgamerevolution/posts/4141056216186285/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "100+ comments  ·  8 months ago",
+        "website_name": "Facebook · Board Game Revolution Community",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Best board games for larger groups 6-10 people that aren't drawing and guessing or word guessing games? (Pictionary type/ poetry for neanderthals and ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "board games for large groups from www.facebook.com",
+          "url": "https://www.facebook.com/groups/boardgamerevolution/posts/4141056216186285/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-fc26bc9d28e2:10"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "What are fun board games for large groups? - Facebook",
+          "description": null,
+          "url": "https://www.facebook.com/groups/boardgamerevolution/posts/4094407704184470/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What are some board games that can be played with a large ...",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10161464467367829/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.facebook.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=board+games+for+large+groups+site:www.facebook.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQntVpO77aPZ6H5egea7dAucfiKFdUg:1792381437621&sa=X&ved=2ahUKEwi5uZCXlcWXAxWmUUEAHZ2hLsEQrQIoAnoECGMQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[1]/div[2]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]",
+        "domain": "boardgamesforlearning.com",
+        "title": "Having a party? Try these fun board games for large ...",
+        "url": "https://boardgamesforlearning.com/board-games-for-large-gatherings/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamesforlearning.com › Blog",
+        "website_name": "boardgamesforlearning.com",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Codenames This is another hit with groups of all sizes. Dutch Blitz This classic and fast-paced game **Buy the Dutch Blitz Party Pack … quelf here Headbanz. ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "board games for large groups from boardgamesforlearning.com",
+          "url": "https://boardgamesforlearning.com/board-games-for-large-gatherings/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNC5IoU2LyL3Y00XrMzVz0E3d6j55PYaACILsYlPbp6oaro1Jkhpne&usqp=CAE&s"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Codenames"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[1]/div[2]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]",
+        "domain": "www.amazon.com",
+        "title": "Large Group Board Games",
+        "url": "https://www.amazon.com/large-group-board-games/s?k=large+group+board+games",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.amazon.com › large-group-board-games › k...",
+        "website_name": "Amazon.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Find the perfect game for big groups. Discover hilarious party games and strategic options that keep everyone engaged and entertained.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "hilarious party games and strategic options"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[1]/div[2]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]",
+        "domain": "www.nytimes.com",
+        "title": "The 5 Best Party Games of 2026 | Reviews by Wirecutter",
+        "url": "https://www.nytimes.com/wirecutter/reviews/best-party-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.nytimes.com › ... › Games and puzzles",
+        "website_name": "The New York Times",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Dec 5, 2025 — Shut Up & Sit Down and at the table. Codenames is a crowd-pleaser. The competition Cards Against Humanity is a staple party game",
+        "pre_snippet": "12/05/2025 00:00:00",
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "board games for large groups from www.nytimes.com",
+          "url": "https://www.nytimes.com/wirecutter/reviews/best-party-games/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXCd-tqDj27CzqSoBgPWEsSLBBiHw5fjxaZoZYB5w&usqp=CAE&s"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 32,
+         "regular": null,
+         "max_value": null,
+         "currency": "USD",
+         "is_price_range": false,
+         "displayed_price": "$32.00"
+        },
+        "highlighted": [
+         "Cards Against Humanity"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-12-05 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[1]/div[2]/div[2]/div[1]/div[1]/div[22]/div[1]/div[1]",
+        "domain": "thechaosandtheclutter.com",
+        "title": "The Best Board Games for Large Groups",
+        "url": "https://thechaosandtheclutter.com/archives/the-best-board-games-for-large-groups",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://thechaosandtheclutter.com › archives › the-best-...",
+        "website_name": "The Chaos and the Clutter",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Charades – This is the ultimate game for a large group when you don't have any board games handy. Just use a pen and slips of paper to create your own version. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "board games for large groups from thechaosandtheclutter.com",
+          "url": "https://thechaosandtheclutter.com/archives/the-best-board-games-for-large-groups",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsEnEtntxBVRO1UmvJqplNEvcXAzLq1XTPpXjMX0MKk7Q42EvauA8d&usqp=CAE&s"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Charades"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://thechaosandtheclutter.com/archives/the-best-board-games-for-large-groups#:~:text=Charades%20%E2%80%93%20This%20is%20the,to%20make%20it%20extra%20fun.",
+          "domain": "thechaosandtheclutter.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 10,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[1]/div[2]/div[2]/div[1]/div[1]/div[24]/div[1]/div[1]",
+        "domain": "www.quora.com",
+        "title": "What are good board games for large groups of adults?",
+        "url": "https://www.quora.com/What-are-good-board-games-for-large-groups-of-adults",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "30+ answers  ·  11 years ago",
+        "website_name": "Quora",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "What are good board games for large groups of adults?",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "38 answers",
+          "description": null,
+          "url": "https://www.quora.com/What-are-good-board-games-for-large-groups-of-adults?top_ans=12827869",
+          "domain": "www.quora.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 2,
+        "rank_absolute": 13,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[1]/div[2]/div[2]/div[1]/div[1]/div[26]/div[1]",
+        "title": "More products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Hues and Cues",
+          "url": "https://settleroftheboards.com/a-world-of-color-hues-cues/",
+          "domain": "settleroftheboards.com",
+          "description": "Target & more\nFree delivery on $35+\nIf you're a little tech savvy and have a good way to set it up, it's … · Can't necessarily play with colorblind gamers. You can certainly try the … Settler of the Boards",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQdhXl7oSpOOwlUF2jAgkc_b5cNa2s-7_JxgoD5kOtpD3vMQSyZdG7M3tU9o3MH8Fca70CwpWTd9pXGDC8hCgFZtkn8f8fibXfqxyc4fxDe0IA4kgn8PJZgPg",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 896,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "14573646516438384539",
+           "data_docid": "2703991999498835589",
+           "gid": "354424298390268587"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Two Rooms and a Boom",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+large+groups&prds=gpcid:1562799379349661478,rds:PC_1562799379349661478%7CPROD_PC_1562799379349661478,headlineOfferDocid:11267392849291877056,catalogid:2943779635936079274,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Tuesday Knight Games & more\nItems received are complete and in good working conditions. A reviewer on shopee.ph",
+          "more_sellers": true,
+          "seller": "Tuesday Knight Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQTJdhFRtzlSYxti9uI0wwCN0RerwR22YWqNBNNO8FHQan_He9wGq7VuhYhxqqRVjYET7DYtvBKwxI4hnqUweFcJcOkgkozXfKogLBiAjdbvF4J4mR68xkM",
+          "price": {
+           "current": 30,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$30.00"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 5,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "2943779635936079274",
+           "data_docid": "15191799096678239071",
+           "gid": "1562799379349661478"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Wavelength Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+large+groups&prds=gpcid:10330801992986139411,rds:PC_10330801992986139411%7CPROD_PC_10330801992986139411,headlineOfferDocid:3353583062277215009,catalogid:7222283010677095452,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+\nFun (174 user reviews)",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTKTbJ0cJV3kFx-amIF_s9tMNHPqfXFS_IfabYMUDobKPV9_Nat3GTwiZzjIGu01Aiuwlg9u1L2NOD40rUJ7v0dntEL5xlg4sxyh5DI3WthbwOkYhLmPDuAhw",
+          "price": {
+           "current": 34.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$34.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 341,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "7222283010677095452",
+           "data_docid": "10605961755333409253",
+           "gid": "10330801992986139411"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Mafia The Party Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+large+groups&prds=gpcid:12874460883367876386,rds:PC_12874460883367876386%7CPROD_PC_12874460883367876386,headlineOfferDocid:13664967771343901913,catalogid:18231249798537754604,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Apostrophe Games & more\nFree delivery\nI like the cards as an aid to the gameplay and the rules are nice to have since my friends and I bent those rules one too many times. A reviewer on Target",
+          "more_sellers": true,
+          "seller": "Apostrophe Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRsNLMn87p7jbdQBq2RZXd3z_mJOSMWURYbikmyXg60lqNXwELsXeLidOEE2lCfJkFhkSgovcE60ffB72Z18JNRyTOWGx0T_b3iohTenodfIAyJ98CRzwrdvA",
+          "price": {
+           "current": 14.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$14.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 5,
+           "votes_count": 1,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "18231249798537754604",
+           "data_docid": "6533720491454926368",
+           "gid": "12874460883367876386"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Blood on the Clocktower",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+large+groups&prds=gpcid:2559393962457429011,rds:PC_2559393962457429011%7CPROD_PC_2559393962457429011,headlineOfferDocid:493578503450005639,catalogid:8412890364341628654,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "The Pieceful Project & more",
+          "more_sellers": true,
+          "seller": "The Pieceful Project",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRlumvWbZhapZdddwSPyBV7GolhuxsptJTBSO1l0oxyIV1FTKtOQxuZdMrABCEZ6_iXWeKaJFMNkcds0YGHpaNV6yIDuisqRJTcEpAUaicZljuSKwTobjXh",
+          "price": {
+           "current": 169.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$169.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.9,
+           "votes_count": 73,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "8412890364341628654",
+           "data_docid": "15238060588493578373",
+           "gid": "2559393962457429011"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Spin Master Games Family Feud",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+large+groups&prds=gpcid:5892649194015674872,rds:PC_5892649194015674872%7CPROD_PC_5892649194015674872,headlineOfferDocid:15177653824108986968,catalogid:6357197915856567216,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZxEWoLMeSOqCs_J84K79QlsHej3Dn6S680wnQb-1Syr00BHlzAjx6cQDc4SuDwldFhGiq3wzkkS7dfPsgiqNENZXFa_PP0_i4tSi6pD5l05vkJzD0YFsvhg",
+          "price": {
+           "current": 15.99,
+           "regular": 20,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$15.99 $20"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 6,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "6357197915856567216",
+           "data_docid": "5697700691910804559",
+           "gid": "5892649194015674872"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "R&R Games You Must Be an Idiot Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+large+groups&prds=gpcid:12138675506377320533,rds:PC_12138675506377320533%7CPROD_PC_12138675506377320533,headlineOfferDocid:3618234064932670787,catalogid:5032409517705656708,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Kohl's & more",
+          "more_sellers": true,
+          "seller": "Kohl's",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ0vcjW_sTUe8AtsoWcb8pd8pvH8i4wn7lHVWU1Kk3-rTon5tBxyiy41S3fxhthG0heQKhB1DZ5L8eIn3C4-fzCNHSLlIf0h9AAPXpn6h48nk94DPFxXjX5",
+          "price": {
+           "current": 29.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$29.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 5,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "5032409517705656708",
+           "data_docid": "15225670144326001590",
+           "gid": "12138675506377320533"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Hygge Games I Should Have Known That! Trivia Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+large+groups&prds=gpcid:7259229665149995238,rds:PC_7259229665149995238%7CPROD_PC_7259229665149995238,headlineOfferDocid:14081438303142489201,catalogid:12774580182523446390,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Calendars.com & more\nFun (124 user reviews)",
+          "more_sellers": true,
+          "seller": "Calendars.com",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQqyPRQ4YOYJFv3XnYGnOkXoTyXLOuWFmNJuLJZjDJnpkTvxvPc60C2sO4SkO8QnBabqacqjyG4e2PiUYdp7YiPOJfBoIX1Bstw-7BDATeUCNnpwMFsV7PD",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 217,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "12774580182523446390",
+           "data_docid": "7656442022765655128",
+           "gid": "7259229665149995238"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 14,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Family board games for large groups",
+         "Best board games for large groups of adults",
+         "Board games for large groups adults",
+         "Two Rooms and a Boom",
+         "Best board games for large groups",
+         "Board games for large groups Reddit",
+         "Games for large groups of adults indoor",
+         "Board games for groups"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,718 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "5.9224 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190345-2588-0139-0000-0f873489f57f",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "5.8650 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "two player strategy games",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "two player strategy games",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=two%20player%20strategy%20games&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:45:27 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "video",
+       "related_searches"
+      ],
+      "se_results_count": 115,
+      "pages_count": 1,
+      "items_count": 12,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "Top two-player strategy board games are grouped by style and gameplay depth:\n\n### Card-Driven & Asymmetrical War Games\n\n- **7 Wonders Duel:** A tight, fast-paced card-drafting and military/science civilization game built exclusively for two players.\n- **War of the Ring:** A deep, sprawling asymmetrical Lord of the Rings war game with high tension, though it often takes over two hours to play.\n- **Washington’s War:** A streamlined, card-driven historical conflict set during the American Revolution that swaps heavy rules for deep strategy.\n- **Caesar: Rome vs. Gaul:** An approachable historical wargame capturing the Roman-Gallic conflict through clean, asymmetrical card play.[[1]](https://www.reddit.com/r/boardgames/comments/1hh1ex6/best_2_player_strategy_boardgames/)[[2]](https://bitewinggames.com/40-of-the-best-2-player-board-games-of-all-time/)[[3]](https://www.facebook.com/groups/132851767828/posts/10163638363102829/)[[4]](https://www.gamersdungeon.net/?p=6350)\n\n### Tug-of-War & Political Games\n\n- **Watergate:** A tense, asymmetric card-driven tug-of-war where one player plays a reporter connecting evidence and the other plays Nixon trying to conceal it.\n- **Blitzkrieg! / Caesar!:** Quick-playing tactical games focused on managing war theaters or Roman territories through clever token and majority control.[[1]](https://bitewinggames.com/40-of-the-best-2-player-board-games-of-all-time/)[[2]](https://www.youtube.com/watch?v=kal3-GrZk_I&t=729)\n\n### Positional & Abstract Strategy\n\n- **Onitama:** A smooth, chess-like abstract game where piece movements shift dynamically based on a shared, rotating pool of cards.\n- **Santorini:** A tactical 3D puzzle and building game featuring asymmetric god powers.\n- **Hive:** A tile-placement abstract game without a board where you try to trap your opponent's queen bee using insect pieces with unique movement rules.[[1]](https://www.facebook.com/groups/132851767828/posts/10163638363102829/)[[2]](https://bitewinggames.com/40-of-the-best-2-player-board-games-of-all-time/)[[3]](https://www.youtube.com/watch?v=sO57nnv3H68)\n\nHere is a video showcasing a selection of top two-player strategy games:\n\n![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7dXQR5dGSYk5Rlagx_PQGd0n_-p9KqnemSFhlLZ-4GFrz-mRL)\n11m\n[](https://www.youtube.com/watch?v=1B8ZAFMK45Y&t=41) Top 10 Two Player Games: Casual, Medium, and Strategy 33K views  · 3 months ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · The Dice Tower\n\nIf you'd like to narrow down the list, tell me:\n\n- What **play time** do you prefer (under 30 minutes vs. 1 hour+)?\n- Do you like **direct combat** or **peaceful building / abstract logic**?\n- How **complex** do you want the rules to be?",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Top two-player strategy board games are grouped by style and gameplay depth:",
+          "markdown": "Top two-player strategy board games are grouped by style and gameplay depth:",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Card-Driven & Asymmetrical War Games",
+          "text": "7 Wonders Duel: A tight, fast-paced card-drafting and military/science civilization game built exclusively for two players. War of the Ring: A deep, sprawling asymmetrical Lord of the Rings war game with high tension, though it often takes over two hours to play. Washington’s War: A streamlined, card-driven historical conflict set during the American Revolution that swaps heavy rules for deep strategy. Caesar: Rome vs. Gaul: An approachable historical wargame capturing the Roman-Gallic conflict through clean, asymmetrical card play.",
+          "markdown": "- **7 Wonders Duel:** A tight, fast-paced card-drafting and military/science civilization game built exclusively for two players.\n- **War of the Ring:** A deep, sprawling asymmetrical Lord of the Rings war game with high tension, though it often takes over two hours to play.\n- **Washington’s War:** A streamlined, card-driven historical conflict set during the American Revolution that swaps heavy rules for deep strategy.\n- **Caesar: Rome vs. Gaul:** An approachable historical wargame capturing the Roman-Gallic conflict through clean, asymmetrical card play.[[1]](https://www.reddit.com/r/boardgames/comments/1hh1ex6/best_2_player_strategy_boardgames/)[[2]](https://bitewinggames.com/40-of-the-best-2-player-board-games-of-all-time/)[[3]](https://www.facebook.com/groups/132851767828/posts/10163638363102829/)[[4]](https://www.gamersdungeon.net/?p=6350)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/boardgames/comments/1hh1ex6/best_2_player_strategy_boardgames/",
+            "title": "Best 2 player strategy boardgames? - Reddit",
+            "text": "War of the Ring Recommendation: War of the Ring is a highly recommended asymmetrical two-player strategy game, often compared to S..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Bitewing Games",
+            "domain": "bitewinggames.com",
+            "url": "https://bitewinggames.com/40-of-the-best-2-player-board-games-of-all-time/",
+            "title": "40 of the Best 2-Player Board Games of All Time - Bitewing Games",
+            "text": "Spicy Brutality: Undaunted Series, Radlands, Marabunta, Caesar!, Lord of the Rings: The Confrontation. Not Too Aggressive: Lost Ci..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Facebook",
+            "domain": "www.facebook.com",
+            "url": "https://www.facebook.com/groups/132851767828/posts/10163638363102829/",
+            "title": "Recommendations for 2 player strategy board games? - Facebook",
+            "text": "You want games that are designed specifically for two players, like 7 Wonders Duel, LOTR Duel, Splendor Duel, Sky Team, and Onitam..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Gamers Dungeon",
+            "domain": "www.gamersdungeon.net",
+            "url": "https://www.gamersdungeon.net/?p=6350",
+            "title": "Top 10 Boardgames for Two Players | Gamers Dungeon",
+            "text": "If this genre appeals to you, I'd encourage you to do a little extra research before buying. * 3. Washington's War. It has the loo..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Tug-of-War & Political Games",
+          "text": "Watergate: A tense, asymmetric card-driven tug-of-war where one player plays a reporter connecting evidence and the other plays Nixon trying to conceal it. Blitzkrieg! / Caesar!: Quick-playing tactical games focused on managing war theaters or Roman territories through clever token and majority control.",
+          "markdown": "- **Watergate:** A tense, asymmetric card-driven tug-of-war where one player plays a reporter connecting evidence and the other plays Nixon trying to conceal it.\n- **Blitzkrieg! / Caesar!:** Quick-playing tactical games focused on managing war theaters or Roman territories through clever token and majority control.[[1]](https://bitewinggames.com/40-of-the-best-2-player-board-games-of-all-time/)[[2]](https://www.youtube.com/watch?v=kal3-GrZk_I&t=729)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Bitewing Games",
+            "domain": "bitewinggames.com",
+            "url": "https://bitewinggames.com/40-of-the-best-2-player-board-games-of-all-time/",
+            "title": "40 of the Best 2-Player Board Games of All Time - Bitewing Games",
+            "text": "Spicy Brutality: Undaunted Series, Radlands, Marabunta, Caesar!, Lord of the Rings: The Confrontation. Not Too Aggressive: Lost Cities, Patchwork, Jaipur, Battle L..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=kal3-GrZk_I&t=729",
+            "title": "Top 10 Strategy 2 Player Games",
+            "text": "Top 10 Strategy 2 Player Games design that's why it's 10 crossover in the first first. pick. magic all right my number um nine is ..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Positional & Abstract Strategy",
+          "text": "Onitama: A smooth, chess-like abstract game where piece movements shift dynamically based on a shared, rotating pool of cards. Santorini: A tactical 3D puzzle and building game featuring asymmetric god powers. Hive: A tile-placement abstract game without a board where you try to trap your opponent's queen bee using insect pieces with unique movement rules.",
+          "markdown": "- **Onitama:** A smooth, chess-like abstract game where piece movements shift dynamically based on a shared, rotating pool of cards.\n- **Santorini:** A tactical 3D puzzle and building game featuring asymmetric god powers.\n- **Hive:** A tile-placement abstract game without a board where you try to trap your opponent's queen bee using insect pieces with unique movement rules.[[1]](https://www.facebook.com/groups/132851767828/posts/10163638363102829/)[[2]](https://bitewinggames.com/40-of-the-best-2-player-board-games-of-all-time/)[[3]](https://www.youtube.com/watch?v=sO57nnv3H68)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Facebook",
+            "domain": "www.facebook.com",
+            "url": "https://www.facebook.com/groups/132851767828/posts/10163638363102829/",
+            "title": "Recommendations for 2 player strategy board games? - Facebook",
+            "text": "You want games that are designed specifically for two players, like 7 Wonders Duel, LOTR Duel, Splendor Duel, Sky Team, and Onitam..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Bitewing Games",
+            "domain": "bitewinggames.com",
+            "url": "https://bitewinggames.com/40-of-the-best-2-player-board-games-of-all-time/",
+            "title": "40 of the Best 2-Player Board Games of All Time - Bitewing Games",
+            "text": "Spicy Brutality: Undaunted Series, Radlands, Marabunta, Caesar!, Lord of the Rings: The Confrontation. Not Too Aggressive: Lost Cities, Patchwork, Jaipur, Battle L..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=sO57nnv3H68",
+            "title": "Top 10 Casual 2 Player Games",
+            "text": "Top 10 Casual 2 Player Games hey everybody recently I was in a list of top 10 strategy games and the other people were in a list c..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_video_element",
+          "position": "left",
+          "title": "Top 10 Two Player Games: Casual, Medium, and Strategy",
+          "snippet": "11m",
+          "url": "https://www.youtube.com/watch?v=1B8ZAFMK45Y&t=41",
+          "domain": "www.youtube.com",
+          "image_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7dXQR5dGSYk5Rlagx_PQGd0n_-p9KqnemSFhlLZ-4GFrz-mRL",
+          "source": "YouTube",
+          "date": "3 months ago",
+          "timestamp": "2026-07-19 03:45:25 +00:00"
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Here is a video showcasing a selection of top two-player strategy games: 11m Top 10 Two Player Games: Casual, Medium, and Strategy 33K views · 3 months ago YouTube · The Dice Tower",
+          "markdown": "Here is a video showcasing a selection of top two-player strategy games:\n\n![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7dXQR5dGSYk5Rlagx_PQGd0n_-p9KqnemSFhlLZ-4GFrz-mRL)\n11m\n[](https://www.youtube.com/watch?v=1B8ZAFMK45Y&t=41) Top 10 Two Player Games: Casual, Medium, and Strategy 33K views  · 3 months ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · The Dice Tower",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "If you'd like to narrow down the list, tell me:What play time do you prefer (under 30 minutes vs. 1 hour+)?\nDo you like direct combat or peaceful building / abstract logic ?\nHow complex do you want the rules to be?",
+          "markdown": "If you'd like to narrow down the list, tell me:\n\n- What **play time** do you prefer (under 30 minutes vs. 1 hour+)?\n- Do you like **direct combat** or **peaceful building / abstract logic**?\n- How **complex** do you want the rules to be?",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Reddit",
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/boardgames/comments/1hh1ex6/best_2_player_strategy_boardgames/",
+          "title": "Best 2 player strategy boardgames? - Reddit",
+          "text": "War of the Ring Recommendation: War of the Ring is a highly recommended asymmetrical two-player strategy game, often compared to Star Wars Rebellion, and is partic..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Bitewing Games",
+          "domain": "bitewinggames.com",
+          "url": "https://bitewinggames.com/40-of-the-best-2-player-board-games-of-all-time/",
+          "title": "40 of the Best 2-Player Board Games of All Time - Bitewing Games",
+          "text": "Spicy Brutality: Undaunted Series, Radlands, Marabunta, Caesar!, Lord of the Rings: The Confrontation. Not Too Aggressive: Lost Cities, Patchwork, Jaipur, Battle L..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "YouTube",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=kal3-GrZk_I&t=729",
+          "title": "Top 10 Strategy 2 Player Games",
+          "text": "Top 10 Strategy 2 Player Games design that's why it's 10 crossover in the first first. pick. magic all right my number um nine is actually our first three-way cros"
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Board Game Quest",
+          "domain": "www.boardgamequest.com",
+          "url": "https://www.boardgamequest.com/top-10-multiplayer-board-games-for-two-players/",
+          "title": "Top 10 Multiplayer Board Games for Two Players - Board Game Quest",
+          "text": "Top 10 Multiplayer Board Games for Two Players (April Wilson, 2025): Obsession: Victorian family courtship, worker placement/hand-building (30-90 min). Sea Salt an..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "www.youtube.com",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=1B8ZAFMK45Y",
+          "title": "Top 10 Two Player Games: Casual, Medium, and Strategy",
+          "text": "game and then number one is Iliad. this is my favorite of the Bitewing Mythos. line so far and they are still in works and making more of them. so I'm very stoked ..."
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+        "domain": "zatu.com",
+        "title": "2 Player Board Games",
+        "url": "https://zatu.com/blogs/features/2-player-board-games?srsltid=AU7gw4U1AWmCRZdgROPwsb0nkqpZXBJD6WG6AEs1yT5A-C_Ue5r8gWVI",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://zatu.com › Features",
+        "website_name": "Zatu Games",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "2 Player Board Games · #10 – Camel Up (Difficulty: 3/5) · #9 – Dobble (Difficulty: 1/5) · #8 – Azul (Difficulty: 2/5) · #7 – Quacks Of Quedlinburg (Difficulty: 3/5). Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "2 Player Board Games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://zatu.com/blogs/features/2-player-board-games?srsltid=AU7gw4U1AWmCRZdgROPwsb0nkqpZXBJD6WG6AEs1yT5A-C_Ue5r8gWVI#:~:text=2%20Player%20Board%20Games&text=%2310%20%E2%80%93%20Camel%20Up%20(Difficulty%3A,3%2F5)&text=%239%20%E2%80%93%20Dobble%20(Difficulty%3A%201%2F5)&text=%238%20%E2%80%93%20Azul%20(Difficulty%3A%202%2F5)&text=%237%20%E2%80%93%20Quacks%20Of%20Quedlinburg,(Difficulty%3A%203%2F5)",
+          "domain": "zatu.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Cooperative Games that Play with 2-Players",
+        "url": "https://boardgamegeek.com/geeklist/216858/cooperative-games-that-play-with-2-players",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › geeklist › cooperative-ga...",
+        "website_name": "BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Nautilion is the newest of Shadi Torbey's games. With the multiple different boards and only allowed to solve certain parts in 2-player games adds an ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Nautilion"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What are good 2-player board games with strategy and luck?",
+        "url": "https://www.facebook.com/groups/boardgamerevolution/posts/4067746410183933/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "50+ comments  ·  11 months ago",
+        "website_name": "Facebook · Board Game Revolution Community",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Hi looking for 2player games or games that work really well with 2 players. Possible newer ones as I've already spent the last few years looking. \nWhat ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What are the most played strategy games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some good two-player games for two players?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "How to play two games at the same time?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are the best Dice Tower games for 2 players?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "video",
+        "rank_group": 1,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]",
+        "items": [
+         {
+          "type": "video_element",
+          "source": "YouTube · The Dice Tower",
+          "title": "Top 10 Strategy 2 Player Games",
+          "timestamp": "2026-06-17 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=kal3-GrZk_I&xstg=CAMSBhUDzO3xHw%3D%3D"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · The Dice Tower",
+          "title": "Top 10 Two Player Games: Casual, Medium, and Strategy",
+          "timestamp": "2026-07-07 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=1B8ZAFMK45Y&xstg=CAMSBhUDzO3xHw%3D%3D"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · Board Game Sanctuary",
+          "title": "Simple, Yet Strategic 2 Player Board Games",
+          "timestamp": "2026-02-02 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=8rKZ08CT3as&xstg=CAMSBhUDzO3xHw%3D%3D"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]",
+        "domain": "www.target.com",
+        "title": "two player games",
+        "url": "https://www.target.com/s/two+player+games",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.target.com › Toys & Games",
+        "website_name": "Target",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Discover top two-player board games like Azul, Connect 4, and King of Tokyo. Find strategy, dice, and family classics for game nights.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Azul, Connect 4, and King of Tokyo"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]/div[1]",
+        "domain": "www.youtube.com",
+        "title": "The BEST Strategic Board Games For 2!",
+        "url": "https://www.youtube.com/watch?v=SVG-JP8JJXs&xstg=CAMSBhUDzO3xHw%3D%3D",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "5K+ views  ·  1 year ago",
+        "website_name": "YouTube · Board With Steve",
+        "is_image": false,
+        "is_video": true,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_video"
+        ],
+        "description": "Looking for deep, strategic board games that play brilliantly at two ? These are my top picks that demand clever planning, ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "deep, strategic board games that play brilliantly at two"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-10-19 03:45:25 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]",
+        "domain": "www.quora.com",
+        "title": "What are good two player strategy games?",
+        "url": "https://www.quora.com/What-are-good-two-player-strategy-games",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "50+ answers  ·  16 years ago",
+        "website_name": "Quora",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "What are good two player strategy games?",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "50 answers",
+          "description": null,
+          "url": "https://www.quora.com/What-are-good-two-player-strategy-games?top_ans=316866",
+          "domain": "www.quora.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]",
+        "domain": "www.moxboardinghouse.com",
+        "title": "Cooperative Board Games",
+        "url": "https://www.moxboardinghouse.com/collections/cooperative?srsltid=AU7gw4XYTfHK0StZSZ6NVOHr2VmEE96ec7rAVC7LPAoi-q3MbbQLFe_4",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.moxboardinghouse.com › collections › coop...",
+        "website_name": "Mox Boarding House",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Cooperative Two-Player Party. Root Catan Cascadia Wingspan. Finspan Arcs Two-Player 59 Strategy 83. Slay the Spire: The. The Fellowship of the Ring: Trick- ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Cooperative Two-Player Party"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]",
+        "domain": "www.g2a.com",
+        "title": "Strategy Games for 2 Players",
+        "url": "https://www.g2a.com/top-list/strategy-games-for-2-players",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.g2a.com › top-list › strategy-games-for-2-p...",
+        "website_name": "G2A",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Explore the best strategy games for 2 players. Discover top-rated titles and best deals on exciting multiplayer strategy games for hours of competitive fun.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "best strategy games for 2 players"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Two player strategy games for couples",
+         "Two player strategy games adults",
+         "2 player strategy games PC",
+         "Best two player strategy games",
+         "Best 2 player board games for adults",
+         "Best 2 player board games for couples",
+         "Two player games",
+         "Two player board games"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

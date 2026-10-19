@@ -1,0 +1,849 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "9.7614 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190341-2588-0139-0000-998a95ee1448",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "9.6752 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "games like clue",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "games like clue",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=games%20like%20clue&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:41:31 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "related_searches"
+      ],
+      "se_results_count": 97,
+      "pages_count": 1,
+      "items_count": 12,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "Here are the best board and card games similar to Clue, focused on deduction, mystery-solving, and logic puzzles:\n\n### Direct Deduction & Mystery Games\n\n- **Awkward Guests:** A modern evolution of Clue where you investigate a murder in a mansion by trading information cards, managing points, and using a tracking booklet to solve over 3,000 possible scenarios.[[1]](https://boardgamegeek.com/thread/3607064/best-board-games-like-clue)[[2]](https://www.youtube.com/watch?v=r6hjK2on8uM&t=296)\n- **[Cryptid](https://no-rolls-barred.fandom.com/wiki/10_Board_Games_Like_Cluedo_But_BETTER):** A pure-logic competitive game where every player holds a single piece of evidence about a hidden creature's habitat, and you must cleverly question others to piece together the full map.[[1]](https://www.reddit.com/r/boardgames/comments/l453vt/cluecluedo_or_an_alternative/)[[2]](https://herefor.games/knowledge/games-like-cludeo/)[[3]](https://www.donteatthemeeples.com/10-games-like-clue/)\n- **[Sleuth](https://www.donteatthemeeples.com/10-games-like-clue/):** Strips away the board and dice completely, leaving a pure card-based deduction game where you race to figure out which card is missing from the deck by asking opponents targeted questions.[[1]](https://www.donteatthemeeples.com/10-games-like-clue/)[[2]](https://www.reddit.com/r/boardgames/comments/l453vt/cluecluedo_or_an_alternative/)\n- **[The Key: Theft at Cliffrock Villa](https://boardgamegeek.com/thread/3607064/best-board-games-like-clue):** A fast-paced, family-friendly detective game where players collect color-coded clue cards simultaneously to figure out the thief, the stolen item, the time, and the getaway vehicle.[[1]](https://www.youtube.com/watch?v=q5HIX0XiWEw&t=22)[[2]](https://boardgamegeek.com/thread/3607064/best-board-games-like-clue)\n- **[Mystery of the Abbey](https://www.reddit.com/r/boardgames/comments/5fo7uy/whats_a_good_board_game_similar_to_clue/):** Often described as a medieval monastic version of Clue, players move around a monastery interrogating others and gathering clues to solve a murder.[[1]](https://www.reddit.com/r/boardgames/comments/5fo7uy/whats_a_good_board_game_similar_to_clue/)\n\n### Cooperative & Atmospheric Alternatives\n\n- **[Mysterium](https://www.facebook.com/groups/132851767828/posts/10164490679102829/):** A semi-cooperative game where one player acts as a ghost communicating through surreal, abstract image cards, while the rest of the players play as psychic detectives trying to solve the ghost's murder.[[1]](https://www.youtube.com/watch?v=NTt6BzKdeDw&t=125)[[2]](https://www.facebook.com/groups/132851767828/posts/10164490679102829/)[[3]](https://www.youtube.com/watch?v=q5HIX0XiWEw&t=22)\n- **[Deception: Murder in Hong Kong](https://www.youtube.com/watch?v=q5HIX0XiWEw):** A social deduction and investigation game where a forensic scientist gives silent, indirect clues via scene tiles to help investigators point to the true weapon and evidence.[[1]](https://www.youtube.com/watch?v=q5HIX0XiWEw&t=22)[[2]](https://www.youtube.com/watch?v=NTt6BzKdeDw&t=125)\n- **Kill Doctor Lucky:** Plays like the inverse of Clue—you are trying to assassinate the titular character in a mansion, but you can only strike when no other players (or his pet cat/dog) have line-of-sight on you.[[1]](https://www.reddit.com/r/boardgames/comments/5fo7uy/whats_a_good_board_game_similar_to_clue/)[[2]](https://boardgamegeek.com/video/146460/clue/10-games-better-than-clue-with-tom-vasel)\n\nCheck out this video overview for a visual breakdown of top detective and deduction games like Clue:\n\n![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkgGsMt3E5ooXleny1P0SKUJOxff7acYUSoTyXnyPi2HNTAu6K)\n12m\n[](https://www.youtube.com/watch?v=q5HIX0XiWEw&t=22) 10 Board Games Better Than Clue (Cluedo)1.7K views  · 2 years ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · Board Game Bonkers\n\nIf you'd like to narrow down the list, tell me:\n\n- **How many players** typically join your game nights?\n- Do you prefer **competitive** or **cooperative** games?\n- Are you looking for something **simple like Clue** or **more complex/strategy-heavy**?",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Here are the best board and card games similar to Clue, focused on deduction, mystery-solving, and logic puzzles:",
+          "markdown": "Here are the best board and card games similar to Clue, focused on deduction, mystery-solving, and logic puzzles:",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Direct Deduction & Mystery Games",
+          "text": "Awkward Guests : A modern evolution of Clue where you investigate a murder in a mansion by trading information cards, managing points, and using a tracking booklet to solve over 3,000 possible scenarios. Awkward Guests Cryptid : A pure-logic competitive game where every player holds a single piece of evidence about a hidden creature's habitat, and you must cleverly question others to piece together the full map. Sleuth : Strips away the board and dice completely, leaving a pure card-based deduction game where you race to figure out which card is missing from the deck by asking opponents targeted questions. The Key: Theft at Cliffrock Villa : A fast-paced, family-friendly detective game where players collect color-coded clue cards simultaneously to figure out the thief, the stolen item, the time, and the getaway vehicle. Mystery of the Abbey : Often described as a medieval monastic version of Clue, players move around a monastery interrogating others and gathering clues to solve a murder.",
+          "markdown": "- **Awkward Guests:** A modern evolution of Clue where you investigate a murder in a mansion by trading information cards, managing points, and using a tracking booklet to solve over 3,000 possible scenarios.[[1]](https://boardgamegeek.com/thread/3607064/best-board-games-like-clue)[[2]](https://www.youtube.com/watch?v=r6hjK2on8uM&t=296)\n- **[Cryptid](https://no-rolls-barred.fandom.com/wiki/10_Board_Games_Like_Cluedo_But_BETTER):** A pure-logic competitive game where every player holds a single piece of evidence about a hidden creature's habitat, and you must cleverly question others to piece together the full map.[[1]](https://www.reddit.com/r/boardgames/comments/l453vt/cluecluedo_or_an_alternative/)[[2]](https://herefor.games/knowledge/games-like-cludeo/)[[3]](https://www.donteatthemeeples.com/10-games-like-clue/)\n- **[Sleuth](https://www.donteatthemeeples.com/10-games-like-clue/):** Strips away the board and dice completely, leaving a pure card-based deduction game where you race to figure out which card is missing from the deck by asking opponents targeted questions.[[1]](https://www.donteatthemeeples.com/10-games-like-clue/)[[2]](https://www.reddit.com/r/boardgames/comments/l453vt/cluecluedo_or_an_alternative/)\n- **[The Key: Theft at Cliffrock Villa](https://boardgamegeek.com/thread/3607064/best-board-games-like-clue):** A fast-paced, family-friendly detective game where players collect color-coded clue cards simultaneously to figure out the thief, the stolen item, the time, and the getaway vehicle.[[1]](https://www.youtube.com/watch?v=q5HIX0XiWEw&t=22)[[2]](https://boardgamegeek.com/thread/3607064/best-board-games-like-clue)\n- **[Mystery of the Abbey](https://www.reddit.com/r/boardgames/comments/5fo7uy/whats_a_good_board_game_similar_to_clue/):** Often described as a medieval monastic version of Clue, players move around a monastery interrogating others and gathering clues to solve a murder.[[1]](https://www.reddit.com/r/boardgames/comments/5fo7uy/whats_a_good_board_game_similar_to_clue/)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Cryptid",
+            "description": null,
+            "url": "https://no-rolls-barred.fandom.com/wiki/10_Board_Games_Like_Cluedo_But_BETTER",
+            "domain": "no-rolls-barred.fandom.com"
+           },
+           {
+            "type": "link_element",
+            "title": "Sleuth",
+            "description": null,
+            "url": "https://www.donteatthemeeples.com/10-games-like-clue/",
+            "domain": "www.donteatthemeeples.com"
+           },
+           {
+            "type": "link_element",
+            "title": "The Key: Theft at Cliffrock Villa",
+            "description": null,
+            "url": "https://boardgamegeek.com/thread/3607064/best-board-games-like-clue",
+            "domain": "boardgamegeek.com"
+           },
+           {
+            "type": "link_element",
+            "title": "Mystery of the Abbey",
+            "description": null,
+            "url": "https://www.reddit.com/r/boardgames/comments/5fo7uy/whats_a_good_board_game_similar_to_clue/",
+            "domain": "www.reddit.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BGG",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/thread/3607064/best-board-games-like-clue",
+            "title": "Best board games like Clue - BoardGameGeek",
+            "text": "Other Recommended Games: Additional games that share mechanics or a similar 'Clue mystery vibe' include Love Letter (hidden identi..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=r6hjK2on8uM&t=296",
+            "title": "10 Board Games to feel like a detective!",
+            "text": "10 Board Games to feel like a detective! and if it corrects wins the game very crudy he plays very quickly. and that's what I like..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/boardgames/comments/l453vt/cluecluedo_or_an_alternative/",
+            "title": "Clue/Cluedo or an alternative? : r/boardgames",
+            "text": "Comments Section * Tacic • 6y ago If you like Clue, then get Clue! It's easy to find and if you enjoy it then that's what's import..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Here for Games",
+            "domain": "herefor.games",
+            "url": "https://herefor.games/knowledge/games-like-cludeo/",
+            "title": "Games like Cludeo / Clue – Here for Games Knowledge",
+            "text": "Games like Cludeo / Clue * Players are the Murderer In these games one or more people form a team to do the murders each night and..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Don't Eat the Meeples",
+            "domain": "www.donteatthemeeples.com",
+            "url": "https://www.donteatthemeeples.com/10-games-like-clue/",
+            "title": "10 games like Clue - by Matt Montgomery - Don't Eat the Meeples",
+            "text": "Sleuth is exactly what you're looking for. It's a game purely about logic and deduction in which players compete to be the first t..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=q5HIX0XiWEw&t=22",
+            "title": "10 Board Games Better Than Clue (Cluedo)",
+            "text": "10 Board Games Better Than Clue (Cluedo) hello welcome to Board Game Bonkers i'm J Sears and today we're going to take a look at 1..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/boardgames/comments/5fo7uy/whats_a_good_board_game_similar_to_clue/",
+            "title": "What's a good board game similar to Clue? : r/boardgames - Reddit",
+            "text": "saladinzero • 10y ago 221B Baker Street is pretty close. You travel around the board piecing together clues to solve a murder. Jam..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Cooperative & Atmospheric Alternatives",
+          "text": "Mysterium : A semi-cooperative game where one player acts as a ghost communicating through surreal, abstract image cards, while the rest of the players play as psychic detectives trying to solve the ghost's murder. Deception: Murder in Hong Kong : A social deduction and investigation game where a forensic scientist gives silent, indirect clues via scene tiles to help investigators point to the true weapon and evidence. Kill Doctor Lucky : Plays like the inverse of Clue—you are trying to assassinate the titular character in a mansion, but you can only strike when no other players (or his pet cat/dog) have line-of-sight on you. Kill Doctor Lucky",
+          "markdown": "- **[Mysterium](https://www.facebook.com/groups/132851767828/posts/10164490679102829/):** A semi-cooperative game where one player acts as a ghost communicating through surreal, abstract image cards, while the rest of the players play as psychic detectives trying to solve the ghost's murder.[[1]](https://www.youtube.com/watch?v=NTt6BzKdeDw&t=125)[[2]](https://www.facebook.com/groups/132851767828/posts/10164490679102829/)[[3]](https://www.youtube.com/watch?v=q5HIX0XiWEw&t=22)\n- **[Deception: Murder in Hong Kong](https://www.youtube.com/watch?v=q5HIX0XiWEw):** A social deduction and investigation game where a forensic scientist gives silent, indirect clues via scene tiles to help investigators point to the true weapon and evidence.[[1]](https://www.youtube.com/watch?v=q5HIX0XiWEw&t=22)[[2]](https://www.youtube.com/watch?v=NTt6BzKdeDw&t=125)\n- **Kill Doctor Lucky:** Plays like the inverse of Clue—you are trying to assassinate the titular character in a mansion, but you can only strike when no other players (or his pet cat/dog) have line-of-sight on you.[[1]](https://www.reddit.com/r/boardgames/comments/5fo7uy/whats_a_good_board_game_similar_to_clue/)[[2]](https://boardgamegeek.com/video/146460/clue/10-games-better-than-clue-with-tom-vasel)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Mysterium",
+            "description": null,
+            "url": "https://www.facebook.com/groups/132851767828/posts/10164490679102829/",
+            "domain": "www.facebook.com"
+           },
+           {
+            "type": "link_element",
+            "title": "Deception: Murder in Hong Kong",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=q5HIX0XiWEw",
+            "domain": "www.youtube.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=NTt6BzKdeDw&t=125",
+            "title": "Like Clue? Try These Games! Board Game Recommendations",
+            "text": "Like Clue? Try These Games! Board Game Recommendations for anybody that's here that hasn't played any other board games other than..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Facebook",
+            "domain": "www.facebook.com",
+            "url": "https://www.facebook.com/groups/132851767828/posts/10164490679102829/",
+            "title": "What are adult board games like Clue for low player count? - Facebook",
+            "text": "Mysterium, better with a 5+ players, similar idea to Clue Alchemists or Cryptid - if solving a logic puzzle is your favorite thing..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=q5HIX0XiWEw&t=22",
+            "title": "10 Board Games Better Than Clue (Cluedo)",
+            "text": "10 Board Games Better Than Clue (Cluedo) hello welcome to Board Game Bonkers i'm J Sears and today we're going to take a look at 1..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/boardgames/comments/5fo7uy/whats_a_good_board_game_similar_to_clue/",
+            "title": "What's a good board game similar to Clue? : r/boardgames - Reddit",
+            "text": "saladinzero • 10y ago 221B Baker Street is pretty close. You travel around the board piecing together clues to solve a murder. JamieLoud • 10y ago Just picked up s..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BoardGameGeek",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/video/146460/clue/10-games-better-than-clue-with-tom-vasel",
+            "title": "10 Games Better Than Clue - with Tom Vasel | Video",
+            "text": "10 Games Better Than Clue - with Tom Vasel is. okay so what What kind of. games. might be better than Clue. well first of all let'"
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_video_element",
+          "position": "left",
+          "title": "10 Board Games Better Than Clue (Cluedo)",
+          "snippet": "12m",
+          "url": "https://www.youtube.com/watch?v=q5HIX0XiWEw&t=22",
+          "domain": "www.youtube.com",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkgGsMt3E5ooXleny1P0SKUJOxff7acYUSoTyXnyPi2HNTAu6K",
+          "source": "YouTube",
+          "date": "2 years ago",
+          "timestamp": "2024-10-19 03:41:29 +00:00"
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Check out this video overview for a visual breakdown of top detective and deduction games like Clue: 12m 10 Board Games Better Than Clue (Cluedo) 1.7K views · 2 years ago YouTube · Board Game Bonkers",
+          "markdown": "Check out this video overview for a visual breakdown of top detective and deduction games like Clue:\n\n![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkgGsMt3E5ooXleny1P0SKUJOxff7acYUSoTyXnyPi2HNTAu6K)\n12m\n[](https://www.youtube.com/watch?v=q5HIX0XiWEw&t=22) 10 Board Games Better Than Clue (Cluedo)1.7K views  · 2 years ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · Board Game Bonkers",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "If you'd like to narrow down the list, tell me:How many players typically join your game nights?\nDo you prefer competitive or cooperative games?\nAre you looking for something simple like Clue or more complex/strategy-heavy ?",
+          "markdown": "If you'd like to narrow down the list, tell me:\n\n- **How many players** typically join your game nights?\n- Do you prefer **competitive** or **cooperative** games?\n- Are you looking for something **simple like Clue** or **more complex/strategy-heavy**?",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Reddit",
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/boardgames/comments/5fo7uy/whats_a_good_board_game_similar_to_clue/",
+          "title": "What's a good board game similar to Clue? : r/boardgames - Reddit",
+          "text": "saladinzero • 10y ago 221B Baker Street is pretty close. You travel around the board piecing together clues to solve a murder. JamieLoud • 10y ago Just picked up s..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "BGG",
+          "domain": "boardgamegeek.com",
+          "url": "https://boardgamegeek.com/thread/3607064/best-board-games-like-clue",
+          "title": "Best board games like Clue - BoardGameGeek",
+          "text": "Other Recommended Games: Additional games that share mechanics or a similar 'Clue mystery vibe' include Love Letter (hidden identity), 13 Clues, Awkward Guests: Th..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "YouTube",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=NTt6BzKdeDw&t=125",
+          "title": "Like Clue? Try These Games! Board Game Recommendations",
+          "text": "Like Clue? Try These Games! Board Game Recommendations for anybody that's here that hasn't played any other board games other than Clue. and you've played it a tho"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "What's a good board game similar to Clue? : r/boardgames",
+        "url": "https://www.reddit.com/r/boardgames/comments/5fo7uy/whats_a_good_board_game_similar_to_clue/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "40+ comments  ·  9 years ago",
+        "website_name": "Reddit · r/boardgames",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Mystery of the Abbey is the most popular. Perfect Alibi and Sleuth are both logic puzzles like Clue but harder. Mysterium and Kill Doctor Lucky ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Mystery of the Abbey is the most popular"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Replacement for Clue : r/boardgames",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/1n3rz1q/replacement_for_clue/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Clue/Cluedo or an alternative? : r/boardgames",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/l453vt/cluecluedo_or_an_alternative/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+clue+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnv8tAn_iu9hex21CMKkZ7NDjFpI-Q:1792381288654&sa=X&ved=2ahUKEwj6kIzQlMWXAxWbLUQIHbt7HV8QrQIoAnoECCwQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+        "domain": "www.youtube.com",
+        "title": "7 Games To Try If You Like Clue",
+        "url": "https://www.youtube.com/watch?v=6nvExyMiPZg",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "3K+ views  ·  1 year ago",
+        "website_name": "YouTube · BoardGameCo",
+        "is_image": false,
+        "is_video": true,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_video"
+        ],
+        "description": null,
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-02-09 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Best board games like Clue",
+        "url": "https://boardgamegeek.com/thread/3607064/best-board-games-like-clue",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › ... › Need Help?",
+        "website_name": "BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Nov 7, 2025 — Chronicles of Crime is a fun cooperative game in which you work together to solve crimes. There have been several spin off games that have ... Read more",
+        "pre_snippet": "11/07/2025 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Chronicles of Crime"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Games like clue - BoardGameGeek",
+          "description": null,
+          "url": "https://boardgamegeek.com/thread/2997240/games-like-clue",
+          "domain": "boardgamegeek.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Games like Clue but actually good. I cannot handle one more ...",
+          "description": null,
+          "url": "https://boardgamegeek.com/thread/2292684/games-like-clue-but-actually-good-i-cannot-handle",
+          "domain": "boardgamegeek.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from boardgamegeek.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+clue+site:boardgamegeek.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnv8tAn_iu9hex21CMKkZ7NDjFpI-Q:1792381288654&sa=X&ved=2ahUKEwj6kIzQlMWXAxWbLUQIHbt7HV8QrQIoAnoECCsQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-11-07 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What board games are similar to Clue?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Why did Mrs. White get removed from Clue?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Is there an adult version of Clue?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What's the best version of Clue?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+        "domain": "www.amazon.com",
+        "title": "Board Games Like Clue",
+        "url": "https://www.amazon.com/board-games-like-clue/s?k=board+games+like+clue",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.amazon.com › board-games-like-clue › k=b...",
+        "website_name": "Amazon.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Clue Escape: The World's Fair Board Game | Escape Room 1-Time Solve Mystery Games | Ages 10+ | 1 to 6 Players | 90 - 120 Mins.| Family Games. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Clue Escape: The World's Fair Board Game"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.amazon.com/board-games-like-clue/s?k=board+games+like+clue#:~:text=Clue%20Escape%3A%20The%20World's%20Fair,-%20120%20Mins.%7C%20Family%20Games",
+          "domain": "www.amazon.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What board game is similar to Clue with a modern twist?",
+        "url": "https://www.facebook.com/groups/theboardgamegroup/posts/7463586913695263/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "20+ comments  ·  2 years ago",
+        "website_name": "Facebook · THE BOARDGAME GROUP",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "The game you're likely thinking of is \"Carcassonne,\" known for its chunky meeples and sometimes packaged in a white box. •. Need ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Other detective games like Clue and Deception? - Facebook",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10157862148412829/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What are adult board games like Clue for low player count?",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10164490679102829/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.facebook.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+clue+site:www.facebook.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnv8tAn_iu9hex21CMKkZ7NDjFpI-Q:1792381288654&sa=X&ved=2ahUKEwj6kIzQlMWXAxWbLUQIHbt7HV8QrQIoAnoECEMQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+        "domain": "no-rolls-barred.fandom.com",
+        "title": "10 Board Games Like Cluedo But BETTER",
+        "url": "https://no-rolls-barred.fandom.com/wiki/10_Board_Games_Like_Cluedo_But_BETTER",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://no-rolls-barred.fandom.com › wiki › 10_Board_G...",
+        "website_name": "No Rolls Barred Wiki",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Mystery of the Abbey · Watson & Holmes · Alchemists · Tragedy Looper · Mysterium Park · Treasure Island · First Contact · Cryptid ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Mystery of the Abbey"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://no-rolls-barred.fandom.com/wiki/10_Board_Games_Like_Cluedo_But_BETTER#:~:text=Mystery%20of%20the%20Abbey&text=Watson%20%26%20Holmes&text=Alchemists&text=Tragedy%20Looper&text=Mysterium%20Park&text=Treasure%20Island&text=First%20Contact&text=Cryptid",
+          "domain": "no-rolls-barred.fandom.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+        "domain": "www.donteatthemeeples.com",
+        "title": "10 games like Clue - by Matt Montgomery",
+        "url": "https://www.donteatthemeeples.com/10-games-like-clue/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.donteatthemeeples.com › 10-games-like-clue",
+        "website_name": "Don't Eat the Meeples",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Mar 23, 2023 — Sleuth is exactly what you're looking for. It's a game purely about logic and deduction in which players compete to be the first to correctly ... Read more",
+        "pre_snippet": "03/23/2023 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Sleuth"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.donteatthemeeples.com/10-games-like-clue/#:~:text=Sleuth%20is%20exactly%20what%20you're,is%20missing%20from%20the%20game.",
+          "domain": "www.donteatthemeeples.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2023-03-23 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[16]/div[1]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "10 Games Better Than Clue - with Tom Vasel | Video",
+        "url": "https://boardgamegeek.com/video/146460/clue/10-games-better-than-clue-with-tom-vasel",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com · Feb 6, 2019",
+        "website_name": "BoardGameGeek · The Dice Tower",
+        "is_image": false,
+        "is_video": true,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_video"
+        ],
+        "description": "I think the only thing that comes close to Clue is Whodunit, which breaks down each item (suspect, weapon and location) into descriptors. Whodunit has wonderful ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Whodunit"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2019-02-06 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[18]/div[1]/div[1]",
+        "domain": "herefor.games",
+        "title": "Games like Cludeo / Clue – Here for Games Knowledge",
+        "url": "https://herefor.games/knowledge/games-like-cludeo/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://herefor.games › knowledge › games-like-cludeo",
+        "website_name": "Here for Games",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Nov 24, 2025 — Just Deduction · Treasure Island you are looking for a pirate location or · Cryptid you are looking for monsters. Both games use logic for ... Read more",
+        "pre_snippet": "11/24/2025 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Just Deduction"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://herefor.games/knowledge/games-like-cludeo/#:~:text=Just%20Deduction&text=Treasure%20Island%20you%20are%20looking,you%20are%20looking%20for%20monsters.&text=Cryptid%20you%20are%20looking%20for,are%20NOT%20near%20a%20volcano.",
+          "domain": "herefor.games"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-11-24 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Board games like clue",
+         "Games like clue reddit",
+         "Games like clue for adults",
+         "Games like Clue online",
+         "Games like Clue online free",
+         "Games like Clue on Steam",
+         "Games like Clue for 2 players",
+         "Old game similar to clue"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

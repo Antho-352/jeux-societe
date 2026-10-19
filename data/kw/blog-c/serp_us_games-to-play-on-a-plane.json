@@ -1,0 +1,743 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.2416 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190344-2588-0139-0000-0f0be78ba1f8",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.1917 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "games to play on a plane",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "games to play on a plane",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=games%20to%20play%20on%20a%20plane&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:44:07 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "related_searches"
+      ],
+      "se_results_count": 118,
+      "pages_count": 1,
+      "items_count": 12,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "The best games to play on a plane depend on whether you want to play on a mobile device, a handheld console, or with `physical board and card games that fit perfectly on an airplane tray table`.\n\n### 📱 Mobile Games (No Wi-Fi Required)\n\nMake sure to download these and open them at least once before you lose internet access.\n\n- **Deep Strategy & RPGs:** \n\t- Hades (Available via Netflix Games offline): A fast-paced, highly addictive roguelike action RPG.\n\t- **Vampire Survivors** : A pixel-art roguelike RPG where you fight off thousands of monsters; runs fly by.\n\t- **Medieval II: Total War** : A deep strategy game featuring massive campaign management.[[1]](https://apps.apple.com/us/iphone/story/id1246442444)[[2]](https://www.g2a.com/news/features/games-to-play-on-a-plane-without-wi-fi/)[[3]](https://apps.apple.com/lt/story/id1246442444)[[4]](https://www.skillsearch.com/news/item/5-must-have-mobile-games-for-plane-journeys)\n- **Cozy & Casual Strategy:** \n\t- **Good Pizza, Great Pizza** : A charming, low-stress cooking and business simulator.\n\t- **Bloons TD 6** : An endless tower defense game with escalating difficulty that is perfect for long flights.\n\t- **Plague Inc.** : A strategic virus simulator where runs last 30 to 45 minutes.[[1]](https://www.skillsearch.com/news/item/5-must-have-mobile-games-for-plane-journeys)[[2]](https://apps.apple.com/us/iphone/story/id1246442444)[[3]](https://www.reddit.com/r/CozyGamers/comments/17co1os/games_to_play_on_a_plane_flight/)\n- **Puzzles & Brain Teasers:** \n\t- **Wordscapes** : Excellent for classic crossword and anagram puzzles.\n\t- **Blackbox** : A unique puzzle game that leverages your phone's sensors rather than just screen taps.[[1]](https://apps.apple.com/lt/story/id1246442444)[[2]](https://apps.apple.com/us/iphone/story/id1246442444)\n\n### 🎲 Compact Board & Card Games (Tray-Table Friendly)\nThese games have a tiny footprint, minimal pieces that won't roll away, and fit easily into a carry-on.\n\n- **Solo Play:** \n\t- **Mint Works** : A worker-placement game packaged entirely inside a tiny mint tin.\n\t- **Railroad Ink** : A \"roll-and-write\" puzzle where you draw transit lines on a erasable board.\n\t- **Palm Island** : A clever card game that you play entirely in the palm of your hand without needing a table at all.[[1]](https://www.facebook.com/groups/132851767828/posts/10164461977657829/)[[2]](https://boardgamegeek.com/thread/3136470/looking-for-a-game-that-can-fit-on-an-airplane-tra)[[3]](https://www.instagram.com/reel/DOjdu7AkjB6/)\n- **For 2 Players:** \n\t- **Hive Pocket** : A strategic tile-placement game resembling chess but with insects. The \"Pocket\" version is small and the heavy tiles won't fly away if there's turbulence.\n\t- **Monopoly Deal** : A fast-paced, 20-minute card version of Monopoly that requires far less space than the original board.\n\t- **Love Letter** : A micro-card game of deduction and risk that uses only a handful of cards.\n\t- **Tussie Mussie** : A beautiful, compact 18-card game based on Victorian flower gifting.[[1]](https://www.youtube.com/watch?v=EfAj3cVZtxY&t=4)[[2]](https://www.facebook.com/groups/132851767828/posts/10164461977657829/)[[3]](https://www.instagram.com/reel/DOjdu7AkjB6/)\n\n### 🎮 Handheld Consoles (Nintendo Switch / Steam Deck)\nIf you are traveling with a dedicated gaming device, these titles are renowned flight time-killers:\n\n- **The Legend of Zelda: Breath of the Wild / Tears of the Kingdom** : Massively immersive open worlds that will make a 10-hour flight feel like two hours.\n- **Stardew Valley** : The ultimate cozy farming simulator to manage crops, mine, and fish at your own pace.\n- **Super Mario Odyssey** : A vibrant, joyful 3D platformer packed with secrets to collect.\n- **Balatro** : A poker-themed roguelike deck builder that is incredibly difficult to put down once you start.[[1]](https://www.quora.com/What-are-some-good-games-to-play-on-airplanes)[[2]](https://www.reddit.com/r/CozyGamers/comments/17co1os/games_to_play_on_a_plane_flight/)",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "The best games to play on a plane depend on whether you want to play on a mobile device, a handheld console, or with physical board and card games that fit perfectly on an airplane tray table.",
+          "markdown": "The best games to play on a plane depend on whether you want to play on a mobile device, a handheld console, or with `physical board and card games that fit perfectly on an airplane tray table`.",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "📱 Mobile Games (No Wi-Fi Required)",
+          "text": "Make sure to download these and open them at least once before you lose internet access.",
+          "markdown": "Make sure to download these and open them at least once before you lose internet access.",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Deep Strategy & RPGs: Hades (Available via Netflix Games offline): A fast-paced, highly addictive roguelike action RPG. Hades Hades Vampire Survivors : A pixel-art roguelike RPG where you fight off thousands of monsters; runs fly by. Vampire Survivors Medieval II: Total War : A deep strategy game featuring massive campaign management. Medieval II: Total War Cozy & Casual Strategy: Good Pizza, Great Pizza : A charming, low-stress cooking and business simulator. Good Pizza, Great Pizza Bloons TD 6 : An endless tower defense game with escalating difficulty that is perfect for long flights. Bloons TD 6 Plague Inc. : A strategic virus simulator where runs last 30 to 45 minutes. Plague Inc. Puzzles & Brain Teasers: Wordscapes : Excellent for classic crossword and anagram puzzles. Wordscapes Blackbox : A unique puzzle game that leverages your phone's sensors rather than just screen taps. Blackbox",
+          "markdown": "- **Deep Strategy & RPGs:** \n\t- Hades (Available via Netflix Games offline): A fast-paced, highly addictive roguelike action RPG.\n\t- **Vampire Survivors** : A pixel-art roguelike RPG where you fight off thousands of monsters; runs fly by.\n\t- **Medieval II: Total War** : A deep strategy game featuring massive campaign management.[[1]](https://apps.apple.com/us/iphone/story/id1246442444)[[2]](https://www.g2a.com/news/features/games-to-play-on-a-plane-without-wi-fi/)[[3]](https://apps.apple.com/lt/story/id1246442444)[[4]](https://www.skillsearch.com/news/item/5-must-have-mobile-games-for-plane-journeys)\n- **Cozy & Casual Strategy:** \n\t- **Good Pizza, Great Pizza** : A charming, low-stress cooking and business simulator.\n\t- **Bloons TD 6** : An endless tower defense game with escalating difficulty that is perfect for long flights.\n\t- **Plague Inc.** : A strategic virus simulator where runs last 30 to 45 minutes.[[1]](https://www.skillsearch.com/news/item/5-must-have-mobile-games-for-plane-journeys)[[2]](https://apps.apple.com/us/iphone/story/id1246442444)[[3]](https://www.reddit.com/r/CozyGamers/comments/17co1os/games_to_play_on_a_plane_flight/)\n- **Puzzles & Brain Teasers:** \n\t- **Wordscapes** : Excellent for classic crossword and anagram puzzles.\n\t- **Blackbox** : A unique puzzle game that leverages your phone's sensors rather than just screen taps.[[1]](https://apps.apple.com/lt/story/id1246442444)[[2]](https://apps.apple.com/us/iphone/story/id1246442444)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Apple",
+            "domain": "apps.apple.com",
+            "url": "https://apps.apple.com/us/iphone/story/id1246442444",
+            "title": "‎Great Games for Airplane Mode ✈️ - App Store",
+            "text": "App Store Airplane Mode Games: Good Pizza, Great Pizza (simulator); Wordscapes (crossword); Blackbox (touchless); Automatoys; Retr..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "G2A",
+            "domain": "www.g2a.com",
+            "url": "https://www.g2a.com/news/features/games-to-play-on-a-plane-without-wi-fi/",
+            "title": "Games to Play on a Plane Without Wi-Fi",
+            "text": "Games to Play on a Plane Without Wi-Fi * Hades Release date: 2020-09-17 Genre: Adventure & Role-playing (RPG) & Hack and slash/Bea..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Apple",
+            "domain": "apps.apple.com",
+            "url": "https://apps.apple.com/lt/story/id1246442444",
+            "title": "‎10 great games for Airplane Mode - App Store",
+            "text": "App Store Airplane Mode Games: Good Pizza, Great Pizza (Pizza Simulator); Offline Games - No Wifi Games (brain train minigames); W..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Skillsearch",
+            "domain": "www.skillsearch.com",
+            "url": "https://www.skillsearch.com/news/item/5-must-have-mobile-games-for-plane-journeys",
+            "title": "5 MUST HAVE Mobile Games For Plane Journeys | Skillsearch",
+            "text": "Recommended offline mobile games for flights: Plague (Ndemic Creations): Virus strategy, highly replayable, 30-45 minute runs. Blo..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/CozyGamers/comments/17co1os/games_to_play_on_a_plane_flight/",
+            "title": "Games to play on a plane flight? : r/CozyGamers - Reddit",
+            "text": "Match 3 meets solitaire with a really cute art style and a nice upgrade system to keep you hooked. Dicey Elementalist A really awe..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "🎲 Compact Board & Card Games (Tray-Table Friendly)",
+          "text": "These games have a tiny footprint, minimal pieces that won't roll away, and fit easily into a carry-on.",
+          "markdown": "These games have a tiny footprint, minimal pieces that won't roll away, and fit easily into a carry-on.",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Solo Play: Mint Works : A worker-placement game packaged entirely inside a tiny mint tin. Mint Works Railroad Ink : A \"roll-and-write\" puzzle where you draw transit lines on a erasable board. Railroad Ink Palm Island : A clever card game that you play entirely in the palm of your hand without needing a table at all. Palm Island For 2 Players: Hive Pocket : A strategic tile-placement game resembling chess but with insects. The \"Pocket\" version is small and the heavy tiles won't fly away if there's turbulence. Hive Pocket Monopoly Deal : A fast-paced, 20-minute card version of Monopoly that requires far less space than the original board. Monopoly Deal Love Letter : A micro-card game of deduction and risk that uses only a handful of cards. Love Letter Tussie Mussie : A beautiful, compact 18-card game based on Victorian flower gifting. Tussie Mussie",
+          "markdown": "- **Solo Play:** \n\t- **Mint Works** : A worker-placement game packaged entirely inside a tiny mint tin.\n\t- **Railroad Ink** : A \"roll-and-write\" puzzle where you draw transit lines on a erasable board.\n\t- **Palm Island** : A clever card game that you play entirely in the palm of your hand without needing a table at all.[[1]](https://www.facebook.com/groups/132851767828/posts/10164461977657829/)[[2]](https://boardgamegeek.com/thread/3136470/looking-for-a-game-that-can-fit-on-an-airplane-tra)[[3]](https://www.instagram.com/reel/DOjdu7AkjB6/)\n- **For 2 Players:** \n\t- **Hive Pocket** : A strategic tile-placement game resembling chess but with insects. The \"Pocket\" version is small and the heavy tiles won't fly away if there's turbulence.\n\t- **Monopoly Deal** : A fast-paced, 20-minute card version of Monopoly that requires far less space than the original board.\n\t- **Love Letter** : A micro-card game of deduction and risk that uses only a handful of cards.\n\t- **Tussie Mussie** : A beautiful, compact 18-card game based on Victorian flower gifting.[[1]](https://www.youtube.com/watch?v=EfAj3cVZtxY&t=4)[[2]](https://www.facebook.com/groups/132851767828/posts/10164461977657829/)[[3]](https://www.instagram.com/reel/DOjdu7AkjB6/)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Facebook",
+            "domain": "www.facebook.com",
+            "url": "https://www.facebook.com/groups/132851767828/posts/10164461977657829/",
+            "title": "What are your top suggestions for games to play on an airplane?",
+            "text": "2+ - Shallow Regrets (1+ with the Frode expansion) - Sea Salt & Paper - Love Letter - Tussie Mussie (1+ with Complete Collection) ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BGG",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/thread/3136470/looking-for-a-game-that-can-fit-on-an-airplane-tra",
+            "title": "Looking for a game that can fit on an airplane tray - BoardGameGeek",
+            "text": "Designer @debelbot @debelbot Aug 15, 2023 Are you playing solo or with someone sitting next to you? For solo: Mint Works - tiny bo..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Instagram",
+            "domain": "www.instagram.com",
+            "url": "https://www.instagram.com/reel/DOjdu7AkjB6/",
+            "title": "Games For Air Travel 1-2 players, fits on a tray table, fits in our luggage. Oh ...",
+            "text": "Games For Air Travel 1-2 players, fits on a tray table, fits in our luggage. Oh yeah, they gotta be fun too @giiker_official @giik..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=EfAj3cVZtxY&t=4",
+            "title": "Game Like a Mother Top Ten August 2022: Airplane Travel Games for ...",
+            "text": "Game Like a Mother Top Ten August 2022: Airplane Travel Games for Adults hi i'm anne from game like a mother i specialize in games..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "🎮 Handheld Consoles (Nintendo Switch / Steam Deck)",
+          "text": "If you are traveling with a dedicated gaming device, these titles are renowned flight time-killers:",
+          "markdown": "If you are traveling with a dedicated gaming device, these titles are renowned flight time-killers:",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "The Legend of Zelda: Breath of the Wild / Tears of the Kingdom : Massively immersive open worlds that will make a 10-hour flight feel like two hours. The Legend of Zelda: Breath of the Wild / Tears of the Kingdom / Tears of the Kingdom Stardew Valley : The ultimate cozy farming simulator to manage crops, mine, and fish at your own pace. Stardew Valley Super Mario Odyssey : A vibrant, joyful 3D platformer packed with secrets to collect. Super Mario Odyssey Balatro : A poker-themed roguelike deck builder that is incredibly difficult to put down once you start. Balatro",
+          "markdown": "- **The Legend of Zelda: Breath of the Wild / Tears of the Kingdom** : Massively immersive open worlds that will make a 10-hour flight feel like two hours.\n- **Stardew Valley** : The ultimate cozy farming simulator to manage crops, mine, and fish at your own pace.\n- **Super Mario Odyssey** : A vibrant, joyful 3D platformer packed with secrets to collect.\n- **Balatro** : A poker-themed roguelike deck builder that is incredibly difficult to put down once you start.[[1]](https://www.quora.com/What-are-some-good-games-to-play-on-airplanes)[[2]](https://www.reddit.com/r/CozyGamers/comments/17co1os/games_to_play_on_a_plane_flight/)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Quora",
+            "domain": "www.quora.com",
+            "url": "https://www.quora.com/What-are-some-good-games-to-play-on-airplanes",
+            "title": "What are some good games to play on airplanes?",
+            "text": "What are some good games to play on airplanes? * Based on my experiences, I found that the best kind of game to play on a plane is..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/CozyGamers/comments/17co1os/games_to_play_on_a_plane_flight/",
+            "title": "Games to play on a plane flight? : r/CozyGamers - Reddit",
+            "text": "Match 3 meets solitaire with a really cute art style and a nice upgrade system to keep you hooked. Dicey Elementalist A really awesome deck building RPG game with ..."
+           }
+          ]
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Reddit",
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/CozyGamers/comments/17co1os/games_to_play_on_a_plane_flight/",
+          "title": "Games to play on a plane flight? : r/CozyGamers - Reddit",
+          "text": "Match 3 meets solitaire with a really cute art style and a nice upgrade system to keep you hooked. Dicey Elementalist A really awesome deck building RPG game with ..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Apple",
+          "domain": "apps.apple.com",
+          "url": "https://apps.apple.com/us/iphone/story/id1246442444",
+          "title": "‎Great Games for Airplane Mode ✈️ - App Store",
+          "text": "App Store Airplane Mode Games: Good Pizza, Great Pizza (simulator); Wordscapes (crossword); Blackbox (touchless); Automatoys; Retro Bowl (football); Vampire Surviv..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Facebook",
+          "domain": "www.facebook.com",
+          "url": "https://www.facebook.com/groups/132851767828/posts/10164461977657829/",
+          "title": "What are your top suggestions for games to play on an airplane?",
+          "text": "2+ - Shallow Regrets (1+ with the Frode expansion) - Sea Salt & Paper - Love Letter - Tussie Mussie (1+ with Complete Collection) - Dnup - Order Overload: Cafe 2"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+        "domain": "www.beaches.com",
+        "title": "10 Fun Games For Kids While On A Plane",
+        "url": "https://www.beaches.com/blog/games-for-kids-on-a-plane/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.beaches.com › blog › games-for-kids-on-a-...",
+        "website_name": "Beaches® Resorts",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Mar 17, 2025 — 1. Mobile games on a phone or tablet · 2. Pen and paper games · 3. Memory games · 4. Language and word games · 5. Magnetic board games · 6. Quizzes. Read more",
+        "pre_snippet": "03/17/2025 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1. Mobile games on a phone or tablet"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.beaches.com/blog/games-for-kids-on-a-plane/#:~:text=1.%20Mobile%20games%20on%20a,phone%20or%20tablet&text=2.%20Pen%20and%20paper%20games&text=3.%20Memory%20games&text=4.%20Language%20and%20word%20games&text=5.%20Magnetic%20board%20games&text=6.%20Quizzes",
+          "domain": "www.beaches.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-03-17 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What games can you play on aeroplane mode?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What to do on a 4 hour flight?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "How do I entertain myself on a plane?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Is there a game where you can fly a plane?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Best game for air travel? : r/iosgaming",
+        "url": "https://www.reddit.com/r/iosgaming/comments/140co6b/best_game_for_air_travel/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "20+ comments  ·  3 years ago",
+        "website_name": "Reddit · r/iosgaming",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "I’ll be on an 11-hour plane ride tomorrow. What are your recommendations?\n\nEdit: I have an iPad Pro and a PS5 controller",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Game suggestions for a long haul flight : r ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/AndroidGaming/comments/102doqx/game_suggestions_for_a_long_haul_flight/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "games to play on airplane? : r/gamingsuggestions ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/gamingsuggestions/comments/1gfev6u/games_to_play_on_airplane/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+to+play+on+a+plane+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQntryq1dBHC5_hSjS_XIxQ_FzdE_Ng:1792381446270&sa=X&ved=2ahUKEwjgq6CblcWXAxVbC3kGHYwlCCYQrQIoAnoECCwQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "Hello! What games do you recommend for playing in travel ...",
+        "url": "https://www.facebook.com/groups/Quest2Community/posts/1669052950907761/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "10+ comments  ·  6 months ago",
+        "website_name": "Facebook · Meta Quest 3 Community",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Hello! What games do you recommend for playing in travel mode on a plane?",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[8]/div[1]/div[1]/div[1]",
+        "domain": "www.tiktok.com",
+        "title": "Best Flight Games for Your Next Travel Adventure",
+        "url": "https://www.tiktok.com/@the_gretaway/video/7562437814210530578",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "2.7K+ views  ·  1 year ago",
+        "website_name": "TikTok · Greta May",
+        "is_image": false,
+        "is_video": true,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_video"
+        ],
+        "description": "Discover the best flight games to enjoy while traveling! Perfect for your next vacation. #travelday #flight #game. Keywords: best flight game ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "best flight games"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-10-19 03:44:07 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[10]/div[1]/div[1]",
+        "domain": "www.lemon8-app.com",
+        "title": "Best Offline Games for Flights (No Wi‑Fi Needed)",
+        "url": "https://www.lemon8-app.com/experience/best-travel-friendly-games-to-play-on-airplanes?region=us",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.lemon8-app.com › experience › best-travel-...",
+        "website_name": "Lemon8",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "May 20, 2026 — These are my absolute go-to games for long flights when there's no Wi‑Fi—Water Sort, Like a Dino, plus Wordle and Word Search.",
+        "pre_snippet": "05/20/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "games"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-05-20 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[12]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What are the best games to play on an aeroplane?",
+        "url": "https://www.facebook.com/groups/Quest2Community/posts/1414686529677739/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "1 year ago",
+        "website_name": "Facebook · Meta Quest 3 Community",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Super 3D Airplane Flight Simulator-Pro Pilot airplane flight game 2020 or jet airplane flying rescue game in an advance multi-level fly Jet  ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Super 3D Airplane Flight Simulator-Pro Pilot"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[14]/div[1]/div[1]",
+        "domain": "gamefaqs.gamespot.com",
+        "title": "Best PC Games to play on an Airplane (no mouse) - GameFAQs",
+        "url": "https://gamefaqs.gamespot.com/boards/916373-pc/80110998",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://gamefaqs.gamespot.com › ... › Hardware › Console",
+        "website_name": "GameFAQs",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jul 29, 2022 — I have Terraria and Worms Armageddon. The final fantasy pixel remasters and other old school rpgs are great for that. Civilisation or one of ...",
+        "pre_snippet": "07/29/2022 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Terraria and Worms Armageddon"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2022-07-29 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[16]/div[1]/div[1]",
+        "domain": "www.ticstacktoe.com",
+        "title": "Best Games to Play on a Plane That the Whole Family Will ...",
+        "url": "https://www.ticstacktoe.com/blogs/news/best-games-to-play-on-a-plane",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.ticstacktoe.com › News",
+        "website_name": "Tic STACK Toe",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jun 5, 2026 — Classic choices like tic-tac-toe, UNO, checkers, and card games remain popular for a reason. They're simple, familiar, and enjoyable for ...",
+        "pre_snippet": "06/05/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Classic choices like tic-tac-toe, UNO, checkers, and card games"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-06-05 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[18]/div[1]/div[1]",
+        "domain": "www.cheapassgamer.com",
+        "title": "Airplane friendly multiplayer games.",
+        "url": "https://www.cheapassgamer.com/threads/airplane-friendly-multiplayer-games.198700/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.cheapassgamer.com › ... › Video Game Talk",
+        "website_name": "Cheap Ass Gamer",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jul 15, 2009 — We already have a few: Mario Kart - easily our favorite but there's only so many multiplayer stages. NSMB - it's kinda fun but not something we ... Read more",
+        "pre_snippet": "07/15/2009 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Mario Kart"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.cheapassgamer.com/threads/airplane-friendly-multiplayer-games.198700/#:~:text=We%20already%20have%20a%20few%3A,play%20for%20a%20long%20time.",
+          "domain": "www.cheapassgamer.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2009-07-15 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Free games to play on a plane",
+         "Games to play on a plane without wifi",
+         "Video game games to play on a plane",
+         "Games to play on airplane for adults",
+         "Games to play on a plane xbox",
+         "Games to play on airplane with friends",
+         "Android games to play on a plane",
+         "Airplane games"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

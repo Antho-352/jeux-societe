@@ -1,0 +1,766 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "2.7050 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190342-2588-0139-0000-ed2d3cf74a2f",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "2.6265 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "games like cards against humanity",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "games like cards against humanity",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=games%20like%20cards%20against%20humanity&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:42:21 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "related_searches"
+      ],
+      "se_results_count": 181,
+      "pages_count": 1,
+      "items_count": 12,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "Popular games similar to Cards Against Humanity include `matching, voting, and improv party games` ranging from adult-only humor to family-friendly fun.[[1]](https://www.quora.com/Are-there-any-card-party-games-similar-to-Cards-Against-Humanity-that-are-more-family-friendly-or-PG-13)[[2]](https://www.reddit.com/r/cardgames/comments/1ansdzq/games_like_cards_against_humanity/)\n\n### Adult & Edgy Humor Games\n\n- **What Do You Meme?** : Players pair caption cards with viral photo cards to make the funniest joke for a rotating judge.\n- **Joking Hazard** : Created by the makers of *Cyanide & Happiness* , this game has players build funny, raunchy three-panel comic strips.\n- **Superfight** : A debate game where players pitch ridiculous character and superpower combinations to fight each other.\n- **Ransom Notes** : Players build funny responses out of individual word magnet-style or printed word cards.\n- **Crabs Adjust Humidity** : A popular third-party, unofficial expansion pack and standalone-style clone made to blend right into your collection.[[1]](https://davincisroom.com/blogs/news/games-like-cards-against-humanity)[[2]](https://www.reddit.com/r/cardgames/comments/1ansdzq/games_like_cards_against_humanity/)[[3]](https://www.amazon.com/clp/B004S8F7QM)[[4]](https://whodaresrolls.com/cards-against-humanity-is-shit-here-are-better-alternatives/)[[5]](https://www.facebook.com/groups/132851767828/posts/10162794010312829/)\n\n### Family-Friendly & PG-13 Alternatives\n\n- **Apples to Apples** : The classic family card game that inspired Cards Against Humanity, using clever and wacky word comparisons instead of crude humor.\n- **Snake Oil** : Players combine two random product cards to invent a crazy item and pitch/sell it to a reluctant customer.\n- **Say Anything** : A party game where a judge asks a question, everyone writes an answer, and players guess or vote on the judge's favorite.\n- **Fun Employed** : A hilarious interview game where players use random qualification cards to land a bizarre job.[[1]](https://www.youtube.com/watch?v=3lmZDkejJxY&t=41)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:17550480694654850359,catalogid:5681034262307478518,gpcid:16328728750519231127,mid:576462810688864639&ibp=oshop)[[3]](https://davincisroom.com/blogs/news/games-like-cards-against-humanity)[[4]](https://www.quora.com/Are-there-any-card-party-games-similar-to-Cards-Against-Humanity-that-are-more-family-friendly-or-PG-13)[[5]](https://www.reddit.com/r/cardgames/comments/1ansdzq/games_like_cards_against_humanity/)\n\nIf you'd like to narrow down the list, let me know:\n\n- Who is playing? (adults only, teens, or mixed family)\n- Do you want something **crude and shocking** , or **clever and clean**?",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Popular games similar to Cards Against Humanity include matching, voting, and improv party games ranging from adult-only humor to family-friendly fun.",
+          "markdown": "Popular games similar to Cards Against Humanity include `matching, voting, and improv party games` ranging from adult-only humor to family-friendly fun.[[1]](https://www.quora.com/Are-there-any-card-party-games-similar-to-Cards-Against-Humanity-that-are-more-family-friendly-or-PG-13)[[2]](https://www.reddit.com/r/cardgames/comments/1ansdzq/games_like_cards_against_humanity/)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Quora",
+            "domain": "www.quora.com",
+            "url": "https://www.quora.com/Are-there-any-card-party-games-similar-to-Cards-Against-Humanity-that-are-more-family-friendly-or-PG-13",
+            "title": "Are there any card party games similar to Cards Against Humanity ... - Quora",
+            "text": "Alternative Game Options: Other family-friendly or PG-13 alternatives to Cards Against Humanity include Mad Libs: The Game (silly,"
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/cardgames/comments/1ansdzq/games_like_cards_against_humanity/",
+            "title": "Games like cards against humanity : r/cardgames - Reddit",
+            "text": "CAH-like Game Suggestions: Several games are recommended as alternatives to Cards Against Humanity, sharing similar humor and game..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Adult & Edgy Humor Games",
+          "text": "What Do You Meme? : Players pair caption cards with viral photo cards to make the funniest joke for a rotating judge. What Do You Meme? Joking Hazard : Created by the makers of Cyanide & Happiness, this game has players build funny, raunchy three-panel comic strips. Joking Hazard Superfight : A debate game where players pitch ridiculous character and superpower combinations to fight each other. Superfight Ransom Notes : Players build funny responses out of individual word magnet-style or printed word cards. Ransom Notes Crabs Adjust Humidity : A popular third-party, unofficial expansion pack and standalone-style clone made to blend right into your collection. Crabs Adjust Humidity",
+          "markdown": "- **What Do You Meme?** : Players pair caption cards with viral photo cards to make the funniest joke for a rotating judge.\n- **Joking Hazard** : Created by the makers of *Cyanide & Happiness* , this game has players build funny, raunchy three-panel comic strips.\n- **Superfight** : A debate game where players pitch ridiculous character and superpower combinations to fight each other.\n- **Ransom Notes** : Players build funny responses out of individual word magnet-style or printed word cards.\n- **Crabs Adjust Humidity** : A popular third-party, unofficial expansion pack and standalone-style clone made to blend right into your collection.[[1]](https://davincisroom.com/blogs/news/games-like-cards-against-humanity)[[2]](https://www.reddit.com/r/cardgames/comments/1ansdzq/games_like_cards_against_humanity/)[[3]](https://www.amazon.com/clp/B004S8F7QM)[[4]](https://whodaresrolls.com/cards-against-humanity-is-shit-here-are-better-alternatives/)[[5]](https://www.facebook.com/groups/132851767828/posts/10162794010312829/)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Da Vinci's Room",
+            "domain": "davincisroom.com",
+            "url": "https://davincisroom.com/blogs/news/games-like-cards-against-humanity",
+            "title": "15 Games Like Cards Against Humanity to Fill the Void in Your Heart",
+            "text": "If you want more Cards Against Humanity action then there are a few companies producing unofficial expansions and clone games. The..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/cardgames/comments/1ansdzq/games_like_cards_against_humanity/",
+            "title": "Games like cards against humanity : r/cardgames - Reddit",
+            "text": "CAH-like Game Suggestions: Several games are recommended as alternatives to Cards Against Humanity, sharing similar humor and game..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Amazon.com",
+            "domain": "www.amazon.com",
+            "url": "https://www.amazon.com/clp/B004S8F7QM",
+            "title": "Cards Against Humanity",
+            "text": "Cards Against Humanity * Go Fuck Yourself Go F Yourself! Grown Up Go Fish Card Game, Funny Gag Gift Card Deck | 52 Playing Card De..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Who Dares Rolls",
+            "domain": "whodaresrolls.com",
+            "url": "https://whodaresrolls.com/cards-against-humanity-is-shit-here-are-better-alternatives/",
+            "title": "Cards Against Humanity is Shit, Here are Better Alternatives - Who Dares Rolls",
+            "text": "Cards Against Humanity: Criticized as a lazy, repetitive game relying on basic shock value. The Metagame: Uses Opinions and Cultur..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Facebook",
+            "domain": "www.facebook.com",
+            "url": "https://www.facebook.com/groups/132851767828/posts/10162794010312829/",
+            "title": "What are similar games to Cards Against Humanity? - Facebook",
+            "text": "Game Recommendation: Ransom Notes: Ransom Notes is a highly recommended game similar to Cards Against Humanity, with many players ..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Family-Friendly & PG-13 Alternatives",
+          "text": "Apples to Apples : The classic family card game that inspired Cards Against Humanity, using clever and wacky word comparisons instead of crude humor. Apples to Apples Snake Oil : Players combine two random product cards to invent a crazy item and pitch/sell it to a reluctant customer. Snake Oil Say Anything : A party game where a judge asks a question, everyone writes an answer, and players guess or vote on the judge's favorite. Say Anything Fun Employed : A hilarious interview game where players use random qualification cards to land a bizarre job. Fun Employed",
+          "markdown": "- **Apples to Apples** : The classic family card game that inspired Cards Against Humanity, using clever and wacky word comparisons instead of crude humor.\n- **Snake Oil** : Players combine two random product cards to invent a crazy item and pitch/sell it to a reluctant customer.\n- **Say Anything** : A party game where a judge asks a question, everyone writes an answer, and players guess or vote on the judge's favorite.\n- **Fun Employed** : A hilarious interview game where players use random qualification cards to land a bizarre job.[[1]](https://www.youtube.com/watch?v=3lmZDkejJxY&t=41)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:17550480694654850359,catalogid:5681034262307478518,gpcid:16328728750519231127,mid:576462810688864639&ibp=oshop)[[3]](https://davincisroom.com/blogs/news/games-like-cards-against-humanity)[[4]](https://www.quora.com/Are-there-any-card-party-games-similar-to-Cards-Against-Humanity-that-are-more-family-friendly-or-PG-13)[[5]](https://www.reddit.com/r/cardgames/comments/1ansdzq/games_like_cards_against_humanity/)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=3lmZDkejJxY&t=41",
+            "title": "6 Alternative Games to Cards Against Humanity - Actualol",
+            "text": "6 Alternative Games to Cards Against Humanity - Actualol and now a welladjusted female will fall in love with. me. and our third a..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Google",
+            "domain": "www.google.com",
+            "url": "https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:17550480694654850359,catalogid:5681034262307478518,gpcid:16328728750519231127,mid:576462810688864639&ibp=oshop",
+            "title": "Mattel Apples to Apples",
+            "text": "This infamous wild card and party game provides instant fun for 4 to 10 players! It's as easy as \"comparing apples to apples\", too..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Da Vinci's Room",
+            "domain": "davincisroom.com",
+            "url": "https://davincisroom.com/blogs/news/games-like-cards-against-humanity",
+            "title": "15 Games Like Cards Against Humanity to Fill the Void in Your Heart",
+            "text": "If you want more Cards Against Humanity action then there are a few companies producing unofficial expansions and clone games. The original best selling clone is \""
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Quora",
+            "domain": "www.quora.com",
+            "url": "https://www.quora.com/Are-there-any-card-party-games-similar-to-Cards-Against-Humanity-that-are-more-family-friendly-or-PG-13",
+            "title": "Are there any card party games similar to Cards Against Humanity ... - Quora",
+            "text": "Alternative Game Options: Other family-friendly or PG-13 alternatives to Cards Against Humanity include Mad Libs: The Game (silly,"
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/cardgames/comments/1ansdzq/games_like_cards_against_humanity/",
+            "title": "Games like cards against humanity : r/cardgames - Reddit",
+            "text": "CAH-like Game Suggestions: Several games are recommended as alternatives to Cards Against Humanity, sharing similar humor and game..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "If you'd like to narrow down the list, let me know:Who is playing? (adults only, teens, or mixed family)\nDo you want something crude and shocking, or clever and clean ?",
+          "markdown": "If you'd like to narrow down the list, let me know:\n\n- Who is playing? (adults only, teens, or mixed family)\n- Do you want something **crude and shocking** , or **clever and clean**?",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Da Vinci's Room",
+          "domain": "davincisroom.com",
+          "url": "https://davincisroom.com/blogs/news/games-like-cards-against-humanity",
+          "title": "15 Games Like Cards Against Humanity to Fill the Void in Your Heart",
+          "text": "If you want more Cards Against Humanity action then there are a few companies producing unofficial expansions and clone games. The original best selling clone is \""
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Facebook",
+          "domain": "www.facebook.com",
+          "url": "https://www.facebook.com/groups/132851767828/posts/10162794010312829/",
+          "title": "What are similar games to Cards Against Humanity? - Facebook",
+          "text": "Game Recommendation: Ransom Notes: Ransom Notes is a highly recommended game similar to Cards Against Humanity, with many players suggesting it be played without a..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Who Dares Rolls",
+          "domain": "whodaresrolls.com",
+          "url": "https://whodaresrolls.com/cards-against-humanity-is-shit-here-are-better-alternatives/",
+          "title": "Cards Against Humanity is Shit, Here are Better Alternatives - Who Dares Rolls",
+          "text": "Cards Against Humanity: Criticized as a lazy, repetitive game relying on basic shock value. The Metagame: Uses Opinions and Culture cards for timeline guessing, qu..."
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+        "domain": "whodaresrolls.com",
+        "title": "Cards Against Humanity is Shit, Here are Better Alternatives",
+        "url": "https://whodaresrolls.com/cards-against-humanity-is-shit-here-are-better-alternatives/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://whodaresrolls.com › cards-against-humanity-is-s...",
+        "website_name": "Who Dares Rolls",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jan 2, 2016 — THE METAGAME · DIXIT · FANTASTIC STORYTELLING · GOD HATES CHARADES · THE MACHINE OF DEATH · SLASH · SUPERFIGHT · DR MAGNETHANDS. Read more",
+        "pre_snippet": "01/02/2016 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "THE METAGAME"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://whodaresrolls.com/cards-against-humanity-is-shit-here-are-better-alternatives/#:~:text=THE%20METAGAME&text=DIXIT&text=FANTASTIC%20STORYTELLING&text=GOD%20HATES%20CHARADES&text=THE%20MACHINE%20OF%20DEATH&text=SLASH&text=SUPERFIGHT&text=DR%20MAGNETHANDS",
+          "domain": "whodaresrolls.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2016-01-02 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What is a cheaper version of Cards Against Humanity?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some online games similar to Cards Against Humanity?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What is the adult version of Cards Against Humanity?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some alternative ways to play Cards Against Humanity?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Games like cards against humanity : r/cardgames",
+        "url": "https://www.reddit.com/r/cardgames/comments/1ansdzq/games_like_cards_against_humanity/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "7 comments  ·  2 years ago",
+        "website_name": "Reddit · r/cardgames",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Apples to Apples : This game is similar to Cards Against Humanity but with a more family-friendly approach. Players match noun cards to adjective ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Apples to Apples"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "What's your favorite party game (besides Cards Against ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/5iyums/whats_your_favorite_party_game_besides_cards/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What are similar party games to Cards Against Humanity?",
+          "description": null,
+          "url": "https://www.reddit.com/r/AskReddit/comments/7vtpe5/what_are_similar_party_games_to_cards_against/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+cards+against+humanity+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnsSL0HmQtwLNUCkQr3J7KCUhQBYeg:1792381339579&sa=X&ved=2ahUKEwj6tbDolMWXAxXfQ_EDHVsLIUAQrQIoAnoECCYQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+        "domain": "davincisroom.com",
+        "title": "15 Games Like Cards Against Humanity to Fill the Void in ...",
+        "url": "https://davincisroom.com/blogs/news/games-like-cards-against-humanity?srsltid=AU7gw4WBN_m0VKUoErM5e5ohWXv276N3rwgMTT8awjvyyG-50XyMuDiq",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://davincisroom.com › blogs › news › games-like-c...",
+        "website_name": "Da Vinci's Room",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Aug 20, 2024 — 2. Awkward Turtle 2 NSFW Edition (Direct From Us or ) ($15.00) · 3. Never Have I Ever ($25.00) · 4. Deck Around ($35.99) · 5. F**ktionary ($ ... Read more",
+        "pre_snippet": "08/20/2024 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "2. Awkward Turtle 2 NSFW Edition"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://davincisroom.com/blogs/news/games-like-cards-against-humanity?srsltid=AU7gw4WBN_m0VKUoErM5e5ohWXv276N3rwgMTT8awjvyyG-50XyMuDiq#:~:text=2.%20Awkward%20Turtle%202%20NSFW,)%20(%2415.00)&text=3.%20Never%20Have%20I%20Ever,(%2425.00)&text=4.%20Deck%20Around%20(%2435.99)&text=5.%20F**ktionary%20(%2425.00)",
+          "domain": "davincisroom.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2024-08-20 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What are similar games to Cards Against Humanity?",
+        "url": "https://www.facebook.com/groups/132851767828/posts/10162794010312829/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "80+ comments  ·  1 year ago",
+        "website_name": "Facebook · BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Hi. People who like Cards Against Humanity, what do you think are some similar games that bring the same fun?\n\nWe love CAH, but we've played it hundreds ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "What are some alternative party games to Cards Against ...",
+          "description": null,
+          "url": "https://www.facebook.com/groups/theboardgamegroup/posts/24096234976670528/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Games like Heard Mentality or Cards Against Humanity ...",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10162571255222829/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.facebook.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+cards+against+humanity+site:www.facebook.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnsSL0HmQtwLNUCkQr3J7KCUhQBYeg:1792381339579&sa=X&ved=2ahUKEwj6tbDolMWXAxXfQ_EDHVsLIUAQrQIoAnoECEQQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]",
+        "domain": "www.cardsagainsthumanity.com",
+        "title": "Cards Against Humanity: Home",
+        "url": "https://www.cardsagainsthumanity.com/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.cardsagainsthumanity.com",
+        "website_name": "Cards Against Humanity",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Cards Against Humanity is a fill-in-the-blank party game that turns your awkward personality and lackluster social skills into hours of fun!",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Cards Against Humanity"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]",
+        "domain": "www.youtube.com",
+        "title": "10 Great Party Games that aren't Cards Against Humanity",
+        "url": "https://www.youtube.com/watch?v=_MGmJmFBBHE",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "7.6K+ views  ·  3 years ago",
+        "website_name": "YouTube · Dicebreaker",
+        "is_image": false,
+        "is_video": true,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_video"
+        ],
+        "description": null,
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2022-11-26 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]",
+        "domain": "www.quora.com",
+        "title": "Are there any card party games similar to Cards Against ...",
+        "url": "https://www.quora.com/Are-there-any-card-party-games-similar-to-Cards-Against-Humanity-that-are-more-family-friendly-or-PG-13",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "30+ answers  ·  7 years ago",
+        "website_name": "Quora",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Are there any card party games similar to Cards Against Humanity that are more family friendly or PG-13?",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "33 answers",
+          "description": null,
+          "url": "https://www.quora.com/Are-there-any-card-party-games-similar-to-Cards-Against-Humanity-that-are-more-family-friendly-or-PG-13?top_ans=155708657",
+          "domain": "www.quora.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]",
+        "domain": "forum.rpg.net",
+        "title": "Online games similar to Cards Against Humanity, Joking ...",
+        "url": "https://forum.rpg.net/index.php?threads/online-games-similar-to-cards-against-humanity-joking-hazard-etc.923107/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://forum.rpg.net › ... › Video Games Open",
+        "website_name": "RPGnet",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Oct 11, 2024 — Jackbox Party Pack video games work remotely, as I recall, and have a similar vibe to tabletop party games. That might be worth looking into. Read more",
+        "pre_snippet": "10/11/2024 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Jackbox Party Pack video games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://forum.rpg.net/index.php?threads/online-games-similar-to-cards-against-humanity-joking-hazard-etc.923107/#:~:text=Jackbox%20Party%20Pack%20video%20games,might%20be%20worth%20looking%20into.",
+          "domain": "forum.rpg.net"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2024-10-11 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]",
+        "domain": "www.amazon.com",
+        "title": "Cards Against Humanity",
+        "url": "https://www.amazon.com/clp/B004S8F7QM",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.amazon.com › clp",
+        "website_name": "Amazon.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Hasbro Gaming Priorities Game | A Party Game of Absurd Choices | Hilarious Card Games for Adults and Teens | Ages 14+ | 2+ Players | 30 Mins. 600+ bought in ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Hasbro Gaming Priorities Game"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.amazon.com/clp/B004S8F7QM#:~:text=Hasbro%20Gaming%20Priorities%20Game%20%7C,600%2B%20bought%20in%20past%20week",
+          "domain": "www.amazon.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Games like cards against humanity online",
+         "Games like Cards Against Humanity for adults",
+         "Games like cards against humanity reddit",
+         "Free games like cards against humanity",
+         "Games like cards against humanity pdf",
+         "Game like Cards Against Humanity but family friendly",
+         "Games like Cards Against Humanity but clean",
+         "Joking Hazard"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

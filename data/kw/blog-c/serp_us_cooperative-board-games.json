@@ -1,0 +1,1037 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "4.6627 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190342-2588-0139-0000-15519e6dd7ab",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "4.5338 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "cooperative board games",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "cooperative board games",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=cooperative%20board%20games&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:42:39 +00:00",
+      "spell": null,
+      "refinement_chips": {
+       "type": "refinement_chips",
+       "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+       "items": [
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids",
+         "url": "https://www.google.com/search?q=kids+cooperative+board+games&hl=en&gl=US&shoprs=GAEqF2Nvb3BlcmF0aXZlIGJvYXJkIGdhbWVzMhQIARIES2lkczoKCPyQbxD-kG8wAFjTySBgAQ&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKAF6BAgtEH4",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adults",
+         "url": "https://www.google.com/search?q=adults+cooperative+board+games&hl=en&gl=US&shoprs=GAEqF2Nvb3BlcmF0aXZlIGJvYXJkIGdhbWVzMhYIARIGQWR1bHRzOgoI_JBvEP2QbzAAWNPJIGAB&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKAJ6BAgtEH8",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids' Games",
+         "url": "https://www.google.com/search?q=kids'+games+cooperative+board&hl=en&gl=US&shoprs=GAkqF2Nvb3BlcmF0aXZlIGJvYXJkIGdhbWVzMg8ICRILS2lkcycgR2FtZXNgAQ&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKAN6BQgtEIAB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board Game",
+         "url": "https://www.google.com/search?q=board+game+cooperative+games&hl=en&gl=US&shoprs=GAEqF2Nvb3BlcmF0aXZlIGJvYXJkIGdhbWVzMhwIARIKQm9hcmQgR2FtZToMCNSdngIQ152eAjADWNPJIGAB&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKAR6BQgtEIEB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board & Card Games",
+         "url": "https://www.google.com/search?q=board+%26+card+games+cooperative&hl=en&gl=US&shoprs=GAkqF2Nvb3BlcmF0aXZlIGJvYXJkIGdhbWVzMhYICRISQm9hcmQgJiBDYXJkIEdhbWVzYAE&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKAV6BQgtEIIB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Strategy",
+         "url": "https://www.google.com/search?q=strategy+cooperative+board+games&hl=en&gl=US&shoprs=GAEqF2Nvb3BlcmF0aXZlIGJvYXJkIGdhbWVzMhgIARIIU3RyYXRlZ3k6CgihuD4Qorg-MABY08kgYAE&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKAZ6BQgtEIMB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Nearby",
+         "url": "https://www.google.com/search?q=cooperative+board+games+nearby&hl=en&gl=US&shoprs=GAMqF2Nvb3BlcmF0aXZlIGJvYXJkIGdhbWVzMgwIAxIGTmVhcmJ5GAJY08kgYAE&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKAd6BQgtEIQB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Family Friendly",
+         "url": "https://www.google.com/search?q=family+friendly+cooperative+board+games&hl=en&gl=US&shoprs=GAEqF2Nvb3BlcmF0aXZlIGJvYXJkIGdhbWVzMiEIARIPRmFtaWx5IEZyaWVuZGx5OgwI3bGeAhDesZ4CMANY08kgYAE&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKAh6BQgtEIUB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "On sale",
+         "url": "https://www.google.com/search?q=cooperative+board+games+sale&hl=en&gl=US&shoprs=EgRKAhgBGAYqF2Nvb3BlcmF0aXZlIGJvYXJkIGdhbWVzMhMIBhIHT24gc2FsZRgCIgRKAhgBWNPJIGAB&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKAl6BQgtEIYB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Free",
+         "url": "https://www.google.com/search?q=free+cooperative+board+games&hl=en&gl=US&shoprs=GBIqF2Nvb3BlcmF0aXZlIGJvYXJkIGdhbWVzMggIEhIERnJlZWAB&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKAp6BQgtEIcB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Buy",
+         "url": "https://www.google.com/search?q=buy+cooperative+board+games&hl=en&gl=US&shoprs=GBIqF2Nvb3BlcmF0aXZlIGJvYXJkIGdhbWVzMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKAt6BQgtEIgB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Reviews",
+         "url": "https://www.google.com/search?q=reviews+cooperative+board+games&hl=en&gl=US&shoprs=GBIqF2Nvb3BlcmF0aXZlIGJvYXJkIGdhbWVzMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKAx6BQgtEIkB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "For Sale",
+         "url": "https://www.google.com/search?q=cooperative+board+games+for+sale&hl=en&gl=US&shoprs=GBIqF2Nvb3BlcmF0aXZlIGJvYXJkIGdhbWVzMgwIEhIIRm9yIFNhbGVgAQ&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKA16BQgtEIoB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Get it fast",
+         "url": "https://www.google.com/search?q=cooperative+board+games&hl=en&gl=US&shoprs=Eg2aAQoKCBADOAFAA0gBGBQqF2Nvb3BlcmF0aXZlIGJvYXJkIGdhbWVzMiQIFBILR2V0IGl0IGZhc3QiDZoBCgoIEAM4AUADSAEqBBABGAFgAQ&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKA56BQgtEIsB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Online",
+         "url": "https://www.google.com/search?q=online+cooperative+board+games&hl=en&gl=US&shoprs=GBIqF2Nvb3BlcmF0aXZlIGJvYXJkIGdhbWVzMgoIEhIGT25saW5lYAE&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKA96BQgtEIwB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Card Game",
+         "url": "https://www.google.com/search?q=card+game+cooperative+board+games&hl=en&gl=US&shoprs=GAEqF2Nvb3BlcmF0aXZlIGJvYXJkIGdhbWVzMhsIARIJQ2FyZCBHYW1lOgwItsL3ARC3wvcBMANY08kgYAE&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKBB6BQgtEI0B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "War",
+         "url": "https://www.google.com/search?q=war+cooperative+board+games&hl=en&gl=US&shoprs=GAEqF2Nvb3BlcmF0aXZlIGJvYXJkIGdhbWVzMhQIARIDV2FyOgsIobg-ENTV2gMwAFjTySBgAQ&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKBF6BQgtEI4B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "2 Player",
+         "url": "https://www.google.com/search?q=2+player+cooperative+board+games&hl=en&gl=US&shoprs=GAEqF2Nvb3BlcmF0aXZlIGJvYXJkIGdhbWVzMhoIARIIMiBQbGF5ZXI6DAjpnJoCEOucmgIwAFjTySBgAQ&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKBJ6BQgtEI8B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "20 – 45 minutes",
+         "url": "https://www.google.com/search?q=20+minutes+to+45+minutes+cooperative+board+games&hl=en&gl=US&shoprs=EhoqGAjGvj0SEgkAAAAAAAA0QBEAAAAAAIBGQBgBKhdjb29wZXJhdGl2ZSBib2FyZCBnYW1lczJZCAESETIwIOKAkyA0NSBtaW51dGVzIhoqGAjGvj0SEgkAAAAAAAA0QBEAAAAAAIBGQCocChgyMCBtaW51dGVzIHRvIDQ1IG1pbnV0ZXMYAToICMa-PRAAMAZY08kgYAE&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKBN6BQgtEJAB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "10+ Years",
+         "url": "https://www.google.com/search?q=10%2B+years+cooperative+board+games&hl=en&gl=US&shoprs=GAEqF2Nvb3BlcmF0aXZlIGJvYXJkIGdhbWVzMhsIARIJMTArIFllYXJzOgwI3va1ARDHqLYBMABY08kgYAE&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKBR6BQgtEJEB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "4 Player",
+         "url": "https://www.google.com/search?q=4+player+cooperative+board+games&hl=en&gl=US&shoprs=GAEqF2Nvb3BlcmF0aXZlIGJvYXJkIGdhbWVzMhoIARIINCBQbGF5ZXI6DAjpnJoCEO2cmgIwAFjTySBgAQ&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKBV6BQgtEJIB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "45 – 90 minutes",
+         "url": "https://www.google.com/search?q=45+minutes+to+90+minutes+cooperative+board+games&hl=en&gl=US&shoprs=EhoqGAjGvj0SEgkAAAAAAIBGQBEAAAAAAIBWQBgBKhdjb29wZXJhdGl2ZSBib2FyZCBnYW1lczJZCAESETQ1IOKAkyA5MCBtaW51dGVzIhoqGAjGvj0SEgkAAAAAAIBGQBEAAAAAAIBWQCocChg0NSBtaW51dGVzIHRvIDkwIG1pbnV0ZXMYAToICMa-PRAAMAZY08kgYAE&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKBZ6BQgtEJMB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Expansion Pack",
+         "url": "https://www.google.com/search?q=expansion+pack+cooperative+board+games&hl=en&gl=US&shoprs=GAEqF2Nvb3BlcmF0aXZlIGJvYXJkIGdhbWVzMh4IARIORXhwYW5zaW9uIFBhY2s6CgiJyzsQiss7MANY08kgYAE&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKBd6BQgtEJQB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Under 20 minutes",
+         "url": "https://www.google.com/search?q=under+20+minutes+cooperative+board+games&hl=en&gl=US&shoprs=EhEqDwjGvj0SCREAAAAAAAA0QBgBKhdjb29wZXJhdGl2ZSBib2FyZCBnYW1lczI1CAESEFVuZGVyIDIwIG1pbnV0ZXMiESoPCMa-PRIJEQAAAAAAADRAKgIYAToICMa-PRAAMAZY08kgYAE&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKBh6BQgtEJUB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Black",
+         "url": "https://www.google.com/search?q=black+cooperative+board+games&hl=en&gl=US&shoprs=GAEqF2Nvb3BlcmF0aXZlIGJvYXJkIGdhbWVzMhcIARIFQmxhY2s6DAjYjPUBEOWK9QEwC1jTySBgAQ&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQip4GKBl6BQgtEJYB",
+         "domain": "www.google.com",
+         "options": null
+        }
+       ]
+      },
+      "item_types": [
+       "organic",
+       "popular_products",
+       "people_also_ask",
+       "related_searches"
+      ],
+      "se_results_count": 156,
+      "pages_count": 1,
+      "items_count": 13,
+      "items": [
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "domain": "www.shutupandsitdown.com",
+        "title": "Cooperative Games",
+        "url": "https://www.shutupandsitdown.com/tag/cooperative-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.shutupandsitdown.com › tag › cooperative...",
+        "website_name": "Shut Up & Sit Down",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Cooperative Games · Review – Detective: City of Angels · Review – Descent: Legends of the Dark · Review – Stardew Valley: The Board Game · Review: Etherfields. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "cooperative board games from www.shutupandsitdown.com",
+          "url": "https://www.shutupandsitdown.com/tag/cooperative-games/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-15519e6dd7ab:0"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Cooperative Games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.shutupandsitdown.com/tag/cooperative-games/#:~:text=Cooperative%20Games&text=Review%20%E2%80%93%20Detective%3A%20City%20of,Angels&text=Review%20%E2%80%93%20Descent%3A%20Legends%20of,the%20Dark&text=Review%20%E2%80%93%20Stardew%20Valley%3A%20The,Board%20Game&text=Review%3A%20Etherfields",
+          "domain": "www.shutupandsitdown.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+        "domain": "www.whatboardgame.com",
+        "title": "Top 5 Family Co-op Games for an Unforgettable ...",
+        "url": "https://www.whatboardgame.com/top-5-co-op-games",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.whatboardgame.com › top-5-co-op-games",
+        "website_name": "What Board Game",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Discover the top 5 cooperative games for a perfect family game night experience. Enjoy bonding and fun with these engaging picks!",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "top 5 cooperative games"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Best cooperative board games",
+        "url": "https://www.reddit.com/r/boardgames/comments/1e2w7af/similar_to_a_previous_post_what_are_your/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "30+ comments  ·  2 years ago",
+        "website_name": "Reddit · r/boardgames",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "We can easily play Pandemic and Ghost Stories for hours and we've had them for years. Spirit Island seems to be joining the club!",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "List of cooperative board games? : r/boardgamearena ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgamearena/comments/k6dz6s/list_of_cooperative_board_games/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What are YOUR top 3 competitive and co-operative ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/78skwi/what_are_your_top_3_competitive_and_cooperative/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=cooperative+board+games+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQntXf4aE_xAitVzbyzJR64L9zrr3_g:1792381357627&sa=X&ved=2ahUKEwjI8f3wlMWXAxWc7wIHHf1nLjwQrQIoAnoECB4QAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+        "domain": "nerdsonearth.com",
+        "title": "The 7 Best Cooperative Board Games",
+        "url": "https://nerdsonearth.com/2019/10/best-cooperative-board-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://nerdsonearth.com › Board Games",
+        "website_name": "Nerds on Earth",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Oct 1, 2019 — Pandemic is largely considered the tentpole co-op game, Marvel Legendary Legendary. Betrayal at the House on the Hill. Black Plague is the best.",
+        "pre_snippet": "10/01/2019 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Pandemic is largely considered the tentpole co-op game"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2019-10-01 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+        "domain": "www.habausa.com",
+        "title": "Board Games for Kids | Children's Board Games",
+        "url": "https://www.habausa.com/collections/games/cooperative-games?srsltid=AU7gw4VUh4iQ3Fpx34YOgxB7bBxOONwT4u2qxByuYJXBAi6fA94qtn3F",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.habausa.com › games › cooperative-games",
+        "website_name": "HABA USA",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Our collection of games for kids includes board games, stacking games, cooperative games, strategy games, family games, travel games, matching games, and ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 10,
+         "regular": null,
+         "max_value": 45,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$10 to $45"
+        },
+        "highlighted": [
+         "board games, stacking games, cooperative games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.habausa.com/collections/games/cooperative-games?srsltid=AU7gw4VUh4iQ3Fpx34YOgxB7bBxOONwT4u2qxByuYJXBAi6fA94qtn3F#:~:text=Our%20collection%20of%20games%20for,different%20age%20groups%20and%20interests.",
+          "domain": "www.habausa.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "Any recommendations for cooperative board games?",
+        "url": "https://www.facebook.com/groups/136508753033475/posts/27582219711369009/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "10+ comments  ·  2 years ago",
+        "website_name": "Facebook · Board Gaming in CT",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Any recommendations for cooperative board games?",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 1,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]",
+        "title": "Popular products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Peaceable Kingdom Race to the Treasure Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=cooperative+board+games&prds=gpcid:7986933521237428302,rds:PC_7986933521237428302%7CPROD_PC_7986933521237428302,headlineOfferDocid:6438482398498850770,catalogid:9038947764519059874,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Le Maschere Gioielli & more\nFun (71 user reviews)",
+          "more_sellers": true,
+          "seller": "Le Maschere Gioielli",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-15519e6dd7ab:1",
+          "price": {
+           "current": 8.4,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$8.40"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 136,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "9038947764519059874",
+           "data_docid": "1047989520493111244",
+           "gid": "7986933521237428302"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Stardew Valley The Board Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=cooperative+board+games&prds=gpcid:15186838001511367283,rds:PC_15186838001511367283%7CPROD_PC_15186838001511367283,headlineOfferDocid:5663664065588499918,catalogid:10197910052858439196,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "BigBadToyStore & more\nFun (41 user reviews)",
+          "more_sellers": true,
+          "seller": "BigBadToyStore",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-15519e6dd7ab:2",
+          "price": {
+           "current": 49.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$49.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 164,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "10197910052858439196",
+           "data_docid": "8997091177463758174",
+           "gid": "15186838001511367283"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Mudpuppy Penguin's Iceberg Adventure Cooperative Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=cooperative+board+games&prds=gpcid:10140400551918427502,rds:PC_10140400551918427502%7CPROD_PC_10140400551918427502,headlineOfferDocid:5155377238031747180,catalogid:8082210396712372467,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Mudpuppy & more",
+          "more_sellers": true,
+          "seller": "Mudpuppy",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-15519e6dd7ab:3",
+          "price": {
+           "current": 11.19,
+           "regular": 16,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$11.19 $16"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.3,
+           "votes_count": 3,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "8082210396712372467",
+           "data_docid": "1773593817809379312",
+           "gid": "10140400551918427502"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Defenders of the Wild",
+          "url": "https://www.google.com/search?ibp=oshop&q=cooperative+board+games&prds=gpcid:3049625286529254669,rds:PC_3049625286529254669%7CPROD_PC_3049625286529254669,headlineOfferDocid:17921935089334468622,catalogid:4974337573917161443,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Cardhaus Games & more\nI noticed some discoloration on the cards but it doesn't matter. A reviewer on shopee.ph",
+          "more_sellers": true,
+          "seller": "Cardhaus Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-15519e6dd7ab:4",
+          "price": {
+           "current": 53.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$53.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 5,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "4974337573917161443",
+           "data_docid": "3576562481847973017",
+           "gid": "3049625286529254669"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Gamewright Outfoxed! Game",
+          "url": "https://www.happierhuman.com/cooperative-board-games-kids/",
+          "domain": "www.happierhuman.com",
+          "description": "Northwest Nature Shop & more\nGood introductory game for kids who want to try deductive, logic games · Only for five-year-old kids or older; younger kids may not enjoy it Happier Human",
+          "more_sellers": true,
+          "seller": "Northwest Nature Shop",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-15519e6dd7ab:5",
+          "price": {
+           "current": 22.95,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$22.95"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.9,
+           "votes_count": 172,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "7631211949690998159",
+           "data_docid": "3309686636213778600",
+           "gid": "15818365237247509589"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Root Board Game",
+          "url": "https://gamingrespawn.com/board-game-reviews/40105/root-board-game-review/",
+          "domain": "gamingrespawn.com",
+          "description": "The Haunted Game Cafe & more\nEasy to learn · Clearly designed with more than two players in mind Gaming Respawn",
+          "more_sellers": true,
+          "seller": "The Haunted Game Cafe",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-15519e6dd7ab:6",
+          "price": {
+           "current": 59.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$59.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 300,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "17343369600885410046",
+           "data_docid": "8680922240689520409",
+           "gid": "3735461444958424254"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Bomb Busters Game",
+          "url": "https://rolltoreview.com/bomb-busters-board-game-review/",
+          "domain": "rolltoreview.com",
+          "description": "The Little Seedling & more\nFor fans of deduction games, the puzzle is up there with the best of them · Playing with less than four players is not ideal, the game lost some of its … Roll to Review",
+          "more_sellers": true,
+          "seller": "The Little Seedling",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-15519e6dd7ab:7",
+          "price": {
+           "current": 39.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$39.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.9,
+           "votes_count": 37,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "12848648256452753314",
+           "data_docid": "13325708492911665859",
+           "gid": "11562433456989734792"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Stellar Factory Ravine A Crafty and Cooperative Card Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=cooperative+board+games&prds=gpcid:2290479238436759540,rds:PC_2290479238436759540%7CPROD_PC_2290479238436759540,headlineOfferDocid:5005796976190625585,catalogid:13703527809169456335,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Deep South Mercantile & more\nFree delivery on $120+\nFun (107 user reviews)",
+          "more_sellers": true,
+          "seller": "Deep South Mercantile",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-15519e6dd7ab:8",
+          "price": {
+           "current": 27.95,
+           "regular": null,
+           "max_value": 36,
+           "currency": "USD",
+           "is_price_range": true,
+           "displayed_price": "$27.95 Usually $36"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 176,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "13703527809169456335",
+           "data_docid": "13138552223531608936",
+           "gid": "2290479238436759540"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]",
+        "domain": "www.miniaturemarket.com",
+        "title": "Cooperative Games - Board Games",
+        "url": "https://www.miniaturemarket.com/board-games/cooperative-games.html?srsltid=AU7gw4U4ENiI5T3JkwZSXroUKWAJFw8zTLU2euHbmLA-wtvL829mfjXH",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.miniaturemarket.com › board-games › coo...",
+        "website_name": "Miniature Market",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Shop online for board games, Magic The Gathering, table top games, miniatures, role playing games and gaming supplies. Free shipping on orders over $75!",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 5,
+         "regular": null,
+         "max_value": 80,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$5 to $80"
+        },
+        "highlighted": [
+         "board games",
+         "table",
+         "games"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What are some good cooperative board games for two ...",
+        "url": "https://www.facebook.com/groups/132851767828/posts/10161298933237829/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "100+ comments  ·  2 years ago",
+        "website_name": "Facebook · BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Recs for 2 player games that are co-op? Board games. Too competitive and need to find team based games.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "Is Everdell a cooperative game?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some good cooperative board games for children?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What is a cooperative trick taking game?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What is the most best board game?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[21]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What's your favorite co-op board game?",
+        "url": "https://www.facebook.com/groups/132851767828/posts/10161088467512829/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "10+ comments  ·  2 years ago",
+        "website_name": "Facebook · BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "We have around 230 games currently, some of our favorites being duel games, Odin's Ravens probly being top, dice throne and Imhotep the duel. We ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "duel games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10161088467512829/#:~:text=We%20have%20around%20230%20games,co-op%20game%2C%20recently%20got%20Descent.",
+          "domain": "www.facebook.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 10,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[23]/div[1]/div[1]",
+        "domain": "www.nytimes.com",
+        "title": "The 6 Best Cooperative Tabletop Games of 2026",
+        "url": "https://www.nytimes.com/wirecutter/reviews/best-cooperative-tabletop-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.nytimes.com › ... › Games and puzzles",
+        "website_name": "The New York Times",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Mar 26, 2026 — Team up at the table with six of the best cooperative games we've tested.",
+        "pre_snippet": "03/26/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "table",
+         "cooperative games"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-03-26 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 13,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Cooperative board games for adults",
+         "Cooperative board games list",
+         "Cooperative board games for families",
+         "Cooperative board games for 2",
+         "Best cooperative board games for 5 year olds",
+         "Best cooperative board games for kids",
+         "Cooperative board games for 7 year olds",
+         "Best cooperative board games for 6 year olds"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

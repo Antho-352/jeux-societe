@@ -1,0 +1,1320 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "6.5012 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190344-2588-0139-0000-c47e3d3e2aa9",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "6.4279 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "board games for teens",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "board games for teens",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=board%20games%20for%20teens&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:44:23 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "popular_products",
+       "people_also_ask",
+       "related_searches"
+      ],
+      "se_results_count": 181,
+      "pages_count": 1,
+      "items_count": 14,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "Teens enjoy fast-paced party games, cooperative challenges, and strategic titles that spark laughs and competition.[[1]](https://hearttohearthomeschooling.com/game-night-teens/)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:15121947602703810856&ibp=oshop)\n\n### Top Party Games for Teens\n\n- **You Can’t Say Umm:** A fast-paced party game where players describe word combinations under a 45-second timer without saying \"umm\" or \"ah,\" while opponents watch the bell. Available at [Big Potato Games US](https://bigpotato.com/products/you-cant-say-umm?variant=53495054926205&utm_source=google&utm_medium=organic&utm_campaign=US&utm_content=You%20Can't%20Say%20Umm&currency=USD) for about $31.99.\n- **Taboo:** A classic word-guessing party game where you help teammates guess the main word without saying any of the five forbidden words. Prices start around $12.99 at [Target](https://www.target.com/p/taboo-game/-/A-87885546?TCID=OGS&AFID=google&CPNG=Toys&adgroup=87-10&srsltid=AU7gw4WSCyr4OD7mpievzsAiuliLYalDkbVwCFQ91keaToyEJ4il-jCSNIA).\n- **Hues and Cues:** A vibrant color-guessing game using one- or two-word clues across 480 color shades.\n- **Telestrations:** A visual spin on the classic telephone game that mixes drawing and quick laughs.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:15121947602703810856&ibp=oshop)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:6259811626883194606,catalogid:9122856860245503087,gpcid:18376162799578149609,mid:576462808309648654&ibp=oshop)[[3]](https://lipglossandcrayons.com/the-best-board-games-for-teens-and-tweens/)[[4]](https://www.rachelteodoro.com/2021/01/20-of-best-family-board-games-for-teens.html)\n\n### Strategy & Cooperative Games\n\n- **Ticket to Ride:** A gateway strategy game where players build train routes across a map.\n- **Catan:** A classic game of settlement building, resource trading, and negotiation.\n- **Pandemic:** A cooperative game where teens work together as a team to stop spreading diseases.\n- **Betrayal at House on the Hill:** A narrative exploration game where players build a haunted mansion until one player turns traitor. Most users on [Reddit](https://www.reddit.com/r/Libraries/comments/1adx9wu/what_are_some_good_board_games_to_get_for_a_teen/) agree it is a favorite for high replay value, though it takes longer to play.[[1]](https://www.reddit.com/r/Libraries/comments/1adx9wu/what_are_some_good_board_games_to_get_for_a_teen/)[[2]](https://hearttohearthomeschooling.com/game-night-teens/)[[3]](https://www.rachelteodoro.com/2021/01/20-of-best-family-board-games-for-teens.html)[[4]](https://lipglossandcrayons.com/the-best-board-games-for-teens-and-tweens/)\n\nIf you'd like to narrow down these options, tell me:\n\n- **How many players** will be playing?\n- Do you prefer **quick party games** or **deep strategy**?",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Teens enjoy fast-paced party games, cooperative challenges, and strategic titles that spark laughs and competition.",
+          "markdown": "Teens enjoy fast-paced party games, cooperative challenges, and strategic titles that spark laughs and competition.[[1]](https://hearttohearthomeschooling.com/game-night-teens/)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:15121947602703810856&ibp=oshop)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "hearttohearthomeschooling.com",
+            "domain": "hearttohearthomeschooling.com",
+            "url": "https://hearttohearthomeschooling.com/game-night-teens/",
+            "title": "The Best Board Games for Families with Teens | Heart-to-Heart Homeschooling",
+            "text": "Top Games for Teens: Bring Your Own Book (ages 12+, 3+ players, 20m, use household books to match judge categories); Blokus (ages ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Google",
+            "domain": "www.google.com",
+            "url": "https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:15121947602703810856&ibp=oshop",
+            "title": "You Can't Say Umm Bundle: Fun Board Game for 2-10 Players, for Families, Adults, Teens & Children Aged 10+",
+            "text": "A hilarious party game that challenges players to describe ridiculous word combinations without hesitating, stuttering, or slippin..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Top Party Games for Teens",
+          "text": "You Can’t Say Umm: A fast-paced party game where players describe word combinations under a 45-second timer without saying \"umm\" or \"ah,\" while opponents watch the bell. Available at Big Potato Games US for about $31.99. Big Potato Games US Taboo: A classic word-guessing party game where you help teammates guess the main word without saying any of the five forbidden words. Prices start around $12.99 at Target. Target Hues and Cues: A vibrant color-guessing game using one- or two-word clues across 480 color shades. Telestrations: A visual spin on the classic telephone game that mixes drawing and quick laughs.",
+          "markdown": "- **You Can’t Say Umm:** A fast-paced party game where players describe word combinations under a 45-second timer without saying \"umm\" or \"ah,\" while opponents watch the bell. Available at [Big Potato Games US](https://bigpotato.com/products/you-cant-say-umm?variant=53495054926205&utm_source=google&utm_medium=organic&utm_campaign=US&utm_content=You%20Can't%20Say%20Umm&currency=USD) for about $31.99.\n- **Taboo:** A classic word-guessing party game where you help teammates guess the main word without saying any of the five forbidden words. Prices start around $12.99 at [Target](https://www.target.com/p/taboo-game/-/A-87885546?TCID=OGS&AFID=google&CPNG=Toys&adgroup=87-10&srsltid=AU7gw4WSCyr4OD7mpievzsAiuliLYalDkbVwCFQ91keaToyEJ4il-jCSNIA).\n- **Hues and Cues:** A vibrant color-guessing game using one- or two-word clues across 480 color shades.\n- **Telestrations:** A visual spin on the classic telephone game that mixes drawing and quick laughs.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:15121947602703810856&ibp=oshop)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:6259811626883194606,catalogid:9122856860245503087,gpcid:18376162799578149609,mid:576462808309648654&ibp=oshop)[[3]](https://lipglossandcrayons.com/the-best-board-games-for-teens-and-tweens/)[[4]](https://www.rachelteodoro.com/2021/01/20-of-best-family-board-games-for-teens.html)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Big Potato Games US",
+            "description": null,
+            "url": "https://bigpotato.com/products/you-cant-say-umm?variant=53495054926205&utm_source=google&utm_medium=organic&utm_campaign=US&utm_content=You%20Can't%20Say%20Umm&currency=USD",
+            "domain": "bigpotato.com"
+           },
+           {
+            "type": "link_element",
+            "title": "Target",
+            "description": null,
+            "url": "https://www.target.com/p/taboo-game/-/A-87885546?TCID=OGS&AFID=google&CPNG=Toys&adgroup=87-10&srsltid=AU7gw4WSCyr4OD7mpievzsAiuliLYalDkbVwCFQ91keaToyEJ4il-jCSNIA",
+            "domain": "www.target.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Google",
+            "domain": "www.google.com",
+            "url": "https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:15121947602703810856&ibp=oshop",
+            "title": "You Can't Say Umm Bundle: Fun Board Game for 2-10 Players, for Families, Adults, Teens & Children Aged 10+",
+            "text": "A hilarious party game that challenges players to describe ridiculous word combinations without hesitating, stuttering, or slippin..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Google",
+            "domain": "www.google.com",
+            "url": "https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:6259811626883194606,catalogid:9122856860245503087,gpcid:18376162799578149609,mid:576462808309648654&ibp=oshop",
+            "title": "Taboo Game",
+            "text": "Ages 12+ 4 - 10 Players 20 Min In the party game Taboo, you're trying to give clues to your teammates so that they'll guess a part..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Lipgloss and Crayons",
+            "domain": "lipglossandcrayons.com",
+            "url": "https://lipglossandcrayons.com/the-best-board-games-for-teens-and-tweens/",
+            "title": "The Best Board Games for Teens and Tweens - Lipgloss and Crayons",
+            "text": "Recommended Games: Catan (settlement building, trading, negotiation, high replay value); Telestrations (drawing telephone game, fa..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Rachel Teodoro",
+            "domain": "www.rachelteodoro.com",
+            "url": "https://www.rachelteodoro.com/2021/01/20-of-best-family-board-games-for-teens.html",
+            "title": "20 of The Best Family Board Games for Teens |",
+            "text": "Recommended Games: Catan (strategy, settlement building, requires 3+ players or expansion), Ticket to Ride (route building, 2-5 pl..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Strategy & Cooperative Games",
+          "text": "Ticket to Ride: A gateway strategy game where players build train routes across a map. Catan: A classic game of settlement building, resource trading, and negotiation. Pandemic: A cooperative game where teens work together as a team to stop spreading diseases. Betrayal at House on the Hill: A narrative exploration game where players build a haunted mansion until one player turns traitor. Most users on Reddit agree it is a favorite for high replay value, though it takes longer to play.",
+          "markdown": "- **Ticket to Ride:** A gateway strategy game where players build train routes across a map.\n- **Catan:** A classic game of settlement building, resource trading, and negotiation.\n- **Pandemic:** A cooperative game where teens work together as a team to stop spreading diseases.\n- **Betrayal at House on the Hill:** A narrative exploration game where players build a haunted mansion until one player turns traitor. Most users on [Reddit](https://www.reddit.com/r/Libraries/comments/1adx9wu/what_are_some_good_board_games_to_get_for_a_teen/) agree it is a favorite for high replay value, though it takes longer to play.[[1]](https://www.reddit.com/r/Libraries/comments/1adx9wu/what_are_some_good_board_games_to_get_for_a_teen/)[[2]](https://hearttohearthomeschooling.com/game-night-teens/)[[3]](https://www.rachelteodoro.com/2021/01/20-of-best-family-board-games-for-teens.html)[[4]](https://lipglossandcrayons.com/the-best-board-games-for-teens-and-tweens/)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Reddit",
+            "description": null,
+            "url": "https://www.reddit.com/r/Libraries/comments/1adx9wu/what_are_some_good_board_games_to_get_for_a_teen/",
+            "domain": "www.reddit.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/Libraries/comments/1adx9wu/what_are_some_good_board_games_to_get_for_a_teen/",
+            "title": "What are some good board games to get for a teen board game night?",
+            "text": "Narrative Board Game: Betrayal at House on the Hill Betrayal at House on the Hill is a favorite among teens for its dynamic gamepl..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "hearttohearthomeschooling.com",
+            "domain": "hearttohearthomeschooling.com",
+            "url": "https://hearttohearthomeschooling.com/game-night-teens/",
+            "title": "The Best Board Games for Families with Teens | Heart-to-Heart Homeschooling",
+            "text": "Top Games for Teens: Bring Your Own Book (ages 12+, 3+ players, 20m, use household books to match judge categories); Blokus (ages 5+, 2-4 players, 20m, corner-touc..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Rachel Teodoro",
+            "domain": "www.rachelteodoro.com",
+            "url": "https://www.rachelteodoro.com/2021/01/20-of-best-family-board-games-for-teens.html",
+            "title": "20 of The Best Family Board Games for Teens |",
+            "text": "Recommended Games: Catan (strategy, settlement building, requires 3+ players or expansion), Ticket to Ride (route building, 2-5 players), Trekking (National Parks ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Lipgloss and Crayons",
+            "domain": "lipglossandcrayons.com",
+            "url": "https://lipglossandcrayons.com/the-best-board-games-for-teens-and-tweens/",
+            "title": "The Best Board Games for Teens and Tweens - Lipgloss and Crayons",
+            "text": "Recommended Games: Catan (settlement building, trading, negotiation, high replay value); Telestrations (drawing telephone game, fa..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "If you'd like to narrow down these options, tell me:How many players will be playing?\nDo you prefer quick party games or deep strategy ?",
+          "markdown": "If you'd like to narrow down these options, tell me:\n\n- **How many players** will be playing?\n- Do you prefer **quick party games** or **deep strategy**?",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Reddit",
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/Libraries/comments/1adx9wu/what_are_some_good_board_games_to_get_for_a_teen/",
+          "title": "What are some good board games to get for a teen board game night?",
+          "text": "Narrative Board Game: Betrayal at House on the Hill Betrayal at House on the Hill is a favorite among teens for its dynamic gameplay and high replayability, but it..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "hearttohearthomeschooling.com",
+          "domain": "hearttohearthomeschooling.com",
+          "url": "https://hearttohearthomeschooling.com/game-night-teens/",
+          "title": "The Best Board Games for Families with Teens | Heart-to-Heart Homeschooling",
+          "text": "Top Games for Teens: Bring Your Own Book (ages 12+, 3+ players, 20m, use household books to match judge categories); Blokus (ages 5+, 2-4 players, 20m, corner-touc..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Rachel Teodoro",
+          "domain": "www.rachelteodoro.com",
+          "url": "https://www.rachelteodoro.com/2021/01/20-of-best-family-board-games-for-teens.html",
+          "title": "20 of The Best Family Board Games for Teens |",
+          "text": "Recommended Games: Catan (strategy, settlement building, requires 3+ players or expansion), Ticket to Ride (route building, 2-5 players), Trekking (National Parks ..."
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+        "domain": "bigpotato.com",
+        "title": "Teen Games",
+        "url": "https://bigpotato.com/collections/board-games-for-teens",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://bigpotato.com › board-games-for-teens",
+        "website_name": "Big Potato Games",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Whether you're after lots of quick-fire rounds or one epic showdown, we've got all types of board games for teenagers to enjoy. Free delivery over £40 or ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 9,
+         "regular": null,
+         "max_value": 34,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$9 to $34"
+        },
+        "highlighted": [
+         "board games for teenagers"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]",
+        "domain": "www.childtherapytoys.com",
+        "title": "Games for Teens",
+        "url": "https://www.childtherapytoys.com/collections/games-for-teens",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.childtherapytoys.com › collections › games-...",
+        "website_name": "Child Therapy Toys",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "The Talking, Feeling & Doing Board Game. Regular price $59.95 Totika Game (Includes Self-Esteem Cards) $39.95 Who Are You? Trusted by therapists for over 20 ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": null,
+          "url": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-c47e3d3e2aa9:0"
+         },
+         {
+          "type": "images_element",
+          "alt": null,
+          "url": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-c47e3d3e2aa9:1"
+         },
+         {
+          "type": "images_element",
+          "alt": null,
+          "url": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-c47e3d3e2aa9:2"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 14,
+         "regular": null,
+         "max_value": 96,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$14 to $96"
+        },
+        "highlighted": [
+         "The Talking, Feeling & Doing Board Game"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]",
+        "title": "More products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Tapple Game",
+          "url": "https://www.thegamer.com/best-word-board-games/",
+          "domain": "www.thegamer.com",
+          "description": "Target & more\nFree delivery on $35+\nFast-paced and exciting gameplay · Can be stressful for players who don't like being put on the spot TheGamer",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-c47e3d3e2aa9:3",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 1200,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "11735642665355992479",
+           "data_docid": "16947985508799951895",
+           "gid": "11810378174198701195"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Hues and Cues",
+          "url": "https://settleroftheboards.com/a-world-of-color-hues-cues/",
+          "domain": "settleroftheboards.com",
+          "description": "Target & more\nFree delivery on $35+\nIf you're a little tech savvy and have a good way to set it up, it's … · Can't necessarily play with colorblind gamers. You can certainly try the … Settler of the Boards",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-c47e3d3e2aa9:4",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 896,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "14573646516438384539",
+           "data_docid": "2703991999498835589",
+           "gid": "354424298390268587"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Stardew Valley The Board Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+teens&prds=gpcid:15186838001511367283,rds:PC_15186838001511367283%7CPROD_PC_15186838001511367283,headlineOfferDocid:5663664065588499918,catalogid:10197910052858439196,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "BigBadToyStore & more\nFun (41 user reviews)",
+          "more_sellers": true,
+          "seller": "BigBadToyStore",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-c47e3d3e2aa9:5",
+          "price": {
+           "current": 49.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$49.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 164,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "10197910052858439196",
+           "data_docid": "8997091177463758174",
+           "gid": "15186838001511367283"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Exploding Kittens The Board Game",
+          "url": "https://rolltoreview.com/exploding-kittens-board-game-review/",
+          "domain": "rolltoreview.com",
+          "description": "Exploding Kittens & more\nFree delivery on $40+\nGreat for casual play with people who don't often play board games · The strategy is becomes obvious to players almost immediately Roll to Review",
+          "more_sellers": true,
+          "seller": "Exploding Kittens",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-c47e3d3e2aa9:6",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 154,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "2290121467920167409",
+           "data_docid": "1347844132714559356",
+           "gid": "7096552961700473263"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "DSS Games You Laugh You're Out",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+teens&prds=gpcid:16874190980645785637,rds:PC_16874190980645785637%7CPROD_PC_16874190980645785637,headlineOfferDocid:16887737661578611252,catalogid:2807554973302488041,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-c47e3d3e2aa9:7",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.1,
+           "votes_count": 190,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "2807554973302488041",
+           "data_docid": "13049878001777923534",
+           "gid": "16874190980645785637"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "WDYM Kollide Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+teens&prds=gpcid:10769865312797133209,rds:PC_10769865312797133209%7CPROD_PC_10769865312797133209,headlineOfferDocid:8450688453436759198,catalogid:15010631444521029046,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Walmart & more\nFun (1,632 user reviews)",
+          "more_sellers": true,
+          "seller": "Walmart",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-c47e3d3e2aa9:8",
+          "price": {
+           "current": 10.49,
+           "regular": 12,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$10.49 $12"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 2900,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "15010631444521029046",
+           "data_docid": "12749536936083224773",
+           "gid": "10769865312797133209"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Wavelength Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+teens&prds=gpcid:10330801992986139411,rds:PC_10330801992986139411%7CPROD_PC_10330801992986139411,headlineOfferDocid:3353583062277215009,catalogid:7222283010677095452,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+\nFun (174 user reviews)",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-c47e3d3e2aa9:9",
+          "price": {
+           "current": 34.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$34.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 341,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "7222283010677095452",
+           "data_docid": "10605961755333409253",
+           "gid": "10330801992986139411"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "R&R Games You Must Be an Idiot Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+teens&prds=gpcid:12138675506377320533,rds:PC_12138675506377320533%7CPROD_PC_12138675506377320533,headlineOfferDocid:3618234064932670787,catalogid:5032409517705656708,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Kohl's & more",
+          "more_sellers": true,
+          "seller": "Kohl's",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-c47e3d3e2aa9:10",
+          "price": {
+           "current": 29.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$29.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 5,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "5032409517705656708",
+           "data_docid": "15225670144326001590",
+           "gid": "12138675506377320533"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "What are some good board games to get for a teen ...",
+        "url": "https://www.reddit.com/r/Libraries/comments/1adx9wu/what_are_some_good_board_games_to_get_for_a_teen/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "30+ comments  ·  2 years ago",
+        "website_name": "Reddit · r/Libraries",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "I’m trying to spiff up my branch’s collection of board games (all we have is a battered 70s copy of Rummikub, Scrabble, and some puzzles). ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Board Games for youths? : r/boardgames - Reddit",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/14deg4s/board_games_for_youths/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What is your top 20 list of board games for a family ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/AskReddit/comments/1l58bou/what_is_your_top_20_list_of_board_games_for_a/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=board+games+for+teens+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnuGEHhaNPk0sGUs_SnT2Ccrt1wbtg:1792381460389&sa=X&ved=2ahUKEwiOi_6hlcWXAxWmQfEDHYzCGv8QrQIoAnoECEcQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What board games are popular with teens?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What is the best board game for a 14-year-old?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some good board games for a 15-year-old?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are the top 10 most popular board games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+        "domain": "hearttohearthomeschooling.com",
+        "title": "The Best Board Games for Families with Teens",
+        "url": "https://hearttohearthomeschooling.com/game-night-teens/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://hearttohearthomeschooling.com › game-night-te...",
+        "website_name": "hearttohearthomeschooling.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Our Top 5 Favorite Board Games To Play With Our Teens · Bring Your Own Book · Blokus · Ticket to Ride. This is actually my favorite board game. Maybe because I ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Bring Your Own Book"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://hearttohearthomeschooling.com/game-night-teens/#:~:text=Our%20Top%205%20Favorite%20Board,To%20Play%20With%20Our%20Teens&text=Bring%20Your%20Own%20Book&text=Blokus&text=Ticket%20to%20Ride,actually%20win%20this%20one%20sometimes.",
+          "domain": "hearttohearthomeschooling.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 2,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]",
+        "title": "More products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Blokus Game Mattel",
+          "url": "https://coopboardgames.com/cooperative-board-game-reviews/blokus/",
+          "domain": "coopboardgames.com",
+          "description": "Target & more\nFree delivery on $35+\nRules take under two minutes to explain, making it perfect for mixed-age … · Two-player games require each person to control two colours, which some find … Co-op Board Games",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQZL3u4P3O8Ix-HeNfAEci64A6NGyWDnMP-bCuz1IN-oQgruM6UVDG4ONiHgu-MTIIc81uU9sYFI5yhmd82jGukVte3T-A1ZpYBxzmG502i",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 2100,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "2202277888957060292",
+           "data_docid": "2505948692565611378",
+           "gid": "7924246940660862581"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Monopoly A Court of Thorns and Roses Edition",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+teens&prds=gpcid:2143844623313032162,rds:PC_2143844623313032162%7CPROD_PC_2143844623313032162,headlineOfferDocid:17001933062590736699,catalogid:16014623388960436915,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Barnes & Noble & more\nNext-day delivery $7",
+          "more_sellers": true,
+          "seller": "Barnes & Noble",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRBQltP1nsGI8EdNK9JbhQYNMZnhZ4ifJfwHfjAmDYDrIplXROIb0cc_0TSVYapONGDjkllmFKufCtT9z8ppq6b3tbN42yldMTLVbRsr78",
+          "price": {
+           "current": 45,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$45.00"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 24,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "16014623388960436915",
+           "data_docid": "7805745282826987162",
+           "gid": "2143844623313032162"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "The Chameleon Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+teens&prds=gpcid:8853706355990091272,rds:PC_8853706355990091272%7CPROD_PC_8853706355990091272,headlineOfferDocid:16809482258498830039,catalogid:15871112829100759435,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+\nFun (119 user reviews)",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRle-QYRohlo7HolmNsjZnzjhltiTzOQRyzm1S9wl7bw2W6ErJOV0MGqo56pj94JREg7liX1m-g6iHFAciATy1xTT9jyUfiKiqixZ8aW30t0gTk6ktg3PSRZw",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 172,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "15871112829100759435",
+           "data_docid": "4407920399412034094",
+           "gid": "8853706355990091272"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Catan Game",
+          "url": "https://www.ubuy.co.in/productuk/Q66IRTQQG-6th-edition-board-game",
+          "domain": "www.ubuy.co.in",
+          "description": "Cardhaus Games & more\nEngaging gameplay with strategic depth · Beautifully crafted game components Ubuy India",
+          "more_sellers": true,
+          "seller": "Cardhaus Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQoi6MilxwLSyVQzkXA1ihe6rQnOaCTVGe7AY2nqoxG27u5HnrAsxae78ir7Lh2OYPSXQG0Onem278Yg1PhPz68F4upojTszQtJkN5riot2HipsmEwiNPbixg",
+          "price": {
+           "current": 39.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$39.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 201,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "8673379403246775114",
+           "data_docid": "10139617312849150232",
+           "gid": "9148757966263496590"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Our Family is So Weird Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+teens&prds=gpcid:4818003365124432226,rds:PC_4818003365124432226%7CPROD_PC_4818003365124432226,headlineOfferDocid:8750681255070615357,catalogid:14276443336405994593,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+\nFun (88 user reviews)",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRWSTQJn0-dsX98wxrhbkNqWZUv9cXXDSagHw96gaJsEfm_-vdPrzxmZhPrVspbmIJ8_bmznnxVNWI7C8_vhUR6NtDsjA9CkS4CwMY8z5BNPWvMFzCJq1aQDw",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 130,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "14276443336405994593",
+           "data_docid": "13952250243478023449",
+           "gid": "4818003365124432226"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Bounce Back Board Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+teens&prds=gpcid:495519741057270440,rds:PC_495519741057270440%7CPROD_PC_495519741057270440,headlineOfferDocid:13556258610449601306,catalogid:8556017752992393816,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Creative Therapy Store & more\n4 Player · 12+ Years · Kids",
+          "more_sellers": true,
+          "seller": "Creative Therapy Store",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQt8Ll8dejN5EuwqXc_KJIh3V9u_29UEbBT4BUpVHnTtFPy-FRLd_tdhtIq_MXVf-s5dIt2MS4T2ljLv0aAcX7xJGFNv7Jzgb3pbOZ4bHaHoBD5ftmAGoIB",
+          "price": {
+           "current": 59.95,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$59.95"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": "8556017752992393816",
+           "data_docid": "10329556231805351422",
+           "gid": "495519741057270440"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "The Worst-Case Scenario Card Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+teens&prds=gpcid:6483017582337914084,rds:PC_6483017582337914084%7CPROD_PC_6483017582337914084,headlineOfferDocid:14162930195419110586,catalogid:14400706882695259799,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRFStPEWRO_96hoKMM8y41oO6msaMImQOZuGjqKeRmPbZ5L0fnnFbbKL_pc1Iw-UCI2PUR5WEOxbt0DfDC0-LIJmPNFGa46whCkr0xMInYwp-iZXOu0fx_M5Q",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 18,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "14400706882695259799",
+           "data_docid": "18179086167961567081",
+           "gid": "6483017582337914084"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Row Your Goat",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+teens&prds=gpcid:14855194661868978966,rds:PC_14855194661868978966%7CPROD_PC_14855194661868978966,headlineOfferDocid:7782663459397075799,catalogid:13390237132599788333,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Exploding Kittens & more\nFree delivery on $40+\nFun (43 user reviews)",
+          "more_sellers": true,
+          "seller": "Exploding Kittens",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTLBaeqT3SZTEtOVXD-FdOtO-TGVgAEP9D0BIr450uCFcr8r5oeocYye2GHunI-QVWCQ_kdeUM_gBnB86KFkBbUKedaMquJQ33oObaoZa7dplLzxLfXexKc7g",
+          "price": {
+           "current": 9.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$9.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 58,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "13390237132599788333",
+           "data_docid": "6336953790568278062",
+           "gid": "14855194661868978966"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+        "domain": "www.amazon.com",
+        "title": "Board Games For Teenagers",
+        "url": "https://www.amazon.com/board-games-teenagers/s?k=board+games+for+teenagers",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.amazon.com › board-games-teenagers › k=b...",
+        "website_name": "Amazon.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Engaging board games for teens featuring word games, strategy challenges, and party options for group fun. Guessing Board Game",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 5,
+         "regular": null,
+         "max_value": 17,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$5 to $17"
+        },
+        "highlighted": [
+         "Engaging board games for teens"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What are some fun board games for a large group of kids, ...",
+        "url": "https://www.facebook.com/groups/boardgamerevolution/posts/3882792445345998/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "30+ comments  ·  1 year ago",
+        "website_name": "Facebook · Board Game Revolution Community",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Hey friends!\n\nWe’re putting together a community game day that’s also a bit of a birthday party for my 12-year-old and her friends, and I could really ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "What are must-have board games for teens? - Facebook",
+          "description": null,
+          "url": "https://www.facebook.com/groups/boardgamerevolution/posts/4125759331049307/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What are good family board games for teens? - Facebook",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10163905009357829/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.facebook.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=board+games+for+teens+site:www.facebook.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnuGEHhaNPk0sGUs_SnT2Ccrt1wbtg:1792381460389&sa=X&ved=2ahUKEwiOi_6hlcWXAxWmQfEDHYzCGv8QrQIoAnoECEwQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Gaming with Tweens & Young Teens",
+        "url": "https://boardgamegeek.com/geeklist/334874/gaming-with-tweens-and-young-teens",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › geeklist › gaming-with-t...",
+        "website_name": "BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "May 19, 2024 — 1. Azul · 2. Battleship · 3. Cascadia · 4. Century: Golem Edition · 5. Decipher · 6. Dixit · 7. Dungeons & Dragons (5th Edition) · 8. Flamecraft. Read more",
+        "pre_snippet": "05/19/2024 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1. Azul"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://boardgamegeek.com/geeklist/334874/gaming-with-tweens-and-young-teens#:~:text=1.,Azul&text=2.,Battleship&text=3.,Cascadia&text=4.,Century%3A%20Golem%20Edition&text=5.,Decipher&text=6.,Dixit&text=7.,Dungeons%20%26%20Dragons%20(5th%20Edition)&text=8.,Flamecraft",
+          "domain": "boardgamegeek.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2024-05-19 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[21]/div[1]/div[1]",
+        "domain": "www.rachelteodoro.com",
+        "title": "20 of The Best Family Board Games for Teens |",
+        "url": "https://www.rachelteodoro.com/2021/01/20-of-best-family-board-games-for-teens.html",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.rachelteodoro.com › 2021/01 › 20-of-best-f...",
+        "website_name": "Rachel Teodoro",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Your Favorite Family Board Games · Sushi Go · Dixit · Viticulture · Tapple · Telestrations · Poetry for Neanderthals · Exploding Kittens · CodeNames. This ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Sushi Go"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.rachelteodoro.com/2021/01/20-of-best-family-board-games-for-teens.html#:~:text=Your%20Favorite%20Family%20Board%20Games&text=Sushi%20Go&text=Dixit&text=Viticulture&text=Tapple&text=Telestrations&text=Poetry%20for%20Neanderthals&text=Exploding%20Kittens&text=CodeNames,This",
+          "domain": "www.rachelteodoro.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 13,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[23]/div[1]/div[1]",
+        "domain": "www.target.com",
+        "title": "Board Games : Toys for Teens",
+        "url": "https://www.target.com/c/toys-for-teens/board-games/-/N-1qno6Zm4r0p",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.target.com › Toys & Games",
+        "website_name": "Target",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Target has the Toys for Teens you're looking for at incredible prices. Choose from contactless Same Day Delivery, Drive Up and more.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 13,
+         "regular": null,
+         "max_value": 60,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$13 to $60"
+        },
+        "highlighted": [
+         "Choose from contactless Same Day Delivery, Drive Up and more"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 14,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Board games for teens and family",
+         "Best board games for teens",
+         "Top 10 board games for teens",
+         "Board games for teen boys",
+         "Board games for teens and adults",
+         "Best board games for teens and adults",
+         "Board games for teens reddit",
+         "Card games for teens"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

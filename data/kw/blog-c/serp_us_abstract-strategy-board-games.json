@@ -1,0 +1,941 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "13.6194 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190343-2588-0139-0000-d97976fa70e2",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "13.5366 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "abstract strategy board games",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "abstract strategy board games",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=abstract%20strategy%20board%20games&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:43:33 +00:00",
+      "spell": null,
+      "refinement_chips": {
+       "type": "refinement_chips",
+       "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+       "items": [
+        {
+         "type": "refinement_chips_element",
+         "title": "Online",
+         "url": "https://www.google.com/search?q=online+abstract+strategy+board+games&hl=en&gl=US&shoprs=GBIqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMgoIEhIGT25saW5lYAE&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKAF6BAgyEHM",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids",
+         "url": "https://www.google.com/search?q=kids+abstract+strategy+board+games&hl=en&gl=US&shoprs=GAEqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMhQIARIES2lkczoKCPyQbxD-kG8wAFjTySBgAQ&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKAJ6BAgyEHQ",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Free",
+         "url": "https://www.google.com/search?q=free+abstract+strategy+board+games&hl=en&gl=US&shoprs=GBIqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMggIEhIERnJlZWAB&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKAN6BAgyEHU",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board & Card Games",
+         "url": "https://www.google.com/search?q=board+%26+card+games+abstract+strategy&hl=en&gl=US&shoprs=GAkqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMhYICRISQm9hcmQgJiBDYXJkIEdhbWVzYAE&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKAR6BAgyEHY",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adults",
+         "url": "https://www.google.com/search?q=adults+abstract+strategy+board+games&hl=en&gl=US&shoprs=GAEqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMhYIARIGQWR1bHRzOgoI_JBvEP2QbzAAWNPJIGAB&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKAV6BAgyEHc",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board Game",
+         "url": "https://www.google.com/search?q=board+game+abstract+strategy+games&hl=en&gl=US&shoprs=GAEqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMhwIARIKQm9hcmQgR2FtZToMCNSdngIQ152eAjADWNPJIGAB&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKAZ6BAgyEHg",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Reviews",
+         "url": "https://www.google.com/search?q=reviews+abstract+strategy+board+games&hl=en&gl=US&shoprs=GBIqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKAd6BAgyEHk",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "2 Player",
+         "url": "https://www.google.com/search?q=2+player+abstract+strategy+board+games&hl=en&gl=US&shoprs=GAEqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMhoIARIIMiBQbGF5ZXI6DAjpnJoCEOucmgIwAFjTySBgAQ&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKAh6BAgyEHo",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "On sale",
+         "url": "https://www.google.com/search?q=abstract+strategy+board+games+sale&hl=en&gl=US&shoprs=EgRKAhgBGAYqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMhMIBhIHT24gc2FsZRgCIgRKAhgBWNPJIGAB&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKAl6BAgyEHs",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Single Player",
+         "url": "https://www.google.com/search?q=single+player+abstract+strategy+board+games&hl=en&gl=US&shoprs=GAEqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMh8IARINU2luZ2xlIFBsYXllcjoMCJqGngIQm4aeAjADWNPJIGAB&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKAp6BAgyEHw",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "4 Player",
+         "url": "https://www.google.com/search?q=4+player+abstract+strategy+board+games&hl=en&gl=US&shoprs=GAEqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMhoIARIINCBQbGF5ZXI6DAjpnJoCEO2cmgIwAFjTySBgAQ&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKAt6BAgyEH0",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Books",
+         "url": "https://www.google.com/search?q=books+abstract+strategy+board+games&hl=en&gl=US&shoprs=GAkqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMgkICRIFQm9va3NgAQ&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKAx6BAgyEH4",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "For Sale",
+         "url": "https://www.google.com/search?q=abstract+strategy+board+games+for+sale&hl=en&gl=US&shoprs=GBIqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMgwIEhIIRm9yIFNhbGVgAQ&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKA16BAgyEH8",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Black",
+         "url": "https://www.google.com/search?q=black+abstract+strategy+board+games&hl=en&gl=US&shoprs=GAEqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMhcIARIFQmxhY2s6DAjYjPUBEOWK9QEwC1jTySBgAQ&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKA56BQgyEIAB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board & Card Game Expansion ...",
+         "url": "https://www.google.com/search?q=board+%26+card+game+expansion+packs+abstract+strategy+games&hl=en&gl=US&shoprs=GAkqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMiUICRIhQm9hcmQgJiBDYXJkIEdhbWUgRXhwYW5zaW9uIFBhY2tzYAE&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKA96BQgyEIEB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "20 – 45 minutes",
+         "url": "https://www.google.com/search?q=20+minutes+to+45+minutes+abstract+strategy+board+games&hl=en&gl=US&shoprs=EhoqGAjGvj0SEgkAAAAAAAA0QBEAAAAAAIBGQBgBKh1hYnN0cmFjdCBzdHJhdGVneSBib2FyZCBnYW1lczJZCAESETIwIOKAkyA0NSBtaW51dGVzIhoqGAjGvj0SEgkAAAAAAAA0QBEAAAAAAIBGQCocChgyMCBtaW51dGVzIHRvIDQ1IG1pbnV0ZXMYAToICMa-PRAAMAZY08kgYAE&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKBB6BQgyEIIB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Buy",
+         "url": "https://www.google.com/search?q=buy+abstract+strategy+board+games&hl=en&gl=US&shoprs=GBIqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKBF6BQgyEIMB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "45 – 90 minutes",
+         "url": "https://www.google.com/search?q=45+minutes+to+90+minutes+abstract+strategy+board+games&hl=en&gl=US&shoprs=EhoqGAjGvj0SEgkAAAAAAIBGQBEAAAAAAIBWQBgBKh1hYnN0cmFjdCBzdHJhdGVneSBib2FyZCBnYW1lczJZCAESETQ1IOKAkyA5MCBtaW51dGVzIhoqGAjGvj0SEgkAAAAAAIBGQBEAAAAAAIBWQCocChg0NSBtaW51dGVzIHRvIDkwIG1pbnV0ZXMYAToICMa-PRAAMAZY08kgYAE&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKBJ6BQgyEIQB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "10+ Years",
+         "url": "https://www.google.com/search?q=10%2B+years+abstract+strategy+board+games&hl=en&gl=US&shoprs=GAEqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMhsIARIJMTArIFllYXJzOgwI3va1ARDHqLYBMABY08kgYAE&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKBN6BQgyEIUB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Over 90 minutes",
+         "url": "https://www.google.com/search?q=over+90+minutes+abstract+strategy+board+games&hl=en&gl=US&shoprs=EhEqDwjGvj0SCQkAAAAAAIBWQBgBKh1hYnN0cmFjdCBzdHJhdGVneSBib2FyZCBnYW1lczI0CAESD092ZXIgOTAgbWludXRlcyIRKg8Ixr49EgkJAAAAAACAVkAqAhgBOggIxr49EAAwBljTySBgAQ&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKBR6BQgyEIYB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Chess",
+         "url": "https://www.google.com/search?q=chess+abstract+strategy+board+games&hl=en&gl=US&shoprs=GAEqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMhUIARIFQ2hlc3M6CgjhyTsQ78k7MAJY08kgYAE&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKBV6BQgyEIcB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Under $20",
+         "url": "https://www.google.com/search?q=abstract+strategy+board+games+under+$20&hl=en&gl=US&shoprs=Eg0SCxEAAAAA0BJzQRgBGAUqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMiIIBRIJVW5kZXIgJDIwGAIiDRILEQAAAADQEnNBGAEqAhgBWNPJIGAB&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKBZ6BQgyEIgB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Green",
+         "url": "https://www.google.com/search?q=green+abstract+strategy+board+games&hl=en&gl=US&shoprs=GAEqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMhcIARIFR3JlZW46DAjYjPUBEOiK9QEwC1jTySBgAQ&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKBd6BQgyEIkB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Blue",
+         "url": "https://www.google.com/search?q=blue+abstract+strategy+board+games&hl=en&gl=US&shoprs=GAEqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMhYIARIEQmx1ZToMCNiM9QEQ5or1ATALWNPJIGAB&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKBh6BQgyEIoB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "New",
+         "url": "https://www.google.com/search?q=new+abstract+strategy+board+games&hl=en&gl=US&shoprs=GAoqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMgcIChIDTmV3WNPJIGAB&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKBl6BQgyEIsB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Used",
+         "url": "https://www.google.com/search?q=used+abstract+strategy+board+games&hl=en&gl=US&shoprs=GAoqHWFic3RyYWN0IHN0cmF0ZWd5IGJvYXJkIGdhbWVzMggIChIEVXNlZFjTySBgAQ&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQip4GKBp6BQgyEIwB",
+         "domain": "www.google.com",
+         "options": null
+        }
+       ]
+      },
+      "item_types": [
+       "organic",
+       "popular_products",
+       "related_searches"
+      ],
+      "se_results_count": 153,
+      "pages_count": 1,
+      "items_count": 12,
+      "items": [
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Best abstract strategy games of the last 30 years",
+        "url": "https://boardgamegeek.com/geeklist/154770/best-abstract-strategy-games-of-the-last-30-years",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › geeklist › best-abstract-str...",
+        "website_name": "BGG",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "This really isn't a list of mine, but rather, I hope, a collaboration. What do you think is one of the best abstract strategy games of the last 30 years?",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "best abstract strategy games of the last 30 years"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Top-rated Abstract Strategy Games by Year",
+        "url": "https://boardgamegeek.com/geeklist/35811/top-rated-abstract-strategy-games-by-year",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › geeklist › top-rated-abstra...",
+        "website_name": "BGG",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Presented below are BGG's top-rated abstract strategy games, listed by year published. Games must have at least 50 ratings to qualify for this list. Winners ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "BGG's top-rated abstract strategy games"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Does anyone like Abstract Strategy boardgames anymore?",
+        "url": "https://www.reddit.com/r/tabletopgamedesign/comments/1crpw75/does_anyone_like_abstract_strategy_boardgames/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "10+ comments  ·  2 years ago",
+        "website_name": "Reddit · r/tabletopgamedesign",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "I was just genuinely wondering if people find abstract, non-thematic games interesting? I've been developing my own titled 'TACT' and have gotten ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "180 highly rated abstract games playable with ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/1octdxc/180_highly_rated_abstract_games_playable_with/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Collection of around 50 abstract strategy games, that ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/abstractgames/comments/1rwfubi/collection_of_around_50_abstract_strategy_games/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=abstract+strategy+board+games+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnvHLI6JuouupAF1dDsZ8MoGHOSkag:1792381412011&sa=X&ved=2ahUKEwjlovWKlcWXAxXkTaQEHYAHBuMQrQIoAnoECCQQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+        "domain": "dicetower.com",
+        "title": "Top 10 Abstract Strategy Games",
+        "url": "https://dicetower.com/video/top-10-abstract-strategy-games",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://dicetower.com › video › top-10-abstract-strategy-...",
+        "website_name": "The Dice Tower",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Join the fellas as they share their ten favorite abstract strategy games!! Check out the friendliest conventions on Earth! Dice Tower East! Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "ten favorite abstract strategy games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://dicetower.com/video/top-10-abstract-strategy-games#:~:text=Join%20the%20fellas%20as%20they,Dice%20Tower%20East!",
+          "domain": "dicetower.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What are your favorite abstract games with engaging early ...",
+        "url": "https://www.facebook.com/groups/boardgamerevolution/posts/3524146034543976/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "10+ comments  ·  2 years ago",
+        "website_name": "Facebook · Board Game Revolution Community",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "What are your favorite abstract games and what do you like about them?\n\nI think some of the best, crunchy gameplay can be had in abstracts. I’m thinking ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]",
+        "domain": "boardgamegeekstore.com",
+        "title": "Abstract Games",
+        "url": "https://boardgamegeekstore.com/collections/abstract-games?srsltid=AU7gw4XR2-QmzIytv7kRKqcZhOH261D5WdvUIXAtTAnZi8-mUnzsvLSw",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeekstore.com › collections › abstract-...",
+        "website_name": "BoardGameGeek Store",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Strategy Games Card Games Roll & Write Games Party Games Puzzle Games Abstract Games Games. SAVE $5 on each Artist Series print when you order four or more!",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Strategy Games"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Browse Board Games",
+        "url": "https://boardgamegeek.com/abstracts/browse/boardgame",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › browse › boardgame",
+        "website_name": "BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Use your insects to trap your opponent's Queen Bee in this board-less abstract game. push all your opponent's stones off any one of four boards to win! s in ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 19,
+         "regular": null,
+         "max_value": 50,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$19 to $50"
+        },
+        "highlighted": [
+         "Use your insects to trap your opponent's Queen Bee"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Beautiful modern abstract games",
+        "url": "https://boardgamegeek.com/thread/2789045/beautiful-modern-abstract-games",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › ... › Forums › General",
+        "website_name": "BGG",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jan 6, 2022 — If you like colorful abstract strategy games (Abstract-Euro hybrids) consider Azul , Photosynthesis , and P'achakuna . A lot of the GIPF games ... Read more",
+        "pre_snippet": "01/06/2022 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Azul"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://boardgamegeek.com/thread/2789045/beautiful-modern-abstract-games#:~:text=If%20you%20like%20colorful%20abstract,and%20considered%20nice%20looking%20(e.g.",
+          "domain": "boardgamegeek.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2022-01-06 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What are the best abstract strategy games from 2000 ...",
+        "url": "https://www.facebook.com/groups/AbstractNationX/posts/1710127846280509/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "8 comments  ·  1 year ago",
+        "website_name": "Facebook · Abstract Nation",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "#13 Qawale #12 Cannon #11 LYNGK #10 Homeworlds #9 Hive #8 Arimaa #7 Battle Line (not really AS I know but feels like it!) Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Qawale"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.facebook.com/groups/AbstractNationX/posts/1710127846280509/#:~:text=%2313%20Qawale%20%2312%20Cannon%20%2311,Volo%20%232%20Tumbleweed%20%231%20Triad",
+          "domain": "www.facebook.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]",
+        "domain": "www.boardgamebliss.com",
+        "title": "Top Abstract Games",
+        "url": "https://www.boardgamebliss.com/collections/top-abstract-games?srsltid=AU7gw4UddMc_V3FYQAlIm2ESbxfJ_wSXyPjwf9QG3UHRvM-HsmSekaEH",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.boardgamebliss.com › collections › top-abs...",
+        "website_name": "Board Game Bliss",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Below is the list of Top Ranked Abstract Games rated by community in the world's largest board gaming web site BoardGameGeek. Full list can be found here.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 11,
+         "regular": null,
+         "max_value": 89,
+         "currency": "CAD",
+         "is_price_range": true,
+         "displayed_price": "CA$11 to CA$89"
+        },
+        "highlighted": [
+         "Top Ranked Abstract Games"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 1,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[21]/div[1]",
+        "title": "Popular products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Madelinette abstract strategy board game",
+          "url": "https://www.google.com/search?ibp=oshop&q=abstract+strategy+board+games&prds=gpcid:18268000206466679341,rds:PC_18268000206466679341%7CPROD_PC_18268000206466679341,headlineOfferDocid:14663653200243554986,catalogid:4910962617814216918,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "NewVenture Games & more\nFree delivery\nTic-tac-toe · 2 Player · 20 minutes",
+          "more_sellers": true,
+          "seller": "NewVenture Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-d97976fa70e2:0",
+          "price": {
+           "current": 13.95,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$13.95"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": "4910962617814216918",
+           "data_docid": "7689315289254308400",
+           "gid": "18268000206466679341"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Azul Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=abstract+strategy+board+games&prds=gpcid:16277784982869458591,rds:PC_16277784982869458591%7CPROD_PC_16277784982869458591,headlineOfferDocid:6059037526650711439,catalogid:5525313397194565835,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "BigBadToyStore & more\nFun (397 user reviews)",
+          "more_sellers": true,
+          "seller": "BigBadToyStore",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-d97976fa70e2:1",
+          "price": {
+           "current": 31.99,
+           "regular": 40,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$31.99 $40"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 821,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "5525313397194565835",
+           "data_docid": "5213794068131047571",
+           "gid": "16277784982869458591"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "CTOR Abstract Strategy Game Torus Dr Vladimir Bronn",
+          "url": "https://www.google.com/search?ibp=oshop&q=abstract+strategy+board+games&prds=headlineOfferDocid:10237974274073385507,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "NewVenture Games\nFree delivery\n6 Player · 10+ Years · Single Player",
+          "more_sellers": false,
+          "seller": "NewVenture Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-d97976fa70e2:2",
+          "price": {
+           "current": 34.95,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$34.95"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": null,
+           "data_docid": "10237974274073385507",
+           "gid": null
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Vestige Wretched Edition",
+          "url": "https://www.google.com/search?ibp=oshop&q=abstract+strategy+board+games&prds=gpcid:4359754479108930912,rds:PC_4359754479108930912%7CPROD_PC_4359754479108930912,headlineOfferDocid:8865897041924526437,catalogid:15221149418885598320,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Orange Nebula & more",
+          "more_sellers": true,
+          "seller": "Orange Nebula",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-d97976fa70e2:3",
+          "price": {
+           "current": 49,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$49.00"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": "15221149418885598320",
+           "data_docid": "6960454016853849671",
+           "gid": "4359754479108930912"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Hex famous abstract strategy board game by Piet Hein and John Nash",
+          "url": "https://www.google.com/search?ibp=oshop&q=abstract+strategy+board+games&prds=headlineOfferDocid:2594939171528862264,catalogid:4840643288906277812,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "NewVenture Games\nFree delivery",
+          "more_sellers": false,
+          "seller": "NewVenture Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-d97976fa70e2:4",
+          "price": {
+           "current": 24.95,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.95"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": "4840643288906277812",
+           "data_docid": "15695663719262575958",
+           "gid": null
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Earth Board Game",
+          "url": "https://trisomegames2016.org/best-eco-friendly-board-games/",
+          "domain": "trisomegames2016.org",
+          "description": "BigBadToyStore & more\nBeautifully illustrated cards enhance visual appeal and engagement · Recommended for ages 12 and up, which may limit participation for younger … trisomegames2016.org",
+          "more_sellers": true,
+          "seller": "BigBadToyStore",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-d97976fa70e2:5",
+          "price": {
+           "current": 41.99,
+           "regular": 50,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$41.99 $50"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.9,
+           "votes_count": 86,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "15574238988958296296",
+           "data_docid": "4890414713443229996",
+           "gid": "14605967543982900012"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Modern Art",
+          "url": "https://www.google.com/search?ibp=oshop&q=abstract+strategy+board+games&prds=gpcid:16973949036845617175,rds:PC_16973949036845617175%7CPROD_PC_16973949036845617175,headlineOfferDocid:6598769150629565637,catalogid:7983250800063927927,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Boarding School Games & more",
+          "more_sellers": true,
+          "seller": "Boarding School Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-d97976fa70e2:6",
+          "price": {
+           "current": 24.55,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.55"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.9,
+           "votes_count": 35,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "7983250800063927927",
+           "data_docid": "4595049815048600274",
+           "gid": "16973949036845617175"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Blue & Gray abstract strategy board game NewVenture Games Made in USA",
+          "url": "https://www.google.com/search?ibp=oshop&q=abstract+strategy+board+games&prds=headlineOfferDocid:7482310097906993124,catalogid:2777856658742333876,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "NewVenture Games\nFree delivery",
+          "more_sellers": false,
+          "seller": "NewVenture Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-d97976fa70e2:7",
+          "price": {
+           "current": 24.95,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.95"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": "2777856658742333876",
+           "data_docid": "4138502743866859215",
+           "gid": null
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Abstract strategy board games online",
+         "Best abstract strategy board games",
+         "Best 2 player abstract strategy games",
+         "Simple abstract strategy games",
+         "4 player abstract games",
+         "Top strategy board games",
+         "Gobblet board game",
+         "Abstract games Reddit"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

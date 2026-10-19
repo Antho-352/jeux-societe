@@ -1,0 +1,658 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.8943 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190344-2588-0139-0000-5ac6e5160a09",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.8423 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "escape room for teens",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "escape room for teens",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=escape%20room%20for%20teens&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:44:28 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "local_pack",
+       "organic",
+       "people_also_ask",
+       "images",
+       "related_searches"
+      ],
+      "se_results_count": 192,
+      "pages_count": 1,
+      "items_count": 14,
+      "items": [
+       {
+        "type": "local_pack",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "title": "EscapeWorks Denver - Convention Center",
+        "description": "Denver, CO \n\"The room was challenging enough to keep us all engaged and entertained.\" \n",
+        "domain": "escapeworksdenver.com",
+        "phone": "(720) 670-8355",
+        "booking_url": null,
+        "url": "http://escapeworksdenver.com/",
+        "is_paid": false,
+        "rating": {
+         "rating_type": "Max5",
+         "value": 4.9,
+         "votes_count": 5300,
+         "rating_max": 5
+        },
+        "cid": "5339165876486749638",
+        "rectangle": null
+       },
+       {
+        "type": "local_pack",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]",
+        "title": "Alcatraz Escape Games",
+        "description": "Draper, UT \nClosed · Opens 2 PM Mon \n\"The room and puzzles were challenging, but still solvable and fun.\" \n",
+        "domain": "alcatrazescapegames.com",
+        "phone": "(801) 708-0198",
+        "booking_url": null,
+        "url": "http://alcatrazescapegames.com/",
+        "is_paid": false,
+        "rating": {
+         "rating_type": "Max5",
+         "value": 4.7,
+         "votes_count": 1800,
+         "rating_max": 5
+        },
+        "cid": "1982795272991535797",
+        "rectangle": null
+       },
+       {
+        "type": "local_pack",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]",
+        "title": "Enter the Enigma - Garden of the Gods",
+        "description": "Colorado Springs, CO \nClosed · Opens 12 PM Mon \n\"The atmosphere and puzzles were cool, and my group had a blast.\" \n",
+        "domain": "www.entertheenigma.com",
+        "phone": "(719) 309-6862",
+        "booking_url": null,
+        "url": "https://www.entertheenigma.com/?utm_source=Google&utm_medium=maps&utm_campaign=none",
+        "is_paid": false,
+        "rating": {
+         "rating_type": "Max5",
+         "value": 5,
+         "votes_count": 1700,
+         "rating_max": 5
+        },
+        "cid": "9527036388398440858",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+        "domain": "escaperoomgeeks.com",
+        "title": "Printable Escape Room Kits: Play at Home | Escape Room ...",
+        "url": "https://escaperoomgeeks.com/?srsltid=AU7gw4Wmvd9sQ7Z6MGyNWgWaCa-tETHclZB0Y8xS9ewdoEGiHbF8oCXT",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://escaperoomgeeks.com",
+        "website_name": "Escape Room Geeks",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Printable escape room kits for kids, families, and classrooms. Download, print, and play — instant fun with puzzles, clues, and immersive stories. Ages 5 to 16+ ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 20,
+         "regular": null,
+         "max_value": 119,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$20 to $119"
+        },
+        "highlighted": [
+         "escape room",
+         "kids"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://escaperoomgeeks.com/?srsltid=AU7gw4Wmvd9sQ7Z6MGyNWgWaCa-tETHclZB0Y8xS9ewdoEGiHbF8oCXT#:~:text=Printable%20escape%20room%20kits%20for,stories.%20Ages%205%20to%2016%2B.",
+          "domain": "escaperoomgeeks.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "Can a 13 year old do an escape room?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Is an escape room appropriate for 14 year olds?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Are escape rooms suitable for 12 year olds?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What is the best game for 14 year olds?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+        "domain": "teenservicesdepot.wordpress.com",
+        "title": "escape room ideas for teens – TEEN SERVICES DEPOT",
+        "url": "https://teenservicesdepot.wordpress.com/tag/escape-room-ideas-for-teens/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://teenservicesdepot.wordpress.com › tag › escape-...",
+        "website_name": "teen services depot",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "We had five escape room type puzzles because teens like puzzles. One suspect sat in each room to hand teens the first clue and to reset the room between teens. ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "five escape room type puzzles"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+        "domain": "mazerooms.com",
+        "title": "Escape Room for Teenagers in Los Angeles ≡ Best ...",
+        "url": "https://mazerooms.com/looking-for-the-thrilling-escape-rooms-for-teenagers-in-los-angeles-maze-rooms-has-exciting-varieties/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://mazerooms.com › looking-for-the-thrilling-escape...",
+        "website_name": "Maze Rooms",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Maze rooms operates some of the most elaborate and exciting escape room facilities in Los Angeles tailored specifically for lively teenagers.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "rooms",
+         "escape room",
+         "teenagers"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]",
+        "domain": "brownell-libraryri.org",
+        "title": "Free Digital Escape Rooms for Kids, Families & Teens!",
+        "url": "https://brownell-libraryri.org/use-the-library/kids/free-digital-escape-rooms-for-kids-families-teens/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://brownell-libraryri.org › use-the-library › free-di...",
+        "website_name": "brownell-libraryri.org",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Free Digital Escape Rooms for Kids, Families & Teens ! · Dogman Digital Escape Room · Escape from Wonderland Digital Escape Room · American Revolution: The ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Free Digital Escape Rooms for Kids, Families & Teens"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://brownell-libraryri.org/use-the-library/kids/free-digital-escape-rooms-for-kids-families-teens/#:~:text=Free%20Digital%20Escape%20Rooms%20for,Kids%2C%20Families%20%26%20Teens!&text=Dogman%20Digital%20Escape%20Room&text=Escape%20from%20Wonderland%20Digital%20Escape,Room&text=American%20Revolution%3A%20The%20British%20Are,Coming",
+          "domain": "brownell-libraryri.org"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]",
+        "domain": "www.etsy.com",
+        "title": "Escape Room in a Box for TEENS",
+        "url": "https://www.etsy.com/listing/1133738542/escape-room-in-a-box-for-teens",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.etsy.com › ... › Board Games",
+        "website_name": "Etsy",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Enjoy the experience of an Escape Room without leaving your house. Each box contains challenging tasks, riddles, and locked boxes leading to more locked boxes.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": {
+         "rating_type": "Max5",
+         "value": 5,
+         "votes_count": 35,
+         "rating_max": 5
+        },
+        "price": {
+         "current": 69.95,
+         "regular": null,
+         "max_value": null,
+         "currency": "USD",
+         "is_price_range": false,
+         "displayed_price": "$69.95"
+        },
+        "highlighted": [
+         "Escape Room"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]",
+        "domain": "alcatrazescapegames.com",
+        "title": "Unlocking Fun: Best Teen-Friendly Escape Rooms",
+        "url": "https://alcatrazescapegames.com/blogs/alcatraz-escape-games-blog/unlocking-fun-best-teen-friendly-escape-rooms",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://alcatrazescapegames.com › blogs › unlocking-fu...",
+        "website_name": "alcatrazescapegames.com",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Oct 13, 2025 — An escape room for teens has become a top entertainment trend, offering the perfect blend of challenge, teamwork, and screen-free fun.",
+        "pre_snippet": "10/13/2025 00:00:00",
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "escape room for teens from alcatrazescapegames.com",
+          "url": "https://alcatrazescapegames.com/blogs/alcatraz-escape-games-blog/unlocking-fun-best-teen-friendly-escape-rooms",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7RnLTrDp2UX00FDicEkaMRp8Q2FuW4NI_LE8yB_fhZ24mTeykh-6i&usqp=CAE&s"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "An escape room for teens has become a top entertainment trend"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-10-13 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]",
+        "domain": "www.nols.org",
+        "title": "Virtual Escape Room for Teens",
+        "url": "https://www.nols.org/virtual-escape-room-for-teens/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.nols.org › virtual-escape-room-for-teens",
+        "website_name": "North Olympic Library System",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Aug 14, 2025 — Try this Virtual Escape Room for Teens (and their friends and families). Make a team or play on your own. Grab some paper, snacks, ...",
+        "pre_snippet": "08/14/2025 00:00:00",
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "escape room for teens from www.nols.org",
+          "url": "https://www.nols.org/virtual-escape-room-for-teens/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMzkPak6LGIOwSfegX2184WGUQVcvjAaDDS6ClN-hQ3rwHidx7SS50&usqp=CAE&s"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Virtual Escape Room for Teens"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-08-14 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]",
+        "domain": "meaningfulmama.com",
+        "title": "Escape Room Idea for Large or Small Groups",
+        "url": "https://meaningfulmama.com/escape-room-idea-for-large-or-small-groups.html",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://meaningfulmama.com › Kids › Activities",
+        "website_name": "Meaningfulmama.com",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Feb 22, 2025 — Looking for an escape room idea for large or small groups? You have come to the right place. Great activity for youth groups, team-building.",
+        "pre_snippet": "02/22/2025 00:00:00",
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "escape room for teens from meaningfulmama.com",
+          "url": "https://meaningfulmama.com/escape-room-idea-for-large-or-small-groups.html",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqM-ePeCI3N0AzQ9x8vTKoaX8WWFEqfjEGqndF6j25XVlsXWpdm_7V&usqp=CAE&s"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Great activity for youth groups"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-02-22 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "images",
+        "rank_group": 1,
+        "rank_absolute": 13,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[21]/div[1]",
+        "title": "Images",
+        "url": "https://www.google.com/search?sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnssty0fd5GcaE4TSashX01-ICOfHQ:1792381467054&q=escape+room+for+teens&udm=2&source=univ&fir=ghuKoA3Lo_qniM%252CbOavP2dGNxOSjM%252C_%253BY2Oa6rywM3p3QM%252C3V1i7QAZdpHIOM%252C_%253BfmYWcqJxUa-ayM%252CrkTLsxxKwcq5dM%252C_%253BCOID4vz9DNL6LM%252CLZN2HhiBWr0YsM%252C_%253BjiG5cRAg7DvKSM%252COq_tPv9jXup3GM%252C_%253B2Kklg3ge9Mlw_M%252CDVK0ckP6_ioF8M%252C_%253BbO5ZCldfwYyiNM%252CZCJiPsN6q9hvvM%252C_%253Btl1wLZqqdbEoaM%252CEZx2T1TNrpuchM%252C_%253BILH47mYzzEpzJM%252COq_tPv9jXup3GM%252C_&usg=AI4_-kRu7Td002gNKQwO3IXb_w9e-wEt9A&sa=X&ved=2ahUKEwi77JSllcWXAxUYK1kFHaSXG0AQ7Al6BAhWEAU",
+        "items": [
+         {
+          "type": "images_element",
+          "alt": "How One Man Blow His Teen Youth Group's Mind with a DIY ...",
+          "url": "https://lockpaperscissors.co/printable-youth-escape-room-guide?srsltid=AU7gw4XBA7P09p9VdO-0Z81lLOg3cl__AMRd5D1H649FfXsCiw6T-2YS",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBH7fZxPLiNJmJ4mxIQCqSSAn-QpPIQvT9w3-zzqhaq8-4osTbgnnyUzA&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Escape Rooms for Kids | INDESTROOM",
+          "url": "https://erworkshop.com/home/are-escape-rooms-kid-friendly/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxrTxQNYz6JXVqxYZQAeoNIZUEWHvAaSwOXcc9wdex5XEPkBDyedWDFxM&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Virtual Escape Room for Teens - North Olympic Library System ...",
+          "url": "https://www.nols.org/virtual-escape-room-for-teens/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHwIUE_T4ZvaxPb5m94vt27hXSY4UfVSqd_JIYKT3B7UIy8_mn1Oa4IEk&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Maze Rooms - Los Angeles, CA",
+          "url": "https://mazerooms.com/looking-for-the-thrilling-escape-rooms-for-teenagers-in-los-angeles-maze-rooms-has-exciting-varieties/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFSNYXD7h-KIEPSlyuOZfyxjSr6R0SbSRwdfz6QcaCCsWi8kdZ8Z7Tk6c&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Escape Room Kits for Adults and Teens to Play at Home",
+          "url": "https://escape-kit.com/en/escape-room-adults/?srsltid=AU7gw4W0AZQ2Ey8N2Kfg3DpyCRQm3YkmAPMWR_6-OJF7CN3uWvpwnPPz",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQoYuQBtFYcnMN9ZLYPjBi-ZP3UQdge0-N046vdQpe5XZ1ok8aes97RZ0&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Unlocking Fun: Best Teen-Friendly Escape Rooms ...",
+          "url": "https://alcatrazescapegames.com/blogs/alcatraz-escape-games-blog/unlocking-fun-best-teen-friendly-escape-rooms",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX5WuLTxBljSYaU4Ik7dR1zwMtkuHWivhDw915g8578Rcapn5_v5U0yXs&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Room Escape - Ottawa Escape Room — Kids in the Capital",
+          "url": "https://www.kidsinthecapital.ca/blog/2023/7/29/room-escape-ottawa-escape-room",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7XdgXW2otO9-2RSzt0QOo9EJnmvAmBpsdXguebAmme67lq5UUeRzE3v8&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Why Playing Escape Room Is Good For Kids - EscapeWorks Denver",
+          "url": "https://www.escapeworksdenver.com/why-playing-escape-room-is-good-for-kids/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2XFFCl7zYvuQ3T1Y8Qr9g8zkaiNdophcy4Uc34dRpujSFSP-XHmBMI8&s"
+         },
+         {
+          "type": "images_element",
+          "alt": "Escape Room Kits for Adults and Teens to Play at Home",
+          "url": "https://escape-kit.com/en/escape-room-adults/?srsltid=AU7gw4Vgj_rs1WkzQsPQFMG0cCwu_nAzgh3BSiSACLzDj2puiIexZeUT",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa9JcfUXmOFrrbVtoywm8LczARWRQu6dKTcv7gtcKZmXd1rIQaKw2kvpY&s"
+         }
+        ],
+        "related_image_searches": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 14,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Escape room for teens near me",
+         "Escape room for teens online",
+         "Escape room for teens free",
+         "Best escape room for teens",
+         "Escape room for teens questions",
+         "Printable escape room for teens",
+         "Free printable escape room PDF With answers",
+         "Escape room kits for adults"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

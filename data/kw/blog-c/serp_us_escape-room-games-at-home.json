@@ -1,0 +1,1010 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "4.4753 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190343-2588-0139-0000-39beaf4109a3",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "4.2734 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "escape room games at home",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "escape room games at home",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=escape%20room%20games%20at%20home&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:43:09 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "popular_products",
+       "related_searches"
+      ],
+      "se_results_count": 114,
+      "pages_count": 1,
+      "items_count": 13,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "At-home escape room games come in three main formats: `boxed board games, printable PDF kits, and subscription boxes`.[[1]](https://escaperoomgeeks.com/)[[2]](https://theescapegame.com/online-escape-rooms/)[[3]](https://www.youtube.com/shorts/4wixQa_kO-8)\n\n### 1. Boxed Escape Room Board Games\n\n- **EXIT: The Game Series** (by Thames & Kosmos): The most popular boxed line, featuring challenging puzzles, physical components, and unique themes like *The Enchanted Forest* (around $14–$18) and *The House of Riddles* (beginner level, around $11–$18). Note that many EXIT games use single-play destructive mechanics (cutting, folding, or writing on components).\n- **Unlock! Series** (by Asmodee): A card-based system that uses a companion smartphone app for timers, codes, and hints without destroying the cards.\n- **Escape Room in a Box** (by Mattel): Features physical combination locks, tactile props, and party-style mystery elements.\n- **ThinkFun Escape the Room** : Family-friendly, non-destructive options like *Mystery at the Stargazer's Manor* and *Secret of Dr. Gravely's Retreat*.\n- For a community-driven discussion on tabletop picks, check out the [BoardGames Reddit Thread on At-Home Escape Rooms](https://www.reddit.com/r/boardgames/comments/1hdl1ni/at_home_escape_room_games/).[[1]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:5529131371488077049,catalogid:16580752050815005739,gpcid:6047587185158420979,mid:576462408197844061&ibp=oshop)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:2882982250622108720,catalogid:1149384877286989799,gpcid:2737253895840342927,mid:576462416599056371&ibp=oshop)[[3]](https://www.dadsuggests.com/home/escape-rooms-for-the-family-to-do-at-home)[[4]](https://roomescapeartist.com/2018/12/02/tabletop-escape-game-recommendations/)[[5]](https://www.happypuzzle.co.uk/family-puzzles-and-games/escape-room-games)[[6]](https://www.youtube.com/shorts/4wixQa_kO-8)[[7]](https://www.reddit.com/r/boardgames/comments/1hdl1ni/at_home_escape_room_games/)\n\n### 2. Printable & DIY PDF Kits\n\n- **Escape Room Geeks** : Offers instant-download PDF kits ($19.90–$45) divided by age tiers (such as *Daylight* for kids or *Noir* for teens/adults) with screen-free play and house-wide setup options via the [Escape Room Geeks Website](https://escaperoomgeeks.com/).\n- **MysteryLocks** : Budget-friendly digital download escape rooms and scavenger hunts (ranging from $2 to $28) covering holidays, history, and sci-fi.\n- **Dad Suggests Guide** : For tips on hiding clues around the house for kids, read the [Dad Suggests At-Home Escape Room Guide](https://www.dadsuggests.com/home/escape-rooms-for-the-family-to-do-at-home).[[1]](https://escaperoomgeeks.com/)[[2]](https://mysterylocks.com/collections/best-printable-escape-rooms)[[3]](https://www.dadsuggests.com/home/escape-rooms-for-the-family-to-do-at-home)\n\n### 3. Subscription Boxes & Digital Adventures\n\n- **Escape the Crate** : Bi-monthly subscription boxes delivering physical items, storyline clues, and web-prompted puzzles.\n- **The Escape Game (Remote & Online)** : Offers live-hosted virtual escape rooms and monthly internet scavenger hunts if you want a guided group experience via [The Escape Game Portal](https://theescapegame.com/online-escape-rooms/).[[1]](https://www.youtube.com/shorts/2FENsSUL10g)[[2]](https://theescapegame.com/online-escape-rooms/)\n\nTo help narrow down the best choice, tell me:\n\n- **Who is playing?** (Age range and group size)\n- **Do you prefer a physical box, a printable game to hide around the house, or a digital/app-assisted game?** \n- **What is your budget?**",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "At-home escape room games come in three main formats: boxed board games, printable PDF kits, and subscription boxes.",
+          "markdown": "At-home escape room games come in three main formats: `boxed board games, printable PDF kits, and subscription boxes`.[[1]](https://escaperoomgeeks.com/)[[2]](https://theescapegame.com/online-escape-rooms/)[[3]](https://www.youtube.com/shorts/4wixQa_kO-8)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Escape Room Geeks",
+            "domain": "escaperoomgeeks.com",
+            "url": "https://escaperoomgeeks.com/",
+            "title": "Printable Escape Room Kits: Play at Home | Escape Room Geeks",
+            "text": "Products: Printable PDF escape room kits for ages 5 to 16+, priced $19.90–$45.00 per game or $50.00–$119.00 for bundles (Daylight ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "The Escape Game",
+            "domain": "theescapegame.com",
+            "url": "https://theescapegame.com/online-escape-rooms/",
+            "title": "Online Escape Rooms and At-Home Games",
+            "text": "Online Escape Rooms and At-Home Games: Monthly Mystery (online monthly internet scavenger hunt); Remote Adventures (live virtual e..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/shorts/4wixQa_kO-8",
+            "title": "12 Alternatives to a physical escape room #shorts",
+            "text": "12 Alternatives to a physical escape room #shorts escape rooms might be my favorite thing to do but unfortunately. I haven't been ..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "1. Boxed Escape Room Board Games",
+          "text": "EXIT: The Game Series (by Thames & Kosmos): The most popular boxed line, featuring challenging puzzles, physical components, and unique themes like The Enchanted Forest (around $14–$18) and The House of Riddles (beginner level, around $11–$18). Note that many EXIT games use single-play destructive mechanics (cutting, folding, or writing on components). Unlock! Series (by Asmodee): A card-based system that uses a companion smartphone app for timers, codes, and hints without destroying the cards. Escape Room in a Box (by Mattel): Features physical combination locks, tactile props, and party-style mystery elements. ThinkFun Escape the Room : Family-friendly, non-destructive options like Mystery at the Stargazer's Manor and Secret of Dr. Gravely's Retreat. For a community-driven discussion on tabletop picks, check out the BoardGames Reddit Thread on At-Home Escape Rooms.",
+          "markdown": "- **EXIT: The Game Series** (by Thames & Kosmos): The most popular boxed line, featuring challenging puzzles, physical components, and unique themes like *The Enchanted Forest* (around $14–$18) and *The House of Riddles* (beginner level, around $11–$18). Note that many EXIT games use single-play destructive mechanics (cutting, folding, or writing on components).\n- **Unlock! Series** (by Asmodee): A card-based system that uses a companion smartphone app for timers, codes, and hints without destroying the cards.\n- **Escape Room in a Box** (by Mattel): Features physical combination locks, tactile props, and party-style mystery elements.\n- **ThinkFun Escape the Room** : Family-friendly, non-destructive options like *Mystery at the Stargazer's Manor* and *Secret of Dr. Gravely's Retreat*.\n- For a community-driven discussion on tabletop picks, check out the [BoardGames Reddit Thread on At-Home Escape Rooms](https://www.reddit.com/r/boardgames/comments/1hdl1ni/at_home_escape_room_games/).[[1]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:5529131371488077049,catalogid:16580752050815005739,gpcid:6047587185158420979,mid:576462408197844061&ibp=oshop)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:2882982250622108720,catalogid:1149384877286989799,gpcid:2737253895840342927,mid:576462416599056371&ibp=oshop)[[3]](https://www.dadsuggests.com/home/escape-rooms-for-the-family-to-do-at-home)[[4]](https://roomescapeartist.com/2018/12/02/tabletop-escape-game-recommendations/)[[5]](https://www.happypuzzle.co.uk/family-puzzles-and-games/escape-room-games)[[6]](https://www.youtube.com/shorts/4wixQa_kO-8)[[7]](https://www.reddit.com/r/boardgames/comments/1hdl1ni/at_home_escape_room_games/)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "BoardGames Reddit Thread on At-Home Escape Rooms",
+            "description": null,
+            "url": "https://www.reddit.com/r/boardgames/comments/1hdl1ni/at_home_escape_room_games/",
+            "domain": "www.reddit.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Google",
+            "domain": "www.google.com",
+            "url": "https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:5529131371488077049,catalogid:16580752050815005739,gpcid:6047587185158420979,mid:576462408197844061&ibp=oshop",
+            "title": "Exit The Enchanted Forest",
+            "text": "Step into a fairytale gone wrong with this immersive escape room game for home. What starts as a peaceful walk in the woods quickl..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Google",
+            "domain": "www.google.com",
+            "url": "https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:2882982250622108720,catalogid:1149384877286989799,gpcid:2737253895840342927,mid:576462416599056371&ibp=oshop",
+            "title": "Exit The House of Riddles",
+            "text": "An Escape Room game for your home, unique gaming experience working together against the clock. Can you solve the riddles and esca..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Dad Suggests Books",
+            "domain": "www.dadsuggests.com",
+            "url": "https://www.dadsuggests.com/home/escape-rooms-for-the-family-to-do-at-home",
+            "title": "Escape Rooms for the Family to do at Home | Dad Suggests",
+            "text": "Products Reviewed: ThinkFun's Escape the Room (Mystery at the Stargazer's Manor for ages 10+, Secret of Dr. Gravely's Retreat for ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Room Escape Artist",
+            "domain": "roomescapeartist.com",
+            "url": "https://roomescapeartist.com/2018/12/02/tabletop-escape-game-recommendations/",
+            "title": "Tabletop Escape Game Recommendations",
+            "text": "Puzzle-Story Adventures * Asmodee, Sherlock Holmes Consulting Detective. * Box One Presented By Neil Patrick Harris * Box Two Pres..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "The Happy Puzzle Company",
+            "domain": "www.happypuzzle.co.uk",
+            "url": "https://www.happypuzzle.co.uk/family-puzzles-and-games/escape-room-games",
+            "title": "Escape Room Games",
+            "text": "Frequently Asked Questions * How many players do you need for an escape room game? Most of our escape room games work for 1 to 6 p..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/shorts/4wixQa_kO-8",
+            "title": "12 Alternatives to a physical escape room #shorts",
+            "text": "12 Alternatives to a physical escape room #shorts escape rooms might be my favorite thing to do but unfortunately. I haven't been ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/boardgames/comments/1hdl1ni/at_home_escape_room_games/",
+            "title": "At home escape room games : r/boardgames - Reddit",
+            "text": "Check our Contribution Guides for a complete list. * Puzzle escape games Rec? r/puzzlevideogames. • 2y ago. Puzzle escape games Re..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "2. Printable & DIY PDF Kits",
+          "text": "Escape Room Geeks : Offers instant-download PDF kits ($19.90–$45) divided by age tiers (such as Daylight for kids or Noir for teens/adults) with screen-free play and house-wide setup options via the Escape Room Geeks Website. MysteryLocks : Budget-friendly digital download escape rooms and scavenger hunts (ranging from $2 to $28) covering holidays, history, and sci-fi. Dad Suggests Guide : For tips on hiding clues around the house for kids, read the Dad Suggests At-Home Escape Room Guide.",
+          "markdown": "- **Escape Room Geeks** : Offers instant-download PDF kits ($19.90–$45) divided by age tiers (such as *Daylight* for kids or *Noir* for teens/adults) with screen-free play and house-wide setup options via the [Escape Room Geeks Website](https://escaperoomgeeks.com/).\n- **MysteryLocks** : Budget-friendly digital download escape rooms and scavenger hunts (ranging from $2 to $28) covering holidays, history, and sci-fi.\n- **Dad Suggests Guide** : For tips on hiding clues around the house for kids, read the [Dad Suggests At-Home Escape Room Guide](https://www.dadsuggests.com/home/escape-rooms-for-the-family-to-do-at-home).[[1]](https://escaperoomgeeks.com/)[[2]](https://mysterylocks.com/collections/best-printable-escape-rooms)[[3]](https://www.dadsuggests.com/home/escape-rooms-for-the-family-to-do-at-home)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Escape Room Geeks Website",
+            "description": null,
+            "url": "https://escaperoomgeeks.com/",
+            "domain": "escaperoomgeeks.com"
+           },
+           {
+            "type": "link_element",
+            "title": "Dad Suggests At-Home Escape Room Guide",
+            "description": null,
+            "url": "https://www.dadsuggests.com/home/escape-rooms-for-the-family-to-do-at-home",
+            "domain": "www.dadsuggests.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Escape Room Geeks",
+            "domain": "escaperoomgeeks.com",
+            "url": "https://escaperoomgeeks.com/",
+            "title": "Printable Escape Room Kits: Play at Home | Escape Room Geeks",
+            "text": "Products: Printable PDF escape room kits for ages 5 to 16+, priced $19.90–$45.00 per game or $50.00–$119.00 for bundles (Daylight ages 5–10, Dusk ages 9–16, Noir a..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "mysterylocks.com",
+            "domain": "mysterylocks.com",
+            "url": "https://mysterylocks.com/collections/best-printable-escape-rooms",
+            "title": "Best Printable Escape Rooms | Most Popular MysteryLocks Games",
+            "text": "Printable Escape Rooms Catalog: MysteryLocks DIY home escape room kits, murder mystery games, and scavenger hunts featuring themes..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Dad Suggests Books",
+            "domain": "www.dadsuggests.com",
+            "url": "https://www.dadsuggests.com/home/escape-rooms-for-the-family-to-do-at-home",
+            "title": "Escape Rooms for the Family to do at Home | Dad Suggests",
+            "text": "Products Reviewed: ThinkFun's Escape the Room (Mystery at the Stargazer's Manor for ages 10+, Secret of Dr. Gravely's Retreat for ages 13+; high component quality"
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "3. Subscription Boxes & Digital Adventures",
+          "text": "Escape the Crate : Bi-monthly subscription boxes delivering physical items, storyline clues, and web-prompted puzzles. The Escape Game (Remote & Online) : Offers live-hosted virtual escape rooms and monthly internet scavenger hunts if you want a guided group experience via The Escape Game Portal.",
+          "markdown": "- **Escape the Crate** : Bi-monthly subscription boxes delivering physical items, storyline clues, and web-prompted puzzles.\n- **The Escape Game (Remote & Online)** : Offers live-hosted virtual escape rooms and monthly internet scavenger hunts if you want a guided group experience via [The Escape Game Portal](https://theescapegame.com/online-escape-rooms/).[[1]](https://www.youtube.com/shorts/2FENsSUL10g)[[2]](https://theescapegame.com/online-escape-rooms/)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "The Escape Game Portal",
+            "description": null,
+            "url": "https://theescapegame.com/online-escape-rooms/",
+            "domain": "theescapegame.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/shorts/2FENsSUL10g",
+            "title": "Like Escape Rooms?? Check out this home based game!! #escaperoom ...",
+            "text": "Like Escape Rooms?? Check out this home based game!! #escaperoom #gameboard #games hey everybody today we're taking a look at Esca..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "The Escape Game",
+            "domain": "theescapegame.com",
+            "url": "https://theescapegame.com/online-escape-rooms/",
+            "title": "Online Escape Rooms and At-Home Games",
+            "text": "Online Escape Rooms and At-Home Games: Monthly Mystery (online monthly internet scavenger hunt); Remote Adventures (live virtual e..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "To help narrow down the best choice, tell me:Who is playing? (Age range and group size)\nDo you prefer a physical box, a printable game to hide around the house, or a digital/app-assisted game?\nWhat is your budget?",
+          "markdown": "To help narrow down the best choice, tell me:\n\n- **Who is playing?** (Age range and group size)\n- **Do you prefer a physical box, a printable game to hide around the house, or a digital/app-assisted game?** \n- **What is your budget?**",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Reddit",
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/boardgames/comments/1hdl1ni/at_home_escape_room_games/",
+          "title": "At home escape room games : r/boardgames - Reddit",
+          "text": "Check our Contribution Guides for a complete list. * Puzzle escape games Rec? r/puzzlevideogames. • 2y ago. Puzzle escape games Rec? 11. 20. * I have played dozens..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Escape Room Geeks",
+          "domain": "escaperoomgeeks.com",
+          "url": "https://escaperoomgeeks.com/",
+          "title": "Printable Escape Room Kits: Play at Home | Escape Room Geeks",
+          "text": "Products: Printable PDF escape room kits for ages 5 to 16+, priced $19.90–$45.00 per game or $50.00–$119.00 for bundles (Daylight ages 5–10, Dusk ages 9–16, Noir a..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Dad Suggests Books",
+          "domain": "www.dadsuggests.com",
+          "url": "https://www.dadsuggests.com/home/escape-rooms-for-the-family-to-do-at-home",
+          "title": "Escape Rooms for the Family to do at Home | Dad Suggests",
+          "text": "Products Reviewed: ThinkFun's Escape the Room (Mystery at the Stargazer's Manor for ages 10+, Secret of Dr. Gravely's Retreat for ages 13+; high component quality"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+        "domain": "theescapegame.com",
+        "title": "Virtual Escape Room",
+        "url": "https://theescapegame.com/remote-adventures/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://theescapegame.com › remote-adventures",
+        "website_name": "The Escape Game",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Play our virtual escape rooms from anywhere using Zoom. Remote Adventures are live, hosted escape rooms for families, friends and co-workers.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "escape rooms"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Any digital and free escape rooms that I could do",
+        "url": "https://www.reddit.com/r/escaperooms/comments/k26qmd/any_digital_and_free_escape_rooms_that_i_could_do/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "20+ comments  ·  5 years ago",
+        "website_name": "Reddit · r/escaperooms",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "We have compiled a large database of escape room games and other at home games on an excel sheet . You can sort it by category and price so ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "escape room games and other at home games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.reddit.com/r/escaperooms/comments/k26qmd/any_digital_and_free_escape_rooms_that_i_could_do/#:~:text=We%20have%20compiled%20a%20large,by%20category%20and%20price%20so",
+          "domain": "www.reddit.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+        "domain": "urbanescapegames.com",
+        "title": "DIY Escape Room Ideas: Elevate Gatherings with Thrilling ...",
+        "url": "https://urbanescapegames.com/diy-escape-room-ideas-bring-the-thrill-home-for-unforgettable-gatherings/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://urbanescapegames.com › About › Blog",
+        "website_name": "Urban Escape Games",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Sep 19, 2023 — In this guide you through the process of creating your very own mini escape room, complete with puzzle ideas. Cipher and Code Puzzles: Create. ...",
+        "pre_snippet": "09/19/2023 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "creating your very own mini escape room"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2023-09-19 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+        "domain": "escape-kit.com",
+        "title": "1 HOUSE ESCAPE ROOM AT HOME",
+        "url": "https://escape-kit.com/en/?srsltid=AU7gw4Vu7HsMzDlbh_CV_GPOh0CEApHszFE2FVRRVOvHXRgbm67arzNF",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://escape-kit.com › ...",
+        "website_name": "Escape Kit",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Escape Room at home. Escape Kit for all events, birthdays...for kids & adults activities, a gift idea. An original adventure to print in PDF.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Escape Room at home"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+        "domain": "www.epic-escapes.games",
+        "title": "Escape Room Party At Home For Adults",
+        "url": "https://www.epic-escapes.games/escape-room-party-at-home-for-adults/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.epic-escapes.games › escape-room-party-at...",
+        "website_name": "epic-escapes.games",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Escape room games like our Escape Room In A Box (3 in 1) are perfect for fun together with friends or family. Up to 6 players can play our escape-room-in-a-box,",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "perfect for fun together with friends or family"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+        "domain": "perfectescaperoom.com",
+        "title": "What to Look for in At Home Escape Room Games",
+        "url": "https://perfectescaperoom.com/at-home-escape-room-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://perfectescaperoom.com › at-home-escape-room-...",
+        "website_name": "The Perfect Escape",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Sep 14, 2020 — An escape room game needs to have a storyline, Whether it's a creepy dollhouse, a prison break, or a Walking Dead themed game, Some are more ...",
+        "pre_snippet": "09/14/2020 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "An escape room game needs to have a storyline"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2020-09-14 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+        "domain": "commonsensepress.com",
+        "title": "DIY Escape Room at Home: Step-by-Step Guide",
+        "url": "https://commonsensepress.com/diy-escape-room-at-home/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://commonsensepress.com › diy-escape-room-at-ho...",
+        "website_name": "Common Sense Press",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "May 20, 2025 — Step-by-Step Guide: How to Make a DIY Escape Room · Step 1: Choose Your Theme or Story · Step 2: Design the Setting and Objective · Step 3: Create ... Read more",
+        "pre_snippet": "05/20/2025 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "DIY Escape Room"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://commonsensepress.com/diy-escape-room-at-home/#:~:text=Step-by-Step%20Guide%3A%20How%20to%20Make,a%20DIY%20Escape%20Room&text=Step%201%3A%20Choose%20Your%20Theme,or%20Story&text=Step%202%3A%20Design%20the%20Setting,and%20Objective&text=Step%203%3A%20Create%20the%20Puzzles",
+          "domain": "commonsensepress.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-05-20 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+        "domain": "breakoutgames.com",
+        "title": "Best Escape Room In America | Breakout Games® Official Site",
+        "url": "https://breakoutgames.com/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://breakoutgames.com",
+        "website_name": "Breakout Games",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Play Breakout Games, the #1 rated Escape Room, for an unforgettable and immersive 5-star experience. Be the Hero, Save the Day, Beat the Clock.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Breakout Games, the #1 rated Escape Room"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 1,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]",
+        "title": "More products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Solve the Case 3D Escape Room Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=escape+room+games+at+home&prds=gpcid:8066236599268813456,rds:PC_8066236599268813456%7CPROD_PC_8066236599268813456,headlineOfferDocid:8190522438602581121,catalogid:3960647197425177930,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Ace Hardware & more",
+          "more_sellers": true,
+          "seller": "Ace Hardware",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-39beaf4109a3:0",
+          "price": {
+           "current": 21.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$21.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 3.4,
+           "votes_count": 13,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "3960647197425177930",
+           "data_docid": "3929046205478057695",
+           "gid": "8066236599268813456"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Haunted Hotel Escape Room Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=escape+room+games+at+home&prds=gpcid:12643689544282768573,rds:PC_12643689544282768573%7CPROD_PC_12643689544282768573,headlineOfferDocid:2202307193845937173,catalogid:7207141793659209593,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Uncommon Goods & more\nMystery · More Than 12 Player · 12+ Years",
+          "more_sellers": true,
+          "seller": "Uncommon Goods",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-39beaf4109a3:1",
+          "price": {
+           "current": 23,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$23.00"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4,
+           "votes_count": 2,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "7207141793659209593",
+           "data_docid": "5893328935624821371",
+           "gid": "12643689544282768573"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Exit The House of Riddles",
+          "url": "https://www.google.com/search?ibp=oshop&q=escape+room+games+at+home&prds=gpcid:2737253895840342927,rds:PC_2737253895840342927%7CPROD_PC_2737253895840342927,headlineOfferDocid:665915875141672379,catalogid:1149384877286989799,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Thames & Kosmos & more",
+          "more_sellers": true,
+          "seller": "Thames & Kosmos",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-39beaf4109a3:2",
+          "price": {
+           "current": 17.95,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$17.95"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 51,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "1149384877286989799",
+           "data_docid": "2882982250622108720",
+           "gid": "2737253895840342927"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Escape Room the Game Family Edition",
+          "url": "https://www.google.com/search?ibp=oshop&q=escape+room+games+at+home&prds=gpcid:14436806288035046883,rds:PC_14436806288035046883%7CPROD_PC_14436806288035046883,headlineOfferDocid:5984592843743766580,catalogid:14892416622521722226,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "LatestBuy & more",
+          "more_sellers": true,
+          "seller": "LatestBuy",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-39beaf4109a3:3",
+          "price": {
+           "current": 42.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$42.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 17,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "14892416622521722226",
+           "data_docid": "15376257009359949777",
+           "gid": "14436806288035046883"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Escape Room Dragon Edition",
+          "url": "https://www.google.com/search?ibp=oshop&q=escape+room+games+at+home&prds=gpcid:12520021538024969613,rds:PC_12520021538024969613%7CPROD_PC_12520021538024969613,headlineOfferDocid:18108492797441904804,catalogid:14560985849891612707,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Barnes & Noble & more\nFree delivery on $60+\nThe puzzles and challenges are varied and fun enough to keep everyone engaged and we all had a great time working together as a team. A reviewer on uncommongoods.com",
+          "more_sellers": true,
+          "seller": "Barnes & Noble",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-39beaf4109a3:4",
+          "price": {
+           "current": 34.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$34.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 5,
+           "votes_count": 4,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "14560985849891612707",
+           "data_docid": "13346640442905812187",
+           "gid": "12520021538024969613"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Escape Room The Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=escape+room+games+at+home&prds=gpcid:17756915341570247833,rds:PC_17756915341570247833%7CPROD_PC_17756915341570247833,headlineOfferDocid:13797389648467447343,catalogid:15428857347829726913,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Noble Knight Games\nFree delivery on $149+\nDefinitely taxes the brain but good fun for people who enjoy escape rooms. A reviewer on mightyape.com.au",
+          "more_sellers": false,
+          "seller": "Noble Knight Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-39beaf4109a3:5",
+          "price": {
+           "current": 28,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$28.00 Pre-owned"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 574,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "15428857347829726913",
+           "data_docid": "1550029648246486311",
+           "gid": "17756915341570247833"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Exit The Abandoned Cabin",
+          "url": "https://whatsericplaying.com/2019/02/18/exit-the-abandoned-cabin/",
+          "domain": "whatsericplaying.com",
+          "description": "To The Nines & more\nFree delivery on $750+\nSolid theme. Spooky cabins are a lot of fun · Be careful with color puzzles. The disc has some issues with (at least via … What's Eric Playing?",
+          "more_sellers": true,
+          "seller": "To The Nines",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-39beaf4109a3:6",
+          "price": {
+           "current": 16,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$16.00"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 63,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "4071553883214338245",
+           "data_docid": "14018171503132413439",
+           "gid": "17894156377115937946"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Uncommon Goods Pop-Up Mystery Escape Room Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=escape+room+games+at+home&prds=gpcid:16232109631190052909,rds:PC_16232109631190052909%7CPROD_PC_16232109631190052909,headlineOfferDocid:18141684117500135229,catalogid:2194650266621073217,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Uncommon Goods & more\nThis oversizedpop-up book turns into a mansion which supplies clues and interactive puzzles. A reviewer on uncommongoods.com",
+          "more_sellers": true,
+          "seller": "Uncommon Goods",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-39beaf4109a3:7",
+          "price": {
+           "current": 80,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$80.00"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 5,
+           "votes_count": 3,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "2194650266621073217",
+           "data_docid": "8777966289087132376",
+           "gid": "16232109631190052909"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+        "domain": "www.365escape.com",
+        "title": "New Escape Games - Play Free Online Escape Games",
+        "url": "https://www.365escape.com/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.365escape.com",
+        "website_name": "365 Escape Games",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Play new escape games online for free at 365Escape. Solve puzzles, find hidden objects, unlock doors and enjoy fresh room escape adventures added every day.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Play new escape games online for free at 365Escape"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 10,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[21]/div[1]/div[1]",
+        "domain": "en.magicholz.de",
+        "title": "7 escape games for at home in the test | Guide",
+        "url": "https://en.magicholz.de/blogs/zeitvertreib/escape-spiele-fuer-zuhause",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://en.magicholz.de › Blog",
+        "website_name": "MagicHolz",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Apr 17, 2023 — They have already brought a whole range of great games onto the market, but we primarily recommend \"Die verlassene Hütte\" (The Abandoned Cabin). Read more",
+        "pre_snippet": "04/17/2023 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://en.magicholz.de/blogs/zeitvertreib/escape-spiele-fuer-zuhause#:~:text=They%20have%20already%20brought%20a,verlassene%20H%C3%BCtte%22%20(The%20Abandoned%20Cabin).",
+          "domain": "en.magicholz.de"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2023-04-17 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 13,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Escape room games at home free",
+         "Escape room games at home for couples",
+         "Escape room games at home for adults",
+         "Escape room games at home for kids",
+         "Multiplayer escape room games online free",
+         "Hogwarts Digital Escape room",
+         "Free escape room online",
+         "Digital escape room games"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

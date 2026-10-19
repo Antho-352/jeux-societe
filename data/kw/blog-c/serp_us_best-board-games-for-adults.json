@@ -1,0 +1,985 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "4.7463 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190347-2588-0139-0000-5bc383bf7e02",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "4.6846 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "best board games for adults",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "best board games for adults",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=best%20board%20games%20for%20adults&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:47:22 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "popular_products",
+       "related_searches"
+      ],
+      "se_results_count": 112,
+      "pages_count": 1,
+      "items_count": 13,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "The best board games for adults span different play styles, from deep strategy and resource management to fast-paced social deduction and party games.\n\n### Strategy & Civilization\n\n- **[CATAN Board Game (Base Game): 6th Edition](https://catanshop.com/catan-6th-edition-base-game?srsltid=AU7gw4WzTTdU8Twctjd66yu2sgozw3p6bMKHH5DqNBinKi685eEnhaIMQzw):** A timeless classic where players trade, build, and settle the island of Catan. The 6th edition features modernized art and easier-to-read rulebooks. Price: ~$40–$50.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:10139617312849150232,catalogid:8673379403246775114,gpcid:9148757966263496590,mid:576462815885888677&ibp=oshop)\n- **Wingspan / Ark Nova / Terraforming Mars:** Top-rated engine-building and resource-management games featured heavily on community collections like [Zatu’s Top 50 Board Games](https://zatu.com/blogs/features/zatus-top-50-board-games-of-all-time-the-ultimate-list).[[1]](https://zatu.com/blogs/features/zatus-top-50-board-games-of-all-time-the-ultimate-list)\n\n### Social Deduction & Bluffing\n\n- **Salem 1692:** A hidden-identity and accusation game set during the Salem witch trials where players try to weed out witches before the town falls to hysteria . Price: ~$25.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:4607112321768266262,catalogid:4777707281606381404,gpcid:8992974333856251054,mid:576462317123789557&ibp=oshop)\n- **Codenames:** A popular word-association team game where spymasters give one-word clues to help teammates identify agents on a grid. Price: ~$30.[[1]](https://www.reddit.com/r/boardgames/comments/16khf8f/what_are_the_absolute_must_play_board_games/)\n\n### Fast-Paced & Party Games\n\n- **Exploding Kittens: The Board Game (Super Fan Edition):** A strategic, high-tension board version of the card game where you maneuver around the board to avoid drawing an exploding kitten. Price: ~$30.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:561938602673917714,catalogid:813980424367902339,gpcid:12481756756553398698&ibp=oshop)\n\nHere is a video showcasing great board games to start or build your collection:\n\n![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtCFEI4BDrggl5iIOnm3Vntz4IMYuj-p-JkRFsVg_cCJIrjmvE)\n10m\n[](https://www.youtube.com/watch?v=Jjch5rhzzRY&t=28) Top 10 Board Games to Start Your Collection 52K views  · 5 months ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · The Brothers Murph\n\nTo help you narrow down the best option, tell me:\n\n- **How many players** typically join your game night?\n- Do you prefer **relaxed or cooperative** games, or **competitive and cutthroat** ones?\n- What is your group's **experience level** with board games?",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "The best board games for adults span different play styles, from deep strategy and resource management to fast-paced social deduction and party games.",
+          "markdown": "The best board games for adults span different play styles, from deep strategy and resource management to fast-paced social deduction and party games.",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Strategy & Civilization",
+          "text": "CATAN Board Game (Base Game): 6th Edition : A timeless classic where players trade, build, and settle the island of Catan. The 6th edition features modernized art and easier-to-read rulebooks. Price: ~$40–$50. Wingspan / Ark Nova / Terraforming Mars: Top-rated engine-building and resource-management games featured heavily on community collections like Zatu’s Top 50 Board Games.",
+          "markdown": "- **[CATAN Board Game (Base Game): 6th Edition](https://catanshop.com/catan-6th-edition-base-game?srsltid=AU7gw4WzTTdU8Twctjd66yu2sgozw3p6bMKHH5DqNBinKi685eEnhaIMQzw):** A timeless classic where players trade, build, and settle the island of Catan. The 6th edition features modernized art and easier-to-read rulebooks. Price: ~$40–$50.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:10139617312849150232,catalogid:8673379403246775114,gpcid:9148757966263496590,mid:576462815885888677&ibp=oshop)\n- **Wingspan / Ark Nova / Terraforming Mars:** Top-rated engine-building and resource-management games featured heavily on community collections like [Zatu’s Top 50 Board Games](https://zatu.com/blogs/features/zatus-top-50-board-games-of-all-time-the-ultimate-list).[[1]](https://zatu.com/blogs/features/zatus-top-50-board-games-of-all-time-the-ultimate-list)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "CATAN Board Game (Base Game): 6th Edition",
+            "description": null,
+            "url": "https://catanshop.com/catan-6th-edition-base-game?srsltid=AU7gw4WzTTdU8Twctjd66yu2sgozw3p6bMKHH5DqNBinKi685eEnhaIMQzw",
+            "domain": "catanshop.com"
+           },
+           {
+            "type": "link_element",
+            "title": "Zatu’s Top 50 Board Games",
+            "description": null,
+            "url": "https://zatu.com/blogs/features/zatus-top-50-board-games-of-all-time-the-ultimate-list",
+            "domain": "zatu.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Google",
+            "domain": "www.google.com",
+            "url": "https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:10139617312849150232,catalogid:8673379403246775114,gpcid:9148757966263496590,mid:576462815885888677&ibp=oshop",
+            "title": "Catan Game",
+            "text": "Welcome to the unexplored island of Catan! As you and your fellow explorers gaze across the uninhabited landscape of hexagonal tra..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Zatu Games",
+            "domain": "zatu.com",
+            "url": "https://zatu.com/blogs/features/zatus-top-50-board-games-of-all-time-the-ultimate-list",
+            "title": "Zatu’s top 50 board games of all time: the ultimate list | Zatu Games",
+            "text": "Top 50 Board Games: Ark Nova, Wingspan/Finspan/Wyrmspan, Terraforming Mars, Lost Ruins of Arnak, Brass Birmingham, Everdell, Azul,"
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Social Deduction & Bluffing",
+          "text": "Salem 1692: A hidden-identity and accusation game set during the Salem witch trials where players try to weed out witches before the town falls to hysteria. Price: ~$25. Codenames: A popular word-association team game where spymasters give one-word clues to help teammates identify agents on a grid. Price: ~$30.",
+          "markdown": "- **Salem 1692:** A hidden-identity and accusation game set during the Salem witch trials where players try to weed out witches before the town falls to hysteria . Price: ~$25.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:4607112321768266262,catalogid:4777707281606381404,gpcid:8992974333856251054,mid:576462317123789557&ibp=oshop)\n- **Codenames:** A popular word-association team game where spymasters give one-word clues to help teammates identify agents on a grid. Price: ~$30.[[1]](https://www.reddit.com/r/boardgames/comments/16khf8f/what_are_the_absolute_must_play_board_games/)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Google",
+            "domain": "www.google.com",
+            "url": "https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:4607112321768266262,catalogid:4777707281606381404,gpcid:8992974333856251054,mid:576462317123789557&ibp=oshop",
+            "title": "Salem 1692",
+            "text": "The year is 1692 and the witch hunt in Salem, Massachusetts is heating up. Players, each representing a historical person from the..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/boardgames/comments/16khf8f/what_are_the_absolute_must_play_board_games/",
+            "title": "What are the absolute must play board games? : r/boardgames - Reddit",
+            "text": "Maybe Viticulture, Lords of Waterdeep, Century A New World, and Raiders of the North Sea or Architects of the West Kingdom. For 2p..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Fast-Paced & Party Games",
+          "text": "Exploding Kittens: The Board Game (Super Fan Edition): A strategic, high-tension board version of the card game where you maneuver around the board to avoid drawing an exploding kitten. Price: ~$30.",
+          "markdown": "- **Exploding Kittens: The Board Game (Super Fan Edition):** A strategic, high-tension board version of the card game where you maneuver around the board to avoid drawing an exploding kitten. Price: ~$30.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:561938602673917714,catalogid:813980424367902339,gpcid:12481756756553398698&ibp=oshop)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Google",
+            "domain": "www.google.com",
+            "url": "https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:561938602673917714,catalogid:813980424367902339,gpcid:12481756756553398698&ibp=oshop",
+            "title": "Exploding Kittens The Board Game Super Fan Edition",
+            "text": "There's never been a board game like this before! Your goal is to make it to the end of the board without landing on the Exploding..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_video_element",
+          "position": "left",
+          "title": "Top 10 Board Games to Start Your Collection",
+          "snippet": "10m",
+          "url": "https://www.youtube.com/watch?v=Jjch5rhzzRY&t=28",
+          "domain": "www.youtube.com",
+          "image_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtCFEI4BDrggl5iIOnm3Vntz4IMYuj-p-JkRFsVg_cCJIrjmvE",
+          "source": "YouTube",
+          "date": "5 months ago",
+          "timestamp": "2026-05-19 03:47:21 +00:00"
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Here is a video showcasing great board games to start or build your collection: 10m Top 10 Board Games to Start Your Collection 52K views · 5 months ago YouTube · The Brothers Murph",
+          "markdown": "Here is a video showcasing great board games to start or build your collection:\n\n![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtCFEI4BDrggl5iIOnm3Vntz4IMYuj-p-JkRFsVg_cCJIrjmvE)\n10m\n[](https://www.youtube.com/watch?v=Jjch5rhzzRY&t=28) Top 10 Board Games to Start Your Collection 52K views  · 5 months ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · The Brothers Murph",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "To help you narrow down the best option, tell me:How many players typically join your game night?\nDo you prefer relaxed or cooperative games, or competitive and cutthroat ones?\nWhat is your group's experience level with board games?",
+          "markdown": "To help you narrow down the best option, tell me:\n\n- **How many players** typically join your game night?\n- Do you prefer **relaxed or cooperative** games, or **competitive and cutthroat** ones?\n- What is your group's **experience level** with board games?",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Reddit",
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/boardgames/comments/16khf8f/what_are_the_absolute_must_play_board_games/",
+          "title": "What are the absolute must play board games? : r/boardgames - Reddit",
+          "text": "Maybe Viticulture, Lords of Waterdeep, Century A New World, and Raiders of the North Sea or Architects of the West Kingdom. For 2p only I strongly recommend Agrico..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Zatu Games",
+          "domain": "zatu.com",
+          "url": "https://zatu.com/blogs/features/zatus-top-50-board-games-of-all-time-the-ultimate-list",
+          "title": "Zatu’s top 50 board games of all time: the ultimate list | Zatu Games",
+          "text": "Top 50 Board Games: Ark Nova, Wingspan/Finspan/Wyrmspan, Terraforming Mars, Lost Ruins of Arnak, Brass Birmingham, Everdell, Azul, Scythe, Sky Team, Patchwork, Hea..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Google",
+          "domain": "www.google.com",
+          "url": "https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:10139617312849150232,catalogid:8673379403246775114,gpcid:9148757966263496590,mid:576462815885888677&ibp=oshop",
+          "title": "Catan Game",
+          "text": "Welcome to the unexplored island of Catan! As you and your fellow explorers gaze across the uninhabited landscape of hexagonal tracts of terrain, you quickly realize that this unique land arrangement provides ample space for each of you to put down roots. You race off to establish your respective communities by gathering resources from nearby terrain, building your infrastructure, and nurturing trade relationships. Watch out for surprises! Your rivals can block your path or send the robber to plunder your wealth! The latest release for CATAN comes thirty years after the introduction of the original game from Klaus Teuber. While CATAN's 6th edition maintains its essential mechanics, many of the game's creative components have been re-envisioned to provide additional ease and functionality. The game's rulebook now features more imagery, and easy graphic examples that simplify the learning process. The game also features revamped art, from updated packaging to enhanced game components. The new premium square format box is finished with updated lid art, which paints a richer picture of the settings, immersing the player in the adventure they are about to embark on."
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+        "domain": "www.wargamer.com",
+        "title": "The best board games of 2026 - Wargamer",
+        "url": "https://www.wargamer.com/best-board-games",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.wargamer.com › best-board-games",
+        "website_name": "wargamer.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "3 days ago — Best board games of 2026 · Drillers · Hanami · Dino Racer · World Order · The Two Towers Trick-Taking Game · Viticulture: Bordeaux · Flip 7 With ... Read more",
+        "pre_snippet": "3 days ago",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Drillers"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.wargamer.com/best-board-games#:~:text=Best%20board%20games%20of%202026&text=Drillers&text=Hanami&text=Dino%20Racer&text=World%20Order&text=The%20Two%20Towers%20Trick-Taking%20Game&text=Viticulture%3A%20Bordeaux&text=Flip%207%20With%20a%20Vengeance",
+          "domain": "www.wargamer.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-10-16 03:47:21 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Popular and classic board games for beginners",
+        "url": "https://www.reddit.com/r/boardgames/comments/1nn0un9/what_are_some_popular_classic_or_even_trending/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "50+ comments  ·  1 year ago",
+        "website_name": "Reddit · r/boardgames",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Title. I feel pretty embarrassed because I only know how to play checkers—not even Monopoly.\n\nMy friends were even bringing up new games they found on ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "53 answers",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/1nn0un9/what_are_some_popular_classic_or_even_trending/nfgzu9l/",
+          "domain": "www.reddit.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]",
+        "domain": "www.youtube.com",
+        "title": "Top 10 Board Games of the Year",
+        "url": "https://www.youtube.com/watch?v=Nn0jwpIEDgM",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "162.6K+ views  ·  5 months ago",
+        "website_name": "YouTube · Actualol",
+        "is_image": false,
+        "is_video": true,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_video"
+        ],
+        "description": "Rumble Nation is fantastic. Plays in 30 minutes and the dice allocation mechanism keeps analysis paralysis low. The cascading reinforcement ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Rumble Nation"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-04-22 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]",
+        "domain": "anindigoday.com",
+        "title": "The Best Board Games For Adults",
+        "url": "https://anindigoday.com/best-board-games-for-adults/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://anindigoday.com › best-board-games-for-adults",
+        "website_name": "An Indigo Day",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "My Favorite Games To Have On Hand For Impromptu Game Night · 1. Telestrations After Dark · 2. Catchphrase · 3. Scrabble · 4. Yahtzee · 5. Cards Against Humanity. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1. Telestrations After Dark"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://anindigoday.com/best-board-games-for-adults/#:~:text=My%20Favorite%20Games%20To%20Have,Hand%20For%20Impromptu%20Game%20Night&text=1.%20Telestrations%20After%20Dark&text=2.%20Catchphrase&text=3.%20Scrabble&text=4.%20Yahtzee&text=5.%20Cards%20Against%20Humanity",
+          "domain": "anindigoday.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[8]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "Are board games making a comeback?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What board games should we play?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some unique board games for adults?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some fun and engaging party games for adults?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]",
+        "domain": "www.youtube.com",
+        "title": "I Wish I Started My Collection with these 10 Essential Board ...",
+        "url": "https://www.youtube.com/watch?v=uJ3OIsCE8E0",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "138.1K+ views  ·  1 year ago",
+        "website_name": "YouTube · Tabletop Turtle",
+        "is_image": false,
+        "is_video": true,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_video"
+        ],
+        "description": null,
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-04-23 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+        "domain": "www.gamenightgames.com",
+        "title": "Best Selling Party Games",
+        "url": "https://www.gamenightgames.com/board-games/party-games/best-selling-party-games/?srsltid=AU7gw4UQ0RjUlkHx31zj1jVCOwtxWMHXYI-a3XB5VbZ_7Cs66TmrMQJq",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.gamenightgames.com › board-games › best-...",
+        "website_name": "Game Night Games",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Magic: the Gathering · Teenage Mutant Ninja Turtles · Secrets of Strixhaven · The Hobbit · Marvel Super Heroes · Reality Fracture · Star Trek · Pokemon · Other ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 10,
+         "regular": null,
+         "max_value": 60,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$10 to $60"
+        },
+        "highlighted": [
+         "Magic: the Gathering"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.gamenightgames.com/board-games/party-games/best-selling-party-games/?srsltid=AU7gw4UQ0RjUlkHx31zj1jVCOwtxWMHXYI-a3XB5VbZ_7Cs66TmrMQJq#:~:text=RPGs&text=RPGs&text=RPGs",
+          "domain": "www.gamenightgames.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+        "domain": "www.boardgames.world",
+        "title": "Best Strategy Board Games for Adults: 16 Real Picks",
+        "url": "https://www.boardgames.world/blog/best-strategy-board-games",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.boardgames.world › Blog",
+        "website_name": "boardgames.world",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Sep 25, 2026 — Sixteen strategy board games for adults, grouped by the pressure they put on you: engine builders, Euros, duels, co-ops and epics.",
+        "pre_snippet": "09/25/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Sixteen strategy board games for adults"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-09-25 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 1,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]",
+        "title": "More products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Stardew Valley The Board Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=best+board+games+for+adults&prds=gpcid:15186838001511367283,rds:PC_15186838001511367283%7CPROD_PC_15186838001511367283,headlineOfferDocid:5663664065588499918,catalogid:10197910052858439196,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "BigBadToyStore & more\nFun (41 user reviews)",
+          "more_sellers": true,
+          "seller": "BigBadToyStore",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRR9dZhseLFlfhD76Mh_b5uTd6RFaq2it1uqW4JD2S-BqiZggkuJiGmZ4CP1_VjGn1gOkL6C5sFTo_xhpSC5WUluaXelmPs0mqfeYPHbwrpfeMij8bkR2E0",
+          "price": {
+           "current": 49.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$49.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 164,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "10197910052858439196",
+           "data_docid": "8997091177463758174",
+           "gid": "15186838001511367283"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Hues and Cues",
+          "url": "https://settleroftheboards.com/a-world-of-color-hues-cues/",
+          "domain": "settleroftheboards.com",
+          "description": "Target & more\nFree delivery on $35+\nIf you're a little tech savvy and have a good way to set it up, it's … · Can't necessarily play with colorblind gamers. You can certainly try the … Settler of the Boards",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQdhXl7oSpOOwlUF2jAgkc_b5cNa2s-7_JxgoD5kOtpD3vMQSyZdG7M3tU9o3MH8Fca70CwpWTd9pXGDC8hCgFZtkn8f8fibXfqxyc4fxDe0IA4kgn8PJZgPg",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 896,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "14573646516438384539",
+           "data_docid": "2703991999498835589",
+           "gid": "354424298390268587"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Catan Game",
+          "url": "https://www.ubuy.co.in/productuk/Q66IRTQQG-6th-edition-board-game",
+          "domain": "www.ubuy.co.in",
+          "description": "Catan Shop - Official Store & more\nEngaging gameplay with strategic depth · Beautifully crafted game components Ubuy India",
+          "more_sellers": true,
+          "seller": "Catan Shop - Official Store",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSXMglwbGLNEpyjoux9LWEq2HdVQmP3haLgaD9Qg2T7K6P1N7bnRxOaC4h0wpKb7urVk9SEbMD72-nFJUBwI75T2OYkk7pTxz5mk_eQV3WCg0YZj0nLxcwr",
+          "price": {
+           "current": 49.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$49.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 201,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "8673379403246775114",
+           "data_docid": "10139617312849150232",
+           "gid": "9148757966263496590"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Stonemaier Games Wingspan Board Game",
+          "url": "https://meepleharbor.com/products/wingspan.html",
+          "domain": "meepleharbor.com",
+          "description": "Stonemaier Games & more\nFree delivery\nGorgeous artwork and high-quality component production · Setup and teardown can be time-consuming Meeple Harbor",
+          "more_sellers": true,
+          "seller": "Stonemaier Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSY_fSkui4OMrYCeDCgrTpReJ-BOALOv8zUHu7a6VgXhbYW-k_phsNJPkd8TqjcskTLGTf5KTt6G46RW6v67HcvEMuTGlQZFEazUdtdNgisnrOQRVjGPt1N",
+          "price": {
+           "current": 55,
+           "regular": 65,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$55.00 $65"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.9,
+           "votes_count": 99,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "8898350281758913804",
+           "data_docid": "14447553948327001209",
+           "gid": "10627802974569733974"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Exploding Kittens The Board Game",
+          "url": "https://rolltoreview.com/exploding-kittens-board-game-review/",
+          "domain": "rolltoreview.com",
+          "description": "Exploding Kittens & more\nFree delivery on $40+\nGreat for casual play with people who don't often play board games · The strategy is becomes obvious to players almost immediately Roll to Review",
+          "more_sellers": true,
+          "seller": "Exploding Kittens",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQpU245eBMw5eBkA4K3g0AwMj1uqzcba6PsHC9BS1aWrpje7KjCbrvjQ9r9-zGFc16noHIr1AF5lTVhEDJcoWp-2721H5UTCwgPpj1ggcMwmnxF2jVceAHVRA",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 154,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "2290121467920167409",
+           "data_docid": "1347844132714559356",
+           "gid": "7096552961700473263"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Wavelength Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=best+board+games+for+adults&prds=gpcid:10330801992986139411,rds:PC_10330801992986139411%7CPROD_PC_10330801992986139411,headlineOfferDocid:3353583062277215009,catalogid:7222283010677095452,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+\nFun (174 user reviews)",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTKTbJ0cJV3kFx-amIF_s9tMNHPqfXFS_IfabYMUDobKPV9_Nat3GTwiZzjIGu01Aiuwlg9u1L2NOD40rUJ7v0dntEL5xlg4sxyh5DI3WthbwOkYhLmPDuAhw",
+          "price": {
+           "current": 34.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$34.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 341,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "7222283010677095452",
+           "data_docid": "10605961755333409253",
+           "gid": "10330801992986139411"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Dead by Daylight",
+          "url": "https://www.google.com/search?ibp=oshop&q=best+board+games+for+adults&prds=gpcid:11318405644792815230,rds:PC_11318405644792815230%7CPROD_PC_11318405644792815230,headlineOfferDocid:11577358844081640360,catalogid:6250452047469236604,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Danireon Cards & Games & more",
+          "more_sellers": true,
+          "seller": "Danireon Cards & Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQmoeG7m-vI9QQiPX8iavV3yS1Mz9aE4r71YBX-MhRNvkGk5VUSIphjC2BmlbPZ-ueVc_QU0RkCadJHuIbk52MOkhLVe9d-z_owS6kpsZ9w",
+          "price": {
+           "current": 47,
+           "regular": null,
+           "max_value": 50,
+           "currency": "USD",
+           "is_price_range": true,
+           "displayed_price": "$47.00 Usually $50"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.9,
+           "votes_count": 60,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "6250452047469236604",
+           "data_docid": "11055995287673878271",
+           "gid": "11318405644792815230"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "One Night Ultimate Werewolf",
+          "url": "https://www.thegamer.com/clue-similar-board-games-recommendations/",
+          "domain": "www.thegamer.com",
+          "description": "BigBadToyStore & more\nWith multiple roles and the option to mix in expansions, every game offers a … · With a smaller core set of roles, the game might lose its luster after many … TheGamer",
+          "more_sellers": true,
+          "seller": "BigBadToyStore",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSK5hjcIyDi0vIaMWSJj4qvCqqTKCVa6citHHd-0BqAIekP9qspJFJjQ6tSbxP771poCptrMMlR8ZppaBucsLVhWUfX4cYZooein-uIVvzS_tzL4uLVBb01",
+          "price": {
+           "current": 25.99,
+           "regular": 30,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$25.99 $30"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 354,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "3199286986801832624",
+           "data_docid": "9926165992657999226",
+           "gid": "2185463913356808427"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+        "domain": "www.ign.com",
+        "title": "The Best Board Games for Adults to Play in 2026",
+        "url": "https://www.ign.com/articles/best-board-games-for-adults",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.ign.com › Cascadero",
+        "website_name": "IGN",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jan 28, 2026 — TL;DR: The Best Board Games for Adults · Arcs · The Gang · The White Castle · Deep Regrets · Apiary · Clank! Catacombs · Cascadero · Hegemony ... Read more",
+        "pre_snippet": "01/28/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 44.99,
+         "regular": null,
+         "max_value": null,
+         "currency": "USD",
+         "is_price_range": false,
+         "displayed_price": "$44.99"
+        },
+        "highlighted": [
+         "Arcs"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.ign.com/articles/best-board-games-for-adults#:~:text=TL%3BDR%3A%20The%20Best%20Board%20Games,for%20Adults&text=Arcs&text=The%20Gang&text=The%20White%20Castle&text=Deep%20Regrets&text=Apiary&text=Clank!%20Catacombs&text=Cascadero&text=Hegemony",
+          "domain": "www.ign.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-01-28 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+        "domain": "se.pinterest.com",
+        "title": "16 Best Adult Board Games For A Fun Game Night",
+        "url": "https://se.pinterest.com/pin/292311832085116278/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "1 year ago",
+        "website_name": "Pinterest · rema0015",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Here are some of the best board games for adults! These are such fun and unique gift ideas for husbands, boyfriends, siblings and friends.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "best board games for adults"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 13,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Best board games for adults reddit",
+         "Best board games of all time",
+         "Best board games 2026 adults",
+         "Top 10 best board games of all time",
+         "Best board games 2026 for 2 players",
+         "New board games 2026 for adults",
+         "Best board games 2026 for families",
+         "Best strategy board games 2026"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

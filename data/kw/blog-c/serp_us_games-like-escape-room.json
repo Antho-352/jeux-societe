@@ -1,0 +1,780 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "6.9610 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190342-2588-0139-0000-a66b39f0e684",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "6.9069 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "games like escape room",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "games like escape room",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=games%20like%20escape%20room&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:43:04 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "related_searches"
+      ],
+      "se_results_count": 93,
+      "pages_count": 1,
+      "items_count": 12,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "Escape room type games bring the thrill of `solving locked-room puzzles and uncovering secrets into video games, board games, and tabletop formats`.\n\n### Video Games\n\n- **Escape Simulator** : A first-person 3D game featuring dozens of interactive rooms, solo or co-op play, and a workshop to build custom rooms.\n- **Escape Academy** : Play as a student at a school for escape room artists, tackling timed and themed academic puzzles.\n- **The Room Series** : Atmospheric puzzle-box games where you inspect intricate 3D mechanisms, locks, and hidden compartments.\n- **Portal 1 & 2** : Physics-based puzzle games where you use a portal gun to escape test chambers.\n- **Rusty Lake / Cube Escape Series** : Surreal, eerie, and story-driven room escape adventures.[[1]](https://theescapeeffect.com/blog/5-escape-room-video-games)[[2]](https://www.youtube.com/watch?v=54aJ6Dr0L04)[[3]](https://www.youtube.com/watch?v=ZmPJg_wYJuk)[[4]](https://www.hourtomidnight.com/blog/five-of-the-best-mobile-escape-games/)\n\n### Board Games & Tabletop Options\n\n- **EXIT: The Game** : A popular series of one-time-use puzzle boxes that often require you to fold, cut, or draw on physical components.\n- **Unlock!** : App-driven card games that recreate the room-escape experience using hidden items and code combinations.\n- **Box One** : An immersive, narrative-driven puzzle game created by Neil Patrick Harris.\n- Find more curated board game suggestions on [Room Escape Artist](https://roomescapeartist.com/2018/12/02/tabletop-escape-game-recommendations/).[[1]](https://reactormag.com/five-games-for-people-who-love-fantasy-puzzles-and-escape-rooms/)[[2]](https://www.youtube.com/watch?v=dpn12NrIaHU&t=69)[[3]](https://www.youtube.com/watch?v=Zfz2EZXQdxs&t=10)[[4]](https://www.youtube.com/watch?v=rhM67lsye4g&t=23)[[5]](https://roomescapeartist.com/2018/12/02/tabletop-escape-game-recommendations/)\n\nHere is an overview of top-rated escape room style video games and how their mechanics work:\n\n![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTJyZF1aF8T_djJifJDFQoIBdTr4vLrLm3j_Y-_tDxHgEIfEX4)\n3:24\n[](https://www.youtube.com/watch?v=54aJ6Dr0L04) The Best Escape The Room Styled Games 2 years ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · GameRant\n\nAre you looking for **video games**, **board games** , or a **specific platform (PC, mobile, VR)** ? Let me know and I can narrow down the best recommendations.",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Escape room type games bring the thrill of solving locked-room puzzles and uncovering secrets into video games, board games, and tabletop formats.",
+          "markdown": "Escape room type games bring the thrill of `solving locked-room puzzles and uncovering secrets into video games, board games, and tabletop formats`.",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Video Games",
+          "text": "Escape Simulator : A first-person 3D game featuring dozens of interactive rooms, solo or co-op play, and a workshop to build custom rooms. Escape Simulator Escape Academy : Play as a student at a school for escape room artists, tackling timed and themed academic puzzles. Escape Academy The Room Series : Atmospheric puzzle-box games where you inspect intricate 3D mechanisms, locks, and hidden compartments. The Room Series Portal 1 & 2 : Physics-based puzzle games where you use a portal gun to escape test chambers. Portal 1 & 2 Rusty Lake / Cube Escape Series : Surreal, eerie, and story-driven room escape adventures. Rusty Lake / Cube Escape Series",
+          "markdown": "- **Escape Simulator** : A first-person 3D game featuring dozens of interactive rooms, solo or co-op play, and a workshop to build custom rooms.\n- **Escape Academy** : Play as a student at a school for escape room artists, tackling timed and themed academic puzzles.\n- **The Room Series** : Atmospheric puzzle-box games where you inspect intricate 3D mechanisms, locks, and hidden compartments.\n- **Portal 1 & 2** : Physics-based puzzle games where you use a portal gun to escape test chambers.\n- **Rusty Lake / Cube Escape Series** : Surreal, eerie, and story-driven room escape adventures.[[1]](https://theescapeeffect.com/blog/5-escape-room-video-games)[[2]](https://www.youtube.com/watch?v=54aJ6Dr0L04)[[3]](https://www.youtube.com/watch?v=ZmPJg_wYJuk)[[4]](https://www.hourtomidnight.com/blog/five-of-the-best-mobile-escape-games/)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "The Escape Effect",
+            "domain": "theescapeeffect.com",
+            "url": "https://theescapeeffect.com/blog/5-escape-room-video-games",
+            "title": "Legendary Escape Room Video Games (New For 2026) | EE Blog",
+            "text": "5 Legendary Escape Room Video Games (New For 2026) ... TL;DRFans of both escape rooms and video games will want to play through, B..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=54aJ6Dr0L04",
+            "title": "The Best Escape The Room Styled Games",
+            "text": "The Best Escape The Room Styled Games while real life escape rooms are obviously going to be the most immersive. experience when i..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=ZmPJg_wYJuk",
+            "title": "10 Best Escape Room Games 2025",
+            "text": "10 Best Escape Room Games 2025 ready for an adventure. join me as we dive into the best escape room games that will test your team..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Hour To Midnight Escape Rooms",
+            "domain": "www.hourtomidnight.com",
+            "url": "https://www.hourtomidnight.com/blog/five-of-the-best-mobile-escape-games/",
+            "title": "Five of the Best Mobile Escape Games - Hour To Midnight",
+            "text": "Featured Mobile Escape Games: The House of Da Vinci I & II by Blue Brain Games ($4.99-$19.99; touch/drag mechanics, immersive soun..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Board Games & Tabletop Options",
+          "text": "EXIT: The Game : A popular series of one-time-use puzzle boxes that often require you to fold, cut, or draw on physical components. Unlock! : App-driven card games that recreate the room-escape experience using hidden items and code combinations. Box One : An immersive, narrative-driven puzzle game created by Neil Patrick Harris. Find more curated board game suggestions on Room Escape Artist.",
+          "markdown": "- **EXIT: The Game** : A popular series of one-time-use puzzle boxes that often require you to fold, cut, or draw on physical components.\n- **Unlock!** : App-driven card games that recreate the room-escape experience using hidden items and code combinations.\n- **Box One** : An immersive, narrative-driven puzzle game created by Neil Patrick Harris.\n- Find more curated board game suggestions on [Room Escape Artist](https://roomescapeartist.com/2018/12/02/tabletop-escape-game-recommendations/).[[1]](https://reactormag.com/five-games-for-people-who-love-fantasy-puzzles-and-escape-rooms/)[[2]](https://www.youtube.com/watch?v=dpn12NrIaHU&t=69)[[3]](https://www.youtube.com/watch?v=Zfz2EZXQdxs&t=10)[[4]](https://www.youtube.com/watch?v=rhM67lsye4g&t=23)[[5]](https://roomescapeartist.com/2018/12/02/tabletop-escape-game-recommendations/)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Room Escape Artist",
+            "description": null,
+            "url": "https://roomescapeartist.com/2018/12/02/tabletop-escape-game-recommendations/",
+            "domain": "roomescapeartist.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "reactormag.com",
+            "domain": "reactormag.com",
+            "url": "https://reactormag.com/five-games-for-people-who-love-fantasy-puzzles-and-escape-rooms/",
+            "title": "Five Games for People Who Love Fantasy, Puzzles, and Escape Rooms - Reactor",
+            "text": "Recommended Fantasy Escape-Room Games: Inscryption (video game; deckbuilder roguelike with cabin exploration puzzles); The Witness..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=dpn12NrIaHU&t=69",
+            "title": "Twelve Escape Room Board Games you should play!",
+            "text": "Twelve Escape Room Board Games you should play! so I tried to break out the escape room board games into these different types for..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=Zfz2EZXQdxs&t=10",
+            "title": "Top 10 Escape Room Games - with Tom Vasel",
+            "text": "Top 10 Escape Room Games - with Tom Vasel hey everybody I'm Tom Bassel. and welcome to the Dice Tower. today I want to talk about ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=rhM67lsye4g&t=23",
+            "title": "Top Escape Room Games to Play at Home: From Exit To Unlock And ...",
+            "text": "Top Escape Room Games to Play at Home: From Exit To Unlock And Beyond! and you want to spend some time at home with your friends o..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Room Escape Artist",
+            "domain": "roomescapeartist.com",
+            "url": "https://roomescapeartist.com/2018/12/02/tabletop-escape-game-recommendations/",
+            "title": "Tabletop Escape Game Recommendations",
+            "text": "Puzzle-Story Adventures * Asmodee, Sherlock Holmes Consulting Detective. * Box One Presented By Neil Patrick Harris * Box Two Pres..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_video_element",
+          "position": "left",
+          "title": "The Best Escape The Room Styled Games",
+          "snippet": null,
+          "url": "https://www.youtube.com/watch?v=54aJ6Dr0L04",
+          "domain": "www.youtube.com",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTJyZF1aF8T_djJifJDFQoIBdTr4vLrLm3j_Y-_tDxHgEIfEX4",
+          "source": "YouTube",
+          "date": "2 years ago",
+          "timestamp": "2024-10-19 03:43:04 +00:00"
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Here is an overview of top-rated escape room style video games and how their mechanics work: 3:24 The Best Escape The Room Styled Games 2 years ago YouTube · GameRant",
+          "markdown": "Here is an overview of top-rated escape room style video games and how their mechanics work:\n\n![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTJyZF1aF8T_djJifJDFQoIBdTr4vLrLm3j_Y-_tDxHgEIfEX4)\n3:24\n[](https://www.youtube.com/watch?v=54aJ6Dr0L04) The Best Escape The Room Styled Games 2 years ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · GameRant",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Are you looking for video games, board games, or a specific platform (PC, mobile, VR) ? Let me know and I can narrow down the best recommendations.",
+          "markdown": "Are you looking for **video games**, **board games** , or a **specific platform (PC, mobile, VR)** ? Let me know and I can narrow down the best recommendations.",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "reactormag.com",
+          "domain": "reactormag.com",
+          "url": "https://reactormag.com/five-games-for-people-who-love-fantasy-puzzles-and-escape-rooms/",
+          "title": "Five Games for People Who Love Fantasy, Puzzles, and Escape Rooms - Reactor",
+          "text": "Recommended Fantasy Escape-Room Games: Inscryption (video game; deckbuilder roguelike with cabin exploration puzzles); The Witness (video game; first-person explor..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Room Escape Artist",
+          "domain": "roomescapeartist.com",
+          "url": "https://roomescapeartist.com/2018/12/02/tabletop-escape-game-recommendations/",
+          "title": "Tabletop Escape Game Recommendations",
+          "text": "Puzzle-Story Adventures * Asmodee, Sherlock Holmes Consulting Detective. * Box One Presented By Neil Patrick Harris * Box Two Presented By Neil Patrick Harris. * B..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "YouTube",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=Zfz2EZXQdxs&t=10",
+          "title": "Top 10 Escape Room Games - with Tom Vasel",
+          "text": "Top 10 Escape Room Games - with Tom Vasel hey everybody I'm Tom Bassel. and welcome to the Dice Tower. today I want to talk about my top 10 escape room games now t"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]",
+        "domain": "www.donteatthemeeples.com",
+        "title": "Escape Rooms and Exit Games - by Matt Montgomery",
+        "url": "https://www.donteatthemeeples.com/escape-rooms-and-exit-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.donteatthemeeples.com › escape-rooms-and-...",
+        "website_name": "Don't Eat the Meeples",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Aug 15, 2022 — Unlock: This is probably the biggest competitor to the Exit games. The games all need an app, which is fine, really. · Deckscape: This is a ... Read more",
+        "pre_snippet": "08/15/2022 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Unlock"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.donteatthemeeples.com/escape-rooms-and-exit-games/#:~:text=Unlock%3A%20This%20is%20probably%20the,app%2C%20which%20is%20fine%2C%20really.&text=Deckscape%3A%20This%20is%20a%20purely,room%20game%2C%20no%20app%20needed.",
+          "domain": "www.donteatthemeeples.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2022-08-15 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "At home escape room games : r/boardgames",
+        "url": "https://www.reddit.com/r/boardgames/comments/1hdl1ni/at_home_escape_room_games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "10+ comments  ·  1 year ago",
+        "website_name": "Reddit · r/boardgames",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "My fav are the EXIT games. I've tried a lot of the others, but the EXIT are the best imo. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "EXIT games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Are there any old Escape Room like games?",
+          "description": null,
+          "url": "https://www.reddit.com/r/patientgamers/comments/9egd0k/are_there_any_old_escape_room_like_games/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Good escape room games with plot : r/escaperooms",
+          "description": null,
+          "url": "https://www.reddit.com/r/escaperooms/comments/kqbmum/good_escape_room_games_with_plot/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+escape+room+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQntBbw1yxMILHvrLdIn8n0agCyhE5Q:1792381383071&sa=X&ved=2ahUKEwia-o79lMWXAxUojIkEHd4FJ1MQrQIoAnoECCUQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]/div[1]",
+        "domain": "www.youtube.com",
+        "title": "Top 10 Escape Room Games with Tom Vasel",
+        "url": "https://www.youtube.com/watch?v=4b4rCDEx-OA",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "40.4K+ views  ·  8 years ago",
+        "website_name": "YouTube · The Dice Tower",
+        "is_image": false,
+        "is_video": true,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_video"
+        ],
+        "description": null,
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2018-10-02 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "Can anyone recommend any good puzzle games or ...",
+        "url": "https://www.facebook.com/groups/Quest2Community/posts/745625186583880/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "10+ comments  ·  4 years ago",
+        "website_name": "Facebook · Meta Quest 3 Community",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Hi, you can try The Room or Red Matter. Hope some suggestions here can help you too.. https://allvirtualreality. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "The Room or Red Matter"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.facebook.com/groups/Quest2Community/posts/745625186583880/#:~:text=Hi%2C%20you%20can%20try%20The,can%20help%20you%20too..%20https%3A%2F%2Fallvirtualreality.",
+          "domain": "www.facebook.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "Is there a board game called escape room?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What is the best puzzle game for adults?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What is an escape room video game?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some ideas for escape room games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+        "domain": "trappedescapegame.com",
+        "title": "5 Activities Like Escape Rooms",
+        "url": "https://trappedescapegame.com/5-activities-like-escape-rooms/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://trappedescapegame.com › 5-activities-like-escap...",
+        "website_name": "Trapped Escape Game",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "5 Activities Like Escape Rooms · Haunted Houses — Adventure, Test of Fight or Flight · The Settlers of Catan® — Critical Thinking · MegaGames — Critical Thinking, ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Haunted Houses — Adventure, Test of Fight or Flight"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://trappedescapegame.com/5-activities-like-escape-rooms/#:~:text=5%20Activities%20Like%20Escape%20Rooms&text=Haunted%20Houses%20%E2%80%94%20Adventure%2C%20Test,of%20Fight%20or%20Flight&text=The%20Settlers%20of%20Catan%C2%AE%20%E2%80%94,Critical%20Thinking&text=MegaGames%20%E2%80%94%20Critical%20Thinking%2C%20Adventure%2C,Thrill",
+          "domain": "trappedescapegame.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+        "domain": "www.60out.com",
+        "title": "6 Fun Escape Room Alternatives for You & Your Family",
+        "url": "https://www.60out.com/blog/cheap-fun-escape-room-alternatives",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.60out.com › Blog",
+        "website_name": "60out Escape Rooms",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "May 3, 2019 — 1. Mini-Escape Room · 2. Puzzle Races · 3. Tabletop Games · 4. Scavenger Hunts · 5. Amazing Race · 6. Geocache Storytelling. Read more",
+        "pre_snippet": "05/03/2019 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1. Mini-Escape Room"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.60out.com/blog/cheap-fun-escape-room-alternatives#:~:text=1.%20Mini-Escape%20Room&text=2.%20Puzzle%20Races&text=3.%20Tabletop%20Games&text=4.%20Scavenger%20Hunts&text=5.%20Amazing%20Race&text=6.%20Geocache%20Storytelling",
+          "domain": "www.60out.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2019-05-03 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "ESCAPE ROOM Style Games ?? Rank the systems ?",
+        "url": "https://boardgamegeek.com/thread/3027547/escape-room-style-games-rank-the-systems",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › ... › Forums › General",
+        "website_name": "BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Feb 12, 2023 — Tried a bit of Exit, Unlock, Deckscape and the detective ones Sherlock and Decktective. Exit and Unlock are good and please most people, but ... Read more",
+        "pre_snippet": "02/12/2023 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Exit, Unlock, Deckscape"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://boardgamegeek.com/thread/3027547/escape-room-style-games-rank-the-systems#:~:text=Tried%20a%20bit%20of%20Exit%2C,and%20please%20most%20people%2C%20but",
+          "domain": "boardgamegeek.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2023-02-12 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+        "domain": "play.nobleknight.com",
+        "title": "Escape Room Games You'll Want to Get Into",
+        "url": "https://play.nobleknight.com/escape-room-games-youll-want-to-get-into/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://play.nobleknight.com › ... › Gaming News",
+        "website_name": "Noble Knight Gaming Hall",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "May 16, 2022 — Unlock! Squeek & Sausage and Unlock! Tombstone Express are highly-rated titles. Unlock! Star Wars and Unlock! Heroic Adventure. Deckscape.  ...",
+        "pre_snippet": "05/16/2022 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Unlock! Squeek & Sausage and Unlock! Tombstone Express"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Exit: The Game",
+          "description": null,
+          "url": "https://play.nobleknight.com/escape-room-games-youll-want-to-get-into/#:~:text=Exit%3A%20The%20Game,-One%20of%20the%20most%20popular",
+          "domain": "play.nobleknight.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Unlock!",
+          "description": null,
+          "url": "https://play.nobleknight.com/escape-room-games-youll-want-to-get-into/#:~:text=Unlock%21,-Space%20Cowboys%20has%20published%20over",
+          "domain": "play.nobleknight.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Deckscape",
+          "description": null,
+          "url": "https://play.nobleknight.com/escape-room-games-youll-want-to-get-into/#:~:text=Deckscape,-Deckscape",
+          "domain": "play.nobleknight.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2022-05-16 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Unique experiences like Exit the Game",
+        "url": "https://boardgamegeek.com/thread/2885117/unique-experiences-like-exit-the-game",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › ... › Recommendations",
+        "website_name": "BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jun 17, 2022 — Maybe Micro Macro Crime city or one of the Sherlock games if you're into that theme or Deadline if into pulp noir. Read more",
+        "pre_snippet": "06/17/2022 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Micro Macro Crime city"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://boardgamegeek.com/thread/2885117/unique-experiences-like-exit-the-game#:~:text=Maybe,if%20into%20pulp%20noir.",
+          "domain": "boardgamegeek.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2022-06-17 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Games like escape room for adults",
+         "Games like escape room reddit",
+         "Games like escape room for kids",
+         "Similar to Escape Room movie",
+         "Video game games like escape room",
+         "Exit escape room game",
+         "Best escape room games at home for adults",
+         "Games like Exit 8"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

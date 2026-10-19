@@ -1,0 +1,583 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "4.5855 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190342-2588-0139-0000-dd526d6b9a53",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "4.4777 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "games to play without anything",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "games to play without anything",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=games%20to%20play%20without%20anything&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:42:33 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "people_also_ask",
+       "organic",
+       "video",
+       "related_searches"
+      ],
+      "se_results_count": 115,
+      "pages_count": 1,
+      "items_count": 12,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": true,
+        "markdown": null,
+        "items": null,
+        "references": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What games can you play without?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What games can you play just by talking?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What is the 3 6 9 game?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are 10 fun activities I can do at home?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Games without equipment : r/simpleliving",
+        "url": "https://www.reddit.com/r/simpleliving/comments/vr7avk/games_without_equipment/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "110+ comments  ·  4 years ago",
+        "website_name": "Reddit · r/simpleliving",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "FATE, Blades in the Dark, Ironsworn, and Wicked Ones all stand out as excellent examples. Other card games are canasta, old maid, go fish, king ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "FATE, Blades in the Dark, Ironsworn, and Wicked Ones"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "What quick boardless/cardless games do you play ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/zrjj6/what_quick_boardlesscardless_games_do_you_play/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What's the best boardless, cardless game? : r/AskReddit",
+          "description": null,
+          "url": "https://www.reddit.com/r/AskReddit/comments/5aiypc/whats_the_best_boardless_cardless_game/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+to+play+without+anything+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnuaDlp6mpgt4_4FlAc1Bi6KuZDh_Q:1792381352779&sa=X&ved=2ahUKEwjN-dTulMWXAxUY_7sIHZTKIxcQrQIoAnoECC8QAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+        "domain": "www.simchafisher.com",
+        "title": "10 ridiculous family games that need no equipment",
+        "url": "https://www.simchafisher.com/2021/12/08/10-ridiculous-family-games-that-need-no-equipment-2/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.simchafisher.com › 2021/12/08 › 10-ridicu...",
+        "website_name": "simcha fisher",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Dec 8, 2021 — STINKY PINKIES A rhyming riddle game that you can play at all different levels, with kids who just barely know how to. The answer is: Fox box.  ...",
+        "pre_snippet": "12/08/2021 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "STINKY PINKIES"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2021-12-08 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+        "domain": "matadornetwork.com",
+        "title": "9 Boardless, Cardless Games to Play Anywhere",
+        "url": "http://matadornetwork.com/life/7-boardless-cardless-games-to-play-anywhere/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "http://matadornetwork.com › life › 7-boardless-cardless...",
+        "website_name": "Matador Network",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Oct 9, 2019 — 1. How's Yours? · 2. I Went To Market · 3. Fishbowl · 4. Would You Rather · 5. Two Truths and a Lie · 6. Fortunately Unfortunately · 7. Trace Messages. Read more",
+        "pre_snippet": "10/09/2019 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1. How's Yours"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "http://matadornetwork.com/life/7-boardless-cardless-games-to-play-anywhere/#:~:text=1.%20How's%20Yours%3F&text=2.%20I%20Went%20To%20Market&text=3.%20Fishbowl&text=4.%20Would%20You%20Rather&text=5.%20Two%20Truths%20and%20a,Lie&text=6.%20Fortunately%20Unfortunately&text=7.%20Trace%20Messages",
+          "domain": "matadornetwork.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2019-10-09 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "video",
+        "rank_group": 1,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]",
+        "items": [
+         {
+          "type": "video_element",
+          "source": "YouTube · ShawnMHowell",
+          "title": "15 FUN GAMES to PLAY that Don't Require Anything (NO ...",
+          "timestamp": "2026-05-01 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=aH2_JA8mrKQ"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · Board Games & Game Night!",
+          "title": "Games to Play Without Anything – Fun, Easy & No Equipment ...",
+          "timestamp": "2025-02-22 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=rt6FS_d7TGc"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · wikiHow",
+          "title": "Games to Play with Family Without Any Materials",
+          "timestamp": "2024-08-26 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=UKdjFC963pg"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]",
+        "domain": "www.pembrokeshire.gov.uk",
+        "title": "10 activities to do with no equipment",
+        "url": "https://www.pembrokeshire.gov.uk/play-pembrokeshire/10-activities-to-do-with-no-equipment",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.pembrokeshire.gov.uk › play-pembrokeshire",
+        "website_name": "Pembrokeshire County Council",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "10 activities to do with no equipment · Tag. Aim of the game is to avoid being 'it'. · Hide and seek. One child is 'it' and counts to twenty (can vary!) with ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Tag"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.pembrokeshire.gov.uk/play-pembrokeshire/10-activities-to-do-with-no-equipment#:~:text=10%20activities%20to%20do%20with,no%20equipment&text=Tag,is%20to%20avoid%20being%20'it'.&text=Hide%20and%20seek,vary!)%20with%20their%20eyes%20closed.",
+          "domain": "www.pembrokeshire.gov.uk"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]",
+        "domain": "letsfib.com",
+        "title": "Party Games No Prep: Fun Games for Adults with No ...",
+        "url": "https://letsfib.com/en/party-games-no-prep",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://letsfib.com › Home › Party Games",
+        "website_name": "Let's Fib!",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Sep 26, 2026 — Classic parlor games for adults include Charades, Who Am I, and word-chain games like Contact. The format dates back centuries but the appeal is ... Read more",
+        "pre_snippet": "09/26/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://letsfib.com/en/party-games-no-prep#:~:text=Related%20Articles",
+          "domain": "letsfib.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-09-26 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]",
+        "domain": "www.kristinagraffphotography.com",
+        "title": "10 No-Prep Family Games You Can Play Anytime",
+        "url": "https://www.kristinagraffphotography.com/blog/10-no-prep-family-games-you-can-play-anytime-no-screens-no-supplies",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.kristinagraffphotography.com › blog › 10-...",
+        "website_name": "Kristina Graff Photography",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Feb 5, 2026 — 2. Tapping hand game · 3. Would you rather? · 4. Complete the story · 5. Freeze/Remote Game · 6. Charades · 7. Imposter · 8. Bank · 9. Fortunately/ ... Read more",
+        "pre_snippet": "02/05/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Tapping hand game"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.kristinagraffphotography.com/blog/10-no-prep-family-games-you-can-play-anytime-no-screens-no-supplies#:~:text=2.%20Tapping%20hand%20game&text=3.%20Would%20you%20rather%3F&text=4.%20Complete%20the%20story&text=5.%20Freeze%2FRemote%20Game&text=6.%20Charades&text=7.%20Imposter&text=8.%20Bank&text=9.%20Fortunately%2Funfortunately",
+          "domain": "www.kristinagraffphotography.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-02-05 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]",
+        "domain": "www.quora.com",
+        "title": "What are some games to play with friends without any ...",
+        "url": "https://www.quora.com/What-are-some-games-to-play-with-friends-without-any-objects-like-Q-A-games",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "30+ answers  ·  9 years ago",
+        "website_name": "Quora",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "What are some games to play with friends without any objects (like Q/A games)?",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "31 answers",
+          "description": null,
+          "url": "https://www.quora.com/What-are-some-games-to-play-with-friends-without-any-objects-like-Q-A-games?top_ans=54564781",
+          "domain": "www.quora.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[21]/div[1]/div[1]",
+        "domain": "playwise.education",
+        "title": "20+ Games to Play with Friends without Anything (Tested & ...",
+        "url": "https://playwise.education/games-play-without-anything/with-friends",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://playwise.education › games-play-without-anything",
+        "website_name": "PlayWise Education",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "There are dozens of great games that need zero equipment — just people. Our favorites include 20 Questions, Contact, Charades, Two Truths and a Lie, Word Chain, ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "20 Questions, Contact, Charades, Two Truths and a Lie, Word Chain"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Word & guessing games",
+          "description": null,
+          "url": "https://playwise.education/games-play-without-anything/with-friends#word-guessing-games",
+          "domain": "playwise.education"
+         },
+         {
+          "type": "link_element",
+          "title": "Social & party games",
+          "description": null,
+          "url": "https://playwise.education/games-play-without-anything/with-friends#social-party-games",
+          "domain": "playwise.education"
+         },
+         {
+          "type": "link_element",
+          "title": "Games with minimal equipment",
+          "description": null,
+          "url": "https://playwise.education/games-play-without-anything/with-friends#games-with-minimal-things",
+          "domain": "playwise.education"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Games to play without anything for adults",
+         "Games to play with 2 players no equipment for adults",
+         "Indoor games to play with 2 players no equipment",
+         "Games to play with 2 players no equipment for teens",
+         "Games to play with 2 players no equipment for kids",
+         "Mind games to play with friends without anything",
+         "Games to play without anything for kids",
+         "Games to play with family without anything"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

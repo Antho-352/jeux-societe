@@ -1,0 +1,736 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.6434 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190345-2588-0139-0000-97a02cb95506",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.5704 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "games for couples to play without anything",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "games for couples to play without anything",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=games%20for%20couples%20to%20play%20without%20anything&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:45:35 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "video",
+       "related_searches"
+      ],
+      "se_results_count": 118,
+      "pages_count": 1,
+      "items_count": 12,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "You can play several fun and engaging games with your partner that require **no equipment or props at all**.\n\n### Conversation & Connection Games\n\n- **Two Truths and a Lie:** Take turns sharing three statements about yourself (or your past dreams) — two are true, and one is a lie. Your partner has to guess which one is fake.\n- **Never Have I Ever:** Hold up one hand with fingers raised. Take turns saying things you have never done. If your partner has done it, they put a finger down.\n- **The Interview:** One person asks questions for five minutes straight while the other answers openly, then you swap roles.\n- **Describe Me:** Try to describe your partner's personality, quirks, and traits **without** mentioning anything about their physical appearance.\n- **The Countdown:** You have 30 seconds to name everything you love or appreciate about your partner as fast as you can.\n\n### Playful & Silly Challenges\n\n- **If You Love Me Honey, You’ll Smile:** Sit facing each other. Person A says, \"If you love me honey, you'll smile.\" Person B must reply, \"I love you honey, but I just can't smile.\" You cannot touch or use extra words—only facial expressions and eye contact to try to make the other person crack a smile or laugh.\n- **Staring with Rules:** Maintain direct eye contact for 60 seconds. You are allowed to talk, but laughing or breaking gaze means you lose.\n- **The Pitch:** You have 60 seconds to passionately sell your partner on a completely ridiculous or terrible idea (like buying a pet alligator).\n- **Tall Tales — With a Twist:** Tell a real story from your shared past, but intentionally change one major detail (like the location or what you ate). Your partner has to figure out what you altered.\n\nHere is a look at a few interactive relationship games you can play at home without needing any equipment:\n\n![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx6oudvtCLrDNNOACCZPhyiWHpJ298S7w1wXE570K2h40jXQyQ)\n11:19\n[](https://www.youtube.com/watch?v=yUw0i85glGY) 5 FREE Games That Make Relationships BETTER (According ...8.5K views  · 1 year ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · Relationship Academy | Philadelphia Main Line \n\nWould you prefer something **deep and romantic** to get to know each other better, or something **fast-paced and funny**?",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "You can play several fun and engaging games with your partner that require no equipment or props at all.",
+          "markdown": "You can play several fun and engaging games with your partner that require **no equipment or props at all**.",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Conversation & Connection Games",
+          "text": "Two Truths and a Lie: Take turns sharing three statements about yourself (or your past dreams) — two are true, and one is a lie. Your partner has to guess which one is fake. Never Have I Ever: Hold up one hand with fingers raised. Take turns saying things you have never done. If your partner has done it, they put a finger down. The Interview: One person asks questions for five minutes straight while the other answers openly, then you swap roles. Describe Me: Try to describe your partner's personality, quirks, and traits without mentioning anything about their physical appearance. The Countdown: You have 30 seconds to name everything you love or appreciate about your partner as fast as you can.",
+          "markdown": "- **Two Truths and a Lie:** Take turns sharing three statements about yourself (or your past dreams) — two are true, and one is a lie. Your partner has to guess which one is fake.\n- **Never Have I Ever:** Hold up one hand with fingers raised. Take turns saying things you have never done. If your partner has done it, they put a finger down.\n- **The Interview:** One person asks questions for five minutes straight while the other answers openly, then you swap roles.\n- **Describe Me:** Try to describe your partner's personality, quirks, and traits **without** mentioning anything about their physical appearance.\n- **The Countdown:** You have 30 seconds to name everything you love or appreciate about your partner as fast as you can.",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Playful & Silly Challenges",
+          "text": "If You Love Me Honey, You’ll Smile: Sit facing each other. Person A says, \"If you love me honey, you'll smile.\" Person B must reply, \"I love you honey, but I just can't smile.\" You cannot touch or use extra words—only facial expressions and eye contact to try to make the other person crack a smile or laugh. Staring with Rules: Maintain direct eye contact for 60 seconds. You are allowed to talk, but laughing or breaking gaze means you lose. The Pitch: You have 60 seconds to passionately sell your partner on a completely ridiculous or terrible idea (like buying a pet alligator). Tall Tales — With a Twist: Tell a real story from your shared past, but intentionally change one major detail (like the location or what you ate). Your partner has to figure out what you altered.",
+          "markdown": "- **If You Love Me Honey, You’ll Smile:** Sit facing each other. Person A says, \"If you love me honey, you'll smile.\" Person B must reply, \"I love you honey, but I just can't smile.\" You cannot touch or use extra words—only facial expressions and eye contact to try to make the other person crack a smile or laugh.\n- **Staring with Rules:** Maintain direct eye contact for 60 seconds. You are allowed to talk, but laughing or breaking gaze means you lose.\n- **The Pitch:** You have 60 seconds to passionately sell your partner on a completely ridiculous or terrible idea (like buying a pet alligator).\n- **Tall Tales — With a Twist:** Tell a real story from your shared past, but intentionally change one major detail (like the location or what you ate). Your partner has to figure out what you altered.",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_video_element",
+          "position": "left",
+          "title": "5 FREE Games That Make Relationships BETTER (According ...",
+          "snippet": null,
+          "url": "https://www.youtube.com/watch?v=yUw0i85glGY",
+          "domain": "www.youtube.com",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx6oudvtCLrDNNOACCZPhyiWHpJ298S7w1wXE570K2h40jXQyQ",
+          "source": "YouTube",
+          "date": "1 year ago",
+          "timestamp": "2025-10-19 03:45:34 +00:00"
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Here is a look at a few interactive relationship games you can play at home without needing any equipment: 11:19 5 FREE Games That Make Relationships BETTER (According ... 8.5K views · 1 year ago YouTube · Relationship Academy | Philadelphia Main Line",
+          "markdown": "Here is a look at a few interactive relationship games you can play at home without needing any equipment:\n\n![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx6oudvtCLrDNNOACCZPhyiWHpJ298S7w1wXE570K2h40jXQyQ)\n11:19\n[](https://www.youtube.com/watch?v=yUw0i85glGY) 5 FREE Games That Make Relationships BETTER (According ...8.5K views  · 1 year ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · Relationship Academy | Philadelphia Main Line",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Would you prefer something deep and romantic to get to know each other better, or something fast-paced and funny ?",
+          "markdown": "Would you prefer something **deep and romantic** to get to know each other better, or something **fast-paced and funny**?",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "trylovely.app",
+          "domain": "trylovely.app",
+          "url": "https://trylovely.app/games/couple-games-no-equipment",
+          "title": "54 Couple Games With No Equipment (Play Anywhere)",
+          "text": "54 Couple Games: No Equipment Needed prompts * THE HYPOTHETICAL: One impossible scenario each. Answer properly. * NEVER HAVE I EVER: Fingers up. No props needed. T..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "couplescounselingcenter.online",
+          "domain": "couplescounselingcenter.online",
+          "url": "https://couplescounselingcenter.online/10-easy-intimate-games-couples-can-play-anywhere/",
+          "title": "10 Easy & Intimate Games Couples Can Play Anywhere (No Props Needed)",
+          "text": "You can't force your partner to have fun, so start with play that is comfortable for both of you. * “I Know You” Scavenger Hunt. * Location-Based Bingo. * Relation..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Electric Sugar Elopements",
+          "domain": "electricsugarelopements.com",
+          "url": "https://electricsugarelopements.com/mind-melding-bonding-games-couples-can-play-needing-nothing-but-themselves/",
+          "title": "12 Mind Melding Bonding Games Couples Can Play, Needing ...",
+          "text": "12 Mind Melding Bonding Games Couples Can Play, Needing Nothing but Themselves HOW CAN GAMES HELP YOU BOND AS A COUPLE? Studies have confirmed that forming attachm..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "YouTube",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=yUw0i85glGY",
+          "title": "5 FREE Games That Make Relationships BETTER (According ...",
+          "text": "5 FREE Games That Make Relationships BETTER (According to Science) could the key to long lasting love be playing a game with your partner just once a week science"
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "YouTube",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=avJWiQ-2HIo&vl=en-US",
+          "title": "7 FUN & EASY Games for Couples 😍",
+          "text": "7 FUN & EASY Games for Couples 😍 it takes two to play these fun party games in this video you'll find seven new games specifically designed for couples from all n"
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Scrabble",
+          "domain": "www.facebook.com",
+          "url": "https://www.facebook.com/NationalDayCalendar/posts/january-19-2026-national-popcorn-day-national-imagination-day-martin-luther-king/1307489858085599/",
+          "title": "Scrabble",
+          "text": "The board game \"Scrabble\" made its debut."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Fog of Love",
+          "domain": "www.tiktok.com",
+          "url": "https://www.tiktok.com/@yinrun_hello/video/7623472150497840406",
+          "title": "Fog of Love",
+          "text": "5. **Fog of Love**: This is a unique two-player game that simulates a romantic relationship. Players create characters and navigate various scenarios, which can lead to deep conversations and better understanding of each other's emotions and strengths."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Truth or dare?",
+          "domain": "spanish.kwiziq.com",
+          "url": "https://spanish.kwiziq.com/my-languages/spanish/exercises/overview/383",
+          "title": "Truth or dare?",
+          "text": "My friends and I will play a very fun game. It's called \"truth or dare\". As its name indicates, when we play the person whose turn it is will be asked a question, and he will have to tell the truth or take a dare (that) we give him. I will not be too daring and I will tell the truth (in order to) not to be ashamed by compromising dares."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "The Ultimate Game for Couples",
+          "domain": "www.mrtoys.com.au",
+          "url": "https://www.mrtoys.com.au/games/board-games/the-ultimate-game-for-couples-80626.html",
+          "title": "The Ultimate Game for Couples",
+          "text": "The Ultimate Game For Couples The Ultimate Game For Couples is a great fit for families shopping for Board Games that feel engaging, giftable and easy to enjoy at home. This fun and engaging who-knows-me-better couples game is perfect for date night! Play with just your partner or with other couples in two different gameplays! Spark meaningful conversations and learn new things about your partner or team up together to compete against other couples to see who really knows each other best."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Sex dice",
+          "domain": "www.etsy.com",
+          "url": "https://www.etsy.com/listing/1825186693/sex-dice-naughty-valentine-card-sexy",
+          "title": "Sex dice",
+          "text": "Sex dice game for couples - printable - sexy gift for him"
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Pictionary",
+          "domain": "drifttravel.com",
+          "url": "https://drifttravel.com/top-games-you-can-play-with-your-family-while-on-a-weekend-getaway/",
+          "title": "Pictionary",
+          "text": "Pictionary Pictionary is a classic game that is great for the whole family and a perfect choice to bring on your weekend away. Pictionary combines the art (or lack thereof) of drawing with charades, all wrapped up in the perfect board game. By rolling the dice and drawing a card, you and your family can test out each other's drawing skills and guessing what your teammates are drawing. The team with the most correct guesses, or best artist, wins! Pictionary is an excellent way to poke some fun at your artistically challenged family members while spending some quality time together. If you're planning on packing light, you can even make your own Pictionary game without the board!"
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Jenga",
+          "domain": "www.facebook.com",
+          "url": "https://www.facebook.com/ProudsFiji/posts/want-a-game-experience-that-combines-friends-skill-suspense-laughter-and-maybe-a/10161509555129689/",
+          "title": "Jenga",
+          "text": "Want a game experience that combines friends, skill, suspense, laughter, and maybe a little luck? You gotta get the Classic Jenga game! It's the perfect game for everyone, with edge-of-your-seat, gravity-defying action. Shop now: https://bit.ly/3EgOQhj [ad] Jenga is such classic game! 🧱 Games Night Spotlight: Jenga!"
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Monopoly",
+          "domain": "www.genkicorp.ch",
+          "url": "https://www.genkicorp.ch/en/pj_masks/8996-8996-3700126902383.html",
+          "title": "Monopoly",
+          "text": "Monopoly is a board game on a course whose goal is, through the purchase and sale of properties, to ruin its opponents and thus reach the monopoly. Chance plays an important part. Monopoly is a board game on a course whose goal is, through the purchase and sale of properties, to ruin its opponents and thus reach the monopoly. Chance plays an important part."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Never have I ever",
+          "domain": "manofmany.com",
+          "url": "https://manofmany.com/entertainment/gaming/best-never-have-i-ever-questions",
+          "title": "Never have I ever",
+          "text": "How to Play Never Have I Ever Luckily, the premise of the game is simple, and you don't need any props, cards or need to be with the people you're playing against in real life! Each person needs to be holding up one hand with three fingers raised. Take turns for each player to share something they have never done before, for example, “never have I ever broken a bone.” If someone playing has done what the player has just said, they have to put down a finger. If you're playing never have I ever as a drinking game, the game will follow the same structure, but instead of putting a finger down, the person takes a shot or sip of their drink. If no one has done the action in question, the person who posed the statement takes a drink. You can also create themes and tailor the questions to your group, so it's a game fit for any occasion!"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Quirky homemade games for couples",
+        "url": "https://www.reddit.com/r/AskReddit/comments/x3cux/couples_of_reddit_what_quirky_homemade_games_or/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "1.5K+ comments  ·  14 years ago",
+        "website_name": "Reddit · r/AskReddit",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "We play a game called \"would you survive if i died on you and no one else was around'. I'm small and weak and my bf basically lies limp on top ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "play",
+         "no"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Games without equipment : r/simpleliving - Reddit",
+          "description": null,
+          "url": "https://www.reddit.com/r/simpleliving/comments/vr7avk/games_without_equipment/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What are some offline, at-home activities that ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/digitalminimalism/comments/1bnj6lt/what_are_some_offline_athome_activities_that/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+for+couples+to+play+without+anything+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnt2zh-vVOLr7hRp6xBxburfQdgRBg:1792381533353&sa=X&ved=2ahUKEwiCq-PElcWXAxU09rsIHVb8E_oQrQIoAnoECCsQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What is the 7-7-7 rule for couples?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are 21 juicy questions for couples?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What is the 2-2-2 rule for couples?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What is the 3-3-3 rule for intimacy?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+        "domain": "couplescounselingcenter.online",
+        "title": "10 Easy & Intimate Games Couples Can Play Anywhere (No ...",
+        "url": "https://couplescounselingcenter.online/10-easy-intimate-games-couples-can-play-anywhere/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://couplescounselingcenter.online › 10-easy-intimat...",
+        "website_name": "couplescounselingcenter.online",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "10 Easy & Intimate Games Couples Can Play Anywhere · 1. “I Know You” Scavenger Hunt · 2. Location-Based Bingo · 3. Relationship Themed “I Spy” · 4. Couples ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1. “I Know You” Scavenger Hunt"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://couplescounselingcenter.online/10-easy-intimate-games-couples-can-play-anywhere/#:~:text=10%20Easy%20%26%20Intimate%20Games,Couples%20Can%20Play%20Anywhere&text=1.%20%E2%80%9CI%20Know%20You%E2%80%9D%20Scavenger,Hunt&text=2.%20Location-Based%20Bingo&text=3.%20Relationship%20Themed%20%E2%80%9CI%20Spy%E2%80%9D&text=4.%20Couples%20Conversation%20Questions",
+          "domain": "couplescounselingcenter.online"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "video",
+        "rank_group": 1,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]",
+        "items": [
+         {
+          "type": "video_element",
+          "source": "YouTube · Happy Holiday Hotspot",
+          "title": "7 FUN & EASY Games for Couples",
+          "timestamp": "2026-01-26 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=avJWiQ-2HIo"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · ShawnMHowell",
+          "title": "HILARIOUS COUPLE GAMES FOR Party",
+          "timestamp": "2025-03-11 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=D2hjUvwKMCk"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · Board Games & Game Night!",
+          "title": "Games to Play Without Anything – Fun, Easy & No Equipment ...",
+          "timestamp": "2025-02-22 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=rt6FS_d7TGc"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+        "domain": "trylovely.app",
+        "title": "54 Couple Games With No Equipment (Play Anywhere)",
+        "url": "https://trylovely.app/games/couple-games-no-equipment",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://trylovely.app › Games › Lifestyle & Growth",
+        "website_name": "trylovely.app",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Word games (20 Questions, Categories), storytelling, Would You Rather, Truth or Dare, impressions, staring contests, and question games all need zero equipment.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "games"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+        "domain": "www.pinterest.com",
+        "title": "Games for Couples to Play Without Anything",
+        "url": "https://www.pinterest.com/ideas/games-for-couples-to-play-without-anything/919045006993/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.pinterest.com › ideas › games-for-couples-t...",
+        "website_name": "Pinterest",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Discover Pinterest's best ideas and inspiration for Games for couples to play without anything. 15 Amazing Kissing Games For Couples | Kiss games, Online games ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Games for couples to play without anything"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+        "domain": "electricsugarelopements.com",
+        "title": "12 Mind Melding Bonding Games Couples Can Play, ...",
+        "url": "https://electricsugarelopements.com/mind-melding-bonding-games-couples-can-play-needing-nothing-but-themselves/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://electricsugarelopements.com › mind-melding-bo...",
+        "website_name": "Electric Sugar Elopements",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "1. THE FLOOR IS LAVA · 2. TWO TRUTHS & A LIE · 3. NEVER HAVE I EVER · 4. WOULD YOU RATHER · 5. THIS OR THAT · 6. HIDE & SEEK · 7. TRUTH OR DARE · 8. STARING CONTEST. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1. THE FLOOR IS LAVA"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://electricsugarelopements.com/mind-melding-bonding-games-couples-can-play-needing-nothing-but-themselves/#:~:text=1.%20THE%20FLOOR%20IS%20LAVA&text=2.%20TWO%20TRUTHS%20%26%20A,LIE&text=3.%20NEVER%20HAVE%20I%20EVER&text=4.%20WOULD%20YOU%20RATHER&text=5.%20THIS%20OR%20THAT&text=6.%20HIDE%20%26%20SEEK&text=7.%20TRUTH%20OR%20DARE&text=8.%20STARING%20CONTEST",
+          "domain": "electricsugarelopements.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What are some fun things a couple could do at home ...",
+        "url": "https://www.facebook.com/groups/askmidlandd/posts/25629784016670739/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "70+ comments  ·  9 months ago",
+        "website_name": "Facebook · AskMidland",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "What are some fun things a couple could do at home together instead of going out? Just two people.\nCard games, board games, etc. Please throw ideas at me",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+        "domain": "www.simchafisher.com",
+        "title": "10 ridiculous family games that need no equipment",
+        "url": "https://www.simchafisher.com/2021/12/08/10-ridiculous-family-games-that-need-no-equipment-2/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.simchafisher.com › 2021/12/08 › 10-ridicu...",
+        "website_name": "simcha fisher",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Dec 8, 2021 — STINKY PINKIES A rhyming riddle game that you can play at all different levels, with kids who just barely know how to rhyme, to people with ...",
+        "pre_snippet": "12/08/2021 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "STINKY PINKIES"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2021-12-08 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+        "domain": "www.kristinagraffphotography.com",
+        "title": "10 No-Prep Family Games You Can Play Anytime",
+        "url": "https://www.kristinagraffphotography.com/blog/10-no-prep-family-games-you-can-play-anytime-no-screens-no-supplies",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.kristinagraffphotography.com › blog › 10-...",
+        "website_name": "Kristina Graff Photography",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Feb 5, 2026 — 2. Tapping hand game · 3. Would you rather? · 4. Complete the story · 5. Freeze/Remote Game · 6. Charades · 7. Imposter · 8. Bank · 9. Fortunately/ ... Read more",
+        "pre_snippet": "02/05/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Tapping hand game"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.kristinagraffphotography.com/blog/10-no-prep-family-games-you-can-play-anytime-no-screens-no-supplies#:~:text=2.%20Tapping%20hand%20game&text=3.%20Would%20you%20rather%3F&text=4.%20Complete%20the%20story&text=5.%20Freeze%2FRemote%20Game&text=6.%20Charades&text=7.%20Imposter&text=8.%20Bank&text=9.%20Fortunately%2Funfortunately",
+          "domain": "www.kristinagraffphotography.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-02-05 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Indoor games for couples to play without anything",
+         "Party game games for couples to play without anything",
+         "Free games for couples to play without anything",
+         "Games to play with 2 players no equipment for adults",
+         "Indoor games to play without anything",
+         "Indoor games to play with 2 players no equipment",
+         "Mind games to play with friends without anything",
+         "Games to play with 2 players no equipment for teens"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,728 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "4.8236 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190341-2588-0139-0000-a671b3dd3d30",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "4.7345 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "games like uno",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "games like uno",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=games%20like%20uno&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:41:20 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "video",
+       "related_searches"
+      ],
+      "se_results_count": 62,
+      "pages_count": 1,
+      "items_count": 12,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "If you enjoy the fast-paced, color-matching, card-shedding mechanics of **UNO** , several great card games offer a similar or upgraded experience:[[1]](https://littleboardgamers.com/deck-shedding-games-like-uno-that-are-better-than-uno/)[[2]](https://www.meeplemountain.com/top-six/top-6-alternatives-to-uno/)\n\n### Classic Card-Shedding & Match Alternatives\n\n- **Skip-Bo:** A classic Mattel race game where players build sequential stacks from 1 to 12 using cards from their stockpile and wildcards.\n- **Llama (L.A.M.A.):** A light, fast-moving game where you try to get rid of cards or quit before you collect negative points, featuring a fun push-your-luck feel.\n- **Scout:** A fast card game where you shed cards matching or beating the previous player's set, without rearranging the order of cards in your hand.\n- **Crazy Eights:** The traditional, standard-deck ancestor that inspired UNO.[[1]](https://www.reddit.com/r/cardgames/comments/1bel3k5/looking_for_inspiration_games_similar_to_uno/)[[2]](https://www.rainbowrabbits.com/post/games-like-uno-but-better-fast-card-games-the-whole-family-will-actually-want-to-play)[[3]](https://littleboardgamers.com/deck-shedding-games-like-uno-that-are-better-than-uno/)[[4]](https://www.youtube.com/watch?v=AdL8d1FYbEg)\n\n### High-Energy & Simultaneous Chaos\n\n- **Dutch Blitz:** A loud, fast race game where everyone plays simultaneously on shared center piles to empty their \"Blitz\" deck as quickly as possible.\n- **Taco Cat Goat Cheese Pizza:** A high-energy slap-and-shout card game that matches the frantic party vibe of UNO.[[1]](https://www.rainbowrabbits.com/post/games-like-uno-but-better-fast-card-games-the-whole-family-will-actually-want-to-play)\n\n### Family-Friendly Step-Ups\n\n- **Sushi Go! / Sushi Go Party:** A quick pass-and-pick game where you collect the best combinations of sushi dishes, offering light strategy for all ages.\n- **Exploding Kittens:** A suspenseful, strategic game where you draw cards until someone pulls an exploding kitten and tries to defuse it.\n- **Sea Salt & Paper:** A small-box card game focused on collecting sets and scoring points while choosing when to end the round.[[1]](https://www.youtube.com/watch?v=AdL8d1FYbEg)[[2]](https://www.rainbowrabbits.com/post/games-like-uno-but-better-fast-card-games-the-whole-family-will-actually-want-to-play)[[3]](https://www.simplesimonandco.com/2024/12/top-10-fun-family-card-games-that-arent-uno.html/)\n\nIf you let me know **who you usually play with (kids, adults, or a mix)** or **how much strategy you want** , I can narrow down the best choice for your game night.",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "If you enjoy the fast-paced, color-matching, card-shedding mechanics of UNO, several great card games offer a similar or upgraded experience:",
+          "markdown": "If you enjoy the fast-paced, color-matching, card-shedding mechanics of **UNO** , several great card games offer a similar or upgraded experience:[[1]](https://littleboardgamers.com/deck-shedding-games-like-uno-that-are-better-than-uno/)[[2]](https://www.meeplemountain.com/top-six/top-6-alternatives-to-uno/)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Little Board Gamers",
+            "domain": "littleboardgamers.com",
+            "url": "https://littleboardgamers.com/deck-shedding-games-like-uno-that-are-better-than-uno/",
+            "title": "Deck-Shedding Games Like Uno That Are Better Than Uno - Little Board Gamers",
+            "text": "Deck-Shedding Games Like Uno That Are Better Than Uno * UNO Zero. Read our full review → Why it's worth playing: This variant keep..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Meeple Mountain",
+            "domain": "www.meeplemountain.com",
+            "url": "https://www.meeplemountain.com/top-six/top-6-alternatives-to-uno/",
+            "title": "Top 6 Games Like UNO",
+            "text": "Top 6 Games Like UNO After raising the $8,000 needed to print 5,000 UNO decks and selling them out of his barber shop, Robbins sol..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Classic Card-Shedding & Match Alternatives",
+          "text": "Skip-Bo : A classic Mattel race game where players build sequential stacks from 1 to 12 using cards from their stockpile and wildcards. Skip-Bo : Llama (L.A.M.A.): A light, fast-moving game where you try to get rid of cards or quit before you collect negative points, featuring a fun push-your-luck feel. Scout : A fast card game where you shed cards matching or beating the previous player's set, without rearranging the order of cards in your hand. Scout : Crazy Eights: The traditional, standard-deck ancestor that inspired UNO.",
+          "markdown": "- **Skip-Bo:** A classic Mattel race game where players build sequential stacks from 1 to 12 using cards from their stockpile and wildcards.\n- **Llama (L.A.M.A.):** A light, fast-moving game where you try to get rid of cards or quit before you collect negative points, featuring a fun push-your-luck feel.\n- **Scout:** A fast card game where you shed cards matching or beating the previous player's set, without rearranging the order of cards in your hand.\n- **Crazy Eights:** The traditional, standard-deck ancestor that inspired UNO.[[1]](https://www.reddit.com/r/cardgames/comments/1bel3k5/looking_for_inspiration_games_similar_to_uno/)[[2]](https://www.rainbowrabbits.com/post/games-like-uno-but-better-fast-card-games-the-whole-family-will-actually-want-to-play)[[3]](https://littleboardgamers.com/deck-shedding-games-like-uno-that-are-better-than-uno/)[[4]](https://www.youtube.com/watch?v=AdL8d1FYbEg)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/cardgames/comments/1bel3k5/looking_for_inspiration_games_similar_to_uno/",
+            "title": "Looking for inspiration; games similar to UNO : r/cardgames - Reddit",
+            "text": "For traditional games, www.pagat.com is an amazing resource that has collected the most comprehensive list of game rules from arou..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Rainbow Rabbits Games",
+            "domain": "www.rainbowrabbits.com",
+            "url": "https://www.rainbowrabbits.com/post/games-like-uno-but-better-fast-card-games-the-whole-family-will-actually-want-to-play",
+            "title": "Games Like UNO but Better: Fast Card Games the Whole Family Will Actually Want to Play",
+            "text": "The Games * Ages: 8+ | Players: 2-4 | Play Time: 10-15 min. The game that inspired Rainbow Bunny Bop and a favorite in my house fo..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Little Board Gamers",
+            "domain": "littleboardgamers.com",
+            "url": "https://littleboardgamers.com/deck-shedding-games-like-uno-that-are-better-than-uno/",
+            "title": "Deck-Shedding Games Like Uno That Are Better Than Uno - Little Board Gamers",
+            "text": "Deck-Shedding Games Like Uno That Are Better Than Uno * UNO Zero. Read our full review → Why it's worth playing: This variant keep..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=AdL8d1FYbEg",
+            "title": "5 Small Games Better than UNO",
+            "text": "5 Small Games Better than UNO today we are talking about the universal. the ubiquitous the unapologetic UNO and how you can throw ..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "High-Energy & Simultaneous Chaos",
+          "text": "Dutch Blitz : A loud, fast race game where everyone plays simultaneously on shared center piles to empty their \"Blitz\" deck as quickly as possible. Dutch Blitz : Taco Cat Goat Cheese Pizza : A high-energy slap-and-shout card game that matches the frantic party vibe of UNO. Taco Cat Goat Cheese Pizza :",
+          "markdown": "- **Dutch Blitz:** A loud, fast race game where everyone plays simultaneously on shared center piles to empty their \"Blitz\" deck as quickly as possible.\n- **Taco Cat Goat Cheese Pizza:** A high-energy slap-and-shout card game that matches the frantic party vibe of UNO.[[1]](https://www.rainbowrabbits.com/post/games-like-uno-but-better-fast-card-games-the-whole-family-will-actually-want-to-play)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Rainbow Rabbits Games",
+            "domain": "www.rainbowrabbits.com",
+            "url": "https://www.rainbowrabbits.com/post/games-like-uno-but-better-fast-card-games-the-whole-family-will-actually-want-to-play",
+            "title": "Games Like UNO but Better: Fast Card Games the Whole Family Will Actually Want to Play",
+            "text": "The Games * Ages: 8+ | Players: 2-4 | Play Time: 10-15 min. The game that inspired Rainbow Bunny Bop and a favorite in my house for over three decades. Dutch Blitz..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Family-Friendly Step-Ups",
+          "text": "Sushi Go! / Sushi Go Party : A quick pass-and-pick game where you collect the best combinations of sushi dishes, offering light strategy for all ages. Sushi Go! / Sushi Go Party : Exploding Kittens : A suspenseful, strategic game where you draw cards until someone pulls an exploding kitten and tries to defuse it. Exploding Kittens : Sea Salt & Paper : A small-box card game focused on collecting sets and scoring points while choosing when to end the round. Sea Salt & Paper :",
+          "markdown": "- **Sushi Go! / Sushi Go Party:** A quick pass-and-pick game where you collect the best combinations of sushi dishes, offering light strategy for all ages.\n- **Exploding Kittens:** A suspenseful, strategic game where you draw cards until someone pulls an exploding kitten and tries to defuse it.\n- **Sea Salt & Paper:** A small-box card game focused on collecting sets and scoring points while choosing when to end the round.[[1]](https://www.youtube.com/watch?v=AdL8d1FYbEg)[[2]](https://www.rainbowrabbits.com/post/games-like-uno-but-better-fast-card-games-the-whole-family-will-actually-want-to-play)[[3]](https://www.simplesimonandco.com/2024/12/top-10-fun-family-card-games-that-arent-uno.html/)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=AdL8d1FYbEg",
+            "title": "5 Small Games Better than UNO",
+            "text": "5 Small Games Better than UNO today we are talking about the universal. the ubiquitous the unapologetic UNO and how you can throw ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Rainbow Rabbits Games",
+            "domain": "www.rainbowrabbits.com",
+            "url": "https://www.rainbowrabbits.com/post/games-like-uno-but-better-fast-card-games-the-whole-family-will-actually-want-to-play",
+            "title": "Games Like UNO but Better: Fast Card Games the Whole Family Will Actually Want to Play",
+            "text": "The Games * Ages: 8+ | Players: 2-4 | Play Time: 10-15 min. The game that inspired Rainbow Bunny Bop and a favorite in my house for over three decades. Dutch Blitz..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Simple Simon and Company -",
+            "domain": "www.simplesimonandco.com",
+            "url": "https://www.simplesimonandco.com/2024/12/top-10-fun-family-card-games-that-arent-uno.html/",
+            "title": "Top 10 Fun Family Card Games (that aren't UNO) - Simple Simon and Company",
+            "text": "Family Card Games: Unstable Unicorns (build a stable full of unicorns); Cover Your Assets (collect goods/property quickly); Taco C..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "If you let me know who you usually play with (kids, adults, or a mix) or how much strategy you want, I can narrow down the best choice for your game night.",
+          "markdown": "If you let me know **who you usually play with (kids, adults, or a mix)** or **how much strategy you want** , I can narrow down the best choice for your game night.",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Reddit",
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/cardgames/comments/1bel3k5/looking_for_inspiration_games_similar_to_uno/",
+          "title": "Looking for inspiration; games similar to UNO : r/cardgames - Reddit",
+          "text": "For traditional games, www.pagat.com is an amazing resource that has collected the most comprehensive list of game rules from around the world. Uno is the propriet..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Simple Simon and Company -",
+          "domain": "www.simplesimonandco.com",
+          "url": "https://www.simplesimonandco.com/2024/12/top-10-fun-family-card-games-that-arent-uno.html/",
+          "title": "Top 10 Fun Family Card Games (that aren't UNO) - Simple Simon and Company",
+          "text": "Family Card Games: Unstable Unicorns (build a stable full of unicorns); Cover Your Assets (collect goods/property quickly); Taco Cat Goat Cheese/Santa Cookie Elf ("
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Rainbow Rabbits Games",
+          "domain": "www.rainbowrabbits.com",
+          "url": "https://www.rainbowrabbits.com/post/games-like-uno-but-better-fast-card-games-the-whole-family-will-actually-want-to-play",
+          "title": "Games Like UNO but Better: Fast Card Games the Whole Family Will Actually Want to Play",
+          "text": "The Games * Ages: 8+ | Players: 2-4 | Play Time: 10-15 min. The game that inspired Rainbow Bunny Bop and a favorite in my house for over three decades. Dutch Blitz..."
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Card Games To Replace UNO?",
+        "url": "https://boardgamegeek.com/thread/2658539/card-games-to-replace-uno",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › ... › Recommendations",
+        "website_name": "BGG",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "May 13, 2021 — Skull King as well as L.L.A.M.A. are all good choices … most games can 2021 Full Date Solo looks like Uno and almost has the exact same cards ...",
+        "pre_snippet": "05/13/2021 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Skull King as well as L.L.A.M.A"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2021-05-13 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "What can we play with UNO deck? : r/boardgames",
+        "url": "https://www.reddit.com/r/boardgames/comments/aejnws/what_can_we_play_with_uno_deck/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "20+ comments  ·  7 years ago",
+        "website_name": "Reddit · r/boardgames",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Okay guys, I know it is a non-sense question.But really we are too bored of core UNO game.\n\nBut seriously which card games can we play with it?\n\nNo action ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "What non-base version of UNO do you think is the ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/1dvkmmh/what_nonbase_version_of_uno_do_you_think_is_the/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Card game similar to UNO? : r/cardgames - Reddit",
+          "description": null,
+          "url": "https://www.reddit.com/r/cardgames/comments/1fwcc1n/card_game_similar_to_uno/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+uno+site:www.reddit.com&sca_esv=9e597e613f614ac0&hl=en&gl=US&sxsrf=APpeQntsYK4qFNKiBU0N8zJdPWNWLF92rw:1792381277360&sa=X&ved=2ahUKEwjE5NrKlMWXAxXfTEEAHQ4yKRIQrQIoAnoECC0QAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some similar card games to UNO?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What happens if you forget to say UNO?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Is UNO a famous game?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What is the difference between Uno and Dos?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[1]",
+        "domain": "www.youtube.com",
+        "title": "6 Games to Replace UNO  The R&R&R Show #73",
+        "url": "https://www.youtube.com/watch?v=1SN6L10OYvg",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "1.8K+ views  ·  3 years ago",
+        "website_name": "YouTube · Rahdo Runs Through",
+        "is_image": false,
+        "is_video": true,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_video"
+        ],
+        "description": null,
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2023-10-07 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+        "domain": "picklebums.com",
+        "title": "Fun Games You Can Play With Uno Cards",
+        "url": "https://picklebums.com/games-you-can-play-with-uno-cards/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://picklebums.com › games-you-can-play-with-uno...",
+        "website_name": "Picklebums",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Oct 2, 2012 — Uno cards are good for more than just games of Uno! Here's 15 more games you can play with uno cards.",
+        "pre_snippet": "10/02/2012 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Here's 15 more games you can play with uno cards"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2012-10-02 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What board games to recommend besides Uno?",
+        "url": "https://www.facebook.com/groups/boardgamerevolution/posts/4138923436399563/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "30+ comments  ·  8 months ago",
+        "website_name": "Facebook · Board Game Revolution Community",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Flip 7, Taco Cat Goat Cheese Pizza, and social deduction games are popular suggestions. enjoy Party Panda Pirates or Space Off",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Flip 7, Taco Cat Goat Cheese Pizza, and social deduction games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "What are fun card games for 2-4 players like Uno?",
+          "description": null,
+          "url": "https://www.facebook.com/groups/684980879834434/posts/945862420412944/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Fun game like Uno for families",
+          "description": null,
+          "url": "https://www.facebook.com/groups/1330576474428708/posts/1807359403417077/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.facebook.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+uno+site:www.facebook.com&sca_esv=9e597e613f614ac0&hl=en&gl=US&sxsrf=APpeQntsYK4qFNKiBU0N8zJdPWNWLF92rw:1792381277360&sa=X&ved=2ahUKEwjE5NrKlMWXAxXfTEEAHQ4yKRIQrQIoAnoECDsQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "video",
+        "rank_group": 1,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]",
+        "items": [
+         {
+          "type": "video_element",
+          "source": "YouTube · Board Game Animal",
+          "title": "101 Card Games Better Than Uno",
+          "timestamp": "2025-10-15 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=CVDqxJVpqqg"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · Board Game Sanctuary",
+          "title": "My Top Favourite Card Games that are NOT UNO! Vol. 2",
+          "timestamp": "2025-11-09 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=1Eb8QZVTQmo"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · RollingReggie",
+          "title": "5 Small Games Better than UNO",
+          "timestamp": "2024-08-27 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=AdL8d1FYbEg"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+        "domain": "health.rajasthan.gov.in",
+        "title": "Best Card Games Like Uno",
+        "url": "https://health.rajasthan.gov.in/apps-best-card-games-like-uno-10-family-friendly-alternatives-to-play-now",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://health.rajasthan.gov.in › apps-best-card-games-lik...",
+        "website_name": "Government of Rajasthan",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jul 5, 2026 — Games in the “card games like Uno” lane usually share fast, turn-based matching—typically color/number cues plus flexible hand play—so rounds ...",
+        "pre_snippet": "07/05/2026 00:00:00",
+        "extended_snippet": "3.5(32,283)  · Free · ‎Android · ‎Game",
+        "images": null,
+        "amp_version": false,
+        "rating": {
+         "rating_type": "Max5",
+         "value": 3.5,
+         "votes_count": 32283,
+         "rating_max": 5
+        },
+        "price": null,
+        "highlighted": [
+         "fast, turn-based matching"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-07-05 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+        "domain": "www.mumsnet.com",
+        "title": "If my kids love Uno and Dobble, what else would they like?",
+        "url": "https://www.mumsnet.com/talk/_chat/4820122-if-my-kids-love-uno-and-dobble-what-else-would-they-like",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.mumsnet.com › Talk › Chat",
+        "website_name": "Mumsnet",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jun 4, 2023 — Monopoly Bid is a favourite here ・ also smart games iq puzzler - it's basically 3-d Tetris. Exploding kittens ・ exploding kittens. Also ...",
+        "pre_snippet": "06/04/2023 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Monopoly Bid"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2023-06-04 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+        "domain": "gg.deals",
+        "title": "Games like UNO - 18 best alternatives",
+        "url": "https://gg.deals/game/uno/similar-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://gg.deals › Games › Casual › PC › UNO",
+        "website_name": "GG.deals",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "we have prepared for you more than 15 games similar to UNO in terms of genre, gameplay, and visuals. Genres: Casual, Indie, Simulation … find alternative to  ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 1,
+         "regular": null,
+         "max_value": 16,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$1 to $16"
+        },
+        "highlighted": [
+         "more than 15 games similar to UNO"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Games like uno reddit",
+         "Games like uno for adults",
+         "Games like uno with cards",
+         "Games like uno for 2",
+         "Top 10 best UNO games",
+         "UNO Show 'em No Mercy",
+         "Games to play with UNO cards for 2",
+         "Games to play with UNO cards other than UNO"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,839 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "7.9594 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190344-2588-0139-0000-cd3c2640e344",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "7.8773 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "filler games",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "filler games",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=filler%20games&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:44:16 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "video",
+       "related_searches"
+      ],
+      "se_results_count": 167,
+      "pages_count": 1,
+      "items_count": 12,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "Filler games are `short, quick-to-learn games designed to play in 15 to 30 minutes or less` . They act as palette cleansers between longer strategy games, warm-ups, or icebreakers for groups.[[1]](https://boardgamegeek.com/thread/3155215/filler-games-recommendations)[[2]](https://www.youtube.com/watch?v=T7hYH9Kg2VY&t=4)[[3]](https://tabletopbellhop.com/gaming-advice/filler-card-games/)[[4]](https://www.twinkl.com/resource/20-fun-fillers-whole-class-games-t-p-1630504525)[[5]](https://www.youtube.com/watch?v=5_KE2ZA7GKg&vl=en&t=55)\n\n### Key Characteristics\n\n- **Short Playtime:** Usually lasts between 10 and 30 minutes.\n- **Quick Rules:** Can typically be taught in under 3 minutes.\n- **Low Setup:** Easy to pull out and pack away in a small box.[[1]](https://www.youtube.com/watch?v=-SNF_8uN_AI)[[2]](https://boardgamegeek.com/thread/3155215/filler-games-recommendations)[[3]](https://islaythedragon.com/misc/top-ten-filler-games/)\n\n### Popular Tabletop & Card Fillers\n\n- **Sushi Go Party! / Sushi Go!:** Fast card-drafting game about building cute sushi combos.\n- **Love Letter:** A quick micro-game of risk, deduction, and luck.\n- **No Thanks!:** A tense card-and-chip game where you try to avoid taking points.\n- **Scout:** A card game where you play sets or runs without rearranging your hand.\n- **Sea Salt & Paper:** A compact set-collection and push-your-luck card game.[[1]](https://www.youtube.com/watch?v=e7Ep4bIVKuU&t=119)[[2]](https://tabletopbellhop.com/gaming-advice/filler-card-games/)[[3]](https://www.facebook.com/groups/theboardgamegroup/posts/25309931158634231/)[[4]](https://www.meeplemountain.com/top-six/top-6-killer-fillers/)[[5]](https://www.youtube.com/watch?v=T7hYH9Kg2VY&t=4)\n\nAccording to a community consensus on [BoardGameGeek](https://boardgamegeek.com/thread/3155215/filler-games-recommendations) , players also frequently look for games with high language independence and great component quality, such as *For Sale*, *Coup* , and *Point Salad*.[[1]](https://boardgamegeek.com/thread/3155215/filler-games-recommendations)Here is a video showcasing a selection of top-rated quick filler board games to play:\n\n![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ94eyyq2vM5RoxUoyHLBak1wM7oTxgZBjEpiK28grPiO35FqRD)\n10m\n[](https://www.youtube.com/watch?v=T7hYH9Kg2VY&t=4) Best Quick Board Games | Our Top 10 Fillers 8.1K views  · 1 year ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · Rolls in the Family\n\nAre you looking for a filler game for a **specific number of players** , an **age group** (like kids or adults), or a **particular vibe** (party, card game, or strategy)?",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Filler games are short, quick-to-learn games designed to play in 15 to 30 minutes or less. They act as palette cleansers between longer strategy games, warm-ups, or icebreakers for groups.",
+          "markdown": "Filler games are `short, quick-to-learn games designed to play in 15 to 30 minutes or less` . They act as palette cleansers between longer strategy games, warm-ups, or icebreakers for groups.[[1]](https://boardgamegeek.com/thread/3155215/filler-games-recommendations)[[2]](https://www.youtube.com/watch?v=T7hYH9Kg2VY&t=4)[[3]](https://tabletopbellhop.com/gaming-advice/filler-card-games/)[[4]](https://www.twinkl.com/resource/20-fun-fillers-whole-class-games-t-p-1630504525)[[5]](https://www.youtube.com/watch?v=5_KE2ZA7GKg&vl=en&t=55)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BGG",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/thread/3155215/filler-games-recommendations",
+            "title": "Filler games recommendations - BoardGameGeek",
+            "text": "Filler Game Recommendations: Several board games are recommended as fillers, suitable for families, characterized by a play time o..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=T7hYH9Kg2VY&t=4",
+            "title": "Best Quick Board Games | Our Top 10 Fillers",
+            "text": "Best Quick Board Games | Our Top 10 Fillers hey I'm Ryan this is my brother Daniel this is Rolls in the Family. and today we are t..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Tabletop Bellhop",
+            "domain": "tabletopbellhop.com",
+            "url": "https://tabletopbellhop.com/gaming-advice/filler-card-games/",
+            "title": "What are some of the best filler card games? 25 quick card based games that are easy to learn",
+            "text": "Filler Card Games Purpose: Icebreakers, large group interim play, and game night unwinding. Top Recommendations: No Thanks! (pass/"
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Twinkl USA",
+            "domain": "www.twinkl.com",
+            "url": "https://www.twinkl.com/resource/20-fun-fillers-whole-class-games-t-p-1630504525",
+            "title": "20 Fun Fillers: Whole-Class Games",
+            "text": "What is a filler activity? A 'filler activity' is the name given to a short game or exercise that is designed to be carried out in..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=5_KE2ZA7GKg&vl=en&t=55",
+            "title": "Top 10 Filler Games",
+            "text": "Top 10 Filler Games function an essential function because if you're doing a game night especially you have multiple games going m..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Key Characteristics",
+          "text": "Short Playtime: Usually lasts between 10 and 30 minutes. Quick Rules: Can typically be taught in under 3 minutes. Low Setup: Easy to pull out and pack away in a small box.",
+          "markdown": "- **Short Playtime:** Usually lasts between 10 and 30 minutes.\n- **Quick Rules:** Can typically be taught in under 3 minutes.\n- **Low Setup:** Easy to pull out and pack away in a small box.[[1]](https://www.youtube.com/watch?v=-SNF_8uN_AI)[[2]](https://boardgamegeek.com/thread/3155215/filler-games-recommendations)[[3]](https://islaythedragon.com/misc/top-ten-filler-games/)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=-SNF_8uN_AI",
+            "title": "Top 10 Filler Board Games!",
+            "text": "Top 10 Filler Board Games! hi welcome to my channel my name is Chance. and it's time to talk about some board games today I'll be ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BGG",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/thread/3155215/filler-games-recommendations",
+            "title": "Filler games recommendations - BoardGameGeek",
+            "text": "Filler Game Recommendations: Several board games are recommended as fillers, suitable for families, characterized by a play time of 30 minutes or less, language in..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "iSlaytheDragon",
+            "domain": "islaythedragon.com",
+            "url": "https://islaythedragon.com/misc/top-ten-filler-games/",
+            "title": "Top Ten Filler Games",
+            "text": "Here are my criteria: * Short playtime. A filler game should last a maximum of thirty minutes, and it doesn't hurt it to be shorte..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Popular Tabletop & Card Fillers",
+          "text": "Sushi Go Party! / Sushi Go!: Fast card-drafting game about building cute sushi combos. Love Letter: A quick micro-game of risk, deduction, and luck. No Thanks!: A tense card-and-chip game where you try to avoid taking points. Scout: A card game where you play sets or runs without rearranging your hand. Sea Salt & Paper: A compact set-collection and push-your-luck card game.",
+          "markdown": "- **Sushi Go Party! / Sushi Go!:** Fast card-drafting game about building cute sushi combos.\n- **Love Letter:** A quick micro-game of risk, deduction, and luck.\n- **No Thanks!:** A tense card-and-chip game where you try to avoid taking points.\n- **Scout:** A card game where you play sets or runs without rearranging your hand.\n- **Sea Salt & Paper:** A compact set-collection and push-your-luck card game.[[1]](https://www.youtube.com/watch?v=e7Ep4bIVKuU&t=119)[[2]](https://tabletopbellhop.com/gaming-advice/filler-card-games/)[[3]](https://www.facebook.com/groups/theboardgamegroup/posts/25309931158634231/)[[4]](https://www.meeplemountain.com/top-six/top-6-killer-fillers/)[[5]](https://www.youtube.com/watch?v=T7hYH9Kg2VY&t=4)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=e7Ep4bIVKuU&t=119",
+            "title": "Top 10 Filler Games",
+            "text": "Top 10 Filler Games exactly. so let's get started and at the end we do have a couple honorable mentions jamie cannot jamie has an ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Tabletop Bellhop",
+            "domain": "tabletopbellhop.com",
+            "url": "https://tabletopbellhop.com/gaming-advice/filler-card-games/",
+            "title": "What are some of the best filler card games? 25 quick card based games that are easy to learn",
+            "text": "Filler Card Games Purpose: Icebreakers, large group interim play, and game night unwinding. Top Recommendations: No Thanks! (pass/"
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Facebook",
+            "domain": "www.facebook.com",
+            "url": "https://www.facebook.com/groups/theboardgamegroup/posts/25309931158634231/",
+            "title": "Whats a good filler game suited for all ages? - Facebook",
+            "text": "Additional Filler Game Suggestions: Other highly rated filler games suitable for a broad age range include Gentle Rain, Botswana, ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Meeple Mountain",
+            "domain": "www.meeplemountain.com",
+            "url": "https://www.meeplemountain.com/top-six/top-6-killer-fillers/",
+            "title": "Top 6 Killer Fillers – Meeple Mountain",
+            "text": "Tom Franklin: Quarto (abstract, 4x4, hand opponent piece); Game of Thrones: Hand of the King (grid, set collection, house banners)"
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=T7hYH9Kg2VY&t=4",
+            "title": "Best Quick Board Games | Our Top 10 Fillers",
+            "text": "Best Quick Board Games | Our Top 10 Fillers hey I'm Ryan this is my brother Daniel this is Rolls in the Family. and today we are t..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "According to a community consensus on BoardGameGeek, players also frequently look for games with high language independence and great component quality, such as For Sale, Coup, and Point Salad.",
+          "markdown": "According to a community consensus on [BoardGameGeek](https://boardgamegeek.com/thread/3155215/filler-games-recommendations) , players also frequently look for games with high language independence and great component quality, such as *For Sale*, *Coup* , and *Point Salad*.[[1]](https://boardgamegeek.com/thread/3155215/filler-games-recommendations)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "BoardGameGeek",
+            "description": null,
+            "url": "https://boardgamegeek.com/thread/3155215/filler-games-recommendations",
+            "domain": "boardgamegeek.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BGG",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/thread/3155215/filler-games-recommendations",
+            "title": "Filler games recommendations - BoardGameGeek",
+            "text": "Filler Game Recommendations: Several board games are recommended as fillers, suitable for families, characterized by a play time of 30 minutes or less, language in..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_video_element",
+          "position": "left",
+          "title": "Best Quick Board Games | Our Top 10 Fillers",
+          "snippet": "10m",
+          "url": "https://www.youtube.com/watch?v=T7hYH9Kg2VY&t=4",
+          "domain": "www.youtube.com",
+          "image_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ94eyyq2vM5RoxUoyHLBak1wM7oTxgZBjEpiK28grPiO35FqRD",
+          "source": "YouTube",
+          "date": "1 year ago",
+          "timestamp": "2025-10-19 03:44:15 +00:00"
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Here is a video showcasing a selection of top-rated quick filler board games to play: 10m Best Quick Board Games | Our Top 10 Fillers 8.1K views · 1 year ago YouTube · Rolls in the Family",
+          "markdown": "Here is a video showcasing a selection of top-rated quick filler board games to play:\n\n![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ94eyyq2vM5RoxUoyHLBak1wM7oTxgZBjEpiK28grPiO35FqRD)\n10m\n[](https://www.youtube.com/watch?v=T7hYH9Kg2VY&t=4) Best Quick Board Games | Our Top 10 Fillers 8.1K views  · 1 year ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · Rolls in the Family",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Are you looking for a filler game for a specific number of players, an age group (like kids or adults), or a particular vibe (party, card game, or strategy)?",
+          "markdown": "Are you looking for a filler game for a **specific number of players** , an **age group** (like kids or adults), or a **particular vibe** (party, card game, or strategy)?",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "BGG",
+          "domain": "boardgamegeek.com",
+          "url": "https://boardgamegeek.com/thread/3155215/filler-games-recommendations",
+          "title": "Filler games recommendations - BoardGameGeek",
+          "text": "Filler Game Recommendations: Several board games are recommended as fillers, suitable for families, characterized by a play time of 30 minutes or less, language in..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "YouTube",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=5_KE2ZA7GKg&vl=en&t=55",
+          "title": "Top 10 Filler Games",
+          "text": "Top 10 Filler Games function an essential function because if you're doing a game night especially you have multiple games going multiple groups of people games do"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]",
+        "domain": "tabletopbellhop.com",
+        "title": "What are some of the best filler card games? 25 quick ...",
+        "url": "https://tabletopbellhop.com/gaming-advice/filler-card-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://tabletopbellhop.com › Gaming Advice",
+        "website_name": "Tabletop Bellhop",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "May 16, 2021 — Filler games are great for the start of game night, Gorus Maximus – Reuse being the most popular and highest rated. Sushi Go Party! –",
+        "pre_snippet": "05/16/2021 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Gorus Maximus – Reuse"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2021-05-16 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What is a filler game?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What is the best filler game?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some fun time filler games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are the top 10 most fun games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]",
+        "domain": "bitewinggames.com",
+        "title": "Top 10 Filler Board Games",
+        "url": "https://bitewinggames.com/top-10-filler-board-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://bitewinggames.com › Blog",
+        "website_name": "Bitewing Games",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Filler games are perfect for a quick & easy board gaming fix. Nick shares his Top 10 recommendations for Filler Board Games.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "filler games from bitewinggames.com",
+          "url": "https://bitewinggames.com/top-10-filler-board-games/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-cd3c2640e344:0"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Filler games are perfect for a quick & easy board gaming fix"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[8]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "What “filler game” would you happily have a night ...",
+        "url": "https://www.reddit.com/r/boardgames/comments/qg6d9u/what_filler_game_would_you_happily_have_a_night/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "460+ comments  ·  4 years ago",
+        "website_name": "Reddit · r/boardgames",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "I know a lot of this sub favours the long and weightier games, but if you had to choose one game that’s commonly known as a light or filler game, what ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Favorite exciting filler games : r/boardgames - Reddit",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/y40b1b/favorite_exciting_filler_games/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Top 10 Filler Games — Bitewing Games : r ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/nzl2yi/top_10_filler_games_bitewing_games/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=filler+games+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnu-coHyLNiNKMaE_oKvB_IH3DmPlQ:1792381454841&sa=X&ved=2ahUKEwj_u6uflcWXAxWmjYkEHWOYArMQrQIoAnoECEMQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[10]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Filler games recommendations",
+        "url": "https://boardgamegeek.com/thread/3155215/filler-games-recommendations",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › ... › Recommendations",
+        "website_name": "BGG",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Sep 17, 2023 — Tussie Mussie, Love Letter, Port Royal, King of Tokyo, Quacks of Quadlinburg, Hit Z Road, Get on Board: New York & London, and our new favorite ... Read more",
+        "pre_snippet": "09/17/2023 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Tussie Mussie"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Your Personal Top 10 Filler Games",
+          "description": null,
+          "url": "https://boardgamegeek.com/thread/440597/your-personal-top-10-filler-games",
+          "domain": "boardgamegeek.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Top 10 Filler Games!",
+          "description": null,
+          "url": "https://boardgamegeek.com/thread/3685621/top-10-filler-games",
+          "domain": "boardgamegeek.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from boardgamegeek.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=filler+games+site:boardgamegeek.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnu-coHyLNiNKMaE_oKvB_IH3DmPlQ:1792381454841&sa=X&ved=2ahUKEwj_u6uflcWXAxWmjYkEHWOYArMQrQIoAnoECD0QAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2023-09-17 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "video",
+        "rank_group": 1,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[12]/div[1]",
+        "items": [
+         {
+          "type": "video_element",
+          "source": "YouTube · BoardGameGeek",
+          "title": "Top 10 Filler Games",
+          "timestamp": "2025-06-20 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=5_KE2ZA7GKg"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · Rolls in the Family",
+          "title": "Best Quick Board Games | Our Top 10 Fillers",
+          "timestamp": "2025-10-03 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=T7hYH9Kg2VY"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · Take a Chanse",
+          "title": "Top 10 Filler Board Games!",
+          "timestamp": "2026-03-30 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=-SNF_8uN_AI"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[14]/div[1]/div[1]",
+        "domain": "www.twinkl.com",
+        "title": "20 Fun Fillers: Whole-Class Games",
+        "url": "https://www.twinkl.com/resource/20-fun-fillers-whole-class-games-t-p-1630504525",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.twinkl.com › ... › Back to School",
+        "website_name": "Twinkl USA",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Enjoy these simple, easy, whole-class filler games, involving little to no resourcing. Perfect for filling a few minutes at the end of a lesson!",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": {
+         "rating_type": "Max5",
+         "value": 4.9,
+         "votes_count": 173,
+         "rating_max": 5
+        },
+        "price": null,
+        "highlighted": [
+         "simple, easy, whole-class filler games"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[16]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What are some good filler game suggestions?",
+        "url": "https://www.facebook.com/groups/132851767828/posts/10164230690737829/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "70+ comments  ·  6 months ago",
+        "website_name": "Facebook · BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Suggested filler games include Sushi Go Party, Love Letter, Trio, Spot It, and Skull King, with many recommending games like Azul, Cartographer, ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Sushi Go Party, Love Letter, Trio, Spot It, and Skull King"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10164230690737829/#:~:text=Suggested%20filler%20games%20include%20Sushi,for%20their%20ease%20and%20fun.",
+          "domain": "www.facebook.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[18]/div[1]/div[1]",
+        "domain": "www.thefamilygamers.com",
+        "title": "Filled Up! Top 10 Filler Games - The Family Gamers Podcast",
+        "url": "https://www.thefamilygamers.com/episode-144-top-10-filler-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.thefamilygamers.com › episode-144-top-1...",
+        "website_name": "The Family Gamers",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "May 6, 2019 — Filler games are quick, easy, and cheap. FUSE – a crazy real-time dice game. Batman: The Animated Series Dice Game. Duple / Anomia / Anomia Kids",
+        "pre_snippet": "05/06/2019 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Filler games are quick, easy, and cheap"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "3 Filler Games To Play In A...",
+          "description": null,
+          "url": "https://www.thefamilygamers.com/episode-144-top-10-filler-games/#:~:text=3%20filler%20games%20to%20play%20in%20a%20larger%20group%20%285%20or%20more%29",
+          "domain": "www.thefamilygamers.com"
+         },
+         {
+          "type": "link_element",
+          "title": "3 Filler Games For 2 Players",
+          "description": null,
+          "url": "https://www.thefamilygamers.com/episode-144-top-10-filler-games/#:~:text=3%20filler%20games%20for%202%20players",
+          "domain": "www.thefamilygamers.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Our #1 Filler Game",
+          "description": null,
+          "url": "https://www.thefamilygamers.com/episode-144-top-10-filler-games/#:~:text=Our%20%231%20filler%20game%E2%80%A6",
+          "domain": "www.thefamilygamers.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2019-05-06 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[20]/div[1]/div[1]",
+        "domain": "www.meeplemountain.com",
+        "title": "Top 6 Killer Fillers",
+        "url": "https://www.meeplemountain.com/top-six/top-6-killer-fillers/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.meeplemountain.com › Top Six",
+        "website_name": "Meeple Mountain",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "May 4, 2022 — Knowing which filler games to consider adding to your shelves can be difficult. Read about 18 of our favorites in this review.",
+        "pre_snippet": "05/04/2022 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "filler games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Justin Bell",
+          "description": null,
+          "url": "https://www.meeplemountain.com/top-six/top-6-killer-fillers/#:~:text=Justin%20Bell,-Railroad%20Ink%3A%20Deep%20Blue",
+          "domain": "www.meeplemountain.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Andrew Lynch",
+          "description": null,
+          "url": "https://www.meeplemountain.com/top-six/top-6-killer-fillers/#:~:text=Andrew%20Lynch,-Marshmallow%20Test",
+          "domain": "www.meeplemountain.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Andrew Holmes",
+          "description": null,
+          "url": "https://www.meeplemountain.com/top-six/top-6-killer-fillers/#:~:text=.-,Andrew%20Holmes",
+          "domain": "www.meeplemountain.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2022-05-04 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Filler games online",
+         "Filler games for adults",
+         "Filler games for kids",
+         "Easy filler games",
+         "Filler board game",
+         "Top 10 Filler board games",
+         "Filler game pigeon Online",
+         "Best filler games BGG"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

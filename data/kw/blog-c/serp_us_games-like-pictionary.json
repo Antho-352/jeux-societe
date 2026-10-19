@@ -1,0 +1,1033 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "6.5740 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190342-2588-0139-0000-8f761b7d5f4f",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "6.4402 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "games like pictionary",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "games like pictionary",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=games%20like%20pictionary&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:42:17 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "popular_products",
+       "related_searches"
+      ],
+      "se_results_count": 181,
+      "pages_count": 1,
+      "items_count": 13,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "Great board games and online options play just like Pictionary by combining sketching, guessing, and party-style fun:\n\n### Top Board & Party Games\n\n- **Telestrations:** A visual version of the \"telephone\" game where players draw a word, pass it to the next person, and guess what was drawn. Opinions on Reddit's r/boardgames are mixed, with some users feeling [Telestrations is more of a casual activity than a strict game](https://www.reddit.com/r/boardgames/comments/31l36q/wsig_a_better_alternative_to_pictionary/).[[1]](https://thetabletopfamily.com/top-10-board-games-like-pictionary-for-creative-fun/)[[2]](https://www.youtube.com/watch?v=Ccp0I9s52yM&t=1)[[3]](https://www.reddit.com/r/boardgames/comments/31l36q/wsig_a_better_alternative_to_pictionary/)\n- **Pictomania:** A fast-paced game where everyone draws and guesses at the exact same time instead of taking turns. Fans on [BoardGameGeek](https://boardgamegeek.com/thread/1840510/better-than-pictionary) have a consensus that it is one of the best simultaneous drawing alternatives.[[1]](https://www.youtube.com/watch?v=Ccp0I9s52yM&t=1)[[2]](https://thetabletopfamily.com/top-10-board-games-like-pictionary-for-creative-fun/)[[3]](https://boardgamegeek.com/thread/1840510/better-than-pictionary)\n- **Pictionary Air Takeover:** A modern physical/digital twist where you use an electronic pen to draw in the air while your sketch appears live on a smart device or TV ($19.99 at [Target](https://www.target.com/p/pictionary-pictionary-air-3-0-dom/-/A-95028759?TCID=OGS&AFID=google&CPNG=Toys&adgroup=87-10&srsltid=AU7gw4V5B7hERXSNST2scl03LNUpSBz-2S8zP4t2Vn3cr1h8syJttZD5s5U)).[[1]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:1742298640400302130,catalogid:11693272784372776999,gpcid:561444484403146796,mid:576462891253450637&ibp=oshop)\n- **A Fake Artist Goes to New York:** A social deduction drawing game where everyone knows the secret word except for one \"fake artist\" trying to blend in.[[1]](https://www.youtube.com/watch?v=Ccp0I9s52yM&t=1)[[2]](https://thetabletopfamily.com/top-10-board-games-like-pictionary-for-creative-fun/)\n- **Concept:** A board game that replaces drawing with placing cubes and icons on a universal clue board to get others to guess movies, objects, or phrases.[[1]](https://www.youtube.com/watch?v=Ccp0I9s52yM&t=1)[[2]](https://thetabletopfamily.com/top-10-board-games-like-pictionary-for-creative-fun/)\n\n### Free Online Drawing Games\n\n- **skribbl.io:** A popular, free browser game where players take turns sketching a chosen word while others type guesses in real time.\n- **Drawasaurus:** A simple, free multiplayer online drawing and guessing game that works directly in any web browser.\n- **Sketchful.io:** A fast-paced online Pictionary clone where speed and accuracy earn you points against global players.\n- **Drawful 2:** Part of the Jackbox party library where players draw funny and weird prompts using phones or tablets (available on platforms like [Fanatical](https://www.fanatical.com/en/game/drawful-2?utm_source=google&utm_medium=paid-media&utm_campaign=shopping-US) for around $3.49).[[1]](https://www.drawasaurus.org/)[[2]](https://skribbl.io/)[[3]](https://sketchful.io/)[[4]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:7193619914703399972&ibp=oshop)[[5]](https://www.jackboxgames.com/blog/games-like-pictionary-to-play-online-with-friends)\n\nAre you looking to play **in person with a board game** or **online with friends** , and roughly **how many players** will you have?",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Great board games and online options play just like Pictionary by combining sketching, guessing, and party-style fun:",
+          "markdown": "Great board games and online options play just like Pictionary by combining sketching, guessing, and party-style fun:",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Top Board & Party Games",
+          "text": "Telestrations: A visual version of the \"telephone\" game where players draw a word, pass it to the next person, and guess what was drawn. Opinions on Reddit's r/boardgames are mixed, with some users feeling Telestrations is more of a casual activity than a strict game. Pictomania: A fast-paced game where everyone draws and guesses at the exact same time instead of taking turns. Fans on BoardGameGeek have a consensus that it is one of the best simultaneous drawing alternatives. Pictionary Air Takeover: A modern physical/digital twist where you use an electronic pen to draw in the air while your sketch appears live on a smart device or TV ($19.99 at Target ). Target A Fake Artist Goes to New York: A social deduction drawing game where everyone knows the secret word except for one \"fake artist\" trying to blend in. Concept: A board game that replaces drawing with placing cubes and icons on a universal clue board to get others to guess movies, objects, or phrases.",
+          "markdown": "- **Telestrations:** A visual version of the \"telephone\" game where players draw a word, pass it to the next person, and guess what was drawn. Opinions on Reddit's r/boardgames are mixed, with some users feeling [Telestrations is more of a casual activity than a strict game](https://www.reddit.com/r/boardgames/comments/31l36q/wsig_a_better_alternative_to_pictionary/).[[1]](https://thetabletopfamily.com/top-10-board-games-like-pictionary-for-creative-fun/)[[2]](https://www.youtube.com/watch?v=Ccp0I9s52yM&t=1)[[3]](https://www.reddit.com/r/boardgames/comments/31l36q/wsig_a_better_alternative_to_pictionary/)\n- **Pictomania:** A fast-paced game where everyone draws and guesses at the exact same time instead of taking turns. Fans on [BoardGameGeek](https://boardgamegeek.com/thread/1840510/better-than-pictionary) have a consensus that it is one of the best simultaneous drawing alternatives.[[1]](https://www.youtube.com/watch?v=Ccp0I9s52yM&t=1)[[2]](https://thetabletopfamily.com/top-10-board-games-like-pictionary-for-creative-fun/)[[3]](https://boardgamegeek.com/thread/1840510/better-than-pictionary)\n- **Pictionary Air Takeover:** A modern physical/digital twist where you use an electronic pen to draw in the air while your sketch appears live on a smart device or TV ($19.99 at [Target](https://www.target.com/p/pictionary-pictionary-air-3-0-dom/-/A-95028759?TCID=OGS&AFID=google&CPNG=Toys&adgroup=87-10&srsltid=AU7gw4V5B7hERXSNST2scl03LNUpSBz-2S8zP4t2Vn3cr1h8syJttZD5s5U)).[[1]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:1742298640400302130,catalogid:11693272784372776999,gpcid:561444484403146796,mid:576462891253450637&ibp=oshop)\n- **A Fake Artist Goes to New York:** A social deduction drawing game where everyone knows the secret word except for one \"fake artist\" trying to blend in.[[1]](https://www.youtube.com/watch?v=Ccp0I9s52yM&t=1)[[2]](https://thetabletopfamily.com/top-10-board-games-like-pictionary-for-creative-fun/)\n- **Concept:** A board game that replaces drawing with placing cubes and icons on a universal clue board to get others to guess movies, objects, or phrases.[[1]](https://www.youtube.com/watch?v=Ccp0I9s52yM&t=1)[[2]](https://thetabletopfamily.com/top-10-board-games-like-pictionary-for-creative-fun/)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Telestrations is more of a casual activity than a strict game",
+            "description": null,
+            "url": "https://www.reddit.com/r/boardgames/comments/31l36q/wsig_a_better_alternative_to_pictionary/",
+            "domain": "www.reddit.com"
+           },
+           {
+            "type": "link_element",
+            "title": "BoardGameGeek",
+            "description": null,
+            "url": "https://boardgamegeek.com/thread/1840510/better-than-pictionary",
+            "domain": "boardgamegeek.com"
+           },
+           {
+            "type": "link_element",
+            "title": "Target",
+            "description": null,
+            "url": "https://www.target.com/p/pictionary-pictionary-air-3-0-dom/-/A-95028759?TCID=OGS&AFID=google&CPNG=Toys&adgroup=87-10&srsltid=AU7gw4V5B7hERXSNST2scl03LNUpSBz-2S8zP4t2Vn3cr1h8syJttZD5s5U",
+            "domain": "www.target.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "The Tabletop Family",
+            "domain": "thetabletopfamily.com",
+            "url": "https://thetabletopfamily.com/top-10-board-games-like-pictionary-for-creative-fun/",
+            "title": "Top 14 Board Games like Pictionary for Creative Fun - The Tabletop Family",
+            "text": "Drawing Party Games: Mondrawsity (memory-based monster drawing); Caution Signs (20-second comical descriptor/subject sketches); Te..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=Ccp0I9s52yM&t=1",
+            "title": "10 Games Better Than Pictionary - with Tom Vasel",
+            "text": "10 Games Better Than Pictionary - with Tom Vasel there's a lot of people in the world. who can draw. i am not one of them give me ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/boardgames/comments/31l36q/wsig_a_better_alternative_to_pictionary/",
+            "title": "[WSIG] A better alternative to Pictionary. : r/boardgames - Reddit",
+            "text": "Telestrations as Alternative: Telestrations is frequently recommended as an enjoyable drawing game and party game alternative to P..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BoardGameGeek",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/thread/1840510/better-than-pictionary",
+            "title": "Better than Pictionary - BoardGameGeek",
+            "text": "Pictomania Recommendation: Pictomania is a recommended drawing game that serves as an alternative to Pictionary."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Google",
+            "domain": "www.google.com",
+            "url": "https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:1742298640400302130,catalogid:11693272784372776999,gpcid:561444484403146796,mid:576462891253450637&ibp=oshop",
+            "title": "Mattel Pictionary Air Takeover Game",
+            "text": "Bring a modern twist to a classic drawing game with Pictionary Air Takeover. Players use the included Pictionary Air pen to draw i..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Free Online Drawing Games",
+          "text": "skribbl.io: A popular, free browser game where players take turns sketching a chosen word while others type guesses in real time. Drawasaurus: A simple, free multiplayer online drawing and guessing game that works directly in any web browser. Sketchful.io: A fast-paced online Pictionary clone where speed and accuracy earn you points against global players. Drawful 2: Part of the Jackbox party library where players draw funny and weird prompts using phones or tablets (available on platforms like Fanatical for around $3.49). Fanatical",
+          "markdown": "- **skribbl.io:** A popular, free browser game where players take turns sketching a chosen word while others type guesses in real time.\n- **Drawasaurus:** A simple, free multiplayer online drawing and guessing game that works directly in any web browser.\n- **Sketchful.io:** A fast-paced online Pictionary clone where speed and accuracy earn you points against global players.\n- **Drawful 2:** Part of the Jackbox party library where players draw funny and weird prompts using phones or tablets (available on platforms like [Fanatical](https://www.fanatical.com/en/game/drawful-2?utm_source=google&utm_medium=paid-media&utm_campaign=shopping-US) for around $3.49).[[1]](https://www.drawasaurus.org/)[[2]](https://skribbl.io/)[[3]](https://sketchful.io/)[[4]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:7193619914703399972&ibp=oshop)[[5]](https://www.jackboxgames.com/blog/games-like-pictionary-to-play-online-with-friends)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Fanatical",
+            "description": null,
+            "url": "https://www.fanatical.com/en/game/drawful-2?utm_source=google&utm_medium=paid-media&utm_campaign=shopping-US",
+            "domain": "www.fanatical.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Drawasaurus",
+            "domain": "www.drawasaurus.org",
+            "url": "https://www.drawasaurus.org/",
+            "title": "Drawasaurus – Multiplayer drawing & guessing game!",
+            "text": "Drawasaurus – Multiplayer drawing & guessing game! Welcome to Drawasaurus! Connecting to server... Game Rules|Terms of Service|Pri..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Skribbl",
+            "domain": "skribbl.io",
+            "url": "https://skribbl.io/",
+            "title": "skribbl - Free Multiplayer Drawing & Guessing Game",
+            "text": "Overview: skribbl.io is a free online multiplayer drawing and guessing pictionary game supporting over 25 languages. Gameplay: Pla..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Sketchful.io",
+            "domain": "sketchful.io",
+            "url": "https://sketchful.io/",
+            "title": "Sketchful.io - Multiplayer Drawing and Guessing Pictionary Game",
+            "text": "Sketchful.io is a free online drawing and guessing game. Play pictionary with anyone in the world! Be the fastest to guess and ear..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Google",
+            "domain": "www.google.com",
+            "url": "https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:7193619914703399972&ibp=oshop",
+            "title": "Drawful 2 - PC Game - Steam Key | Fanatical",
+            "text": "Drawful 2 is a casual Pictionary-esque drawing game, with some pretty sub standard drawings, and some pretty good fun!"
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Jackbox Games",
+            "domain": "www.jackboxgames.com",
+            "url": "https://www.jackboxgames.com/blog/games-like-pictionary-to-play-online-with-friends",
+            "title": "Games Like Pictionary To Play Online With Friends - Jackbox Games",
+            "text": "Fans of Pictionary will love these fun drawing games: #1 - The Drawful Series. drawful-tile.png. Drawful challenges players to dra..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Are you looking to play in person with a board game or online with friends, and roughly how many players will you have?",
+          "markdown": "Are you looking to play **in person with a board game** or **online with friends** , and roughly **how many players** will you have?",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "The Tabletop Family",
+          "domain": "thetabletopfamily.com",
+          "url": "https://thetabletopfamily.com/top-10-board-games-like-pictionary-for-creative-fun/",
+          "title": "Top 14 Board Games like Pictionary for Creative Fun - The Tabletop Family",
+          "text": "Drawing Party Games: Mondrawsity (memory-based monster drawing); Caution Signs (20-second comical descriptor/subject sketches); Telestrations (visual telephone fli..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Reddit",
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/boardgames/comments/31l36q/wsig_a_better_alternative_to_pictionary/",
+          "title": "[WSIG] A better alternative to Pictionary. : r/boardgames - Reddit",
+          "text": "Telestrations as Alternative: Telestrations is frequently recommended as an enjoyable drawing game and party game alternative to Pictionary. However, some users fe..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "YouTube",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=Ccp0I9s52yM&t=1",
+          "title": "10 Games Better Than Pictionary - with Tom Vasel",
+          "text": "10 Games Better Than Pictionary - with Tom Vasel there's a lot of people in the world. who can draw. i am not one of them give me a pen give me a pencil give me a"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+        "domain": "richardgurley.medium.com",
+        "title": "Classic games and their more fun alternatives — Party games",
+        "url": "https://richardgurley.medium.com/classic-games-and-their-more-fun-alternatives-party-games-886e01c560cd",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "7 years ago",
+        "website_name": "Medium · Richard Gurley",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "we're covering party games: Scattergories, Taboo, Pictionary, Charades, and Trivial Pursuit. Like Pictionary, players. Telestrations — This ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Scattergories, Taboo, Pictionary, Charades, and Trivial Pursuit"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What are the top 7 party games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are 10 popular board games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What game is similar to Pictionary but uses words?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Is there an adult version of Pictionary?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "[WSIG] A better alternative to Pictionary. : r/boardgames",
+        "url": "https://www.reddit.com/r/boardgames/comments/31l36q/wsig_a_better_alternative_to_pictionary/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "20+ comments  ·  11 years ago",
+        "website_name": "Reddit · r/boardgames",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Pictomania is the correct answer. Telestrations is more an activity than a game. Pictomania is simply Pictionary, fixed. Since you can see all ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Pictomania"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "[WSIG] Games like Balderdash, or Pictionary where you ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/23cbqt/wsig_games_like_balderdash_or_pictionary_where/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Anyone know of any pictionary(or other group games ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/Twitch/comments/1c5m9ow/anyone_know_of_any_pictionaryor_other_group_games/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+pictionary+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQntw6Txi3NUQVmjNPP1pIYHP3MsLQg:1792381335942&sa=X&ved=2ahUKEwi4r9LmlMWXAxVT_rsIHR8PGqcQrQIoAnoECCgQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+        "domain": "www.amazon.com",
+        "title": "Games Like Pictionary",
+        "url": "https://www.amazon.com/games-like-pictionary/s?k=games+like+pictionary",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.amazon.com › games-like-pictionary › k=ga...",
+        "website_name": "Amazon.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Six Second Scribbles | The Fast-paced Drawing Party Game for Kids & Adults · Can you draw 10 things in a minute? A fast, funny drawing party game for family ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Six Second Scribbles"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.amazon.com/games-like-pictionary/s?k=games+like+pictionary#:~:text=Six%20Second%20Scribbles%20%7C%20The,terrible%20drawings%20and%20big%20laughs!",
+          "domain": "www.amazon.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+        "domain": "thetabletopfamily.com",
+        "title": "Top 14 Board Games like Pictionary for Creative Fun",
+        "url": "https://thetabletopfamily.com/top-10-board-games-like-pictionary-for-creative-fun/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://thetabletopfamily.com › Blog",
+        "website_name": "The Tabletop Family",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Top 14 Board Games Like Pictionary · Mondrawsity · Caution Signs · Telestration · Tattoo Stories · A Fake Artist Goes to New York · Concept & Concept Kids. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "games like pictionary from thetabletopfamily.com",
+          "url": "https://thetabletopfamily.com/top-10-board-games-like-pictionary-for-creative-fun/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-8f761b7d5f4f:0"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Games Like Pictionary"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://thetabletopfamily.com/top-10-board-games-like-pictionary-for-creative-fun/#:~:text=Top%2014%20Board%20Games%20Like,Pictionary&text=Mondrawsity&text=Caution%20Signs&text=Telestration&text=Tattoo%20Stories&text=A%20Fake%20Artist%20Goes%20to,New%20York&text=Concept%20%26%20Concept%20Kids",
+          "domain": "thetabletopfamily.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 1,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]",
+        "title": "More products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Telestrations 6 Player Party Pack",
+          "url": "https://www.google.com/search?ibp=oshop&q=games+like+pictionary&prds=gpcid:2835165600870600777,rds:PC_2835165600870600777%7CPROD_PC_2835165600870600777,headlineOfferDocid:10737182461769038905,catalogid:12198569785206381644,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+\nFun (425 user reviews)",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-8f761b7d5f4f:1",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 530,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "12198569785206381644",
+           "data_docid": "11926803742200656474",
+           "gid": "2835165600870600777"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Pictionary Game Fast Fun! edition",
+          "url": "https://www.google.com/search?ibp=oshop&q=games+like+pictionary&prds=gpcid:7069315831404251808,rds:PC_7069315831404251808%7CPROD_PC_7069315831404251808,headlineOfferDocid:6497657220863738780,catalogid:10261513927040906919,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Walmart - Private Select & more\nFree delivery",
+          "more_sellers": true,
+          "seller": "Walmart - Private Select",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-8f761b7d5f4f:2",
+          "price": {
+           "current": 15,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$15.00"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 13,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "10261513927040906919",
+           "data_docid": "5411338106987129505",
+           "gid": "7069315831404251808"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Czech Games Pictomania",
+          "url": "https://www.google.com/search?ibp=oshop&q=games+like+pictionary&prds=gpcid:12143723274604487725,rds:PC_12143723274604487725%7CPROD_PC_12143723274604487725,headlineOfferDocid:11635252146205929515,catalogid:2047592029109331228,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "RedFive Toys and Collectibles & more",
+          "more_sellers": true,
+          "seller": "RedFive Toys and Collectibles",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-8f761b7d5f4f:3",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.9,
+           "votes_count": 21,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "2047592029109331228",
+           "data_docid": "66870576571725316",
+           "gid": "12143723274604487725"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Drawing Without Dignity An Adult Party Game",
+          "url": "https://www.thegamer.com/best-board-games-that-involve-drawing/",
+          "domain": "www.thegamer.com",
+          "description": "TTPEN & more\nFree delivery on $35+\nHilarious party game for adults · Not something you can play in a family setting TheGamer",
+          "more_sellers": true,
+          "seller": "TTPEN",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-8f761b7d5f4f:4",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": 36,
+           "currency": "USD",
+           "is_price_range": true,
+           "displayed_price": "$24.99 Usually $36"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": "7340050328556606892",
+           "data_docid": "16960866957717633952",
+           "gid": "17864768200049157693"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Game Show Emoji Pictionary Printable: Fun for Parties & Game Nights (Instant Download)",
+          "url": "https://www.google.com/search?ibp=oshop&q=games+like+pictionary&prds=headlineOfferDocid:10397875254731085922,catalogid:9000719099350514042,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Etsy - Seller\nFree delivery",
+          "more_sellers": false,
+          "seller": "Etsy - Seller",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-8f761b7d5f4f:5",
+          "price": {
+           "current": 3.34,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$3.34"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": "9000719099350514042",
+           "data_docid": "7393154082695117542",
+           "gid": null
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Mattel Pictionary Air Takeover Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=games+like+pictionary&prds=gpcid:561444484403146796,rds:PC_561444484403146796%7CPROD_PC_561444484403146796,headlineOfferDocid:17318445725812035127,catalogid:11693272784372776999,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-8f761b7d5f4f:6",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": "11693272784372776999",
+           "data_docid": "1742298640400302130",
+           "gid": "561444484403146796"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Mattel Pictionary Air 2",
+          "url": "https://www.google.com/search?ibp=oshop&q=games+like+pictionary&prds=gpcid:3485197595493739242,rds:PC_3485197595493739242%7CPROD_PC_3485197595493739242,headlineOfferDocid:13257554935331575580,catalogid:7760647089496303652,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Walmart - antonline.com & more\nFree delivery\nFun (50 user reviews)",
+          "more_sellers": true,
+          "seller": "Walmart - antonline.com",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-8f761b7d5f4f:7",
+          "price": {
+           "current": 10,
+           "regular": 19,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$10.00 $19"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 196,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "7760647089496303652",
+           "data_docid": "13024369212828230662",
+           "gid": "3485197595493739242"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Pictionary First Edition",
+          "url": "https://www.google.com/search?ibp=oshop&q=games+like+pictionary&prds=gpcid:986866121035464066,rds:PC_986866121035464066%7CPROD_PC_986866121035464066,headlineOfferDocid:5604048116836383104,catalogid:3618203111226304367,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Etsy - Seller\nGreat Family game, easy to play with the whole family. A reviewer on walmart.com",
+          "more_sellers": false,
+          "seller": "Etsy - Seller",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190342-2588-0139-0000-8f761b7d5f4f:8",
+          "price": {
+           "current": 18.5,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$18.50 Pre-owned"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 3.1,
+           "votes_count": 16,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "3618203111226304367",
+           "data_docid": "14733590074552879817",
+           "gid": "986866121035464066"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Better than Pictionary",
+        "url": "https://boardgamegeek.com/thread/1840510/better-than-pictionary",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › ... › Forums › General",
+        "website_name": "BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Aug 31, 2017 — I like Pix , which is an obscure but high quality 'draw and guess the thing' game. Each player has a square grid to place their (mostly black) ... Read more",
+        "pre_snippet": "08/31/2017 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Pix"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://boardgamegeek.com/thread/1840510/better-than-pictionary#:~:text=I%20like,to%20draw%20their%20secret%20word.",
+          "domain": "boardgamegeek.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2017-08-31 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "White board game ideas besides pictionary and hangman? ...",
+        "url": "https://www.facebook.com/groups/1113731255368861/posts/28244471245201495/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "60+ comments  ·  1 year ago",
+        "website_name": "Facebook · Activity Director Ideas",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "White board game ideas besides pictionary and hangman?\nToday i did groups of 3 words and asked what they had in common.. they were pretty good at that ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Looking for social party game recommendations. Pictionary like?",
+          "description": null,
+          "url": "https://www.facebook.com/groups/genconindy/posts/10162307709531902/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What are some drawing games for kids besides Pictionary?",
+          "description": null,
+          "url": "https://www.facebook.com/groups/theboardgamegroup/posts/7186103851443572/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.facebook.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+pictionary+site:www.facebook.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQntw6Txi3NUQVmjNPP1pIYHP3MsLQg:1792381335942&sa=X&ved=2ahUKEwi4r9LmlMWXAxVT_rsIHR8PGqcQrQIoAnoECEoQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+        "domain": "www.target.com",
+        "title": "Pictionary Alternatives: Fun Board Games & More",
+        "url": "https://www.target.com/s/games+like+pictionary",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.target.com › Toys & Games",
+        "website_name": "Target",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Discover games like Pictionary with our selection of board games, including Pictionary vs. AI, Tapple, and more. Perfect for family fun and parties.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 5,
+         "regular": null,
+         "max_value": 115,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$5 to $115"
+        },
+        "highlighted": [
+         "Pictionary vs. AI, Tapple, and more"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+        "domain": "www.jackboxgames.com",
+        "title": "Games Like Pictionary To Play Online With Friends",
+        "url": "https://www.jackboxgames.com/blog/games-like-pictionary-to-play-online-with-friends",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.jackboxgames.com › blog › games-like-pic...",
+        "website_name": "Jackbox Games",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Sep 2, 2022 — Fans of Pictionary will love these fun drawing games: · #1 - The Drawful Series · #2 - Tee K.O. · #3 - Patently Stupid · #4 - Civic Doodle · #5 ... Read more",
+        "pre_snippet": "09/02/2022 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "fun drawing games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.jackboxgames.com/blog/games-like-pictionary-to-play-online-with-friends#:~:text=Fans%20of%20Pictionary%20will%20love,these%20fun%20drawing%20games%3A&text=%231%20-%20The%20Drawful%20Series&text=%232%20-%20Tee%20K.O.&text=%233%20-%20Patently%20Stupid&text=%234%20-%20Civic%20Doodle&text=%235%20-%20Bidiots",
+          "domain": "www.jackboxgames.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2022-09-02 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[21]/div[1]/div[1]",
+        "domain": "sketchful.io",
+        "title": "Sketchful.io - Multiplayer Drawing and Guessing Pictionary ...",
+        "url": "https://sketchful.io/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://sketchful.io",
+        "website_name": "Sketchful.io",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Sketchful.io is a free online drawing and guessing game. Play pictionary with anyone in the world! Be the fastest to guess and earn the most points to win!",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Sketchful.io is a free online drawing and guessing game"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 13,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Games like pictionary for adults",
+         "Games like Pictionary online",
+         "Games like pictionary reddit",
+         "Games like Pictionary but With words",
+         "Games like pictionary with friends",
+         "Games like pictionary for kids",
+         "Free games like pictionary",
+         "Games like Pictionary and charades"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

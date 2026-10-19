@@ -1,0 +1,1267 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "7.4613 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190343-2588-0139-0000-d92334c52421",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "7.4013 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "board games for 3 players",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "board games for 3 players",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=board%20games%20for%203%20players&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:43:54 +00:00",
+      "spell": null,
+      "refinement_chips": {
+       "type": "refinement_chips",
+       "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+       "items": [
+        {
+         "type": "refinement_chips_element",
+         "title": "Adults",
+         "url": "https://www.google.com/search?q=adults+board+games+for+3+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciAzIHBsYXllcnMyFggBEgZBZHVsdHM6Cgj8kG8Q_ZBvMABY08kgYAE&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKAF6BQgrEI4B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board Game",
+         "url": "https://www.google.com/search?q=board+game+games+for+3+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciAzIHBsYXllcnMyHAgBEgpCb2FyZCBHYW1lOgwI1J2eAhDXnZ4CMANY08kgYAE&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKAJ6BQgrEI8B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Strategy",
+         "url": "https://www.google.com/search?q=strategy+board+games+for+3+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciAzIHBsYXllcnMyGAgBEghTdHJhdGVneToKCKG4PhCiuD4wAFjTySBgAQ&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKAN6BQgrEJAB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids",
+         "url": "https://www.google.com/search?q=kids+board+games+for+3+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciAzIHBsYXllcnMyFAgBEgRLaWRzOgoI_JBvEP6QbzAAWNPJIGAB&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKAR6BQgrEJEB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board & Card Games",
+         "url": "https://www.google.com/search?q=board+%26+card+games+for+3+players&hl=en&gl=US&shoprs=GAkqGWJvYXJkIGdhbWVzIGZvciAzIHBsYXllcnMyFggJEhJCb2FyZCAmIENhcmQgR2FtZXNgAQ&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKAV6BQgrEJIB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Single Player",
+         "url": "https://www.google.com/search?q=single+player+board+games+for+3+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciAzIHBsYXllcnMyHwgBEg1TaW5nbGUgUGxheWVyOgwImoaeAhCbhp4CMANY08kgYAE&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKAZ6BQgrEJMB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "10+ Years",
+         "url": "https://www.google.com/search?q=10%2B+years+board+games+for+3+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciAzIHBsYXllcnMyGwgBEgkxMCsgWWVhcnM6DAje9rUBEMeotgEwAFjTySBgAQ&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKAd6BQgrEJQB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "On sale",
+         "url": "https://www.google.com/search?q=board+games+for+3+players+sale&hl=en&gl=US&shoprs=EgRKAhgBGAYqGWJvYXJkIGdhbWVzIGZvciAzIHBsYXllcnMyEwgGEgdPbiBzYWxlGAIiBEoCGAFY08kgYAE&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKAh6BQgrEJUB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Get it fast",
+         "url": "https://www.google.com/search?q=board+games+for+3+players&hl=en&gl=US&shoprs=Eg2aAQoKCBADOAFAA0gBGBQqGWJvYXJkIGdhbWVzIGZvciAzIHBsYXllcnMyJAgUEgtHZXQgaXQgZmFzdCINmgEKCggQAzgBQANIASoEEAEYAWAB&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKAl6BQgrEJYB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "2 players or more",
+         "url": "https://www.google.com/search?q=2+players+or+more+board+games+for+3&hl=en&gl=US&shoprs=EhsqGQiPmdQCEhIJAAAAAAAAAEARAAAAAAAAAEAYASoZYm9hcmQgZ2FtZXMgZm9yIDMgcGxheWVyczJBCAESETIgcGxheWVycyBvciBtb3JlIhsqGQiPmdQCEhIJAAAAAAAAAEARAAAAAAAAAEAqAhgBOgkIj5nUAhAAMAZY08kgYAE&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKAp6BQgrEJcB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Card Game",
+         "url": "https://www.google.com/search?q=card+game+board+games+for+3+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciAzIHBsYXllcnMyGwgBEglDYXJkIEdhbWU6DAi2wvcBELfC9wEwA1jTySBgAQ&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKAt6BQgrEJgB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "1 player or more",
+         "url": "https://www.google.com/search?q=1+player+or+more+board+games+for+3+players&hl=en&gl=US&shoprs=EhsqGQiPmdQCEhIJAAAAAAAA8D8RAAAAAAAA8D8YASoZYm9hcmQgZ2FtZXMgZm9yIDMgcGxheWVyczJACAESEDEgcGxheWVyIG9yIG1vcmUiGyoZCI-Z1AISEgkAAAAAAADwPxEAAAAAAADwPyoCGAE6CQiPmdQCEAAwBljTySBgAQ&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKAx6BQgrEJkB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Role Playing",
+         "url": "https://www.google.com/search?q=role+playing+board+games+for+3+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciAzIHBsYXllcnMyHAgBEgxSb2xlIFBsYXlpbmc6CgihuD4Qqrg-MABY08kgYAE&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKA16BQgrEJoB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Family Friendly",
+         "url": "https://www.google.com/search?q=family+friendly+board+games+for+3+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciAzIHBsYXllcnMyIQgBEg9GYW1pbHkgRnJpZW5kbHk6DAjdsZ4CEN6xngIwA1jTySBgAQ&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKA56BQgrEJsB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Under $10",
+         "url": "https://www.google.com/search?q=board+games+for+3+players+under+$10&hl=en&gl=US&shoprs=Eg0SCxEAAAAA0BJjQRgBGAUqGWJvYXJkIGdhbWVzIGZvciAzIHBsYXllcnMyIggFEglVbmRlciAkMTAYAiINEgsRAAAAANASY0EYASoCGAFY08kgYAE&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKA96BQgrEJwB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "30 – 60 minutes",
+         "url": "https://www.google.com/search?q=30+minutes+to+60+minutes+board+games+for+3+players&hl=en&gl=US&shoprs=EhoqGAjGvj0SEgkAAAAAAAA-QBEAAAAAAABOQBgBKhlib2FyZCBnYW1lcyBmb3IgMyBwbGF5ZXJzMlkIARIRMzAg4oCTIDYwIG1pbnV0ZXMiGioYCMa-PRISCQAAAAAAAD5AEQAAAAAAAE5AKhwKGDMwIG1pbnV0ZXMgdG8gNjAgbWludXRlcxgBOggIxr49EAAwBljTySBgAQ&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKBB6BQgrEJ0B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "War",
+         "url": "https://www.google.com/search?q=war+board+games+for+3+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciAzIHBsYXllcnMyFAgBEgNXYXI6CwihuD4Q1NXaAzAAWNPJIGAB&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKBF6BQgrEJ4B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "8+ Years",
+         "url": "https://www.google.com/search?q=8%2B+years+board+games+for+3+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciAzIHBsYXllcnMyGggBEgg4KyBZZWFyczoMCN72tQEQxai2ATAAWNPJIGAB&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKBJ6BQgrEJ8B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adult Games",
+         "url": "https://www.google.com/search?q=adult+games+board+for+3+players&hl=en&gl=US&shoprs=GAkqGWJvYXJkIGdhbWVzIGZvciAzIHBsYXllcnMyDwgJEgtBZHVsdCBHYW1lc2AB&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKBN6BQgrEKAB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "3 players or more",
+         "url": "https://www.google.com/search?q=3+players+or+more+board+games+for&hl=en&gl=US&shoprs=EhsqGQiPmdQCEhIJAAAAAAAACEARAAAAAAAACEAYASoZYm9hcmQgZ2FtZXMgZm9yIDMgcGxheWVyczJBCAESETMgcGxheWVycyBvciBtb3JlIhsqGQiPmdQCEhIJAAAAAAAACEARAAAAAAAACEAqAhgBOgkIj5nUAhAAMAZY08kgYAE&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKBR6BQgrEKEB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "15 – 30 minutes",
+         "url": "https://www.google.com/search?q=15+minutes+to+30+minutes+board+games+for+3+players&hl=en&gl=US&shoprs=EhoqGAjGvj0SEgkAAAAAAAAuQBEAAAAAAAA-QBgBKhlib2FyZCBnYW1lcyBmb3IgMyBwbGF5ZXJzMlkIARIRMTUg4oCTIDMwIG1pbnV0ZXMiGioYCMa-PRISCQAAAAAAAC5AEQAAAAAAAD5AKhwKGDE1IG1pbnV0ZXMgdG8gMzAgbWludXRlcxgBOggIxr49EAAwBljTySBgAQ&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKBV6BQgrEKIB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Over 90 minutes",
+         "url": "https://www.google.com/search?q=over+90+minutes+board+games+for+3+players&hl=en&gl=US&shoprs=EhEqDwjGvj0SCQkAAAAAAIBWQBgBKhlib2FyZCBnYW1lcyBmb3IgMyBwbGF5ZXJzMjQIARIPT3ZlciA5MCBtaW51dGVzIhEqDwjGvj0SCQkAAAAAAIBWQCoCGAE6CAjGvj0QADAGWNPJIGAB&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKBZ6BQgrEKMB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids' Games",
+         "url": "https://www.google.com/search?q=kids'+games+board+for+3+players&hl=en&gl=US&shoprs=GAkqGWJvYXJkIGdhbWVzIGZvciAzIHBsYXllcnMyDwgJEgtLaWRzJyBHYW1lc2AB&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKBd6BQgrEKQB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Party Games",
+         "url": "https://www.google.com/search?q=party+games+board+for+3+players&hl=en&gl=US&shoprs=GAkqGWJvYXJkIGdhbWVzIGZvciAzIHBsYXllcnMyDwgJEgtQYXJ0eSBHYW1lc2AB&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKBh6BQgrEKUB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "60 – 90 minutes",
+         "url": "https://www.google.com/search?q=60+minutes+to+90+minutes+board+games+for+3+players&hl=en&gl=US&shoprs=EhoqGAjGvj0SEgkAAAAAAABOQBEAAAAAAIBWQBgBKhlib2FyZCBnYW1lcyBmb3IgMyBwbGF5ZXJzMlkIARIRNjAg4oCTIDkwIG1pbnV0ZXMiGioYCMa-PRISCQAAAAAAAE5AEQAAAAAAgFZAKhwKGDYwIG1pbnV0ZXMgdG8gOTAgbWludXRlcxgBOggIxr49EAAwBljTySBgAQ&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKBl6BQgrEKYB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Chess",
+         "url": "https://www.google.com/search?q=chess+board+games+for+3+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciAzIHBsYXllcnMyFQgBEgVDaGVzczoKCOHJOxDvyTswAljTySBgAQ&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQip4GKBp6BQgrEKcB",
+         "domain": "www.google.com",
+         "options": null
+        }
+       ]
+      },
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "video",
+       "popular_products",
+       "related_searches"
+      ],
+      "se_results_count": 212,
+      "pages_count": 1,
+      "items_count": 14,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "Here are some of the best board games that shine specifically with a **3-player count** , ranging from cooperative adventures to heavy strategy:\n\n### Cooperative & Semi-Cooperative\n\n- **Horizons of Spirit Island:** A streamlined, cooperative strategy game designed for 1–3 players where you play as nature spirits defending your island from invaders.\n- **Land and Freedom:** A historical wargame noted for its unique 3-faction semi-cooperative dynamic.[[1]](https://www.youtube.com/watch?v=g8RWJJol16w&t=176)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:15823710908710491385,catalogid:16075244726759879706,gpcid:4029718275220229876,mid:576462819859592744&ibp=oshop)\n\n### Strategy & Heavy Euros\n\n- **Terraforming Mars:** Widely considered by players on [Reddit](https://www.reddit.com/r/boardgames/comments/ujntyh/best_3player_games/) to hit its sweet spot at 3 players, balancing engine-building without the excessive downtime of 4+ players.\n- **Arcs:** A high-tension game by Cole Wehrle where 3 players represent distinct factions (sharks, mollusks, and smugglers) shaping a dynamic regional economy and area control.\n- **Akropolis:** A tile-laying city-building game where 3 players face tight competition for tile drafting.[[1]](https://www.reddit.com/r/boardgames/comments/ujntyh/best_3player_games/)[[2]](https://www.instagram.com/reel/C6T3wTURzG-/?hl=en)\n\n### Light & Cozy / Family\n\n- **Abduction:** A pattern-matching game involving ducks in ponds that works best at 3 players to balance card scarcity and interaction.\n- **Parks:** A cozy resource-gathering game where the rule preventing players from sharing the same trail space creates tight, engaging interaction with 3 players.[[1]](https://www.youtube.com/watch?v=F_zFNk6popM&t=7)[[2]](https://www.instagram.com/reel/C6T3wTURzG-/?hl=en)\n\nHere is a video showcasing a selection of top board games built specifically for a three-player experience:\n\n![](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPcCOfReAiGNVv8B1KjpTEKji1KUnvNgxykO0I_GQe17-29Bg9)\n11m\n[](https://www.youtube.com/watch?v=F_zFNk6popM&t=7) Our Top 10 3 Player Games...2026 1.4K views  · 5 months ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · G3 Boardroom\n\nIf you'd like to narrow down these options, let me know:\n\n- What **vibe or genre** you prefer (co-op, heavy strategy, or casual/party)\n- Roughly how **long** you want the game to take",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Here are some of the best board games that shine specifically with a 3-player count, ranging from cooperative adventures to heavy strategy:",
+          "markdown": "Here are some of the best board games that shine specifically with a **3-player count** , ranging from cooperative adventures to heavy strategy:",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Cooperative & Semi-Cooperative",
+          "text": "Horizons of Spirit Island: A streamlined, cooperative strategy game designed for 1–3 players where you play as nature spirits defending your island from invaders. Land and Freedom: A historical wargame noted for its unique 3-faction semi-cooperative dynamic.",
+          "markdown": "- **Horizons of Spirit Island:** A streamlined, cooperative strategy game designed for 1–3 players where you play as nature spirits defending your island from invaders.\n- **Land and Freedom:** A historical wargame noted for its unique 3-faction semi-cooperative dynamic.[[1]](https://www.youtube.com/watch?v=g8RWJJol16w&t=176)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:15823710908710491385,catalogid:16075244726759879706,gpcid:4029718275220229876,mid:576462819859592744&ibp=oshop)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=g8RWJJol16w&t=176",
+            "title": "Top 10 Games for 3 Players",
+            "text": "Top 10 Games for 3 Players yes we're going to get clapback. or feedback or anyway because Oh dear. because there are games that ar..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Google",
+            "domain": "www.google.com",
+            "url": "https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:15823710908710491385,catalogid:16075244726759879706,gpcid:4029718275220229876,mid:576462819859592744&ibp=oshop",
+            "title": "Horizons of Spirit Island",
+            "text": "Immerse yourself in the magic of nature with Horizons of Spirit Island, a cooperative strategy game designed for 1-3 players. In t..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Strategy & Heavy Euros",
+          "text": "Terraforming Mars: Widely considered by players on Reddit to hit its sweet spot at 3 players, balancing engine-building without the excessive downtime of 4+ players. Arcs: A high-tension game by Cole Wehrle where 3 players represent distinct factions (sharks, mollusks, and smugglers) shaping a dynamic regional economy and area control. Akropolis: A tile-laying city-building game where 3 players face tight competition for tile drafting.",
+          "markdown": "- **Terraforming Mars:** Widely considered by players on [Reddit](https://www.reddit.com/r/boardgames/comments/ujntyh/best_3player_games/) to hit its sweet spot at 3 players, balancing engine-building without the excessive downtime of 4+ players.\n- **Arcs:** A high-tension game by Cole Wehrle where 3 players represent distinct factions (sharks, mollusks, and smugglers) shaping a dynamic regional economy and area control.\n- **Akropolis:** A tile-laying city-building game where 3 players face tight competition for tile drafting.[[1]](https://www.reddit.com/r/boardgames/comments/ujntyh/best_3player_games/)[[2]](https://www.instagram.com/reel/C6T3wTURzG-/?hl=en)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Reddit",
+            "description": null,
+            "url": "https://www.reddit.com/r/boardgames/comments/ujntyh/best_3player_games/",
+            "domain": "www.reddit.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/boardgames/comments/ujntyh/best_3player_games/",
+            "title": "Best 3-Player Games? : r/boardgames - Reddit",
+            "text": "Terraforming Mars & Meadow Optimal Player Count: Terraforming Mars and Meadow are frequently cited as providing their best gamepla..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Instagram",
+            "domain": "www.instagram.com",
+            "url": "https://www.instagram.com/reel/C6T3wTURzG-/?hl=en",
+            "title": "🤔 What are your favorite board games to play with 3 players? These three ...",
+            "text": "🤔 What are your favorite board games to play with 3 players? These three games really shine at 3 players and make you not feel so..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Light & Cozy / Family",
+          "text": "Abduction: A pattern-matching game involving ducks in ponds that works best at 3 players to balance card scarcity and interaction. Parks: A cozy resource-gathering game where the rule preventing players from sharing the same trail space creates tight, engaging interaction with 3 players.",
+          "markdown": "- **Abduction:** A pattern-matching game involving ducks in ponds that works best at 3 players to balance card scarcity and interaction.\n- **Parks:** A cozy resource-gathering game where the rule preventing players from sharing the same trail space creates tight, engaging interaction with 3 players.[[1]](https://www.youtube.com/watch?v=F_zFNk6popM&t=7)[[2]](https://www.instagram.com/reel/C6T3wTURzG-/?hl=en)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=F_zFNk6popM&t=7",
+            "title": "Our Top 10 3 Player Games...2026",
+            "text": "Our Top 10 3 Player Games...2026 hey everyone today on the g3 boardroom we are going to take a look at the best games for three pl..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Instagram",
+            "domain": "www.instagram.com",
+            "url": "https://www.instagram.com/reel/C6T3wTURzG-/?hl=en",
+            "title": "🤔 What are your favorite board games to play with 3 players? These three ...",
+            "text": "🤔 What are your favorite board games to play with 3 players? These three games really shine at 3 players and make you not feel so..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_video_element",
+          "position": "left",
+          "title": "Our Top 10 3 Player Games...2026",
+          "snippet": "11m",
+          "url": "https://www.youtube.com/watch?v=F_zFNk6popM&t=7",
+          "domain": "www.youtube.com",
+          "image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPcCOfReAiGNVv8B1KjpTEKji1KUnvNgxykO0I_GQe17-29Bg9",
+          "source": "YouTube",
+          "date": "5 months ago",
+          "timestamp": "2026-05-19 03:43:52 +00:00"
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Here is a video showcasing a selection of top board games built specifically for a three-player experience: 11m Our Top 10 3 Player Games...2026 1.4K views · 5 months ago YouTube · G3 Boardroom",
+          "markdown": "Here is a video showcasing a selection of top board games built specifically for a three-player experience:\n\n![](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPcCOfReAiGNVv8B1KjpTEKji1KUnvNgxykO0I_GQe17-29Bg9)\n11m\n[](https://www.youtube.com/watch?v=F_zFNk6popM&t=7) Our Top 10 3 Player Games...2026 1.4K views  · 5 months ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · G3 Boardroom",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "If you'd like to narrow down these options, let me know:What vibe or genre you prefer (co-op, heavy strategy, or casual/party)\nRoughly how long you want the game to take",
+          "markdown": "If you'd like to narrow down these options, let me know:\n\n- What **vibe or genre** you prefer (co-op, heavy strategy, or casual/party)\n- Roughly how **long** you want the game to take",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Reddit",
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/boardgames/comments/ujntyh/best_3player_games/",
+          "title": "Best 3-Player Games? : r/boardgames - Reddit",
+          "text": "Terraforming Mars & Meadow Optimal Player Count: Terraforming Mars and Meadow are frequently cited as providing their best gameplay experience with three players, ..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "YouTube",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=g8RWJJol16w&t=176",
+          "title": "Top 10 Games for 3 Players",
+          "text": "Top 10 Games for 3 Players yes we're going to get clapback. or feedback or anyway because Oh dear. because there are games that are specifically made for three pla"
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "YouTube",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=F_zFNk6popM&t=7",
+          "title": "Our Top 10 3 Player Games...2026",
+          "text": "Our Top 10 3 Player Games...2026 hey everyone today on the g3 boardroom we are going to take a look at the best games for three players the 2026 edition is it 2026"
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "www.youtube.com",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=fKMVGZBQwfI",
+          "title": "10 Best 3 Player Board Games NOBODY IS TALKING ABOUT",
+          "text": "game with the tension of a 90-minute. one where every decision matters from the first tile drawn to the last sun token spent. number six is a hoy leader games the ..."
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "3 Player Games : r/boardgames",
+        "url": "https://www.reddit.com/r/boardgames/comments/1593fug/3_player_games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "150+ comments  ·  3 years ago",
+        "website_name": "Reddit · r/boardgames",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "The Quest for El Dorado, Ra, Ticket to Ride, Wingspan, Azul, The Crew, Forbidden Island, So Clover, Barenpark are all games I think work well at ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "The Quest for El Dorado"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "What are the best 3 player games",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/18vmmss/what_are_the_best_3_player_games/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Best 3-Player Games?",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/ujntyh/best_3player_games/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=board+games+for+3+players+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnv6QP1cy3SmcmejvZJVJRldzZVwDw:1792381431125&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQrQIoAnoECCcQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Games for 3 players",
+        "url": "https://boardgamegeek.com/geeklist/260100/games-for-3-players",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › geeklist › games-for-3-pl...",
+        "website_name": "BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "1. Great Western Trail · 2. Concordia · 3. Anachrony · 4. Vinhos: Deluxe Edition · 5. Kanban EV · 6. Grand Austria Hotel · 7. Hansa Teutonica: Big Box · 8. Tzolk'in: ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1. Great Western Trail"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://boardgamegeek.com/geeklist/260100/games-for-3-players#:~:text=1.,Great%20Western%20Trail&text=2.,Concordia&text=3.,Anachrony&text=4.,Vinhos%3A%20Deluxe%20Edition&text=5.,Kanban%20EV&text=6.,Grand%20Austria%20Hotel&text=7.,Hansa%20Teutonica%3A%20Big%20Box&text=8.,Tzolk'in%3A%20The%20Mayan%20Calendar",
+          "domain": "boardgamegeek.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What is the best game for 3 players?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are fun games for 3 people?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What 3-player game can I play?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What's a good 3-player multiplayer game?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+        "domain": "bardsandcards.com",
+        "title": "3 Player Games | Top Board & Card Games for Trios",
+        "url": "https://bardsandcards.com/collections/3-player-games?srsltid=AU7gw4WY7rCbxB4TdCjh0cawnkwSgfiyrLuuxxi0rgTjT1YRF0q0HRzc",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://bardsandcards.com › collections › 3-player-games",
+        "website_name": "Bards & Cards",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "3 Player Games · Ramen Fury · Love Letter · Caper Cards: Bells Hells · Skull · Jabba's Palace: A Love Letter Game · Azul Mini · Choose Your Own Adventure: House ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 13,
+         "regular": null,
+         "max_value": 60,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$13 to $60"
+        },
+        "highlighted": [
+         "3"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://bardsandcards.com/collections/3-player-games?srsltid=AU7gw4WY7rCbxB4TdCjh0cawnkwSgfiyrLuuxxi0rgTjT1YRF0q0HRzc#:~:text=3%20Player%20Games&text=Ramen%20Fury&text=Love%20Letter&text=Caper%20Cards%3A%20Bells%20Hells&text=Skull&text=Jabba's%20Palace%3A%20A%20Love%20Letter,Game&text=Azul%20Mini&text=Choose%20Your%20Own%20Adventure%3A%20House,of%20Danger",
+          "domain": "bardsandcards.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "video",
+        "rank_group": 1,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]",
+        "items": [
+         {
+          "type": "video_element",
+          "source": "YouTube · Board Game Critique",
+          "title": "10 Best 3 Player Board Games NOBODY IS TALKING ABOUT",
+          "timestamp": "2026-05-26 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=fKMVGZBQwfI"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · The Dice Tower",
+          "title": "Top 10 Games for 3 Players",
+          "timestamp": "2026-04-30 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=g8RWJJol16w"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · Room and Board",
+          "title": "Top 3 player games (April 2026 - Deathmatch)",
+          "timestamp": "2026-06-26 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=UGmOIk7Fsfk"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "Best board games for three players?",
+        "url": "https://www.facebook.com/groups/132851767828/posts/10163750720942829/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "460+ comments  ·  9 months ago",
+        "website_name": "Facebook · BoardGameGeek",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "My wife, my grown son, and I play a board game almost every night after dinner. We are slowly growing our collection, and I’m curious about what games ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "board games for 3 players from www.facebook.com",
+          "url": "https://www.facebook.com/groups/132851767828/posts/10163750720942829/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqLgAjSB9vlLaxa-NDCxEKzh1G7n1lPlf7UsANXIVH-DVOiMzYS-5Z&usqp=CAE&s"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Best board games for 3 players?",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10163944343812829/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What are the best board games for 3 players?",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10161288234487829/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.facebook.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=board+games+for+3+players+site:www.facebook.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnv6QP1cy3SmcmejvZJVJRldzZVwDw:1792381431125&sa=X&ved=2ahUKEwic74OUlcWXAxUT6AIHHchcJIkQrQIoAnoECEcQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]",
+        "domain": "dicetower.com",
+        "title": "Games Best for 3 Players",
+        "url": "https://dicetower.com/top-ten-list/20638",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://dicetower.com › top-ten-list",
+        "website_name": "The Dice Tower",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Games Best for 3 Players · Viceroy · Agricola · Smash Up · Suburbia · Guildhall · Terraforming Mars · Xia: Legends of a Drift System · Tiny Epic Galaxies. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Viceroy"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://dicetower.com/top-ten-list/20638#:~:text=Games%20Best%20for%203%20Players&text=Viceroy&text=Agricola&text=Suburbia&text=Suburbia&text=Guildhall&text=Xia%3A%20Legends%20of%20a%20Drift&text=Xia%3A%20Legends%20of%20a%20Drift,System&text=Tiny%20Epic%20Galaxies",
+          "domain": "dicetower.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]",
+        "domain": "www.bogleheads.org",
+        "title": "Suggestions for 3-Player Board Games?",
+        "url": "https://www.bogleheads.org/forum/viewtopic.php?t=379615",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.bogleheads.org › forum › viewtopic",
+        "website_name": "Bogleheads",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jun 13, 2022 — Tsuro is a simple fast strategy game that works really well for 2 or 3 players. Isle of Cats. Endless variation. Carcassonne is a lot of fun. ...",
+        "pre_snippet": "06/13/2022 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Tsuro is a simple fast strategy game that works really well for 2 or 3 players"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2022-06-13 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 1,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]",
+        "title": "Popular products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "The Quest for El Dorado",
+          "url": "https://boardgamereview.co.uk/game-reviews/the-quest-for-el-dorado-2023-review/",
+          "domain": "boardgamereview.co.uk",
+          "description": "Ravensburger North America & more\nFast paced · Some levels can be frustrating through sheer bad luck Board Game Review",
+          "more_sellers": true,
+          "seller": "Ravensburger North America",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTioWWIR5J6MVx6aYXPe3fVYMA3w8iNX7V897vfKs66oKucEb7HPnRGz-MxOEoVUL2mWgJXC2vQyHb_BkzG-2dDDryrYq7nb0PU85WhM1BXWhbId0ay2ury",
+          "price": {
+           "current": 39.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$39.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 30,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "12690006984677858046",
+           "data_docid": "17140758153147441448",
+           "gid": "14978994109177046333"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Game Mille Bornes",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+3+players&prds=gpcid:437898204002950342,rds:PC_437898204002950342%7CPROD_PC_437898204002950342,headlineOfferDocid:16055756567594055508,catalogid:16365239899472737546,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+\nFun (35 user reviews)",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR86BThO6P_BZrkaGJvYujButYC3JZrwqa6R4Awq4YBdVoW4zaGQFHQMyIsQ3W3ZwTo3tX72RgMp_x8fgj7HBdFTM0pZHgaOnWY8VuE_tJWPGbnMWlmxZSgyg",
+          "price": {
+           "current": 12.79,
+           "regular": 15,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$12.79 $15"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 83,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "16365239899472737546",
+           "data_docid": "5075996535300442010",
+           "gid": "437898204002950342"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Catan Game",
+          "url": "https://www.ubuy.co.in/productuk/Q66IRTQQG-6th-edition-board-game",
+          "domain": "www.ubuy.co.in",
+          "description": "Catan Shop - Official Store & more\nEngaging gameplay with strategic depth · Beautifully crafted game components Ubuy India",
+          "more_sellers": true,
+          "seller": "Catan Shop - Official Store",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSXMglwbGLNEpyjoux9LWEq2HdVQmP3haLgaD9Qg2T7K6P1N7bnRxOaC4h0wpKb7urVk9SEbMD72-nFJUBwI75T2OYkk7pTxz5mk_eQV3WCg0YZj0nLxcwr",
+          "price": {
+           "current": 49.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$49.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 201,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "8673379403246775114",
+           "data_docid": "10139617312849150232",
+           "gid": "9148757966263496590"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Poetry for Neanderthals",
+          "url": "https://coopboardgames.com/guides/board-games-for-young-adults/",
+          "domain": "coopboardgames.com",
+          "description": "Exploding Kittens & more\nFree delivery on $40+\nSimple rules make it accessible to players of all backgrounds and ages · The silly concept may not appeal to players seeking more sophisticated gameplay Co-op Board Games",
+          "more_sellers": true,
+          "seller": "Exploding Kittens",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGunWCY2OrKrK3wppnQqNh_YMtw4VgIy43yrkji4_O5e-7hZVrjzB4bg2ybxNV2MQaBBseAePISvgM6cs_dheR0t36FTiMZTTYXufsApG8TlrxCPxE0yho",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 877,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "2725036652365591063",
+           "data_docid": "11808002905882064527",
+           "gid": "17442823680541190640"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Stardew Valley The Board Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+3+players&prds=gpcid:15186838001511367283,rds:PC_15186838001511367283%7CPROD_PC_15186838001511367283,headlineOfferDocid:5663664065588499918,catalogid:10197910052858439196,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "BigBadToyStore & more\nFun (41 user reviews)",
+          "more_sellers": true,
+          "seller": "BigBadToyStore",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRR9dZhseLFlfhD76Mh_b5uTd6RFaq2it1uqW4JD2S-BqiZggkuJiGmZ4CP1_VjGn1gOkL6C5sFTo_xhpSC5WUluaXelmPs0mqfeYPHbwrpfeMij8bkR2E0",
+          "price": {
+           "current": 49.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$49.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 164,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "10197910052858439196",
+           "data_docid": "8997091177463758174",
+           "gid": "15186838001511367283"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Dungeons Dragons Heroes of the Borderlands Starter Set",
+          "url": "https://www.reddit.com/r/DnD/comments/1naj49s/oc_starter_set_initial_impressions/",
+          "domain": "www.reddit.com",
+          "description": "Target & more\nFree delivery by Sat\nTONS of nice-quality battle maps with both classic and modern art style · PC token stands being cardboard rather than plastic doesn't seem durable Reddit",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRFHEgHzuRUhDqjdkOkeW9CfEJsutUcMcw77u6aHl8kyKRkP9a_u4tOAsNity5aRwPC4JB3EL5gUZjESAKH1cxsxK22y69APk3f9_NNoGyatWIWpo81DJQSUQ",
+          "price": {
+           "current": 39.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$39.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.9,
+           "votes_count": 139,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "4278742230335312927",
+           "data_docid": "5406608178038961390",
+           "gid": "15646120209931885626"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Root Board Game",
+          "url": "https://gamingrespawn.com/board-game-reviews/40105/root-board-game-review/",
+          "domain": "gamingrespawn.com",
+          "description": "Miniature Market & more\nFree delivery on $76+\nEasy to learn · Clearly designed with more than two players in mind Gaming Respawn",
+          "more_sellers": true,
+          "seller": "Miniature Market",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRWR1wxVo_4Yn8eQnwmNZeZ6m4hovKqUYnSCXdgjh-_q_d5GrzQgmYt8CB-p_wMcRhE_E19CQTRGignmagIdJwrLaDIgs3yihSJCSDKSkE",
+          "price": {
+           "current": 48,
+           "regular": 60,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$48.00 $60"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 300,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "17343369600885410046",
+           "data_docid": "8680922240689520409",
+           "gid": "3735461444958424254"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Blank Slate Game",
+          "url": "https://trisomegames2016.org/best-high-rated-family-board-games/",
+          "domain": "trisomegames2016.org",
+          "description": "Target & more\nFree delivery on $35+\nHigh replay value with a diverse range of prompts that keep the game fresh … · Some users report that the markers may run out of ink after several rounds … trisomegames2016.org",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR6iUbrnUgDydeqSCmoSE4Ezn0u_3NxICrcQFFAC-QFdJmpfImA3myqVtX51JXRvJ0JYxNWH09pnnpXcKQSZwHuWlI9KEEzPYH1zy45O-IQNjZZTfTtSkwHZQ",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.9,
+           "votes_count": 1100,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "6311727534767054682",
+           "data_docid": "9340932584913555228",
+           "gid": "5911958110274855750"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]",
+        "domain": "www.amazon.com",
+        "title": "Games For 2 Or 3 Players",
+        "url": "https://www.amazon.com/Games-2-3-Players/s?k=Games+for+2+or+3+Players",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.amazon.com › Games-2-3-Players › k=Gam...",
+        "website_name": "Amazon.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Discover a wide selection of engaging games perfect for 2-3 players. From strategy and card games to family favorites, find your next game night hit.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "engaging games perfect for 2-3 players"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[22]/div[1]/div[1]",
+        "domain": "moonshotgamestore.com",
+        "title": "Board Games",
+        "url": "https://moonshotgamestore.com/collections/board-games/players:3?srsltid=AU7gw4Xkt25xHW-agCy_iRJcBAZ37dtX0x3aL3INpMoBPGCNef0R1Oik",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://moonshotgamestore.com › Board Games",
+        "website_name": "Moonshot Games",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Board Games ; Exploding Kittens · $19.99. Exploding Kittens ; Giants Moving Tiny Furniture · $19.99. Giants Moving Tiny Furniture ; Quacks: Deluxe Edition · $64.99. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 15,
+         "regular": null,
+         "max_value": 150,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$15 to $150"
+        },
+        "highlighted": [
+         "Exploding Kittens"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://moonshotgamestore.com/collections/board-games/players:3?srsltid=AU7gw4Xkt25xHW-agCy_iRJcBAZ37dtX0x3aL3INpMoBPGCNef0R1Oik#:~:text=Board%20Games&text=%2419.99&text=%2419.99,Kittens%20At%20Noblesville%20%C2%B7%201&text=%2419.99&text=%2419.99,Furniture%20At%20Noblesville%20%C2%B7%201&text=%2464.99&text=%2464.99",
+          "domain": "moonshotgamestore.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 13,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[24]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "What is your favorite game for 3 players? | BGG",
+        "url": "https://boardgamegeek.com/thread/3280734/what-is-your-favorite-game-for-3-players",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › ... › Recommendations",
+        "website_name": "BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Apr 9, 2024 — Board Games, Artists, Designers, Publishers, Accessories, Families, Forums ... What is your favorite game for 3 players? 4. Subscribe Read more",
+        "pre_snippet": "04/09/2024 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "What is your favorite game for 3 players"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://boardgamegeek.com/thread/3280734/what-is-your-favorite-game-for-3-players#:~:text=Forums&text=What%20is%20your%20favorite%20game,Subscribe",
+          "domain": "boardgamegeek.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2024-04-09 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 14,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Family board games for 3 players",
+         "Games to play with 3 players no equipment",
+         "Board games for 3 players with friends",
+         "Board games for 3 players adults",
+         "Best board games for 3 adults",
+         "3 Person games at home",
+         "3 person games at home with friends",
+         "Best 3 player board games BGG"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

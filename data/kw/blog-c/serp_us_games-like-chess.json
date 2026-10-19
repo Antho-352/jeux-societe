@@ -1,0 +1,788 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "4.9997 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190341-2588-0139-0000-6a314c54313e",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "4.9197 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "games like chess",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "games like chess",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=games%20like%20chess&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:41:37 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "video",
+       "related_searches"
+      ],
+      "se_results_count": 165,
+      "pages_count": 1,
+      "items_count": 12,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[15]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "![Best Alternative Board Games To Chess](https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-6a314c54313e:4)\nTop board games and strategy games like chess use two-player abstract strategy, zero hidden information, and tactical piece movement.\n\n### Classic Direct Relatives & Historical Variants\n\n- **Shogi (Japanese Chess):** Plays on a grid where captured pieces can be dropped back onto the board to fight for you.\n- **Xiangqi (Chinese Chess):** Features a river, a palace, and unique piece constraints that alter traditional linear movement.\n- **Go:** An ancient grid-based game of territory and encirclement that is deep and minimalist.\n- **King’s Table (Hnefatafl):** An asymmetrical Norse game where a defender tries to help a king escape an attacking army.[[1]](https://www.reddit.com/r/gamingsuggestions/comments/18gfsyu/looking_for_a_chess_like_game_that_isnt_chess/)[[2]](https://www.quora.com/Are-there-any-strategy-board-games-that-are-similar-to-chess-but-are-a-lot-more-fun-to-play-If-yes-like-what)\n\n### Modern Abstract Strategy Games\n\n- **Onitama:** Known as \"Chess-lite,\" it uses a shared, rotating hand of movement cards to position pieces and capture the enemy master or reach their gate.\n- **Hive:** A boardless tile game where you maneuver unique bug pieces to surround and trap your opponent's queen bee.\n- **Santorini:** A fast, tactical grid game where you move builders and construct multi-level towers to reach the third tier.\n- **Shobu:** A 4-board game where you mirror passive and aggressive moves to push your opponent's stones off the board.[[1]](https://www.youtube.com/watch?v=_hc8JbbRCK8&t=490)[[2]](https://www.dadsuggests.com/home/5-family-board-games-for-chess-lovers)[[3]](https://www.youtube.com/watch?v=s1c3UDR1S7w&t=23)[[4]](https://www.youtube.com/shorts/fEDm6yQGK7g)\n\nHere is a video showcasing several modern abstract board games that offer a tactical feel similar to chess:\n\n![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNmiFgmkA0Ddld2G4dgHfBXFETRGpn3YzDRpklGoc5se_2Jvy-7L73Ym4V-X0pfsoMPOqGe1MOfsOMbmgRhxLp-eP5ZA)\n![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3ewjwCnrioBctcFUO1WILE-kpY8cl-HblEu6Zxu2VlS4-BAOYF3Zw1DsKXnfkCjHdB1hZVDHBrzgsGYbU5y8bsehY09E)\n1:23\n[](https://www.youtube.com/shorts/fEDm6yQGK7g) More Board Games Like Chess! #boardgames ...12K views  · 1 year ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · Grant Lyon\n\nIf you want to narrow down the list, let me know:\n\n- Are you looking for something **simple to learn** or **deeply complex**?\n- Do you want a **physical board game** or an **online/video game**?",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Top board games and strategy games like chess use two-player abstract strategy, zero hidden information, and tactical piece movement.",
+          "markdown": "![Best Alternative Board Games To Chess](https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-6a314c54313e:2)\nTop board games and strategy games like chess use two-player abstract strategy, zero hidden information, and tactical piece movement.",
+          "links": null,
+          "images": [
+           {
+            "type": "images_element",
+            "alt": "Best Alternative Board Games To Chess",
+            "url": null,
+            "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-6a314c54313e:3"
+           }
+          ],
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Classic Direct Relatives & Historical Variants",
+          "text": "Shogi (Japanese Chess): Plays on a grid where captured pieces can be dropped back onto the board to fight for you. Xiangqi (Chinese Chess): Features a river, a palace, and unique piece constraints that alter traditional linear movement. Go: An ancient grid-based game of territory and encirclement that is deep and minimalist. King’s Table (Hnefatafl): An asymmetrical Norse game where a defender tries to help a king escape an attacking army.",
+          "markdown": "- **Shogi (Japanese Chess):** Plays on a grid where captured pieces can be dropped back onto the board to fight for you.\n- **Xiangqi (Chinese Chess):** Features a river, a palace, and unique piece constraints that alter traditional linear movement.\n- **Go:** An ancient grid-based game of territory and encirclement that is deep and minimalist.\n- **King’s Table (Hnefatafl):** An asymmetrical Norse game where a defender tries to help a king escape an attacking army.[[1]](https://www.reddit.com/r/gamingsuggestions/comments/18gfsyu/looking_for_a_chess_like_game_that_isnt_chess/)[[2]](https://www.quora.com/Are-there-any-strategy-board-games-that-are-similar-to-chess-but-are-a-lot-more-fun-to-play-If-yes-like-what)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/gamingsuggestions/comments/18gfsyu/looking_for_a_chess_like_game_that_isnt_chess/",
+            "title": "Looking for a Chess like game that isnt Chess - Reddit",
+            "text": "King's Table (Hnefatafl): King's Table, also known as Hnefatafl, is an ancient Norse board game that predates chess and is availab..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Quora",
+            "domain": "www.quora.com",
+            "url": "https://www.quora.com/Are-there-any-strategy-board-games-that-are-similar-to-chess-but-are-a-lot-more-fun-to-play-If-yes-like-what",
+            "title": "Are there any strategy board games that are similar to chess but are ...",
+            "text": "Are there any strategy board games that are similar to chess but are a lot more fun to play? If yes, like what? Too much like aski..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Modern Abstract Strategy Games",
+          "text": "Onitama: Known as \"Chess-lite,\" it uses a shared, rotating hand of movement cards to position pieces and capture the enemy master or reach their gate. Hive: A boardless tile game where you maneuver unique bug pieces to surround and trap your opponent's queen bee. Santorini: A fast, tactical grid game where you move builders and construct multi-level towers to reach the third tier. Shobu: A 4-board game where you mirror passive and aggressive moves to push your opponent's stones off the board.",
+          "markdown": "- **Onitama:** Known as \"Chess-lite,\" it uses a shared, rotating hand of movement cards to position pieces and capture the enemy master or reach their gate.\n- **Hive:** A boardless tile game where you maneuver unique bug pieces to surround and trap your opponent's queen bee.\n- **Santorini:** A fast, tactical grid game where you move builders and construct multi-level towers to reach the third tier.\n- **Shobu:** A 4-board game where you mirror passive and aggressive moves to push your opponent's stones off the board.[[1]](https://www.youtube.com/watch?v=_hc8JbbRCK8&t=490)[[2]](https://www.dadsuggests.com/home/5-family-board-games-for-chess-lovers)[[3]](https://www.youtube.com/watch?v=s1c3UDR1S7w&t=23)[[4]](https://www.youtube.com/shorts/fEDm6yQGK7g)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=_hc8JbbRCK8&t=490",
+            "title": "If you Like Chess Try These Games!",
+            "text": "If you Like Chess Try These Games! i don't know but it's one I think we should add to our collection. maybe yeah we should we shou..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Dad Suggests Books",
+            "domain": "www.dadsuggests.com",
+            "url": "https://www.dadsuggests.com/home/5-family-board-games-for-chess-lovers",
+            "title": "5 Family Board Games to Try If You Love Chess - Dad Suggests Books",
+            "text": "5. Blokus. Published by Mattel. Blokus is an incredibly fun strategy game. I love how much spatial awareness is involved in this g..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=s1c3UDR1S7w&t=23",
+            "title": "10 Board Games Better Than Chess",
+            "text": "10 Board Games Better Than Chess hello welcome to Board Game Bongus. i'm J Sears. and welcome to the channel if you're new to this..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/shorts/fEDm6yQGK7g",
+            "title": "More Board Games Like Chess! #boardgames ...",
+            "text": "More Board Games Like Chess! #boardgames #chess #chessgame #games #tabletop #tabletopgames chess is a great game. but you know who..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_video_element",
+          "position": "left",
+          "title": "More Board Games Like Chess! #boardgames ...",
+          "snippet": null,
+          "url": "https://www.youtube.com/shorts/fEDm6yQGK7g",
+          "domain": "www.youtube.com",
+          "image_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3ewjwCnrioBctcFUO1WILE-kpY8cl-HblEu6Zxu2VlS4-BAOYF3Zw1DsKXnfkCjHdB1hZVDHBrzgsGYbU5y8bsehY09E",
+          "source": "YouTube",
+          "date": "1 year ago",
+          "timestamp": "2025-10-19 03:41:36 +00:00"
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Here is a video showcasing several modern abstract board games that offer a tactical feel similar to chess: 1:23 More Board Games Like Chess! #boardgames ... 12K views · 1 year ago YouTube · Grant Lyon",
+          "markdown": "Here is a video showcasing several modern abstract board games that offer a tactical feel similar to chess:\n\n![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNmiFgmkA0Ddld2G4dgHfBXFETRGpn3YzDRpklGoc5se_2Jvy-7L73Ym4V-X0pfsoMPOqGe1MOfsOMbmgRhxLp-eP5ZA)\n![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3ewjwCnrioBctcFUO1WILE-kpY8cl-HblEu6Zxu2VlS4-BAOYF3Zw1DsKXnfkCjHdB1hZVDHBrzgsGYbU5y8bsehY09E)\n1:23\n[](https://www.youtube.com/shorts/fEDm6yQGK7g) More Board Games Like Chess! #boardgames ...12K views  · 1 year ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · Grant Lyon",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "If you want to narrow down the list, let me know:Are you looking for something simple to learn or deeply complex ?\nDo you want a physical board game or an online/video game ?",
+          "markdown": "If you want to narrow down the list, let me know:\n\n- Are you looking for something **simple to learn** or **deeply complex**?\n- Do you want a **physical board game** or an **online/video game**?",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Reddit",
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/gamingsuggestions/comments/18gfsyu/looking_for_a_chess_like_game_that_isnt_chess/",
+          "title": "Looking for a Chess like game that isnt Chess - Reddit",
+          "text": "King's Table (Hnefatafl): King's Table, also known as Hnefatafl, is an ancient Norse board game that predates chess and is available as a video game on Steam: http..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Dad Suggests Books",
+          "domain": "www.dadsuggests.com",
+          "url": "https://www.dadsuggests.com/home/5-family-board-games-for-chess-lovers",
+          "title": "5 Family Board Games to Try If You Love Chess - Dad Suggests Books",
+          "text": "5. Blokus. Published by Mattel. Blokus is an incredibly fun strategy game. I love how much spatial awareness is involved in this game. · 4. Qwirkle. Published by M..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "YouTube",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=_hc8JbbRCK8&t=490",
+          "title": "If you Like Chess Try These Games!",
+          "text": "If you Like Chess Try These Games! i don't know but it's one I think we should add to our collection. maybe yeah we should we should add every game to our collecti"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Looking for a Chess like game that isnt Chess",
+        "url": "https://www.reddit.com/r/gamingsuggestions/comments/18gfsyu/looking_for_a_chess_like_game_that_isnt_chess/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "180+ comments  ·  2 years ago",
+        "website_name": "Reddit · r/gamingsuggestions",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "You should try King's Table. It's super short, unlike chess or go, but still has that chessy feel to it. It's an old like medieval Norse game. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "King's Table"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Chesslike games, but easier and funnier : r/boardgames ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/1gbo4r5/chesslike_games_but_easier_and_funnier/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "For those of you who don't like chess, what are some ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/intj/comments/1746uqb/for_those_of_you_who_dont_like_chess_what_are/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+chess+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnukZcglaUoQrhXxLORBcx_tXdqhQA:1792381295873&sa=X&ved=2ahUKEwiQ2sTTlMWXAxW9EmIAHfwcI5MQrQIoAnoECCkQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "Which games boost IQ?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Is chess dying or growing?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are 10 classic board games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some alternative chess games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+        "domain": "en.wikipedia.org",
+        "title": "List of abstract strategy games",
+        "url": "https://en.wikipedia.org/wiki/List_of_abstract_strategy_games",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://en.wikipedia.org › wiki › List_of_abstract_strate...",
+        "website_name": "Wikipedia",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Chess and chess-like games · Apocalypse (1976) · Arimaa (2002) · Chaturaji (India) (~1000–1200) · Chaturanga (Indian chess) (~6th century) · Chess (Western chess) (~ ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Apocalypse (1976"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Chess and chess-like games",
+          "description": null,
+          "url": "https://en.wikipedia.org/wiki/List_of_abstract_strategy_games#Chess_and_chess-like_games",
+          "domain": "en.wikipedia.org"
+         },
+         {
+          "type": "link_element",
+          "title": "\"N-in-a-row\" games",
+          "description": null,
+          "url": "https://en.wikipedia.org/wiki/List_of_abstract_strategy_games#%22N-in-a-row%22_games",
+          "domain": "en.wikipedia.org"
+         },
+         {
+          "type": "link_element",
+          "title": "Annihilation games",
+          "description": null,
+          "url": "https://en.wikipedia.org/wiki/List_of_abstract_strategy_games#Annihilation_games",
+          "domain": "en.wikipedia.org"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Games that are \"like Chess, but...\"",
+        "url": "https://boardgamegeek.com/geeklist/172350/games-that-are-like-chess-but",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › geeklist › games-that-are-...",
+        "website_name": "BoardGameGeek",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "boardgame geek · 1. Siege · 2. Courtyard · 3. Chess Empire · 4. All The King's Men · 5. Feudal · 6. For the Crown (Second Edition) · 7. Tile Chess · 8. Essentia. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "games like chess from boardgamegeek.com",
+          "url": "https://boardgamegeek.com/geeklist/172350/games-that-are-like-chess-but",
+          "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-6a314c54313e:5"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1. Siege"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://boardgamegeek.com/geeklist/172350/games-that-are-like-chess-but#:~:text=Sign%20In&text=1.,Siege&text=2.,Courtyard&text=3.,Chess%20Empire&text=4.,All%20The%20King's%20Men&text=5.,Feudal&text=6.,For%20the%20Crown%20(Second%20Edition)&text=7.,Tile%20Chess&text=8.,Essentia",
+          "domain": "boardgamegeek.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+        "domain": "www.chessusa.com",
+        "title": "Strategy Games Like Chess",
+        "url": "https://www.chessusa.com/category/other-games.html",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.chessusa.com › category › other-games",
+        "website_name": "Your Move Chess & Games",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "On top of our extensive chess collection, we stock numerous strategy games like chess. You'll find backgammon, checkers, Mah-Jong, cribbage, dominoes, ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "games like chess from www.chessusa.com",
+          "url": "https://www.chessusa.com/category/other-games.html",
+          "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-6a314c54313e:6"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "backgammon, checkers, Mah-Jong, cribbage, dominoes"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "video",
+        "rank_group": 1,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]",
+        "items": [
+         {
+          "type": "video_element",
+          "source": "YouTube · Foster the Meeple",
+          "title": "If you Like Chess Try These Games!",
+          "timestamp": "2024-08-10 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=_hc8JbbRCK8"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · Board Game Bonkers",
+          "title": "10 Board Games Better Than Chess",
+          "timestamp": "2024-08-24 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=s1c3UDR1S7w"
+         },
+         {
+          "type": "video_element",
+          "source": "BoardGameGeek · The Dice Tower",
+          "title": "10 Games Better Than Chess - with Tom Vasel | Video",
+          "timestamp": "2017-08-08 00:00:00 +00:00",
+          "url": "https://boardgamegeek.com/video/145159/chess/10-games-better-than-chess-with-tom-vasel"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+        "domain": "www.chess.com",
+        "title": "Strategy games other than chess - Chess Forums",
+        "url": "https://www.chess.com/forum/view/general/strategy-games-other-than-chess",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.chess.com › forum › view › general › strat...",
+        "website_name": "Chess.com",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Nov 4, 2016 — There are classic board games like chinese checkers, othello, etc. \"Yinsh\". Chinese chess or xiang qi. like Forge of Empires, which has turn- ...",
+        "pre_snippet": "11/04/2016 00:00:00",
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "games like chess from www.chess.com",
+          "url": "https://www.chess.com/forum/view/general/strategy-games-other-than-chess",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROpTll3IzixI3fN2TXYa80HvfuOwo3qyU86eWp72rnfTXhUPR6ItoO&usqp=CAE&s"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "chinese checkers"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2016-11-04 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+        "domain": "www.dadsuggests.com",
+        "title": "5 Family Board Games to Try If You Love Chess",
+        "url": "https://www.dadsuggests.com/home/5-family-board-games-for-chess-lovers",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.dadsuggests.com › home › 5-family-board...",
+        "website_name": "Dad Suggests Books",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Mar 2, 2019 — 5. Blokus · 4. Qwirkle · 3. Othello · 2. Santorini · 1. Onitama. Read more",
+        "pre_snippet": "03/02/2019 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Blokus"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.dadsuggests.com/home/5-family-board-games-for-chess-lovers#:~:text=5.%20Blokus&text=4.%20Qwirkle&text=3.%20Othello&text=2.%20Santorini&text=1.%20Onitama",
+          "domain": "www.dadsuggests.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2019-03-02 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+        "domain": "www.amazon.com",
+        "title": "Games Like Chess",
+        "url": "https://www.amazon.com/games-like-chess/s?k=games+like+chess",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.amazon.com › games-like-chess › k=games+...",
+        "website_name": "Amazon.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Chain Triangle Chess Game, Strategy Board Games for Kid 6-8-12, Chess Board Games for Adults, Family Games for Kids Adults, Triangle Rubber Band Game, 2 to ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Chain Triangle Chess Game"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.amazon.com/games-like-chess/s?k=games+like+chess#:~:text=Chain%20Triangle%20Chess%20Game%2C%20Strategy,Players%2C%20Kids%20Christmas%20Birthday%20Gifts",
+          "domain": "www.amazon.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+        "domain": "particula-tech.com",
+        "title": "Top 15 Games Like Chess for Strategy Enthusiasts",
+        "url": "https://particula-tech.com/blogs/news/games-like-chess?srsltid=AU7gw4Xqi4G1XR3zZkt0qLe-KU0nJy__PWdaI9Iy0O06cyEtC0c9uO4H",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://particula-tech.com › blogs › news › games-like-ch...",
+        "website_name": "Particula",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Mar 3, 2025 — 15 Best Strategy Games Like Chess · 1. Shogi (Japanese Chess) · 2. Hive · 3. Go · 4. Onitama · 5. Tigris & Euphrates · 6. Twilight Struggle · 7. Read more",
+        "pre_snippet": "03/03/2025 00:00:00",
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "games like chess from particula-tech.com",
+          "url": "https://particula-tech.com/blogs/news/games-like-chess?srsltid=AU7gw4Xqi4G1XR3zZkt0qLe-KU0nJy__PWdaI9Iy0O06cyEtC0c9uO4H",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHvuMWaSD3aHHoAmR1CrB96z6XuwoXDOk627CGugg-fyguQ5m4lQxy&usqp=CAE&s"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1. Shogi (Japanese Chess"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Best Strategy Games Like Chess",
+          "description": null,
+          "url": "https://particula-tech.com/blogs/news/games-like-chess#best-strategy-games-like-chess",
+          "domain": "particula-tech.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Hive",
+          "description": null,
+          "url": "https://particula-tech.com/blogs/news/games-like-chess#hive",
+          "domain": "particula-tech.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Onitama",
+          "description": null,
+          "url": "https://particula-tech.com/blogs/news/games-like-chess#onitama",
+          "domain": "particula-tech.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Chess 960 (Fischer Random...",
+          "description": null,
+          "url": "https://particula-tech.com/blogs/news/games-like-chess#chess-960",
+          "domain": "particula-tech.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-03-03 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[15]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Games like chess online",
+         "Onitama",
+         "Games like chess reddit",
+         "Games like chess with friends",
+         "Modern games like chess",
+         "Board games like chess",
+         "Games like chess and checkers",
+         "Old games like chess"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

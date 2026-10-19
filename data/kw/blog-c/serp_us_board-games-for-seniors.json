@@ -1,0 +1,1295 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "5.6723 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190343-2588-0139-0000-c75442c85fbb",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "5.6037 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "board games for seniors",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "board games for seniors",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=board%20games%20for%20seniors&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:43:39 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "popular_products",
+       "related_searches"
+      ],
+      "se_results_count": 179,
+      "pages_count": 1,
+      "items_count": 14,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "![Different Board Games That are Great for Seniors](https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-c75442c85fbb:4)\nChoosing board games for elderly players depends on cognitive health, physical dexterity, and social goals.[[1]](https://harrisonbayseniorliving.com/board-games-for-seniors/)[[2]](https://www.facebook.com/groups/theboardgamegroup/posts/25754513567509319/)\n\n### Top Board & Tabletop Games for Seniors\n\n- **Scrabble / Deluxe Scrabble:** Great for vocabulary and memory, especially with large-print or low-vision accessible editions.\n- **Bingo (Large Text / Assistex):** Ideal for memory care, low vision, and group settings; features easy-to-hold thick cards and double-sided matching or math variations.\n- **Rummikub:** Fosters pattern recognition, logic, and tile-handling skills without heavy reading.\n- **Dominoes (including Mexican Train):** Tactile, social, and straightforward, requiring logical placement rather than complex rules.\n- **Ticket to Ride:** Involves light route-building strategy and geography, keeping the pace smooth and engaging.\n- **Chess or Checkers:** Timeless logic games that support concentration, memory, and cognitive maintenance.\n- **Classic Card Games (Bridge, Euchre, Rummy, UNO):** Favored in communities for maintaining memory and driving social interaction.[[1]](https://www.reddit.com/r/boardgames/comments/uoxlwg/board_games_for_the_elderly/)[[2]](https://bestqualityhomecareagency.com/board-games-seniors/)[[3]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:14690690758046051042,catalogid:10470830129057174644,gpcid:15601985744388867454,mid:576462809023514716&ibp=oshop)[[4]](https://harrisonbayseniorliving.com/board-games-for-seniors/)[[5]](https://www.woodsofcaledonia.com/our-favorite-board-games-and-card-games-for-seniors/)[[6]](https://washingtonpointe.com/best-board-games-for-seniors-in-2025/)\n\n### What to Look For When Choosing\n\n- **Physical Accessibility:** Large-print boards, high-contrast colors, and chunky, easy-to-grip wooden or plastic pieces for arthritis or tremors.\n- **Cognitive Fit:** Simple rules and flexible pacing for memory loss or dementia, or deeper strategy for sharp minds.\n- **Community Resources:** Explore curated lists on platforms like [BoardGameGeek](https://boardgamegeek.com/geeklist/197463/games-geared-towards-the-elderly-population) for ideas shared by caregivers.[[1]](https://boardgamegeek.com/geeklist/197463/games-geared-towards-the-elderly-population)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:14690690758046051042,catalogid:10470830129057174644,gpcid:15601985744388867454,mid:576462809023514716&ibp=oshop)[[3]](https://bestqualityhomecareagency.com/board-games-seniors/)\n\nIf you'd like to narrow down the choices, tell me:\n\n- Who is playing (solo, with grandchildren, or in a care home)?\n- Are there any specific **vision, memory, or hand-dexterity** needs to keep in mind?",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Choosing board games for elderly players depends on cognitive health, physical dexterity, and social goals.",
+          "markdown": "![Different Board Games That are Great for Seniors](https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-c75442c85fbb:2)\nChoosing board games for elderly players depends on cognitive health, physical dexterity, and social goals.[[1]](https://harrisonbayseniorliving.com/board-games-for-seniors/)[[2]](https://www.facebook.com/groups/theboardgamegroup/posts/25754513567509319/)",
+          "links": null,
+          "images": [
+           {
+            "type": "images_element",
+            "alt": "Different Board Games That are Great for Seniors",
+            "url": null,
+            "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-c75442c85fbb:3"
+           }
+          ],
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Harrison Bay Senior Living",
+            "domain": "harrisonbayseniorliving.com",
+            "url": "https://harrisonbayseniorliving.com/board-games-for-seniors/",
+            "title": "Board Games for Seniors | Mound, MN",
+            "text": "Benefits: Stimulates cognitive skills (delays decline), fosters social connections (reduces loneliness), brightens mood, and relie..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Facebook",
+            "domain": "www.facebook.com",
+            "url": "https://www.facebook.com/groups/theboardgamegroup/posts/25754513567509319/",
+            "title": "Board games for seniors and memory care?",
+            "text": "What is the best game for seniors? There isn't one single \"best\" game for seniors — it depends on whether you want something activ..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Top Board & Tabletop Games for Seniors",
+          "text": "Scrabble / Deluxe Scrabble: Great for vocabulary and memory, especially with large-print or low-vision accessible editions. Bingo (Large Text / Assistex): Ideal for memory care, low vision, and group settings; features easy-to-hold thick cards and double-sided matching or math variations. Rummikub: Fosters pattern recognition, logic, and tile-handling skills without heavy reading. Dominoes (including Mexican Train): Tactile, social, and straightforward, requiring logical placement rather than complex rules. Ticket to Ride: Involves light route-building strategy and geography, keeping the pace smooth and engaging. Chess or Checkers: Timeless logic games that support concentration, memory, and cognitive maintenance. Classic Card Games (Bridge, Euchre, Rummy, UNO): Favored in communities for maintaining memory and driving social interaction.",
+          "markdown": "- **Scrabble / Deluxe Scrabble:** Great for vocabulary and memory, especially with large-print or low-vision accessible editions.\n- **Bingo (Large Text / Assistex):** Ideal for memory care, low vision, and group settings; features easy-to-hold thick cards and double-sided matching or math variations.\n- **Rummikub:** Fosters pattern recognition, logic, and tile-handling skills without heavy reading.\n- **Dominoes (including Mexican Train):** Tactile, social, and straightforward, requiring logical placement rather than complex rules.\n- **Ticket to Ride:** Involves light route-building strategy and geography, keeping the pace smooth and engaging.\n- **Chess or Checkers:** Timeless logic games that support concentration, memory, and cognitive maintenance.\n- **Classic Card Games (Bridge, Euchre, Rummy, UNO):** Favored in communities for maintaining memory and driving social interaction.[[1]](https://www.reddit.com/r/boardgames/comments/uoxlwg/board_games_for_the_elderly/)[[2]](https://bestqualityhomecareagency.com/board-games-seniors/)[[3]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:14690690758046051042,catalogid:10470830129057174644,gpcid:15601985744388867454,mid:576462809023514716&ibp=oshop)[[4]](https://harrisonbayseniorliving.com/board-games-for-seniors/)[[5]](https://www.woodsofcaledonia.com/our-favorite-board-games-and-card-games-for-seniors/)[[6]](https://washingtonpointe.com/best-board-games-for-seniors-in-2025/)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/boardgames/comments/uoxlwg/board_games_for_the_elderly/",
+            "title": "Board games for the elderly? : r/boardgames - Reddit",
+            "text": "Trick-Taking Games: Trick-taking card games such as The Crew, Skull King, Euchre, Bridge, and Hearts are particularly well-suited ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Best Quality Home Care Agency",
+            "domain": "bestqualityhomecareagency.com",
+            "url": "https://bestqualityhomecareagency.com/board-games-seniors/",
+            "title": "The Best Board Games for Seniors: Beat Boredom and Stay Sharp - Best Quality Home Care Agency",
+            "text": "Cognitive and Social Benefits: Board games improve cognitive function, memory, problem-solving, and strategic thinking, while redu..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Google",
+            "domain": "www.google.com",
+            "url": "https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:14690690758046051042,catalogid:10470830129057174644,gpcid:15601985744388867454,mid:576462809023514716&ibp=oshop",
+            "title": "Assistex Large Text Bingo Games for Seniors 11 Double Sided Board Games for Dementia Patients Easy to Hold Alzheimers Games Elder Games Activity Board",
+            "text": "BINGO GAMES FOR SENIORS WITH DEMENTIA: Specifically designed for individuals with dementia, Alzheimer's, and memory issues, this b..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Harrison Bay Senior Living",
+            "domain": "harrisonbayseniorliving.com",
+            "url": "https://harrisonbayseniorliving.com/board-games-for-seniors/",
+            "title": "Board Games for Seniors | Mound, MN",
+            "text": "Benefits: Stimulates cognitive skills (delays decline), fosters social connections (reduces loneliness), brightens mood, and relieves stress. Selection Criteria: S..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Woods of Caledonia",
+            "domain": "www.woodsofcaledonia.com",
+            "url": "https://www.woodsofcaledonia.com/our-favorite-board-games-and-card-games-for-seniors/",
+            "title": "Our Favorite Board Games and Card Games for Seniors - Woods of Caledonia",
+            "text": "Benefits: Cognitive health maintenance, memory/focus support, reduced loneliness/depression, social bonding. Card Games: Bridge (f..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Washington Pointe Las Colinas",
+            "domain": "washingtonpointe.com",
+            "url": "https://washingtonpointe.com/best-board-games-for-seniors-in-2025/",
+            "title": "Best Board Games for Seniors in 2025 - Washington Pointe Las Colinas",
+            "text": "Top 8 Board Games for Seniors in 2025. Here are 8 board game ideas for seniors to try this year. · Chess. Chess is a classic strat..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "What to Look For When Choosing",
+          "text": "Physical Accessibility: Large-print boards, high-contrast colors, and chunky, easy-to-grip wooden or plastic pieces for arthritis or tremors. Cognitive Fit: Simple rules and flexible pacing for memory loss or dementia, or deeper strategy for sharp minds. Community Resources: Explore curated lists on platforms like BoardGameGeek for ideas shared by caregivers.",
+          "markdown": "- **Physical Accessibility:** Large-print boards, high-contrast colors, and chunky, easy-to-grip wooden or plastic pieces for arthritis or tremors.\n- **Cognitive Fit:** Simple rules and flexible pacing for memory loss or dementia, or deeper strategy for sharp minds.\n- **Community Resources:** Explore curated lists on platforms like [BoardGameGeek](https://boardgamegeek.com/geeklist/197463/games-geared-towards-the-elderly-population) for ideas shared by caregivers.[[1]](https://boardgamegeek.com/geeklist/197463/games-geared-towards-the-elderly-population)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:14690690758046051042,catalogid:10470830129057174644,gpcid:15601985744388867454,mid:576462809023514716&ibp=oshop)[[3]](https://bestqualityhomecareagency.com/board-games-seniors/)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "BoardGameGeek",
+            "description": null,
+            "url": "https://boardgamegeek.com/geeklist/197463/games-geared-towards-the-elderly-population",
+            "domain": "boardgamegeek.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BoardGameGeek",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/geeklist/197463/games-geared-towards-the-elderly-population",
+            "title": "Games Geared Towards the Elderly Population | BoardGameGeek",
+            "text": "Criteria for elderly/nursing home players: easy to play, easy to teach, simple, fun, adaptable for sensory/memory issues like Alzh..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Google",
+            "domain": "www.google.com",
+            "url": "https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:14690690758046051042,catalogid:10470830129057174644,gpcid:15601985744388867454,mid:576462809023514716&ibp=oshop",
+            "title": "Assistex Large Text Bingo Games for Seniors 11 Double Sided Board Games for Dementia Patients Easy to Hold Alzheimers Games Elder Games Activity Board",
+            "text": "BINGO GAMES FOR SENIORS WITH DEMENTIA: Specifically designed for individuals with dementia, Alzheimer's, and memory issues, this b..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Best Quality Home Care Agency",
+            "domain": "bestqualityhomecareagency.com",
+            "url": "https://bestqualityhomecareagency.com/board-games-seniors/",
+            "title": "The Best Board Games for Seniors: Beat Boredom and Stay Sharp - Best Quality Home Care Agency",
+            "text": "Cognitive and Social Benefits: Board games improve cognitive function, memory, problem-solving, and strategic thinking, while redu..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "If you'd like to narrow down the choices, tell me:Who is playing (solo, with grandchildren, or in a care home)?\nAre there any specific vision, memory, or hand-dexterity needs to keep in mind?",
+          "markdown": "If you'd like to narrow down the choices, tell me:\n\n- Who is playing (solo, with grandchildren, or in a care home)?\n- Are there any specific **vision, memory, or hand-dexterity** needs to keep in mind?",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Reddit",
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/boardgames/comments/uoxlwg/board_games_for_the_elderly/",
+          "title": "Board games for the elderly? : r/boardgames - Reddit",
+          "text": "Trick-Taking Games: Trick-taking card games such as The Crew, Skull King, Euchre, Bridge, and Hearts are particularly well-suited for elderly players, as many have..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "BoardGameGeek",
+          "domain": "boardgamegeek.com",
+          "url": "https://boardgamegeek.com/geeklist/197463/games-geared-towards-the-elderly-population",
+          "title": "Games Geared Towards the Elderly Population | BoardGameGeek",
+          "text": "Criteria for elderly/nursing home players: easy to play, easy to teach, simple, fun, adaptable for sensory/memory issues like Alzheimer's and dementia. Recommended..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Harrison Bay Senior Living",
+          "domain": "harrisonbayseniorliving.com",
+          "url": "https://harrisonbayseniorliving.com/board-games-for-seniors/",
+          "title": "Board Games for Seniors | Mound, MN",
+          "text": "Benefits: Stimulates cognitive skills (delays decline), fosters social connections (reduces loneliness), brightens mood, and relieves stress. Selection Criteria: S..."
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]",
+        "domain": "bestqualityhomecareagency.com",
+        "title": "The Best Board Games for Seniors: Beat Boredom and ...",
+        "url": "https://bestqualityhomecareagency.com/board-games-seniors/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://bestqualityhomecareagency.com › Caregiving",
+        "website_name": "Best Quality Home Care Agency",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "1. What are the best board games for seniors? Classic games like Scrabble, chess, and dominoes are always great choices because they challenge the mind and help ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Classic games like Scrabble, chess, and dominoes"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://bestqualityhomecareagency.com/board-games-seniors/#:~:text=1.%20What%20are%20the%20best,mind%20and%20help%20with%20memory.",
+          "domain": "bestqualityhomecareagency.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some good board games for older adults?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Which is the best game for the elderly?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some good table games for senior citizens?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some fun games for 80-year-olds?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Board games for the elderly? : r/boardgames",
+        "url": "https://www.reddit.com/r/boardgames/comments/uoxlwg/board_games_for_the_elderly/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "110+ comments  ·  4 years ago",
+        "website_name": "Reddit · r/boardgames",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Just had a very successful game night with my 80yo grandparents and am looking for suggestions or anybody's experiences with introducing older people ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Seeking Board Game Ideas for Elderly Friendship Clubs",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/16gsn12/seeking_board_game_ideas_for_elderly_friendship/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Enjoyable board games for the elderly. : r/boardgames",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/1mb765/enjoyable_board_games_for_the_elderly/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=board+games+for+seniors+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnsuRuGKQb11kCzHDs6PceuEJB7sSA:1792381416362&sa=X&ved=2ahUKEwjO7_6MlcWXAxWTBdsEHcLuEmwQrQIoAnoECC8QAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[8]/div[1]/div[1]",
+        "domain": "thetabletopfamily.com",
+        "title": "50+ Dementia Friendly Board Games: Fun Games for ...",
+        "url": "https://thetabletopfamily.com/50-dementia-friendly-board-games-fun-games-for-elderly-family-bonding/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://thetabletopfamily.com › Blog",
+        "website_name": "The Tabletop Family",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "UNO, Rush Hour, Zingo, and Color Code. Blink Uno Ticket to Ride First Journey Simon Scrabble Rush Up Yahtzee Shut the Box. Go Fish Classic Card Games Tetris  ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "UNO, Rush Hour, Zingo, and Color Code"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[10]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What are some senior-friendly board games for beginners?",
+        "url": "https://www.facebook.com/groups/132851767828/posts/10164494734452829/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "210+ comments  ·  4 months ago",
+        "website_name": "Facebook · BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Hi there! My husband and I have started to attend a seniors boardgame weekly meet up.  The only things they're playing are bridge (yeah, not a boardgame) ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Fun board games for older adults? - Facebook",
+          "description": null,
+          "url": "https://www.facebook.com/groups/1113731255368861/posts/31266310013017588/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Board games for seniors and memory care? - Facebook",
+          "description": null,
+          "url": "https://www.facebook.com/groups/theboardgamegroup/posts/25754513567509319/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.facebook.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=board+games+for+seniors+site:www.facebook.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnsuRuGKQb11kCzHDs6PceuEJB7sSA:1792381416362&sa=X&ved=2ahUKEwjO7_6MlcWXAxWTBdsEHcLuEmwQrQIoAnoECD8QAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[12]/div[1]/div[1]",
+        "domain": "www.woodsofcaledonia.com",
+        "title": "Our Favorite Board Games and Card Games for Seniors",
+        "url": "https://www.woodsofcaledonia.com/our-favorite-board-games-and-card-games-for-seniors/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.woodsofcaledonia.com › our-favorite-boar...",
+        "website_name": "Woods of Caledonia",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jul 17, 2025 — Beloved Board Games that Stand the Test of Time · Scrabble · Checkers and Chess · Monopoly · Trivial Pursuit. For seniors with a love for ... Read more",
+        "pre_snippet": "07/17/2025 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Scrabble"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.woodsofcaledonia.com/our-favorite-board-games-and-card-games-for-seniors/#:~:text=Beloved%20Board%20Games%20that%20Stand,the%20Test%20of%20Time&text=Scrabble&text=Checkers%20and%20Chess&text=Monopoly&text=Trivial%20Pursuit,Trivial%20Pursuit%20is%20a%20hit.",
+          "domain": "www.woodsofcaledonia.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-07-17 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 1,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[14]/div[1]",
+        "title": "More products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "TDC Games Senior Moments Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+seniors&prds=gpcid:5866828534490863010,rds:PC_5866828534490863010%7CPROD_PC_5866828534490863010,headlineOfferDocid:12608237772320766404,catalogid:14118915855322960618,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Current Catalog & more",
+          "more_sellers": true,
+          "seller": "Current Catalog",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-c75442c85fbb:5",
+          "price": {
+           "current": 21.74,
+           "regular": 29,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$21.74 $29"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 3.9,
+           "votes_count": 22,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "14118915855322960618",
+           "data_docid": "12950331092636762656",
+           "gid": "5866828534490863010"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Rummikub Game For Seniors With Dementia",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+seniors&prds=gpcid:15709859602541395118,rds:PC_15709859602541395118%7CPROD_PC_15709859602541395118,headlineOfferDocid:8931214524416887806,catalogid:13206888350690262408,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Always Home Connected",
+          "more_sellers": false,
+          "seller": "Always Home Connected",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-c75442c85fbb:6",
+          "price": {
+           "current": 29.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$29.99"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": "13206888350690262408",
+           "data_docid": "16190797842757806256",
+           "gid": "15709859602541395118"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Tapple Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+seniors&prds=gpcid:11810378174198701195,rds:PC_11810378174198701195%7CPROD_PC_11810378174198701195,headlineOfferDocid:10031317219251992778,catalogid:11735642665355992479,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-c75442c85fbb:7",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 1200,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "11735642665355992479",
+           "data_docid": "16947985508799951895",
+           "gid": "11810378174198701195"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Blokus Game Mattel",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+seniors&prds=gpcid:7924246940660862581,rds:PC_7924246940660862581%7CPROD_PC_7924246940660862581,headlineOfferDocid:14584046483776891179,catalogid:2202277888957060292,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Walmart & more",
+          "more_sellers": true,
+          "seller": "Walmart",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-c75442c85fbb:8",
+          "price": {
+           "current": 19.97,
+           "regular": 36,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.97 $36"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 2100,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "2202277888957060292",
+           "data_docid": "2505948692565611378",
+           "gid": "7924246940660862581"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Hasbro Scrabble Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+seniors&prds=gpcid:12658594374949087019,rds:PC_12658594374949087019%7CPROD_PC_12658594374949087019,headlineOfferDocid:2934969058244723033,catalogid:15947217616106586279,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Bass Pro Shops & more\nFree delivery on $50+",
+          "more_sellers": true,
+          "seller": "Bass Pro Shops",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-c75442c85fbb:9",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 14000,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "15947217616106586279",
+           "data_docid": "488970084064830603",
+           "gid": "12658594374949087019"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Sequence Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+seniors&prds=gpcid:6632064365866088189,rds:PC_6632064365866088189%7CPROD_PC_6632064365866088189,headlineOfferDocid:7457695301141535648,catalogid:9541697418058220836,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Happy You, Happy Family & more\nFree delivery on $49+",
+          "more_sellers": true,
+          "seller": "Happy You, Happy Family",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-c75442c85fbb:10",
+          "price": {
+           "current": 9.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$9.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 1500,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "9541697418058220836",
+           "data_docid": "10254247644689435130",
+           "gid": "6632064365866088189"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Qwirkle Game For Seniors With Dementia",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+seniors&prds=gpcid:16478988554808510377,rds:PC_16478988554808510377%7CPROD_PC_16478988554808510377,headlineOfferDocid:12198197488068096892,catalogid:1757745301184169417,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Always Home Connected",
+          "more_sellers": false,
+          "seller": "Always Home Connected",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-c75442c85fbb:11",
+          "price": {
+           "current": 29.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$29.99"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": "1757745301184169417",
+           "data_docid": "7958760348934444198",
+           "gid": "16478988554808510377"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Tsuro The Game of The Path",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+seniors&prds=gpcid:12734037772411270241,rds:PC_12734037772411270241%7CPROD_PC_12734037772411270241,headlineOfferDocid:6562164149768922729,catalogid:6289030398921314873,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-c75442c85fbb:12",
+          "price": {
+           "current": 26.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$26.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 121,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "6289030398921314873",
+           "data_docid": "983287754596589045",
+           "gid": "12734037772411270241"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[16]/div[1]/div[1]",
+        "domain": "washingtonpointe.com",
+        "title": "Best Board Games for Seniors in 2025",
+        "url": "https://washingtonpointe.com/best-board-games-for-seniors-in-2025/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://washingtonpointe.com › Health & Wellness",
+        "website_name": "Washington Pointe Las Colinas",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Nov 22, 2024 — Top 8 Board Games for Seniors in 2025 · Chess · Scrabble · Ticket to Ride · Memory Lane · Puzzle Pursuit · Social Circles · Mini Express. Read more",
+        "pre_snippet": "11/22/2024 00:00:00",
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "board games for seniors from washingtonpointe.com",
+          "url": "https://washingtonpointe.com/best-board-games-for-seniors-in-2025/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnacgDm-t23Deb_b8oZQvzVlZcUBW19wkhqpCfUd43drFIO0iYse8Z&usqp=CAE&s"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Chess"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://washingtonpointe.com/best-board-games-for-seniors-in-2025/#:~:text=Top%208%20Board%20Games%20for,Seniors%20in%202025&text=Chess&text=Scrabble&text=Ticket%20to%20Ride&text=Memory%20Lane&text=Puzzle%20Pursuit&text=Social%20Circles&text=Mini%20Express",
+          "domain": "washingtonpointe.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2024-11-22 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[18]/div[1]/div[1]",
+        "domain": "www.target.com",
+        "title": "Fun Board Games for Elderly & Senior Citizens",
+        "url": "https://www.target.com/s/games+for+seniors",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.target.com › Toys & Games",
+        "website_name": "Target",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Discover a variety of engaging games for seniors, including board games like Connect 4, Scrabble, and Azul. Perfect for family fun, these senior board games ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 7,
+         "regular": null,
+         "max_value": 172,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$7 to $172"
+        },
+        "highlighted": [
+         "board games like Connect 4, Scrabble, and Azul"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 2,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[20]/div[1]",
+        "title": "More products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Keeping Busy Wooden Sudoku Board Game Dementia Activities for Seniors",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+seniors&prds=gpcid:18440356669209078822,rds:PC_18440356669209078822%7CPROD_PC_18440356669209078822,headlineOfferDocid:1892504970295978269,catalogid:10871063809144706924,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "KeepingBusy\nFree delivery on $50+",
+          "more_sellers": false,
+          "seller": "KeepingBusy",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTqDw9pP-iK39C8gxkTi1hLxG6hKIOOsVhrwWC5vciCsxe1PB_4RUWcLMYUoI9cW95GMqVJ8lA-hu3-704wh4nMi6boIn7Veiw1tgy2ia2J9zObHpygzL8C-w",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": "10871063809144706924",
+           "data_docid": "1419211358004493534",
+           "gid": "18440356669209078822"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Big Potato Games Herd Mentality Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+seniors&prds=gpcid:15184972706700881569,rds:PC_15184972706700881569%7CPROD_PC_15184972706700881569,headlineOfferDocid:6913960651553509498,catalogid:2861622160605468726,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Kohl's & more",
+          "more_sellers": true,
+          "seller": "Kohl's",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTea5O8hjrDc8MpDbdpHYOZnQ9tK2RwbJIpoNj9j4oFgeZJEW-hIY8zE9pyr_yh85uYS_uHmNPXOdQbaIJHtG-4OWq3CG-7oRBhDRkiOGaEwlClDK-4Hat0lw",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 99,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "2861622160605468726",
+           "data_docid": "2714041716578834644",
+           "gid": "15184972706700881569"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Hasbro Scattergories Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+seniors&prds=gpcid:9215754047375474717,rds:PC_9215754047375474717%7CPROD_PC_9215754047375474717,headlineOfferDocid:2648474267347570703,catalogid:9501865280450797895,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "eBay & more",
+          "more_sellers": true,
+          "seller": "eBay",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRVedWMNv2uU-HNMI-EuwRQrp2r0cxi67_MHDlzihBcasG6ghKKJuok4q5xWwjY86itaiD370nbVsc8cFoYwGu4SVUXhSaGphj7jvseTgNnm31KTtDDZX3_",
+          "price": {
+           "current": 15.95,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$15.95"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 209,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "9501865280450797895",
+           "data_docid": "17473367301678581503",
+           "gid": "9215754047375474717"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "In a Nutshell",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+seniors&prds=gpcid:10293734974333483255,rds:PC_10293734974333483255%7CPROD_PC_10293734974333483255,headlineOfferDocid:17678279115363876254,catalogid:13986485254596876949,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRiNEWBTRWtYRUcLswmdBG6VAZ_pkksVy1U3HwZG6-bTmR_Qc8BCHNL3wHKp1AYhY04xyshYyZMqNsfm5YvIlt25Fq9h11HpPvM8-0rsO1Sg67V2cohopMMOA",
+          "price": {
+           "current": 20.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$20.99"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": "13986485254596876949",
+           "data_docid": "14577972685998076070",
+           "gid": "10293734974333483255"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Aggravation Winning Moves",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+seniors&prds=gpcid:1438374334077890558,rds:PC_1438374334077890558%7CPROD_PC_1438374334077890558,headlineOfferDocid:209835659890866116,catalogid:1229730817307741089,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Michaels Stores & more\nFree delivery on $50+",
+          "more_sellers": true,
+          "seller": "Michaels Stores",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQQ8-_70gv2YXfGfeT31Kco_AO6Fz0MrVnCLN5vTCeTHpmFsvi4ZHO8I6WQIr8XvzicrzE4c96sVvmkskGYDXmaN2caAma_qMgZCZ4oa9W6BmPWHueCnrYe",
+          "price": {
+           "current": 30.09,
+           "regular": 43,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$30.09 $43"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 231,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "1229730817307741089",
+           "data_docid": "7499458807390823613",
+           "gid": "1438374334077890558"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Who Am I Famous People Game for Seniors, Printable Celebrity Guessing Activity",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+seniors&prds=headlineOfferDocid:9606149173687759385,catalogid:615017527745940233,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Etsy - Seller\nFree delivery",
+          "more_sellers": false,
+          "seller": "Etsy - Seller",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTrDdu3Zg3iCQbdKyObFimMLwZKL_ayqM4iRhzruSNHAJlBBZSxeiY1SPfwekT6FVmNAi08KavzhRxyTaH928LvJo5gAGKCFrxbQTqWd-jO3e2GZS3Lb1mT",
+          "price": {
+           "current": 3.49,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$3.49"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 5,
+           "votes_count": 1,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "615017527745940233",
+           "data_docid": "8768345276431612299",
+           "gid": null
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Tetris The Board Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+seniors&prds=gpcid:7008890920991324993,rds:PC_7008890920991324993%7CPROD_PC_7008890920991324993,headlineOfferDocid:3631108229107965781,catalogid:10286819416836092269,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Poshmark & more",
+          "more_sellers": true,
+          "seller": "Poshmark",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRd8ScRcQAhxiIUzN5vSCvN5Eq4dijwFE_GjK_Mv664tKAvkbmOcHT53WgNwa_DCU0hjzrD4Y2mcYQn70IFiQvlyCwnKk-1m5PmBbrYvWU1fI4wiySJHAJf",
+          "price": {
+           "current": 13,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$13.00 Pre-owned"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 37,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "10286819416836092269",
+           "data_docid": "18341951522352755753",
+           "gid": "7008890920991324993"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Deluxe Scrabble for Low Vision",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+seniors&prds=gpcid:16033549124990766692,rds:PC_16033549124990766692%7CPROD_PC_16033549124990766692,headlineOfferDocid:3850810100893570306,catalogid:790835328176883058,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Assistech Special Needs & more",
+          "more_sellers": true,
+          "seller": "Assistech Special Needs",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTZo2gK0N799L0ghO0dHyStHIoVo0m9RL38kcnnUXoTf5m-YVQzwAAT7fJ1s1Uit5DCQch8hs1fBQSRFfQHB3lHxFBz4mR9yMhV4RnfWcTx",
+          "price": {
+           "current": 45.95,
+           "regular": null,
+           "max_value": 56,
+           "currency": "USD",
+           "is_price_range": true,
+           "displayed_price": "$45.95 Usually $56"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.1,
+           "votes_count": 18,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "790835328176883058",
+           "data_docid": "3086705847260817169",
+           "gid": "16033549124990766692"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[22]/div[1]/div[1]",
+        "domain": "www.amazon.com",
+        "title": "Board Games For Seniors",
+        "url": "https://www.amazon.com/board-games-seniors/s?k=board+games+for+seniors",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.amazon.com › board-games-seniors › k=boar...",
+        "website_name": "Amazon.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Browse senior-friendly board games featuring large print cards, easy-to-read tiles, and accessible gameplay. Perfect for all skill levels and abilities.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "senior-friendly board games"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 13,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[24]/div[1]/div[1]",
+        "domain": "www.goldencarers.com",
+        "title": "What's New in Board Games for Seniors",
+        "url": "https://www.goldencarers.com/whats-new-in-board-games-for-seniors/5288",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.goldencarers.com › whats-new-in-board-ga...",
+        "website_name": "Golden Carers",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Popular Board Games · Chinese Checkers · Scrabble Related: Giant Scrabble · Sorry (Ludo) · Monopoly Related: Active Monopoly and Home Town Monopoly · Life ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Popular Board Games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "History Of Board Games",
+          "description": null,
+          "url": "https://www.goldencarers.com/whats-new-in-board-games-for-seniors/5288#:~:text=History%20of%20Board%20Games,-Board%20games%20have%20been%20played",
+          "domain": "www.goldencarers.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Popular Board Games",
+          "description": null,
+          "url": "https://www.goldencarers.com/whats-new-in-board-games-for-seniors/5288#:~:text=Popular%20Board%20Games,-Board%20games%20became%20extremely%20popular",
+          "domain": "www.goldencarers.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Timeline Of More Recent...",
+          "description": null,
+          "url": "https://www.goldencarers.com/whats-new-in-board-games-for-seniors/5288#:~:text=Timeline%20of%20More%20Recent%20Board%20Games",
+          "domain": "www.goldencarers.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 14,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Board games for seniors with dementia",
+         "Family board games for seniors",
+         "Best board games for seniors",
+         "Best 2 player board games for seniors",
+         "Indoor board games for seniors",
+         "Best board games for seniors with dementia",
+         "Sit down games for senior citizens",
+         "Board games for elderly in nursing homes"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

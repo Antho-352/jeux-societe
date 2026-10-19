@@ -1,0 +1,1294 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.7000 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190344-2588-0139-0000-77de3c080c29",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.6366 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "board games for beginners",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "board games for beginners",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=board%20games%20for%20beginners&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:44:03 +00:00",
+      "spell": null,
+      "refinement_chips": {
+       "type": "refinement_chips",
+       "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+       "items": [
+        {
+         "type": "refinement_chips_element",
+         "title": "Best",
+         "url": "https://www.google.com/search?q=best+board+games+for+beginners&hl=en&gl=US&shoprs=EgViAwiQAxgTKhlib2FyZCBnYW1lcyBmb3IgYmVnaW5uZXJzMg8IExIEQmVzdCIFYgMIkANgAQ&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKAF6BQguEIoB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "2 Player",
+         "url": "https://www.google.com/search?q=2+player+board+games+for+beginners&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyGggBEggyIFBsYXllcjoMCOmcmgIQ65yaAjAAWNPJIGAB&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKAJ6BQguEIsB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adults",
+         "url": "https://www.google.com/search?q=adults+board+games+for+beginners&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyFggBEgZBZHVsdHM6Cgj8kG8Q_ZBvMABY08kgYAE&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKAN6BQguEIwB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids",
+         "url": "https://www.google.com/search?q=kids+board+games+for+beginners&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyFAgBEgRLaWRzOgoI_JBvEP6QbzAAWNPJIGAB&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKAR6BQguEI0B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Strategy",
+         "url": "https://www.google.com/search?q=strategy+board+games+for+beginners&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyGAgBEghTdHJhdGVneToKCKG4PhCiuD4wAFjTySBgAQ&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKAV6BQguEI4B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Free",
+         "url": "https://www.google.com/search?q=free+board+games+for+beginners&hl=en&gl=US&shoprs=GBIqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyCAgSEgRGcmVlYAE&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKAZ6BQguEI8B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Nearby",
+         "url": "https://www.google.com/search?q=board+games+for+beginners+nearby&hl=en&gl=US&shoprs=GAMqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyDAgDEgZOZWFyYnkYAljTySBgAQ&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKAd6BQguEJAB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adult Games",
+         "url": "https://www.google.com/search?q=adult+games+board+for+beginners&hl=en&gl=US&shoprs=GAkqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyDwgJEgtBZHVsdCBHYW1lc2AB&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKAh6BQguEJEB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board & Card Games",
+         "url": "https://www.google.com/search?q=board+%26+card+games+for+beginners&hl=en&gl=US&shoprs=GAkqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyFggJEhJCb2FyZCAmIENhcmQgR2FtZXNgAQ&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKAl6BQguEJIB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Single Player",
+         "url": "https://www.google.com/search?q=single+player+board+games+for+beginners&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyHwgBEg1TaW5nbGUgUGxheWVyOgwImoaeAhCbhp4CMANY08kgYAE&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKAp6BQguEJMB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "4 Player",
+         "url": "https://www.google.com/search?q=4+player+board+games+for+beginners&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyGggBEgg0IFBsYXllcjoMCOmcmgIQ7ZyaAjAAWNPJIGAB&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKAt6BQguEJQB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board Game",
+         "url": "https://www.google.com/search?q=board+game+games+for+beginners&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyHAgBEgpCb2FyZCBHYW1lOgwI1J2eAhDXnZ4CMANY08kgYAE&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKAx6BQguEJUB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Under $15",
+         "url": "https://www.google.com/search?q=board+games+for+beginners+under+$15&hl=en&gl=US&shoprs=Eg0SCxEAAAAAOJxsQRgBGAUqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyIggFEglVbmRlciAkMTUYAiINEgsRAAAAADicbEEYASoCGAFY08kgYAE&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKA16BQguEJYB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "On sale",
+         "url": "https://www.google.com/search?q=board+games+for+beginners+sale&hl=en&gl=US&shoprs=EgRKAhgBGAYqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyEwgGEgdPbiBzYWxlGAIiBEoCGAFY08kgYAE&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKA56BQguEJcB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "10+ Years",
+         "url": "https://www.google.com/search?q=10%2B+years+board+games+for+beginners&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyGwgBEgkxMCsgWWVhcnM6DAje9rUBEMeotgEwAFjTySBgAQ&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKA96BQguEJgB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Online",
+         "url": "https://www.google.com/search?q=online+board+games+for+beginners&hl=en&gl=US&shoprs=GBIqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyCggSEgZPbmxpbmVgAQ&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKBB6BQguEJkB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Family Friendly",
+         "url": "https://www.google.com/search?q=family+friendly+board+games+for+beginners&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyIQgBEg9GYW1pbHkgRnJpZW5kbHk6DAjdsZ4CEN6xngIwA1jTySBgAQ&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKBF6BQguEJoB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adult",
+         "url": "https://www.google.com/search?q=adult+board+games+for+beginners&hl=en&gl=US&shoprs=GBIqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyCQgSEgVBZHVsdGAB&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKBJ6BQguEJsB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Classic",
+         "url": "https://www.google.com/search?q=classic+board+games+for+beginners&hl=en&gl=US&shoprs=GBIqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyCwgSEgdDbGFzc2ljYAE&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKBN6BQguEJwB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids' Games",
+         "url": "https://www.google.com/search?q=kids'+games+board+for+beginners&hl=en&gl=US&shoprs=GAkqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyDwgJEgtLaWRzJyBHYW1lc2AB&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKBR6BQguEJ0B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Card Game",
+         "url": "https://www.google.com/search?q=card+game+board+games+for+beginners&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyGwgBEglDYXJkIEdhbWU6DAi2wvcBELfC9wEwA1jTySBgAQ&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKBV6BQguEJ4B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "2 players or more",
+         "url": "https://www.google.com/search?q=2+players+or+more+board+games+for+beginners&hl=en&gl=US&shoprs=EhsqGQiPmdQCEhIJAAAAAAAAAEARAAAAAAAAAEAYASoZYm9hcmQgZ2FtZXMgZm9yIGJlZ2lubmVyczJBCAESETIgcGxheWVycyBvciBtb3JlIhsqGQiPmdQCEhIJAAAAAAAAAEARAAAAAAAAAEAqAhgBOgkIj5nUAhAAMAZY08kgYAE&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKBZ6BQguEJ8B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Black",
+         "url": "https://www.google.com/search?q=black+board+games+for+beginners&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyFwgBEgVCbGFjazoMCNiM9QEQ5Yr1ATALWNPJIGAB&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKBd6BQguEKAB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "8+ Years",
+         "url": "https://www.google.com/search?q=8%2B+years+board+games+for+beginners&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyGggBEgg4KyBZZWFyczoMCN72tQEQxai2ATAAWNPJIGAB&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKBh6BQguEKEB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Buy",
+         "url": "https://www.google.com/search?q=buy+board+games+for+beginners&hl=en&gl=US&shoprs=GBIqGWJvYXJkIGdhbWVzIGZvciBiZWdpbm5lcnMyBwgSEgNCdXlgAQ&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQip4GKBl6BQguEKIB",
+         "domain": "www.google.com",
+         "options": null
+        }
+       ]
+      },
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "popular_products",
+       "video",
+       "related_searches"
+      ],
+      "se_results_count": 215,
+      "pages_count": 1,
+      "items_count": 14,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": true,
+        "markdown": null,
+        "items": null,
+        "references": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+        "domain": "whatsericplaying.com",
+        "title": "Great First Board Games",
+        "url": "https://whatsericplaying.com/great-first-board-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://whatsericplaying.com › great-first-board-games",
+        "website_name": "What's Eric Playing?",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "New to the hobby? Start here! Explore the best introductory board games for beginners that are easy to learn, fun to play, and perfect for game night.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "best introductory board games for beginners"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Boardgamers, what is your favorite entry level game?",
+        "url": "https://www.reddit.com/r/boardgames/comments/8fs72q/boardgamers_what_is_your_favorite_entry_level_game/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "120+ comments  ·  8 years ago",
+        "website_name": "Reddit · r/boardgames",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Carcassonne or Lanterns or Takenoko - Intro to Tile Placing. Dominion or Star Realms - Intro to Deck Building. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Carcassonne or Lanterns or Takenoko"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "What are some popular, classic, or even trending ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/1nn0un9/what_are_some_popular_classic_or_even_trending/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What are some good beginner games with basic ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/164w2tg/what_are_some_good_beginner_games_with_basic/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=board+games+for+beginners+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnv32ehZdhJ_lerZ0_B7xThRPBR7Lw:1792381441776&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQrQIoAnoECCoQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+        "domain": "www.nytimes.com",
+        "title": "The Best Beginner Board Games for Adults",
+        "url": "https://www.nytimes.com/wirecutter/reviews/board-games-for-adults/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.nytimes.com › ... › Games and puzzles",
+        "website_name": "The New York Times",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Aug 25, 2026 — Modern board games are wonderful examples of interactive art, but their complexity can be intimidating. These picks ease new players into ...",
+        "pre_snippet": "08/25/2026 00:00:00",
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "board games for beginners from www.nytimes.com",
+          "url": "https://www.nytimes.com/wirecutter/reviews/board-games-for-adults/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-77de3c080c29:0"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Modern board games are wonderful examples of interactive art"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-08-25 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What is the easiest board game for beginners?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some good board games for beginners?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are 10 popular board games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are the 20 most popular board games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Top 50 Must-Have Boardgames List",
+        "url": "https://boardgamegeek.com/geeklist/177440/top-50-must-have-boardgames-list",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › geeklist › top-50-must-ha...",
+        "website_name": "BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "1. Catan · 2. Ticket to Ride · 3. Carcassonne · 4. Dominion · 5. Stone Age · 6. Lords of Waterdeep · 7. Lost Cities: The Board Game · 8. King of Tokyo. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1. Catan"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://boardgamegeek.com/geeklist/177440/top-50-must-have-boardgames-list#:~:text=1.,Catan&text=2.,Ticket%20to%20Ride&text=3.,Carcassonne&text=4.,Dominion&text=5.,Stone%20Age&text=6.,Lords%20of%20Waterdeep&text=7.,Lost%20Cities%3A%20The%20Board%20Game&text=8.,King%20of%20Tokyo",
+          "domain": "boardgamegeek.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What's a good board game for beginners?",
+        "url": "https://www.facebook.com/groups/132851767828/posts/10162281032472829/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "40+ comments  ·  1 year ago",
+        "website_name": "Facebook · BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Hello all! New here and first time posting. I’m sorry if this has been asked a lot but if you were to suggest a board game to someone looking to get into ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "What are some fun board games for beginners? - Facebook",
+          "description": null,
+          "url": "https://www.facebook.com/groups/451255048855688/posts/2042500556397788/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Recommendations for beginner card and board games?",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10163616985397829/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.facebook.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=board+games+for+beginners+site:www.facebook.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnv32ehZdhJ_lerZ0_B7xThRPBR7Lw:1792381441776&sa=X&ved=2ahUKEwiB9Y2ZlcWXAxXAH0QIHRojEckQrQIoAnoECEwQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]",
+        "domain": "www.screenhype.co.uk",
+        "title": "Best Beginner-Friendly Board Games",
+        "url": "https://www.screenhype.co.uk/best-beginner-friendly-board-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.screenhype.co.uk › best-beginner-friendly-...",
+        "website_name": "Screen Hype",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Sep 3, 2025 — Best Beginner-Friendly Board Games · The Chameleon · Codenames · Block Party · A Gentle Rain · Telestrations · Azul · Coup · Dixit; Camel Up ... Read more",
+        "pre_snippet": "09/03/2025 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Best Beginner-Friendly Board Games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.screenhype.co.uk/best-beginner-friendly-board-games/#:~:text=Best%20Beginner-Friendly%20Board%20Games&text=The%20Chameleon&text=Codenames&text=Block%20Party&text=A%20Gentle%20Rain&text=Telestrations&text=Azul&text=Coup&text=Dixit,Camel%20Up",
+          "domain": "www.screenhype.co.uk"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-09-03 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 1,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[17]/div[1]",
+        "title": "Popular products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Tapple Game",
+          "url": "https://www.thegamer.com/best-word-board-games/",
+          "domain": "www.thegamer.com",
+          "description": "Target & more\nFree delivery on $35+\nFast-paced and exciting gameplay · Can be stressful for players who don't like being put on the spot TheGamer",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-77de3c080c29:1",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 1200,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "11735642665355992479",
+           "data_docid": "16947985508799951895",
+           "gid": "11810378174198701195"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Sequence Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+beginners&prds=gpcid:6632064365866088189,rds:PC_6632064365866088189%7CPROD_PC_6632064365866088189,headlineOfferDocid:7457695301141535648,catalogid:9541697418058220836,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Happy You, Happy Family & more\nFree delivery on $49+\nFun (679 user reviews)",
+          "more_sellers": true,
+          "seller": "Happy You, Happy Family",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-77de3c080c29:2",
+          "price": {
+           "current": 9.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$9.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 1500,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "9541697418058220836",
+           "data_docid": "10254247644689435130",
+           "gid": "6632064365866088189"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Azul Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+beginners&prds=gpcid:16277784982869458591,rds:PC_16277784982869458591%7CPROD_PC_16277784982869458591,headlineOfferDocid:12513349154840040614,catalogid:5525313397194565835,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+\nFun (397 user reviews)",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-77de3c080c29:3",
+          "price": {
+           "current": 31.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$31.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 821,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "5525313397194565835",
+           "data_docid": "5213794068131047571",
+           "gid": "16277784982869458591"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Exploding Kittens The Board Game",
+          "url": "https://rolltoreview.com/exploding-kittens-board-game-review/",
+          "domain": "rolltoreview.com",
+          "description": "Exploding Kittens & more\nFree delivery on $40+\nGreat for casual play with people who don't often play board games · The strategy is becomes obvious to players almost immediately Roll to Review",
+          "more_sellers": true,
+          "seller": "Exploding Kittens",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-77de3c080c29:4",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 154,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "2290121467920167409",
+           "data_docid": "1347844132714559356",
+           "gid": "7096552961700473263"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Root Board Game",
+          "url": "https://gamingrespawn.com/board-game-reviews/40105/root-board-game-review/",
+          "domain": "gamingrespawn.com",
+          "description": "Off the Wagon Shop.com & more\nEasy to learn · Clearly designed with more than two players in mind Gaming Respawn",
+          "more_sellers": true,
+          "seller": "Off the Wagon Shop.com",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-77de3c080c29:5",
+          "price": {
+           "current": 49.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$49.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 300,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "17343369600885410046",
+           "data_docid": "8680922240689520409",
+           "gid": "3735461444958424254"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Hasbro Sorry! Game",
+          "url": "https://trisomegames2016.org/best-board-games-under-50/",
+          "domain": "trisomegames2016.org",
+          "description": "Loaded Dice Games & more\nEncourages interaction and laughter, perfect for family game nights · Some users report concerns about the game's durability and light feel trisomegames2016.org",
+          "more_sellers": true,
+          "seller": "Loaded Dice Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-77de3c080c29:6",
+          "price": {
+           "current": 9.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$9.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 2100,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "15296212671520906566",
+           "data_docid": "16577124040082014078",
+           "gid": "10280653579956577894"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Catan Game",
+          "url": "https://www.ubuy.co.in/productuk/Q66IRTQQG-6th-edition-board-game",
+          "domain": "www.ubuy.co.in",
+          "description": "Cardhaus Games & more\nEngaging gameplay with strategic depth · Beautifully crafted game components Ubuy India",
+          "more_sellers": true,
+          "seller": "Cardhaus Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-77de3c080c29:7",
+          "price": {
+           "current": 39.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$39.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 201,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "8673379403246775114",
+           "data_docid": "10139617312849150232",
+           "gid": "9148757966263496590"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Pressman Original Rummikub",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+beginners&prds=gpcid:8390769816206189967,rds:PC_8390769816206189967%7CPROD_PC_8390769816206189967,headlineOfferDocid:9669964373616315979,catalogid:1370669284744727907,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Comix Zone & more\nFun (354 user reviews)",
+          "more_sellers": true,
+          "seller": "Comix Zone",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-77de3c080c29:8",
+          "price": {
+           "current": 21.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$21.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 1000,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "1370669284744727907",
+           "data_docid": "1707919463548644240",
+           "gid": "8390769816206189967"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 2,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[19]/div[1]",
+        "title": "More products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Board Game Splendor",
+          "url": "https://rolltoreview.com/splendor-board-game-review/",
+          "domain": "rolltoreview.com",
+          "description": "Target & more\nFree delivery on $35+\nWeighted gem components feel great to pass around · Players can stagnate the game by hoarding specific gem types Roll to Review",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRuMI8XiILjzzQXDc2b2kvahiF37JIfdR-BluIiZKXtv0145e4okUeC_PKy8gSSOI_7hRzrR75AkYtHPyNW22bLKlrSZIJLSh7tiyoG61wdSC_8rS7eJMXsDQ",
+          "price": {
+           "current": 31.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$31.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 1000,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "15526534890938152685",
+           "data_docid": "12396547056974341692",
+           "gid": "14952213359070365550"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Wavelength Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+beginners&prds=gpcid:10330801992986139411,rds:PC_10330801992986139411%7CPROD_PC_10330801992986139411,headlineOfferDocid:9099957590801284167,catalogid:7222283010677095452,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Hobby Lobby & more\nFree delivery on $59+\nFun (174 user reviews)",
+          "more_sellers": true,
+          "seller": "Hobby Lobby",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSYMI9xD1w_7tev2qQtcBG6Lve_8XSrCnn14pKADGAVme_cjLNnD-y-muln6YxVkEis2ZIGGDwclsbcwdls4VXAxGaWwnIRt9KkKjKlNRQrylpN4uttpCsp",
+          "price": {
+           "current": 31.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$31.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 341,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "7222283010677095452",
+           "data_docid": "10605961755333409253",
+           "gid": "10330801992986139411"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Azul Mini",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+beginners&prds=gpcid:17339856686586481363,rds:PC_17339856686586481363%7CPROD_PC_17339856686586481363,headlineOfferDocid:6349091898887671269,catalogid:10125060854789831573,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQvaYwPB3LfODT3p_tuY2mu4ZyXWVMUv_qNbhvrkpT4StX_bPDYLLtVwxsYlvWKIPUYxwZFpQYUj_WI0x7N7cQZj5-tGmBeM5JHb6ict6r2tsnR92K0qbV1",
+          "price": {
+           "current": 21.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$21.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 48,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "10125060854789831573",
+           "data_docid": "12291881869046964594",
+           "gid": "17339856686586481363"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Days of Wonder Ticket to Ride",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+beginners&prds=gpcid:4207017952169334642,rds:PC_4207017952169334642%7CPROD_PC_4207017952169334642,headlineOfferDocid:7128431601702293472,catalogid:6510360485943347694,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Walmart - Apexgoods Co. & more\nFun (520 user reviews)",
+          "more_sellers": true,
+          "seller": "Walmart - Apexgoods Co.",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT7QL3Z0Mvnt4anl2wl8HfQwgSdztWGpudJC12mliKaKA9WWXsm_CVWjaccOF5KC-LRLNLuU1nZ8R_76UjMX70xOEQF6mpBDqTSJ6in0q3b7K9IulK1-M5U",
+          "price": {
+           "current": 49.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$49.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 1300,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "6510360485943347694",
+           "data_docid": "18209547938997900411",
+           "gid": "4207017952169334642"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Stardew Valley The Board Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+beginners&prds=gpcid:15186838001511367283,rds:PC_15186838001511367283%7CPROD_PC_15186838001511367283,headlineOfferDocid:7265377371121393992,catalogid:10197910052858439196,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Modern Explorers Guild & more\nFun (41 user reviews)",
+          "more_sellers": true,
+          "seller": "Modern Explorers Guild",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRFOzC7QSt9xXPL4dLhhTreLc8RZ9wzNt9_1WQqOzi8obP0I_YL-NXcu-rzERvWqW2Po3cEIdouIWnotV5ATJLVN7rQc-k6HdKrbDvdkZKgWimbjSO3bnrq",
+          "price": {
+           "current": 59.95,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$59.95"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 164,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "10197910052858439196",
+           "data_docid": "8997091177463758174",
+           "gid": "15186838001511367283"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "A Little Wordy",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+beginners&prds=gpcid:8572944692199477075,rds:PC_8572944692199477075%7CPROD_PC_8572944692199477075,headlineOfferDocid:16887055022417961237,catalogid:13151086982180553796,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Exploding Kittens & more\nFree delivery on $40+\nFun (131 user reviews)",
+          "more_sellers": true,
+          "seller": "Exploding Kittens",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR3sKSkpNUICDOLeUebHi8FObd1h-UxUl0j9N_9kJqeiN5BamgYtnWoLCr-WDTN27xeRqnlW3dVvcAbvs1VFWpecNHFrRSjaXzU411DTZ4V1MPws7AneTqr",
+          "price": {
+           "current": 14.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$14.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 214,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "13151086982180553796",
+           "data_docid": "16408816920883561044",
+           "gid": "8572944692199477075"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Catan On the Road",
+          "url": "https://toyworldmag.co.uk/asmodee-launches-catan-on-the-road/",
+          "domain": "toyworldmag.co.uk",
+          "description": "Target & more\nFree delivery on $100+\nQuick to play · Easy to learn Toy World Magazine",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSORXBjALj96LFLAySwTMSCH-zTsg4qkqc83YDZiJZdG2bh07TlpYdJ8Hv1A-_w5a_e7xwHkAst7VnYm1nHEK05q6o7POEWqCTMP9jUBlDZL0KTLDhBwgJfMg",
+          "price": {
+           "current": 7.99,
+           "regular": 9.99,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$7.99 $9.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 46,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "7164845000538241532",
+           "data_docid": "3252938390416756527",
+           "gid": "12865070504304296137"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Hasbro The Game of Life",
+          "url": "https://www.ubuy.com.my/en/product/2ZYMFEU-the-game-of-life-board-game-for-kids-ages-8-and-up-game-for-2-to-4-players",
+          "domain": "www.ubuy.com.my",
+          "description": "Target & more\nFree delivery on $35+\nColorful design engages kids immediately · Educational for counting and decision making Ubuy Malaysia",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQO6DYR_37qa44qvb7lp9RVk7t0_70Y89B9bkwZZ9ZC9ARTOxe82n_q_RWCC4fr0uQJUGJD1zxKJDdxzIjGnelKnLTsAKyxCPck32cjAik",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 674,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "939790932495336533",
+           "data_docid": "11858741650092310681",
+           "gid": "8621520712369370630"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "video",
+        "rank_group": 1,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[21]/div[1]",
+        "items": [
+         {
+          "type": "video_element",
+          "source": "YouTube · Rainbow Die Studios",
+          "title": "Top 5 Board Games for Beginners on a Budget!",
+          "timestamp": "2026-09-19 03:44:02 +00:00",
+          "url": "https://www.youtube.com/watch?v=mohO9hpwkOM&xstg=CAMSBhUDzO3xHw%3D%3D"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · kovray",
+          "title": "Best Board Games for Beginners You'll Actually Love",
+          "timestamp": "2025-04-08 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=tB-R5zKyJ_s&xstg=CAMSBhUDzO3xHw%3D%3D"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · Board Game Hangover",
+          "title": "Picking 10 Beginner Friendly Board Games",
+          "timestamp": "2026-02-26 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=g8ZhgXDZ6bs&xstg=CAMSBhUDzO3xHw%3D%3D"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[23]/div[1]/div[1]",
+        "domain": "bitewinggames.com",
+        "title": "10 Best Board Games for Beginners",
+        "url": "https://bitewinggames.com/10-best-board-games-for-beginners/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://bitewinggames.com › Blog",
+        "website_name": "Bitewing Games",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "10 Best Board Games for Beginners · 10 Best Board Games for Beginners · 1. Ticket to Ride · 2. Azul · 3. Kingdomino · 4. Splendor · 5. Carcassonne · 6. Catan. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "board games for beginners from bitewinggames.com",
+          "url": "https://bitewinggames.com/10-best-board-games-for-beginners/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpD-AW3pETmwEUuXNEzG8sJY4BTsEQnQyLKMdFwd_srTO-E3ZuhEIy&usqp=CAE&s"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1. Ticket to Ride"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://bitewinggames.com/10-best-board-games-for-beginners/#:~:text=10%20Best%20Board%20Games%20for,Beginners&text=10%20Best%20Board%20Games%20for,Beginners&text=1.%20Ticket%20to%20Ride&text=2.%20Azul&text=3.%20Kingdomino&text=4.%20Splendor&text=5.%20Carcassonne&text=6.%20Catan",
+          "domain": "bitewinggames.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 13,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[25]/div[1]/div[1]",
+        "domain": "boardgamenewbie.com",
+        "title": "Easy Board Games for Beginners: What to Play After ...",
+        "url": "https://boardgamenewbie.com/board-games-for-beginners/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamenewbie.com › board-games-for-begin...",
+        "website_name": "boardgamenewbie.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "The 10 games · 1. Azul · 2. Carcassonne · 3. Catan · 4. Codenames · 5. Dixit · 6. Munchkin · 7. Santorini · 8. Splendor. Splendor puts you ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1. Azul"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://boardgamenewbie.com/board-games-for-beginners/#:~:text=The%2010%20games&text=1.%20Azul&text=2.%20Carcassonne&text=3.%20Catan&text=4.%20Codenames&text=5.%20Dixit&text=6.%20Munchkin&text=7.%20Santorini&text=8.%20Splendor,merchant%20building%20a%20trading%20empire.",
+          "domain": "boardgamenewbie.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 14,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Family board games for beginners",
+         "Board games for beginners adults",
+         "Best board games for beginners",
+         "Best board games for adults",
+         "Best board games of all time",
+         "Classic board games",
+         "Best classic board games",
+         "Best board games for beginners Reddit"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

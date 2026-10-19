@@ -1,0 +1,1478 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "4.2496 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190341-2588-0139-0000-5abc198bfcb5",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "4.0937 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "board games for couples",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "board games for couples",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=board%20games%20for%20couples&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:41:08 +00:00",
+      "spell": null,
+      "refinement_chips": {
+       "type": "refinement_chips",
+       "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+       "items": [
+        {
+         "type": "refinement_chips_element",
+         "title": "Best",
+         "url": "https://www.google.com/search?q=best+board+games+for+couples&hl=en&gl=US&shoprs=EgViAwiQAxgTKhdib2FyZCBnYW1lcyBmb3IgY291cGxlczIPCBMSBEJlc3QiBWIDCJADYAE&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKAF6BAggEHw",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "2 Player",
+         "url": "https://www.google.com/search?q=2+player+board+games+for+couples&hl=en&gl=US&shoprs=GAEqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMhoIARIIMiBQbGF5ZXI6DAjpnJoCEOucmgIwAFjTySBgAQ&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKAJ6BAggEH0",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Online",
+         "url": "https://www.google.com/search?q=online+board+games+for+couples&hl=en&gl=US&shoprs=GBIqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMgoIEhIGT25saW5lYAE&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKAN6BAggEH4",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Nearby",
+         "url": "https://www.google.com/search?q=board+games+for+couples+nearby&hl=en&gl=US&shoprs=GAMqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMgwIAxIGTmVhcmJ5GAJY08kgYAE&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKAR6BAggEH8",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Free",
+         "url": "https://www.google.com/search?q=free+board+games+for+couples&hl=en&gl=US&shoprs=GBIqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMggIEhIERnJlZWAB&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKAV6BQggEIAB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adults",
+         "url": "https://www.google.com/search?q=adults+board+games+for+couples&hl=en&gl=US&shoprs=GAEqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMhYIARIGQWR1bHRzOgoI_JBvEP2QbzAAWNPJIGAB&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKAZ6BQggEIEB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adult Games",
+         "url": "https://www.google.com/search?q=adult+games+board+for+couples&hl=en&gl=US&shoprs=GAkqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMg8ICRILQWR1bHQgR2FtZXNgAQ&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKAd6BQggEIIB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "On sale",
+         "url": "https://www.google.com/search?q=board+games+for+couples+sale&hl=en&gl=US&shoprs=EgRKAhgBGAYqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMhMIBhIHT24gc2FsZRgCIgRKAhgBWNPJIGAB&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKAh6BQggEIMB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Party",
+         "url": "https://www.google.com/search?q=party+board+games+for+couples&hl=en&gl=US&shoprs=GAEqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMhUIARIFUGFydHk6CgihuD4Qp7g-MABY08kgYAE&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKAl6BQggEIQB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board & Card Games",
+         "url": "https://www.google.com/search?q=board+%26+card+games+for+couples&hl=en&gl=US&shoprs=GAkqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMhYICRISQm9hcmQgJiBDYXJkIEdhbWVzYAE&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKAp6BQggEIUB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Classic",
+         "url": "https://www.google.com/search?q=classic+board+games+for+couples&hl=en&gl=US&shoprs=GBIqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMgsIEhIHQ2xhc3NpY2AB&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKAt6BQggEIYB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Under $15",
+         "url": "https://www.google.com/search?q=board+games+for+couples+under+$15&hl=en&gl=US&shoprs=Eg0SCxEAAAAAOJxsQRgBGAUqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMiIIBRIJVW5kZXIgJDE1GAIiDRILEQAAAAA4nGxBGAEqAhgBWNPJIGAB&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKAx6BQggEIcB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board Game",
+         "url": "https://www.google.com/search?q=board+game+games+for+couples&hl=en&gl=US&shoprs=GAEqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMhwIARIKQm9hcmQgR2FtZToMCNSdngIQ152eAjADWNPJIGAB&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKA16BQggEIgB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Card Game",
+         "url": "https://www.google.com/search?q=card+game+board+games+for+couples&hl=en&gl=US&shoprs=GAEqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMhsIARIJQ2FyZCBHYW1lOgwItsL3ARC3wvcBMANY08kgYAE&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKA56BQggEIkB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Party Games",
+         "url": "https://www.google.com/search?q=party+games+board+for+couples&hl=en&gl=US&shoprs=GAkqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMg8ICRILUGFydHkgR2FtZXNgAQ&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKA96BQggEIoB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Family Friendly",
+         "url": "https://www.google.com/search?q=family+friendly+board+games+for+couples&hl=en&gl=US&shoprs=GAEqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMiEIARIPRmFtaWx5IEZyaWVuZGx5OgwI3bGeAhDesZ4CMANY08kgYAE&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKBB6BQggEIsB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Single Player",
+         "url": "https://www.google.com/search?q=single+player+board+games+for+couples&hl=en&gl=US&shoprs=GAEqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMh8IARINU2luZ2xlIFBsYXllcjoMCJqGngIQm4aeAjADWNPJIGAB&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKBF6BQggEIwB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "4 Player",
+         "url": "https://www.google.com/search?q=4+player+board+games+for+couples&hl=en&gl=US&shoprs=GAEqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMhoIARIINCBQbGF5ZXI6DAjpnJoCEO2cmgIwAFjTySBgAQ&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKBJ6BQggEI0B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Black",
+         "url": "https://www.google.com/search?q=black+board+games+for+couples&hl=en&gl=US&shoprs=GAEqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMhcIARIFQmxhY2s6DAjYjPUBEOWK9QEwC1jTySBgAQ&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKBN6BQggEI4B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Word",
+         "url": "https://www.google.com/search?q=word+board+games+for+couples&hl=en&gl=US&shoprs=GAEqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMhQIARIEV29yZDoKCKG4PhCmuD4wAFjTySBgAQ&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKBR6BQggEI8B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Trivia",
+         "url": "https://www.google.com/search?q=trivia+board+games+for+couples&hl=en&gl=US&shoprs=GAEqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMhYIARIGVHJpdmlhOgoIobg-EKW4PjAAWNPJIGAB&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKBV6BQggEJAB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids",
+         "url": "https://www.google.com/search?q=kids+board+games+for+couples&hl=en&gl=US&shoprs=GAEqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMhQIARIES2lkczoKCPyQbxD-kG8wAFjTySBgAQ&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKBZ6BQggEJEB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Buy",
+         "url": "https://www.google.com/search?q=buy+board+games+for+couples&hl=en&gl=US&shoprs=GBIqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKBd6BQggEJIB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Reviews",
+         "url": "https://www.google.com/search?q=reviews+board+games+for+couples&hl=en&gl=US&shoprs=GBIqF2JvYXJkIGdhbWVzIGZvciBjb3VwbGVzMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQip4GKBh6BQggEJMB",
+         "domain": "www.google.com",
+         "options": null
+        }
+       ]
+      },
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "popular_products",
+       "people_also_ask",
+       "video",
+       "related_searches"
+      ],
+      "se_results_count": 174,
+      "pages_count": 1,
+      "items_count": 14,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "![Date Night Game Drunk in Love Couples Drinking Board Game ...](https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-5abc198bfcb5:4)\nHere are the best board and card games for couples, broken down by style and vibe.\n\n### Cozy & Strategic (Great for Beginners)\n\n- **Patchwork** : A relaxing tile-placement game where you and your partner compete to sew the most aesthetic quilt. Mentioned as a favorite on [Reddit's Boardgames Community](https://www.reddit.com/r/boardgames/comments/14sr2st/great_games_for_couples/).\n- **Jaipur** : A fast-paced card-drafting and trading game where you hustle to buy cheap goods and sell them for big profits.\n- **Codenames Duet** : A cooperative spin on the hit word game where you share clues to find your secret agents without hitting an assassin.\n- **Hive** : A portable, abstract strategy game with chunky Bakelite pieces that requires zero board setup and plays anywhere on a flat surface.[[1]](https://www.reddit.com/r/boardgames/comments/14sr2st/great_games_for_couples/)[[2]](https://www.lowkeycoffeesnobs.com/best-board-games-for-couples/)[[3]](https://tabletopbellhop.com/gaming-advice/date-night-games/)\n\n### Cooperative & Teamwork\n\n- **Pandemic: Hot Zone – North America** : A compact, high-tension cooperative game where you work together as a team to stop outbreaks and find cures.\n- **Sky Team** : A tense two-player cooperative game where you silently coordinate dice placement to land an airplane safely.\n- **Dorfromantik: The Board Game** : A peaceful, puzzle-like tile-laying game where you work together to build a sprawling landscape and unlock new achievements.[[1]](https://www.youtube.com/watch?v=j_iVzwBbOQk&t=15)[[2]](https://www.reddit.com/r/boardgames/comments/14sr2st/great_games_for_couples/)[[3]](https://www.youtube.com/watch?v=9xNgNppfmnU&t=34)\n\n### Deep Conversation & Date Night Icebreakers\n\n- **We're Not Really Strangers: Couples Edition** : A question-and-answer card game structured in three levels (Perception, Connection, and Reflection) to spark meaningful dialogue.\n- **The Ultimate Game for Couples** : A mix of trivia, \"who knows who better\" challenges, and conversation prompts designed for two players or double-dates.\n- **The Couples Quiz! Tin** : A lighthearted trivia and party game from [Target](https://www.target.com/p/university-games-the-couples-quiz-tin-board-game/-/A-94870696?TCID=OGS&AFID=google&CPNG=Toys&adgroup=87-10&srsltid=AU7gw4WftI7EUQdgwIaF8GKbEC0SM27XUESMjqNS0hHYxnbEliOUd2_kAM4) where you test how well you know each other with fun forfeits.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:8645068757916785468,catalogid:15641191270667861014,gpcid:8310312270454571190,mid:576462539083143826&ibp=oshop)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:3078001763140181494,catalogid:17309632760542185563,gpcid:7953036387070775893,mid:576462859582697559&ibp=oshop)[[3]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:13420987195445948688,catalogid:1707794991138819418,gpcid:2570106536812299801,mid:576462723770284696&ibp=oshop)\n\nWatch this video breakdown of top-rated two-player board games to see how they play out on the table:\n\n![](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrd5gZ8y59QrRm1EZQgeKKq7g7meMmldzjCvThemTXcYVW3OJt)\n10m\n[](https://www.youtube.com/watch?v=9xNgNppfmnU&t=34) Top 5 Board Games for Couples!8 months ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · The Grove\n\nIf you'd like to narrow down the options, let me know:\n\n- **How competitive** or **cooperative** you want the game to be\n- **How much time** you want a single round to take\n- **What themes** or vibes you both enjoy (such as mystery, fantasy, or cozy puzzles)",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Here are the best board and card games for couples, broken down by style and vibe.",
+          "markdown": "![Date Night Game Drunk in Love Couples Drinking Board Game ...](https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-5abc198bfcb5:2)\nHere are the best board and card games for couples, broken down by style and vibe.",
+          "links": null,
+          "images": [
+           {
+            "type": "images_element",
+            "alt": "Date Night Game Drunk in Love Couples Drinking Board Game ...",
+            "url": null,
+            "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-5abc198bfcb5:3"
+           }
+          ],
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Cozy & Strategic (Great for Beginners)",
+          "text": "Patchwork : A relaxing tile-placement game where you and your partner compete to sew the most aesthetic quilt. Mentioned as a favorite on Reddit's Boardgames Community. Jaipur : A fast-paced card-drafting and trading game where you hustle to buy cheap goods and sell them for big profits. Codenames Duet : A cooperative spin on the hit word game where you share clues to find your secret agents without hitting an assassin. Hive : A portable, abstract strategy game with chunky Bakelite pieces that requires zero board setup and plays anywhere on a flat surface.",
+          "markdown": "- **Patchwork** : A relaxing tile-placement game where you and your partner compete to sew the most aesthetic quilt. Mentioned as a favorite on [Reddit's Boardgames Community](https://www.reddit.com/r/boardgames/comments/14sr2st/great_games_for_couples/).\n- **Jaipur** : A fast-paced card-drafting and trading game where you hustle to buy cheap goods and sell them for big profits.\n- **Codenames Duet** : A cooperative spin on the hit word game where you share clues to find your secret agents without hitting an assassin.\n- **Hive** : A portable, abstract strategy game with chunky Bakelite pieces that requires zero board setup and plays anywhere on a flat surface.[[1]](https://www.reddit.com/r/boardgames/comments/14sr2st/great_games_for_couples/)[[2]](https://www.lowkeycoffeesnobs.com/best-board-games-for-couples/)[[3]](https://tabletopbellhop.com/gaming-advice/date-night-games/)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Reddit's Boardgames Community",
+            "description": null,
+            "url": "https://www.reddit.com/r/boardgames/comments/14sr2st/great_games_for_couples/",
+            "domain": "www.reddit.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/boardgames/comments/14sr2st/great_games_for_couples/",
+            "title": "Great games for couples? : r/boardgames - Reddit",
+            "text": "Comments Section * zappinatorrr. • 3y ago. Wife and I have a handful of 2p games that we love: Jaipur. 7 Wonders Duel. Hive. Lost ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Low-Key Coffee Snobs",
+            "domain": "www.lowkeycoffeesnobs.com",
+            "url": "https://www.lowkeycoffeesnobs.com/best-board-games-for-couples/",
+            "title": "9 Best Board Games for Couples We've Found 2026",
+            "text": "Megan here. On our first date, David asked me: “Do you like playing board games?” “Of COURSE, I love board games!” I replied, thin..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Tabletop Bellhop",
+            "domain": "tabletopbellhop.com",
+            "url": "https://tabletopbellhop.com/gaming-advice/date-night-games/",
+            "title": "What are some of the best two player board games for date night?",
+            "text": "Small and Portable: Hive (zippered pack, durable bakelite tiles, surround Queen Bee); Onitama (abstract duel, modular movement car..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Cooperative & Teamwork",
+          "text": "Pandemic: Hot Zone – North America : A compact, high-tension cooperative game where you work together as a team to stop outbreaks and find cures. Sky Team : A tense two-player cooperative game where you silently coordinate dice placement to land an airplane safely. Dorfromantik: The Board Game : A peaceful, puzzle-like tile-laying game where you work together to build a sprawling landscape and unlock new achievements.",
+          "markdown": "- **Pandemic: Hot Zone – North America** : A compact, high-tension cooperative game where you work together as a team to stop outbreaks and find cures.\n- **Sky Team** : A tense two-player cooperative game where you silently coordinate dice placement to land an airplane safely.\n- **Dorfromantik: The Board Game** : A peaceful, puzzle-like tile-laying game where you work together to build a sprawling landscape and unlock new achievements.[[1]](https://www.youtube.com/watch?v=j_iVzwBbOQk&t=15)[[2]](https://www.reddit.com/r/boardgames/comments/14sr2st/great_games_for_couples/)[[3]](https://www.youtube.com/watch?v=9xNgNppfmnU&t=34)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=j_iVzwBbOQk&t=15",
+            "title": "10 great board games for couples",
+            "text": "10 great board games for couples board games today I'm going to be talking about games for couples specifically for couples game n..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/boardgames/comments/14sr2st/great_games_for_couples/",
+            "title": "Great games for couples? : r/boardgames - Reddit",
+            "text": "Comments Section * zappinatorrr. • 3y ago. Wife and I have a handful of 2p games that we love: Jaipur. 7 Wonders Duel. Hive. Lost Cities. We have purchased others ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=9xNgNppfmnU&t=34",
+            "title": "Top 5 Board Games for Couples!",
+            "text": "Top 5 Board Games for Couples! so it's like this this meal out is a date the meal out yesterday that was just dinner. this is a da..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Deep Conversation & Date Night Icebreakers",
+          "text": "We're Not Really Strangers: Couples Edition : A question-and-answer card game structured in three levels (Perception, Connection, and Reflection) to spark meaningful dialogue. The Ultimate Game for Couples : A mix of trivia, \"who knows who better\" challenges, and conversation prompts designed for two players or double-dates. The Couples Quiz! Tin : A lighthearted trivia and party game from Target where you test how well you know each other with fun forfeits.",
+          "markdown": "- **We're Not Really Strangers: Couples Edition** : A question-and-answer card game structured in three levels (Perception, Connection, and Reflection) to spark meaningful dialogue.\n- **The Ultimate Game for Couples** : A mix of trivia, \"who knows who better\" challenges, and conversation prompts designed for two players or double-dates.\n- **The Couples Quiz! Tin** : A lighthearted trivia and party game from [Target](https://www.target.com/p/university-games-the-couples-quiz-tin-board-game/-/A-94870696?TCID=OGS&AFID=google&CPNG=Toys&adgroup=87-10&srsltid=AU7gw4WftI7EUQdgwIaF8GKbEC0SM27XUESMjqNS0hHYxnbEliOUd2_kAM4) where you test how well you know each other with fun forfeits.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:8645068757916785468,catalogid:15641191270667861014,gpcid:8310312270454571190,mid:576462539083143826&ibp=oshop)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:3078001763140181494,catalogid:17309632760542185563,gpcid:7953036387070775893,mid:576462859582697559&ibp=oshop)[[3]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:13420987195445948688,catalogid:1707794991138819418,gpcid:2570106536812299801,mid:576462723770284696&ibp=oshop)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Target",
+            "description": null,
+            "url": "https://www.target.com/p/university-games-the-couples-quiz-tin-board-game/-/A-94870696?TCID=OGS&AFID=google&CPNG=Toys&adgroup=87-10&srsltid=AU7gw4WftI7EUQdgwIaF8GKbEC0SM27XUESMjqNS0hHYxnbEliOUd2_kAM4",
+            "domain": "www.target.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Google",
+            "domain": "www.google.com",
+            "url": "https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:8645068757916785468,catalogid:15641191270667861014,gpcid:8310312270454571190,mid:576462539083143826&ibp=oshop",
+            "title": "We're Not Really Strangers Game Couples Edition",
+            "text": "It features 150 new questions and wildcards specifically curated for partners at any stage of their relationship. The gameplay is ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Google",
+            "domain": "www.google.com",
+            "url": "https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:3078001763140181494,catalogid:17309632760542185563,gpcid:7953036387070775893,mid:576462859582697559&ibp=oshop",
+            "title": "The Ultimate Game for Couples",
+            "text": "This fun and engaging who-knows-me-better couples game is perfect for date night! Play with just your partner or with other couple..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Google",
+            "domain": "www.google.com",
+            "url": "https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:13420987195445948688,catalogid:1707794991138819418,gpcid:2570106536812299801,mid:576462723770284696&ibp=oshop",
+            "title": "University Games The Couples Quiz Tin",
+            "text": "How well do you really know your other half? A hilarious game in which couples and groups of friends must battle it out to find ou..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_video_element",
+          "position": "left",
+          "title": "Top 5 Board Games for Couples!",
+          "snippet": "10m",
+          "url": "https://www.youtube.com/watch?v=9xNgNppfmnU&t=34",
+          "domain": "www.youtube.com",
+          "image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrd5gZ8y59QrRm1EZQgeKKq7g7meMmldzjCvThemTXcYVW3OJt",
+          "source": "YouTube",
+          "date": "8 months ago",
+          "timestamp": "2026-02-19 03:41:07 +00:00"
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Watch this video breakdown of top-rated two-player board games to see how they play out on the table: 10m Top 5 Board Games for Couples! 8 months ago YouTube · The Grove",
+          "markdown": "Watch this video breakdown of top-rated two-player board games to see how they play out on the table:\n\n![](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrd5gZ8y59QrRm1EZQgeKKq7g7meMmldzjCvThemTXcYVW3OJt)\n10m\n[](https://www.youtube.com/watch?v=9xNgNppfmnU&t=34) Top 5 Board Games for Couples!8 months ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · The Grove",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "If you'd like to narrow down the options, let me know:How competitive or cooperative you want the game to be\nHow much time you want a single round to take\nWhat themes or vibes you both enjoy (such as mystery, fantasy, or cozy puzzles)",
+          "markdown": "If you'd like to narrow down the options, let me know:\n\n- **How competitive** or **cooperative** you want the game to be\n- **How much time** you want a single round to take\n- **What themes** or vibes you both enjoy (such as mystery, fantasy, or cozy puzzles)",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Reddit",
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/boardgames/comments/14sr2st/great_games_for_couples/",
+          "title": "Great games for couples? : r/boardgames - Reddit",
+          "text": "Comments Section * zappinatorrr. • 3y ago. Wife and I have a handful of 2p games that we love: Jaipur. 7 Wonders Duel. Hive. Lost Cities. We have purchased others ..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "YouTube",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=j_iVzwBbOQk&t=15",
+          "title": "10 great board games for couples",
+          "text": "10 great board games for couples board games today I'm going to be talking about games for couples specifically for couples game night now I've done a list about t"
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Low-Key Coffee Snobs",
+          "domain": "www.lowkeycoffeesnobs.com",
+          "url": "https://www.lowkeycoffeesnobs.com/best-board-games-for-couples/",
+          "title": "9 Best Board Games for Couples We've Found 2026",
+          "text": "Megan here. On our first date, David asked me: “Do you like playing board games?” “Of COURSE, I love board games!” I replied, thinking about Life, Monopoly, Apples..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "www.youtube.com",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=TWxCdGM16Vc",
+          "title": "Top 10 Board Games for Couples",
+          "text": "and it's called Dwarf Romantic the board. game. in this game you're going to be cooperatively. working towards completing a lot of goals uh through like making lan..."
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+        "domain": "www.meeplemountain.com",
+        "title": "8 Great Board Games for Couples",
+        "url": "https://www.meeplemountain.com/articles/8-great-board-games-for-couples/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.meeplemountain.com › articles › 8-great-b...",
+        "website_name": "Meeple Mountain",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jun 23, 2020 — Our Top Recommendations · Splendor · Off-Topic · Robinson Crusoe: Adventures on The Cursed Island · I Should Have Known That · Scrabble. Read more",
+        "pre_snippet": "06/23/2020 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Splendor"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.meeplemountain.com/articles/8-great-board-games-for-couples/#:~:text=Our%20Top%20Recommendations&text=Splendor&text=Off-Topic&text=Robinson%20Crusoe%3A%20Adventures%20on%20The,Cursed%20Island&text=I%20Should%20Have%20Known%20That&text=Scrabble",
+          "domain": "www.meeplemountain.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2020-06-23 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]",
+        "title": "Popular products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "We're Not Really Strangers Game Couples Edition",
+          "url": "https://www.barbabos.ubuy.com/product/54KUJ6OSA-were-not-really-strangers-game-couples-edition-2-6-players-15",
+          "domain": "www.barbabos.ubuy.com",
+          "description": "Target & more\nFree delivery on $35+\nIncludes 150 thought-provoking conversation cards · May not appeal to those who prefer competitive games Ubuy",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-5abc198bfcb5:5",
+          "price": {
+           "current": 20.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$20.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 135,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "15641191270667861014",
+           "data_docid": "8645068757916785468",
+           "gid": "8310312270454571190"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "The Ultimate Game for Couples",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+couples&prds=gpcid:7953036387070775893,rds:PC_7953036387070775893%7CPROD_PC_7953036387070775893,headlineOfferDocid:6196361230844223631,catalogid:17309632760542185563,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "ASM Games & more\nWell made (58 user reviews)",
+          "more_sellers": true,
+          "seller": "ASM Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-5abc198bfcb5:6",
+          "price": {
+           "current": 24.99,
+           "regular": 30,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99 $30"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.9,
+           "votes_count": 412,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "17309632760542185563",
+           "data_docid": "3078001763140181494",
+           "gid": "7953036387070775893"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "The Couples Game Late Night Card Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+couples&prds=headlineOfferDocid:17168922727739300326,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target\nFree delivery on $35+",
+          "more_sellers": false,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-5abc198bfcb5:7",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 35,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": null,
+           "data_docid": "17168922727739300326",
+           "gid": null
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "First to Worst Couples",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+couples&prds=gpcid:16132241540439568654,rds:PC_16132241540439568654%7CPROD_PC_16132241540439568654,headlineOfferDocid:11827781851877563119,catalogid:475854045649316887,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Barnes & Noble & more\nNext-day delivery $7\nLots of jokes and fun created with this one. A reviewer on walmart.com",
+          "more_sellers": true,
+          "seller": "Barnes & Noble",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-5abc198bfcb5:8",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 5,
+           "votes_count": 1,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "475854045649316887",
+           "data_docid": "7742164613483595449",
+           "gid": "16132241540439568654"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "What Do You Meme? Date Night Game for Couples: Creative Card Game for Two",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+couples&prds=headlineOfferDocid:13769970822482717383,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target\nFree delivery on $35+\nFun (44 user reviews)",
+          "more_sellers": false,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-5abc198bfcb5:9",
+          "price": {
+           "current": 14.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$14.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.3,
+           "votes_count": 66,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": null,
+           "data_docid": "13769970822482717383",
+           "gid": null
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Horrible Couple Extra Horrible Edition",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+couples&prds=gpcid:17657885961332036654,rds:PC_17657885961332036654%7CPROD_PC_17657885961332036654,headlineOfferDocid:4774115455642912082,catalogid:7964482709516117929,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Exploding Kittens & more\nFree delivery on $40+\nFun (47 user reviews)",
+          "more_sellers": true,
+          "seller": "Exploding Kittens",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-5abc198bfcb5:10",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 65,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "7964482709516117929",
+           "data_docid": "7496852820241743039",
+           "gid": "17657885961332036654"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "The Couples Game That's Actually Fun",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+couples&prds=gpcid:16406462747907939113,rds:PC_16406462747907939113%7CPROD_PC_16406462747907939113,headlineOfferDocid:5475536126009673878,catalogid:5009657229873838712,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+\nFun (42 user reviews)",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-5abc198bfcb5:11",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.3,
+           "votes_count": 67,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "5009657229873838712",
+           "data_docid": "16449017518625584",
+           "gid": "16406462747907939113"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Ransom Notes Couples Edition",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+couples&prds=gpcid:3155510959771358759,rds:PC_3155510959771358759%7CPROD_PC_3155510959771358759,headlineOfferDocid:15239782639015447035,catalogid:1987982948154304260,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Barnes & Noble & more\nNext-day delivery $7",
+          "more_sellers": true,
+          "seller": "Barnes & Noble",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-5abc198bfcb5:12",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 11,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "1987982948154304260",
+           "data_docid": "13462563807360987434",
+           "gid": "3155510959771358759"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+        "domain": "www.wargamer.com",
+        "title": "The 20 best couples board games for date night in 2026",
+        "url": "https://www.wargamer.com/couples-board-games",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.wargamer.com › couples-board-games",
+        "website_name": "wargamer.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Aug 11, 2026 — The best couples' board games are: New two player board games Harmonies Sky Team Timber Town Flamecraft Duals The Old King's Crown All time",
+        "pre_snippet": "08/11/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "New two player board games"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-08-11 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What games are there for couples?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What board games are similar to Ticket to Ride?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are the top 10 most popular board games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are the games in Cozy couples?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "video",
+        "rank_group": 1,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]",
+        "items": [
+         {
+          "type": "video_element",
+          "source": "YouTube · 3 Minute Board Games",
+          "title": "10 great board games for couples",
+          "timestamp": "2026-06-02 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=j_iVzwBbOQk"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · Board Game Critique",
+          "title": "Best Board Games FOR COUPLES With Real Interaction & ...",
+          "timestamp": "2026-09-19 03:41:07 +00:00",
+          "url": "https://www.youtube.com/watch?v=vm9Bf1Oez3k"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · Tabletop Bellhop",
+          "title": "What are the best board games for couples? Great two-player ...",
+          "timestamp": "2026-05-01 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=WEpT13qZETE"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 2,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[13]/div[1]",
+        "title": "More products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "The Ultimate Date Night Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+couples&prds=headlineOfferDocid:8112504601948672539,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Millennium Games\nFun (44 user reviews)",
+          "more_sellers": false,
+          "seller": "Millennium Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSAVdfsSBddGAXxaIjsegg0P0MMFhWaCxWMmXBZM3L1An_X64uH5G0tJEiWN4Lf1D2jjk3FA4VntjEaCis4asn3n5rLllHWDHbBpC1rNwQ",
+          "price": {
+           "current": 25.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$25.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.3,
+           "votes_count": 66,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": null,
+           "data_docid": "8112504601948672539",
+           "gid": null
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "University Games The Ultimate Couples Quiz",
+          "url": "https://blogcritics.org/party-game-review-the-ultimate-couples-quiz-from-university-games/#:~:text=In%20addition%20to%20plenty,perception%20of%20their%20partner.",
+          "domain": "blogcritics.org",
+          "description": "Target & more\nFree delivery on $100+\n… plenty of funny answers and maybe a few misunderstandings … Blogcritics",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQlpw7Ui6liD98XES-BnDPfSlE8LortXael4-YjR2bCjcwcoTXBuEGTk9WqMfNEb_yoeFlylqsxSOu874nfVpobFy7RP7AOiWD0noeSfBvp9JsjASpZdq9l",
+          "price": {
+           "current": 9.79,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$9.79"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4,
+           "votes_count": 1,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "16412185637667344105",
+           "data_docid": "2461438256841893547",
+           "gid": "16853004146889441246"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Let's Get Deep",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+couples&prds=gpcid:11810696526254500117,rds:PC_11810696526254500117%7CPROD_PC_11810696526254500117,headlineOfferDocid:11915864253711468733,catalogid:18419863444847897359,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Gamescape North & more\nFun (65 user reviews)",
+          "more_sellers": true,
+          "seller": "Gamescape North",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTP3u6Ni7Sq3Ff4dTu1OJl2tpp1drCbc4BSgNbwt-I-H2cnlIQCKvwduUc1-RWNpTOM0CI6YwNbjM_i8KM8oDGGDkGRAjGDmYvwyDPjm16_lzRiktTBjQb0",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4,
+           "votes_count": 199,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "18419863444847897359",
+           "data_docid": "12046829660259669128",
+           "gid": "11810696526254500117"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Ready Sex Go! Board Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+couples&prds=headlineOfferDocid:18419430503123109014,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Groove\nBoard Game · Adults",
+          "more_sellers": false,
+          "seller": "Groove",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSDREt67envbvuTBT39WUQvJN0deGTmdpdrOcvzlyLEQ32I5VojtT2LggfeOM20zq3nUz8BGDt484USeBSyB6l6Nmm7_r0lvYgWF_c9R9aGkVxJse26JhcgA",
+          "price": {
+           "current": 24.99,
+           "regular": 27,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99 $27"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 4,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": null,
+           "data_docid": "18419430503123109014",
+           "gid": null
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Horrible Couple",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+couples&prds=gpcid:14520255058158984744,rds:PC_14520255058158984744%7CPROD_PC_14520255058158984744,headlineOfferDocid:4390149459655705303,catalogid:13522313146932541073,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+\nFun (36 user reviews)",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTD-ahQBcKyCai-6W0K08b0KTHveBSJLMBY3kGwgsplMg04EjjkRxNZVMph-UnoUYmO7WzrmjaQWLoLQ3IP1G3okg9iG0DWx3fLoqxc50E1aoaFmS4DAaR1",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 50,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "13522313146932541073",
+           "data_docid": "4991582090693752381",
+           "gid": "14520255058158984744"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Lovehoney Oh! The Big Oh Board Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+couples&prds=gpcid:15912427630508542544,rds:PC_15912427630508542544%7CPROD_PC_15912427630508542544,headlineOfferDocid:13520315199543769149,catalogid:1567593846072538157,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Lovehoney.com\nFree delivery on $60+\nFun (46 user reviews)",
+          "more_sellers": false,
+          "seller": "Lovehoney.com",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQxoS-qIAzRlYiSTM24ycmMlwgML2F4DcX2lIYMrlq1ofV8heTs48FCE6k36eCBwIth2Ci59LSCksCdClkbMTi3ixafNcKEQH6WT3KyeWeNkHxDDATk3XBuxQ",
+          "price": {
+           "current": 23.99,
+           "regular": 30,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$23.99 $30"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.3,
+           "votes_count": 85,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "1567593846072538157",
+           "data_docid": "4282733274143810691",
+           "gid": "15912427630508542544"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "The Adventure Challenge Couples Edition Luxe Board Games",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+couples&prds=gpcid:4374589620589350130,rds:PC_4374589620589350130%7CPROD_PC_4374589620589350130,headlineOfferDocid:4684131878136163318,catalogid:6428411890118057369,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery by Sat\nDate ideas were great and the product feels really premium. A reviewer on Target",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ2xGNdExo8tUud2UhClxQZaoFScedB3OI0_2-i1WJvI6_qwq8NOo_NJ5LSuv5yL_4PGg_xGPb_vQiHxhtVtZDMflZo90fHC-cZoRrEU0W1mRe7Rc6GRTQWuw",
+          "price": {
+           "current": 49.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$49.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 5,
+           "votes_count": 1,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "6428411890118057369",
+           "data_docid": "3130952457691780916",
+           "gid": "4374589620589350130"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Are We Compatible?",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+couples&prds=gpcid:16445038899767358747,rds:PC_16445038899767358747%7CPROD_PC_16445038899767358747,headlineOfferDocid:4398455267459171660,catalogid:17239887770252795766,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSVMNNMRc0lgfJd1THn44LQyD0oxQR91AA4My0CXSbcjjl85TOOQWeGCynSJgQhaXR8i_TGzQDeRXFMLIrzosd2jeKYA5WovjRh3oz_IImacRlEBs0Jv2iG",
+          "price": {
+           "current": 18.99,
+           "regular": 20,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$18.99 $20"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 21,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "17239887770252795766",
+           "data_docid": "13089927236735707013",
+           "gid": "16445038899767358747"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Two-Player Board Games for Couples (Or, Our Best and ...",
+        "url": "https://boardgamegeek.com/geeklist/164573/two-player-board-games-for-couples-or-our-best-and",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › geeklist › two-player-boa...",
+        "website_name": "BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "I'd recommend: The Rivals for Catan, Morels, and possibly Omen: A Reign of War if you don't mind \"dueling\" games. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "The Rivals for Catan, Morels, and possibly Omen: A Reign of War"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://boardgamegeek.com/geeklist/164573/two-player-board-games-for-couples-or-our-best-and#:~:text=I'd%20recommend%3A%20The%20Rivals%20for,you%20don't%20mind%20%22dueling%22%20games.",
+          "domain": "boardgamegeek.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]/div[1]",
+        "domain": "www.youtube.com",
+        "title": "Top 10 Competitive Board Games for Couples",
+        "url": "https://www.youtube.com/watch?v=uk2X_WIspHI",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "14K+ views  ·  1 year ago",
+        "website_name": "YouTube · Totally Tabled",
+        "is_image": false,
+        "is_video": true,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_video"
+        ],
+        "description": null,
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-02-14 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What are good 2-player board games for a date night?",
+        "url": "https://www.facebook.com/groups/132851767828/posts/10161195707647829/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "20+ comments  ·  2 years ago",
+        "website_name": "Facebook · BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "So I'm thinking about taking my husband to a bar called Pawn and Pint for a date night. I was just looking over their list of games and it's a lot with ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Top 10 Best Adult Board Games For Couples - Facebook",
+          "description": null,
+          "url": "https://www.facebook.com/groups/theboardgamegroup/posts/6520053444715286/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Looking adult board games for a couples night - Facebook",
+          "description": null,
+          "url": "https://www.facebook.com/groups/687223892757923/posts/1525305478949756/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.facebook.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=board+games+for+couples+site:www.facebook.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnufYnkKtalsNdlgemyRF1EW0rN0Og:1792381266691&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQrQIoAnoECHQQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "What's the best board game for couples that only requires ...",
+        "url": "https://www.reddit.com/r/AskReddit/comments/1d0o7mm/whats_the_best_board_game_for_couples_that_only/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "10+ comments  ·  2 years ago",
+        "website_name": "Reddit · r/AskReddit",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "I'll always recommend Codenames: Duet and 7 Wonders: Duel for two player board game options. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Codenames: Duet"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Best Boardgames for Couples - Reddit",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/441u51/best_boardgames_for_couples/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Best Boardgame for couples in last 2 years? - Reddit",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/14nbl3n/best_boardgame_for_couples_in_last_2_years/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=board+games+for+couples+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnufYnkKtalsNdlgemyRF1EW0rN0Og:1792381266691&sa=X&ved=2ahUKEwjd18_FlMWXAxXYR_EDHVxkAxAQrQIoAnoECFAQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[22]/div[1]/div[1]",
+        "domain": "se.pinterest.com",
+        "title": "20 Two Player Board Games for Date Night",
+        "url": "https://se.pinterest.com/pin/136585801193958822/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "1 year ago",
+        "website_name": "Pinterest · bgtennisgirl",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "If you're a couple with no kids, it can be hard to find two-player tabletop games for your at-home date night. Here are our favorites. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "two-player tabletop games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://se.pinterest.com/pin/136585801193958822/#:~:text=Top%202%20Player%20Board%20Games",
+          "domain": "se.pinterest.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 13,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[24]/div[1]/div[1]",
+        "domain": "www.etsy.com",
+        "title": "Board Games Couples",
+        "url": "https://www.etsy.com/market/board_games_couples",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.etsy.com › market › board_games_couples",
+        "website_name": "Etsy",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Discover engaging board games for couples, perfect for date nights, parties, and special occasions. Explore unique, handmade, and digital options",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "engaging board games for couples"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 14,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Board games for couples online",
+         "Family board games for couples",
+         "Best board games for couples",
+         "Best 2 player board games for couples",
+         "Easy board games for couples",
+         "Board games for two people",
+         "Board game night games",
+         "Fun board games for adults"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

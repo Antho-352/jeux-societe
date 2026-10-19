@@ -1,0 +1,1032 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "6.6151 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190345-2588-0139-0000-e724008f87dc",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "6.4659 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "board games for 6 players",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "board games for 6 players",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=board%20games%20for%206%20players&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:45:12 +00:00",
+      "spell": null,
+      "refinement_chips": {
+       "type": "refinement_chips",
+       "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+       "items": [
+        {
+         "type": "refinement_chips_element",
+         "title": "Adults",
+         "url": "https://www.google.com/search?q=adults+board+games+for+6+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciA2IHBsYXllcnMyFggBEgZBZHVsdHM6Cgj8kG8Q_ZBvMABY08kgYAE&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKAF6BAguEHs",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Strategy",
+         "url": "https://www.google.com/search?q=strategy+board+games+for+6+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciA2IHBsYXllcnMyGAgBEghTdHJhdGVneToKCKG4PhCiuD4wAFjTySBgAQ&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKAJ6BAguEHw",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board Game",
+         "url": "https://www.google.com/search?q=board+game+games+for+6+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciA2IHBsYXllcnMyHAgBEgpCb2FyZCBHYW1lOgwI1J2eAhDXnZ4CMANY08kgYAE&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKAN6BAguEH0",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids",
+         "url": "https://www.google.com/search?q=kids+board+games+for+6+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciA2IHBsYXllcnMyFAgBEgRLaWRzOgoI_JBvEP6QbzAAWNPJIGAB&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKAR6BAguEH4",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board & Card Games",
+         "url": "https://www.google.com/search?q=board+%26+card+games+for+6+players&hl=en&gl=US&shoprs=GAkqGWJvYXJkIGdhbWVzIGZvciA2IHBsYXllcnMyFggJEhJCb2FyZCAmIENhcmQgR2FtZXNgAQ&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKAV6BAguEH8",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "10+ Years",
+         "url": "https://www.google.com/search?q=10%2B+years+board+games+for+6+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciA2IHBsYXllcnMyGwgBEgkxMCsgWWVhcnM6DAje9rUBEMeotgEwAFjTySBgAQ&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKAZ6BQguEIAB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Single Player",
+         "url": "https://www.google.com/search?q=single+player+board+games+for+6+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciA2IHBsYXllcnMyHwgBEg1TaW5nbGUgUGxheWVyOgwImoaeAhCbhp4CMANY08kgYAE&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKAd6BQguEIEB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "On sale",
+         "url": "https://www.google.com/search?q=board+games+for+6+players+sale&hl=en&gl=US&shoprs=EgRKAhgBGAYqGWJvYXJkIGdhbWVzIGZvciA2IHBsYXllcnMyEwgGEgdPbiBzYWxlGAIiBEoCGAFY08kgYAE&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKAh6BQguEIIB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Get it fast",
+         "url": "https://www.google.com/search?q=board+games+for+6+players&hl=en&gl=US&shoprs=Eg2aAQoKCBADOAFAA0gBGBQqGWJvYXJkIGdhbWVzIGZvciA2IHBsYXllcnMyJAgUEgtHZXQgaXQgZmFzdCINmgEKCggQAzgBQANIASoEEAEYAWAB&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKAl6BQguEIMB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Card Game",
+         "url": "https://www.google.com/search?q=card+game+board+games+for+6+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciA2IHBsYXllcnMyGwgBEglDYXJkIEdhbWU6DAi2wvcBELfC9wEwA1jTySBgAQ&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKAp6BQguEIQB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Role Playing",
+         "url": "https://www.google.com/search?q=role+playing+board+games+for+6+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciA2IHBsYXllcnMyHAgBEgxSb2xlIFBsYXlpbmc6CgihuD4Qqrg-MABY08kgYAE&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKAt6BQguEIUB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "2 players or more",
+         "url": "https://www.google.com/search?q=2+players+or+more+board+games+for+6&hl=en&gl=US&shoprs=EhsqGQiPmdQCEhIJAAAAAAAAAEARAAAAAAAAAEAYASoZYm9hcmQgZ2FtZXMgZm9yIDYgcGxheWVyczJBCAESETIgcGxheWVycyBvciBtb3JlIhsqGQiPmdQCEhIJAAAAAAAAAEARAAAAAAAAAEAqAhgBOgkIj5nUAhAAMAZY08kgYAE&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKAx6BQguEIYB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Under $15",
+         "url": "https://www.google.com/search?q=board+games+for+6+players+under+$15&hl=en&gl=US&shoprs=Eg0SCxEAAAAAOJxsQRgBGAUqGWJvYXJkIGdhbWVzIGZvciA2IHBsYXllcnMyIggFEglVbmRlciAkMTUYAiINEgsRAAAAADicbEEYASoCGAFY08kgYAE&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKA16BQguEIcB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adult Games",
+         "url": "https://www.google.com/search?q=adult+games+board+for+6+players&hl=en&gl=US&shoprs=GAkqGWJvYXJkIGdhbWVzIGZvciA2IHBsYXllcnMyDwgJEgtBZHVsdCBHYW1lc2AB&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKA56BQguEIgB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Family Friendly",
+         "url": "https://www.google.com/search?q=family+friendly+board+games+for+6+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciA2IHBsYXllcnMyIQgBEg9GYW1pbHkgRnJpZW5kbHk6DAjdsZ4CEN6xngIwA1jTySBgAQ&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKA96BQguEIkB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "War",
+         "url": "https://www.google.com/search?q=war+board+games+for+6+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciA2IHBsYXllcnMyFAgBEgNXYXI6CwihuD4Q1NXaAzAAWNPJIGAB&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKBB6BQguEIoB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids' Games",
+         "url": "https://www.google.com/search?q=kids'+games+board+for+6+players&hl=en&gl=US&shoprs=GAkqGWJvYXJkIGdhbWVzIGZvciA2IHBsYXllcnMyDwgJEgtLaWRzJyBHYW1lc2AB&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKBF6BQguEIsB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Party Games",
+         "url": "https://www.google.com/search?q=party+games+board+for+6+players&hl=en&gl=US&shoprs=GAkqGWJvYXJkIGdhbWVzIGZvciA2IHBsYXllcnMyDwgJEgtQYXJ0eSBHYW1lc2AB&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKBJ6BQguEIwB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "1 player or more",
+         "url": "https://www.google.com/search?q=1+player+or+more+board+games+for+6+players&hl=en&gl=US&shoprs=EhsqGQiPmdQCEhIJAAAAAAAA8D8RAAAAAAAA8D8YASoZYm9hcmQgZ2FtZXMgZm9yIDYgcGxheWVyczJACAESEDEgcGxheWVyIG9yIG1vcmUiGyoZCI-Z1AISEgkAAAAAAADwPxEAAAAAAADwPyoCGAE6CQiPmdQCEAAwBljTySBgAQ&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKBN6BQguEI0B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "8+ Years",
+         "url": "https://www.google.com/search?q=8%2B+years+board+games+for+6+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciA2IHBsYXllcnMyGggBEgg4KyBZZWFyczoMCN72tQEQxai2ATAAWNPJIGAB&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKBR6BQguEI4B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "20 – 45 minutes",
+         "url": "https://www.google.com/search?q=20+minutes+to+45+minutes+board+games+for+6+players&hl=en&gl=US&shoprs=EhoqGAjGvj0SEgkAAAAAAAA0QBEAAAAAAIBGQBgBKhlib2FyZCBnYW1lcyBmb3IgNiBwbGF5ZXJzMlkIARIRMjAg4oCTIDQ1IG1pbnV0ZXMiGioYCMa-PRISCQAAAAAAADRAEQAAAAAAgEZAKhwKGDIwIG1pbnV0ZXMgdG8gNDUgbWludXRlcxgBOggIxr49EAAwBljTySBgAQ&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKBV6BQguEI8B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "45 – 90 minutes",
+         "url": "https://www.google.com/search?q=45+minutes+to+90+minutes+board+games+for+6+players&hl=en&gl=US&shoprs=EhoqGAjGvj0SEgkAAAAAAIBGQBEAAAAAAIBWQBgBKhlib2FyZCBnYW1lcyBmb3IgNiBwbGF5ZXJzMlkIARIRNDUg4oCTIDkwIG1pbnV0ZXMiGioYCMa-PRISCQAAAAAAgEZAEQAAAAAAgFZAKhwKGDQ1IG1pbnV0ZXMgdG8gOTAgbWludXRlcxgBOggIxr49EAAwBljTySBgAQ&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKBZ6BQguEJAB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "3 players or more",
+         "url": "https://www.google.com/search?q=3+players+or+more+board+games+for+6&hl=en&gl=US&shoprs=EhsqGQiPmdQCEhIJAAAAAAAACEARAAAAAAAACEAYASoZYm9hcmQgZ2FtZXMgZm9yIDYgcGxheWVyczJBCAESETMgcGxheWVycyBvciBtb3JlIhsqGQiPmdQCEhIJAAAAAAAACEARAAAAAAAACEAqAhgBOgkIj5nUAhAAMAZY08kgYAE&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKBd6BQguEJEB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Girl",
+         "url": "https://www.google.com/search?q=girl+board+games+for+6+players&hl=en&gl=US&shoprs=GBIqGWJvYXJkIGdhbWVzIGZvciA2IHBsYXllcnMyCAgSEgRHaXJsYAE&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKBh6BQguEJIB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Black",
+         "url": "https://www.google.com/search?q=black+board+games+for+6+players&hl=en&gl=US&shoprs=GAEqGWJvYXJkIGdhbWVzIGZvciA2IHBsYXllcnMyFwgBEgVCbGFjazoMCNiM9QEQ5Yr1ATALWNPJIGAB&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8Qip4GKBl6BQguEJMB",
+         "domain": "www.google.com",
+         "options": null
+        }
+       ]
+      },
+      "item_types": [
+       "organic",
+       "popular_products",
+       "people_also_ask",
+       "discussions_and_forums",
+       "related_searches"
+      ],
+      "se_results_count": 205,
+      "pages_count": 1,
+      "items_count": 13,
+      "items": [
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "domain": "www.donteatthemeeples.com",
+        "title": "Great board games for six players - by Matt Montgomery",
+        "url": "https://www.donteatthemeeples.com/great-board-games-for-six-players/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.donteatthemeeples.com › great-board-games...",
+        "website_name": "Don't Eat the Meeples",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Aug 6, 2025 — Five more games to consider · Bohnanza (Rosenberg, 1997) is one of the great games for six players. · 7 Wonders · Tiny Towns · Between Two ... Read more",
+        "pre_snippet": "08/06/2025 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Bohnanza (Rosenberg, 1997"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.donteatthemeeples.com/great-board-games-for-six-players/#:~:text=Five%20more%20games%20to%20consider&text=Bohnanza%20(Rosenberg%2C%201997)%20is%20one,great%20games%20for%20six%20players.&text=7%20Wonders%20(Bauza%2C%202010)%20may&text=Tiny%20Towns%20(McPherson%2C%202019)%20is,you're%20building%20a%20little%20city.&text=Between%20Two%20Castles%20of%20Mad",
+          "domain": "www.donteatthemeeples.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-08-06 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+        "domain": "www.theboardgamefamily.com",
+        "title": "6-player Archives",
+        "url": "https://www.theboardgamefamily.com/tag/6-player/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.theboardgamefamily.com › tag › 6-player",
+        "website_name": "The Board Game Family -",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "6-player Gulo Gulo board game … 6-player, luck, It's a short game packed with strategizing, guessing, second guessing, and bluffing.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "6-player Gulo Gulo board game"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]",
+        "domain": "www.youtube.com",
+        "title": "30 MUST HAVE 6 Player Strategy Board Games!",
+        "url": "https://www.youtube.com/watch?v=BQH9jai-o6I",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "5.4K+ views  ·  10 months ago",
+        "website_name": "YouTube · Board Game Rundown",
+        "is_image": false,
+        "is_video": true,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_video"
+        ],
+        "description": null,
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-12-02 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "Games for 6 players under 2 hours with strategy",
+        "url": "https://www.facebook.com/groups/132851767828/posts/10161992039292829/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "70+ comments  ·  1 year ago",
+        "website_name": "Facebook · BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Can someone pls recommend good board games for 6 players? Less than two hours long, easy to learn but involve strategy. If it's a game that requires ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "What are the best 6-player board games?",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10162352569592829/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What board games are best for 6 players?",
+          "description": null,
+          "url": "https://www.facebook.com/groups/AustralianBoardGameGeeks/posts/2787531971593069/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.facebook.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=board+games+for+6+players+site:www.facebook.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnso84fWirdHnZycUrkXJ9UZwFRXSQ:1792381510025&sa=X&ved=2ahUKEwimydK5lcWXAxWGRPEDHTueMy8QrQIoAnoECBwQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 1,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[8]/div[1]",
+        "title": "Popular products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Wavelength Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+6+players&prds=gpcid:10330801992986139411,rds:PC_10330801992986139411%7CPROD_PC_10330801992986139411,headlineOfferDocid:3353583062277215009,catalogid:7222283010677095452,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+\nFun (174 user reviews)",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-e724008f87dc:0",
+          "price": {
+           "current": 34.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$34.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 341,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "7222283010677095452",
+           "data_docid": "10605961755333409253",
+           "gid": "10330801992986139411"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Vantage Board Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+6+players&prds=gpcid:1292321647979742237,rds:PC_1292321647979742237%7CPROD_PC_1292321647979742237,headlineOfferDocid:14474583611263327524,catalogid:11913361020683099677,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Stonemaier Games & more\nFree delivery",
+          "more_sellers": true,
+          "seller": "Stonemaier Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-e724008f87dc:1",
+          "price": {
+           "current": 79,
+           "regular": 90,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$79.00 $90"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 40,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "11913361020683099677",
+           "data_docid": "1393061304514321062",
+           "gid": "1292321647979742237"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Shut The Box 6 Joueurs jeu en bois avec 12 dés classique pour fêtes bars et réunions de famille développe les compétences mathém",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+6+players&prds=gpcid:3453054385476663453,rds:PC_3453054385476663453%7CPROD_PC_3453054385476663453,headlineOfferDocid:215023668132664087,catalogid:10748329952422952198,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Walmart - tushuostore & more\nFree delivery",
+          "more_sellers": true,
+          "seller": "Walmart - tushuostore",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-e724008f87dc:2",
+          "price": {
+           "current": 27.93,
+           "regular": 37,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$27.93 $37"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 3.9,
+           "votes_count": 64,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "10748329952422952198",
+           "data_docid": "17256569222528394075",
+           "gid": "3453054385476663453"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "6 Player Irk Board Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+6+players&prds=headlineOfferDocid:842371672939911468,catalogid:6317820990274736362,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Etsy - Seller",
+          "more_sellers": false,
+          "seller": "Etsy - Seller",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-e724008f87dc:3",
+          "price": {
+           "current": 72.97,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$72.97"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": "6317820990274736362",
+           "data_docid": "15594961651561981525",
+           "gid": null
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Blood on the Clocktower",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+6+players&prds=gpcid:2559393962457429011,rds:PC_2559393962457429011%7CPROD_PC_2559393962457429011,headlineOfferDocid:2158745915588558126,catalogid:8412890364341628654,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Accidentally Cool Games & more",
+          "more_sellers": true,
+          "seller": "Accidentally Cool Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-e724008f87dc:4",
+          "price": {
+           "current": 144.5,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$144.50"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.9,
+           "votes_count": 73,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "8412890364341628654",
+           "data_docid": "15238060588493578373",
+           "gid": "2559393962457429011"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "One Night Ultimate Werewolf",
+          "url": "https://www.thegamer.com/clue-similar-board-games-recommendations/",
+          "domain": "www.thegamer.com",
+          "description": "BigBadToyStore & more\nWith multiple roles and the option to mix in expansions, every game offers a … · With a smaller core set of roles, the game might lose its luster after many … TheGamer",
+          "more_sellers": true,
+          "seller": "BigBadToyStore",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-e724008f87dc:5",
+          "price": {
+           "current": 25.99,
+           "regular": 30,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$25.99 $30"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 354,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "3199286986801832624",
+           "data_docid": "9926165992657999226",
+           "gid": "2185463913356808427"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Lsnoyrd 6-Player Wooden Game, Math Strategy Pub Dice Game with 8 Dice, Blue",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+6+players&prds=headlineOfferDocid:14328965812888474034,catalogid:16648895335753594702,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Walmart - MagicNest\nFree delivery\nStrategy · 1 player or more · Single Player",
+          "more_sellers": false,
+          "seller": "Walmart - MagicNest",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-e724008f87dc:6",
+          "price": {
+           "current": 33.1,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$33.10"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": "16648895335753594702",
+           "data_docid": "17774991247122973849",
+           "gid": null
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Telestrations 6 Player",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+6+players&prds=gpcid:2578379454042006412,rds:PC_2578379454042006412%7CPROD_PC_2578379454042006412,headlineOfferDocid:13140328194680812062,catalogid:1281748650062027000,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "eBay - monicacotton & more\nFun (597 user reviews)",
+          "more_sellers": true,
+          "seller": "eBay - monicacotton",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-e724008f87dc:7",
+          "price": {
+           "current": 9.74,
+           "regular": 13,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$9.74 $13"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 768,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "1281748650062027000",
+           "data_docid": "5133487071611939129",
+           "gid": "2578379454042006412"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Games for 6 players : r/boardgames",
+        "url": "https://www.reddit.com/r/boardgames/comments/2sbaff/games_for_6_players/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "40+ comments  ·  11 years ago",
+        "website_name": "Reddit · r/boardgames",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Dixit, Timeline, and Castle Panic are some of my favorites for larger groups. I'll second moo422's suggestion on Coup. My family and I played ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Dixit, Timeline, and Castle Panic"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/2sbaff/games_for_6_players/#:~:text=Dixit%2C%20Timeline%2C%20and%20Castle%20Panic,only%20a%2010-15%20minute%20game.",
+          "domain": "www.reddit.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some good board games for 5-6 players?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are the 20 most popular board games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Is there a board game for 10 people?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What is a six player game?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]",
+        "domain": "dicetower.com",
+        "title": "Top 10 Games for Six Players",
+        "url": "https://dicetower.com/video/top-10-games-six-players",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://dicetower.com › video › top-10-games-six-players",
+        "website_name": "The Dice Tower",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Top 10 Games for Six Players ... Tom Vasel, Zee Garcia, and Mike DiLisio take a look at their picks of games they pull out when they have six players in a game. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Top 10 Games for Six Players"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://dicetower.com/video/top-10-games-six-players#:~:text=Top%2010%20Games%20for%20Six,Players&text=Tom%20Vasel%2C%20Zee%20Garcia%2C%20and,six%20players%20in%20a%20game.",
+          "domain": "dicetower.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]",
+        "domain": "www.boardgamebliss.com",
+        "title": "6-player-games",
+        "url": "https://www.boardgamebliss.com/collections/6-player-games?srsltid=AU7gw4WnrqVjJadRFYgHJZml7Iqz7CdMv-LCqaru9gnTpRqqk4VGWfE6",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.boardgamebliss.com › collections › 6-play...",
+        "website_name": "Board Game Bliss",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Awaken Realms (1) Button Shy (2) Capstone Games (1) Compass Games (1) Days of Wonder Heat: Rocky Roads. Catch Up Games Faraway: Under Starry Skies Sold out The ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 8,
+         "regular": null,
+         "max_value": 105,
+         "currency": "CAD",
+         "is_price_range": true,
+         "displayed_price": "CA$8 to CA$105"
+        },
+        "highlighted": [
+         "Awaken Realms"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]",
+        "domain": "www.quora.com",
+        "title": "What board games would you recommend for six (6) or ...",
+        "url": "https://www.quora.com/What-board-games-would-you-recommend-for-six-6-or-more-players",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "30+ answers  ·  8 years ago",
+        "website_name": "Quora",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "What board games would you recommend for six (6) or more players?",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "39 answers",
+          "description": null,
+          "url": "https://www.quora.com/What-board-games-would-you-recommend-for-six-6-or-more-players?top_ans=111121858",
+          "domain": "www.quora.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "6+ Player Board Games (and it's not a party)",
+        "url": "https://boardgamegeek.com/geeklist/358504/6-plus-player-board-games-and-its-not-a-party",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › geeklist › 6-plus-player-b...",
+        "website_name": "BGG",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "May 28, 2025 — I didn't include any games that I've played where they play 6+ but I haven't personally played them at 6+. (Ethnos, Keyflower, Power Grid, Bear ... Read more",
+        "pre_snippet": "05/28/2025 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "games",
+         "6"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://boardgamegeek.com/geeklist/358504/6-plus-player-board-games-and-its-not-a-party#:~:text=Show%20More",
+          "domain": "boardgamegeek.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-05-28 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "discussions_and_forums",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[22]/div[1]",
+        "title": "Discussions and forums",
+        "items": [
+         {
+          "type": "discussions_and_forums_element",
+          "title": "What boardgames do you like playing at 6 people that are not party games?",
+          "url": "https://www.reddit.com/r/boardgames/comments/13b4cum/what_boardgames_do_you_like_playing_at_6_people/",
+          "domain": "www.reddit.com",
+          "source": "Reddit",
+          "description": null,
+          "timestamp": "2023-10-19 03:45:11 +00:00",
+          "posts_count": 440
+         },
+         {
+          "type": "discussions_and_forums_element",
+          "title": "It's hard to find 6 player board games. We do a board game week ever ...",
+          "url": "https://www.reddit.com/r/boardgames/comments/1oth6kr/its_hard_to_find_6_player_board_games_we_do_a/",
+          "domain": "www.reddit.com",
+          "source": "Reddit",
+          "description": null,
+          "timestamp": "2025-11-19 03:45:11 +00:00",
+          "posts_count": 1000
+         },
+         {
+          "type": "discussions_and_forums_element",
+          "title": "What are favorite 6 player board games?",
+          "url": "https://www.facebook.com/groups/132851767828/posts/10164647754692829/",
+          "domain": "www.facebook.com",
+          "source": "Facebook",
+          "description": null,
+          "timestamp": "2026-07-19 03:45:11 +00:00",
+          "posts_count": null
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 13,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Board games for 6 players adults",
+         "Best board games for 6 players",
+         "Best board games for 6-8 players",
+         "6 player co-op board games",
+         "Best 6 player board games Reddit",
+         "Best 6 player board games BGG",
+         "Small box games for 6 players",
+         "Games for six people"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

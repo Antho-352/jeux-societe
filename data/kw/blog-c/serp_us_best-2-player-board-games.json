@@ -1,0 +1,1011 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.9673 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190345-2588-0139-0000-761640da6188",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.9109 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "best 2 player board games",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "best 2 player board games",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=best%202%20player%20board%20games&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:45:40 +00:00",
+      "spell": null,
+      "refinement_chips": {
+       "type": "refinement_chips",
+       "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+       "items": [
+        {
+         "type": "refinement_chips_element",
+         "title": "Adults",
+         "url": "https://www.google.com/search?q=adults+best+2+player+board+games&hl=en&gl=US&shoprs=GAEqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyFggBEgZBZHVsdHM6Cgj8kG8Q_ZBvMABY08kgYAE&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKAF6BAg0EH4",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Strategy",
+         "url": "https://www.google.com/search?q=strategy+best+2+player+board+games&hl=en&gl=US&shoprs=GAEqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyGAgBEghTdHJhdGVneToKCKG4PhCiuD4wAFjTySBgAQ&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKAJ6BAg0EH8",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Under $25",
+         "url": "https://www.google.com/search?q=best+2+player+board+games+under+$25&hl=en&gl=US&shoprs=Eg0SCxEAAAAAhNd3QRgBGAUqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyIggFEglVbmRlciAkMjUYAiINEgsRAAAAAITXd0EYASoCGAFY08kgYAE&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKAN6BQg0EIAB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids",
+         "url": "https://www.google.com/search?q=kids+best+2+player+board+games&hl=en&gl=US&shoprs=GAEqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyFAgBEgRLaWRzOgoI_JBvEP6QbzAAWNPJIGAB&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKAR6BQg0EIEB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board Game",
+         "url": "https://www.google.com/search?q=board+game+best+2+player+games&hl=en&gl=US&shoprs=GAEqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyHAgBEgpCb2FyZCBHYW1lOgwI1J2eAhDXnZ4CMANY08kgYAE&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKAV6BQg0EIIB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids' Games",
+         "url": "https://www.google.com/search?q=kids'+games+best+2+player+board&hl=en&gl=US&shoprs=GAkqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyDwgJEgtLaWRzJyBHYW1lc2AB&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKAZ6BQg0EIMB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "On sale",
+         "url": "https://www.google.com/search?q=best+2+player+board+games+sale&hl=en&gl=US&shoprs=EgRKAhgBGAYqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyEwgGEgdPbiBzYWxlGAIiBEoCGAFY08kgYAE&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKAd6BQg0EIQB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Single Player",
+         "url": "https://www.google.com/search?q=single+player+best+2+board+games&hl=en&gl=US&shoprs=GAEqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyHwgBEg1TaW5nbGUgUGxheWVyOgwImoaeAhCbhp4CMANY08kgYAE&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKAh6BQg0EIUB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "10+ Years",
+         "url": "https://www.google.com/search?q=10%2B+years+best+2+player+board+games&hl=en&gl=US&shoprs=GAEqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyGwgBEgkxMCsgWWVhcnM6DAje9rUBEMeotgEwAFjTySBgAQ&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKAl6BQg0EIYB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Family Friendly",
+         "url": "https://www.google.com/search?q=family+friendly+best+2+player+board+games&hl=en&gl=US&shoprs=GAEqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyIQgBEg9GYW1pbHkgRnJpZW5kbHk6DAjdsZ4CEN6xngIwA1jTySBgAQ&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKAp6BQg0EIcB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Get it fast",
+         "url": "https://www.google.com/search?q=best+2+player+board+games&hl=en&gl=US&shoprs=Eg2aAQoKCBADOAFAA0gBGBQqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyJAgUEgtHZXQgaXQgZmFzdCINmgEKCggQAzgBQANIASoEEAEYAWAB&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKAt6BQg0EIgB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Free",
+         "url": "https://www.google.com/search?q=free+best+2+player+board+games&hl=en&gl=US&shoprs=GBIqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyCAgSEgRGcmVlYAE&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKAx6BQg0EIkB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board & Card Games",
+         "url": "https://www.google.com/search?q=board+%26+card+games+best+2+player&hl=en&gl=US&shoprs=GAkqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyFggJEhJCb2FyZCAmIENhcmQgR2FtZXNgAQ&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKA16BQg0EIoB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adult",
+         "url": "https://www.google.com/search?q=adult+best+2+player+board+games&hl=en&gl=US&shoprs=GBIqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyCQgSEgVBZHVsdGAB&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKA56BQg0EIsB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "2 players or more",
+         "url": "https://www.google.com/search?q=2+players+or+more+best+player+board+games&hl=en&gl=US&shoprs=EhsqGQiPmdQCEhIJAAAAAAAAAEARAAAAAAAAAEAYASoZYmVzdCAyIHBsYXllciBib2FyZCBnYW1lczJBCAESETIgcGxheWVycyBvciBtb3JlIhsqGQiPmdQCEhIJAAAAAAAAAEARAAAAAAAAAEAqAhgBOgkIj5nUAhAAMAZY08kgYAE&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKA96BQg0EIwB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "30 – 45 minutes",
+         "url": "https://www.google.com/search?q=30+minutes+to+45+minutes+best+2+player+board+games&hl=en&gl=US&shoprs=EhoqGAjGvj0SEgkAAAAAAAA-QBEAAAAAAIBGQBgBKhliZXN0IDIgcGxheWVyIGJvYXJkIGdhbWVzMlkIARIRMzAg4oCTIDQ1IG1pbnV0ZXMiGioYCMa-PRISCQAAAAAAAD5AEQAAAAAAgEZAKhwKGDMwIG1pbnV0ZXMgdG8gNDUgbWludXRlcxgBOggIxr49EAAwBljTySBgAQ&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKBB6BQg0EI0B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Girl",
+         "url": "https://www.google.com/search?q=girl+best+2+player+board+games&hl=en&gl=US&shoprs=GBIqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyCAgSEgRHaXJsYAE&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKBF6BQg0EI4B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Over 60 minutes",
+         "url": "https://www.google.com/search?q=over+60+minutes+best+2+player+board+games&hl=en&gl=US&shoprs=EhEqDwjGvj0SCQkAAAAAAABOQBgBKhliZXN0IDIgcGxheWVyIGJvYXJkIGdhbWVzMjQIARIPT3ZlciA2MCBtaW51dGVzIhEqDwjGvj0SCQkAAAAAAABOQCoCGAE6CAjGvj0QADAGWNPJIGAB&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKBJ6BQg0EI8B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Card Game",
+         "url": "https://www.google.com/search?q=card+game+best+2+player+board+games&hl=en&gl=US&shoprs=GAEqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyGwgBEglDYXJkIEdhbWU6DAi2wvcBELfC9wEwA1jTySBgAQ&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKBN6BQg0EJAB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "8+ Years",
+         "url": "https://www.google.com/search?q=8%2B+years+best+2+player+board+games&hl=en&gl=US&shoprs=GAEqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyGggBEgg4KyBZZWFyczoMCN72tQEQxai2ATAAWNPJIGAB&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKBR6BQg0EJEB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Adult Games",
+         "url": "https://www.google.com/search?q=adult+games+best+2+player+board&hl=en&gl=US&shoprs=GAkqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyDwgJEgtBZHVsdCBHYW1lc2AB&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKBV6BQg0EJIB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Settlers of Catan",
+         "url": "https://www.google.com/search?q=settlers+of+catan+best+2+player+board+games&hl=en&gl=US&shoprs=GAEqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyIQgBEhFTZXR0bGVycyBvZiBDYXRhbjoKCOHJOxDsyjswAljTySBgAQ&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKBZ6BQg0EJMB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Reviews",
+         "url": "https://www.google.com/search?q=reviews+best+2+player+board+games&hl=en&gl=US&shoprs=GBIqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyCwgSEgdSZXZpZXdzYAE&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKBd6BQg0EJQB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Classic",
+         "url": "https://www.google.com/search?q=classic+best+2+player+board+games&hl=en&gl=US&shoprs=GBIqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyCwgSEgdDbGFzc2ljYAE&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKBh6BQg0EJUB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Boy",
+         "url": "https://www.google.com/search?q=boy+best+2+player+board+games&hl=en&gl=US&shoprs=GBIqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyBwgSEgNCb3lgAQ&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKBl6BQg0EJYB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "War",
+         "url": "https://www.google.com/search?q=war+best+2+player+board+games&hl=en&gl=US&shoprs=GAEqGWJlc3QgMiBwbGF5ZXIgYm9hcmQgZ2FtZXMyFAgBEgNXYXI6CwihuD4Q1NXaAzAAWNPJIGAB&sa=X&ved=2ahUKEwi_yvjGlcWXAxVAQ_EDHSIgE68Qip4GKBp6BQg0EJcB",
+         "domain": "www.google.com",
+         "options": null
+        }
+       ]
+      },
+      "item_types": [
+       "organic",
+       "people_also_ask",
+       "popular_products",
+       "related_searches"
+      ],
+      "se_results_count": 162,
+      "pages_count": 1,
+      "items_count": 13,
+      "items": [
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "domain": "www.boardgamequest.com",
+        "title": "Top 10 Multiplayer Board Games for Two Players",
+        "url": "https://www.boardgamequest.com/top-10-multiplayer-board-games-for-two-players/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.boardgamequest.com › top-10-multiplayer...",
+        "website_name": "Board Game Quest",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Apr 4, 2025 — Top 10 Multiplayer Board Games for Two Players · Obsession 10. Obsession · Sea Salt and Paper 9. Sea Salt and Paper · Nova luna 8. Nova Luna. Read more",
+        "pre_snippet": "04/04/2025 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Obsession"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.boardgamequest.com/top-10-multiplayer-board-games-for-two-players/#:~:text=Top%2010%20Multiplayer%20Board%20Games,for%20Two%20Players&text=10.%20Obsession&text=9.%20Sea%20Salt%20and%20Paper&text=8.%20Nova%20Luna",
+          "domain": "www.boardgamequest.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-04-04 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+        "domain": "www.boardgamequest.com",
+        "title": "Top 10 2 Player Board Games",
+        "url": "https://www.boardgamequest.com/top-10-2-player-board-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.boardgamequest.com › top-10-2-player-bo...",
+        "website_name": "Board Game Quest",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Aug 11, 2017 — Top 10 2 Player Board Games · 1. Android: Netrunner (review) · 2. Star Wars Rebellion · 3. Agricola: All Creatures Big and Small · 4. Star Wars: ... Read more",
+        "pre_snippet": "08/11/2017 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1. Android: Netrunner"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.boardgamequest.com/top-10-2-player-board-games/#:~:text=Top%2010%202%20Player%20Board,Games&text=1.%20Android%3A%20Netrunner%20(review)&text=2.%20Star%20Wars%20Rebellion&text=3.%20Agricola%3A%20All%20Creatures%20Big,and%20Small&text=4.%20Star%20Wars%3A%20Armada",
+          "domain": "www.boardgamequest.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2017-08-11 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "2023 People's Choice Top Games With Two (#1 - 200)",
+        "url": "https://boardgamegeek.com/geeklist/328691/2023-peoples-choice-top-games-with-two-1-200",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › geeklist › 2023-peoples-c...",
+        "website_name": "BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jan 14, 2024 — Couple of Gamers Guild presents The People's Choice Top 100 125 200 games with two players. at two players! It is 100% a popularity contest.",
+        "pre_snippet": "01/14/2024 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "games with two players"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2024-01-14 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some good two-player games for two players?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What is the most best board game?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are fun games for couples?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are the best card games for 2 players?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 1,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]",
+        "title": "Popular products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Stardew Valley The Board Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=best+2+player+board+games&prds=gpcid:15186838001511367283,rds:PC_15186838001511367283%7CPROD_PC_15186838001511367283,headlineOfferDocid:5663664065588499918,catalogid:10197910052858439196,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "BigBadToyStore & more\nFun (41 user reviews)",
+          "more_sellers": true,
+          "seller": "BigBadToyStore",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-761640da6188:0",
+          "price": {
+           "current": 49.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$49.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 164,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "10197910052858439196",
+           "data_docid": "8997091177463758174",
+           "gid": "15186838001511367283"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Catan Starfarers Duel",
+          "url": "https://www.google.com/search?ibp=oshop&q=best+2+player+board+games&prds=gpcid:14488827819817090881,rds:PC_14488827819817090881%7CPROD_PC_14488827819817090881,headlineOfferDocid:5694043788437219133,catalogid:6203749174054983671,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery by Sat",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-761640da6188:1",
+          "price": {
+           "current": 39.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$39.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 2,
+           "votes_count": 3,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "6203749174054983671",
+           "data_docid": "17113792423445341196",
+           "gid": "14488827819817090881"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Exploding Kittens The Board Game",
+          "url": "https://rolltoreview.com/exploding-kittens-board-game-review/",
+          "domain": "rolltoreview.com",
+          "description": "Exploding Kittens & more\nFree delivery on $40+\nGreat for casual play with people who don't often play board games · The strategy is becomes obvious to players almost immediately Roll to Review",
+          "more_sellers": true,
+          "seller": "Exploding Kittens",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-761640da6188:2",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 154,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "2290121467920167409",
+           "data_docid": "1347844132714559356",
+           "gid": "7096552961700473263"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "7 Wonders Duel",
+          "url": "https://www.google.com/search?ibp=oshop&q=best+2+player+board+games&prds=gpcid:5610246829355850132,rds:PC_5610246829355850132%7CPROD_PC_5610246829355850132,headlineOfferDocid:2146302536356608329,catalogid:226141346357800389,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "The Pieceful Project & more\nFun (69 user reviews)",
+          "more_sellers": true,
+          "seller": "The Pieceful Project",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-761640da6188:3",
+          "price": {
+           "current": 29.99,
+           "regular": 37,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$29.99 $37"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 440,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "226141346357800389",
+           "data_docid": "3162653413466081875",
+           "gid": "5610246829355850132"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Flamecraft Duals",
+          "url": "https://www.google.com/search?ibp=oshop&q=best+2+player+board+games&prds=gpcid:2216144929427717135,rds:PC_2216144929427717135%7CPROD_PC_2216144929427717135,headlineOfferDocid:11941237523667407052,catalogid:11684221163117998826,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Accidentally Cool Games & more",
+          "more_sellers": true,
+          "seller": "Accidentally Cool Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-761640da6188:4",
+          "price": {
+           "current": 25.49,
+           "regular": null,
+           "max_value": 30,
+           "currency": "USD",
+           "is_price_range": true,
+           "displayed_price": "$25.49 Usually $30"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 5,
+           "votes_count": 14,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "11684221163117998826",
+           "data_docid": "6945458071111136476",
+           "gid": "2216144929427717135"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Between Two Castles",
+          "url": "https://meepleandthemoose.com/2025/02/12/between-two-castles-essential-edition-board-game-review/#:~:text=It%27s%20cooperative%20drafting%2C%20fun,it%20a%20fantastic%20choice.",
+          "domain": "meepleandthemoose.com",
+          "description": "Stonemaier Games & more\nFree delivery\nIt's cooperative drafting, fun scoring style, seamless scalability, and polished production make it a fantastic choice. Meeple and the Moose",
+          "more_sellers": true,
+          "seller": "Stonemaier Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-761640da6188:5",
+          "price": {
+           "current": 45,
+           "regular": 50,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$45.00 $50"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 5,
+           "votes_count": 3,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "17538034461443144335",
+           "data_docid": "11911289561060501759",
+           "gid": "10881087361911948717"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Azul Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=best+2+player+board+games&prds=gpcid:16277784982869458591,rds:PC_16277784982869458591%7CPROD_PC_16277784982869458591,headlineOfferDocid:12513349154840040614,catalogid:5525313397194565835,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+\nFun (397 user reviews)",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-761640da6188:6",
+          "price": {
+           "current": 31.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$31.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 821,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "5525313397194565835",
+           "data_docid": "5213794068131047571",
+           "gid": "16277784982869458591"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Root Board Game",
+          "url": "https://gamingrespawn.com/board-game-reviews/40105/root-board-game-review/",
+          "domain": "gamingrespawn.com",
+          "description": "Cardhaus Games & more\nEasy to learn · Clearly designed with more than two players in mind Gaming Respawn",
+          "more_sellers": true,
+          "seller": "Cardhaus Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190345-2588-0139-0000-761640da6188:7",
+          "price": {
+           "current": 47.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$47.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 300,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "17343369600885410046",
+           "data_docid": "8680922240689520409",
+           "gid": "3735461444958424254"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]",
+        "domain": "zatu.com",
+        "title": "2 Player Board Games",
+        "url": "https://zatu.com/blogs/features/2-player-board-games?srsltid=AU7gw4VXPdQdqZfhnsmRj_bcTM9zvMVOaXCu738Cz5Mpo1YO45Sm3ABV",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://zatu.com › Features",
+        "website_name": "Zatu Games",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "2 Player Board Games · #10 – Camel Up (Difficulty: 3/5) · #9 – Dobble (Difficulty: 1/5) · #8 – Azul (Difficulty: 2/5) · #7 – Quacks Of Quedlinburg (Difficulty: 3/5). Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "2 Player Board Games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://zatu.com/blogs/features/2-player-board-games?srsltid=AU7gw4VXPdQdqZfhnsmRj_bcTM9zvMVOaXCu738Cz5Mpo1YO45Sm3ABV#:~:text=2%20Player%20Board%20Games&text=%2310%20%E2%80%93%20Camel%20Up%20(Difficulty%3A,3%2F5)&text=%239%20%E2%80%93%20Dobble%20(Difficulty%3A%201%2F5)&text=%238%20%E2%80%93%20Azul%20(Difficulty%3A%202%2F5)&text=%237%20%E2%80%93%20Quacks%20Of%20Quedlinburg,(Difficulty%3A%203%2F5)",
+          "domain": "zatu.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "Besides Jaipur, what other 2 player couples board game ...",
+        "url": "https://www.facebook.com/groups/132851767828/posts/10161359861292829/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "370+ comments  ·  2 years ago",
+        "website_name": "Facebook · BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Besides Jaipur, what other 2 player couples board game do we need to add to the shelf? -m",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]",
+        "domain": "theuzzle.com",
+        "title": "Best Board Games and Puzzles for Two-Player ...",
+        "url": "https://theuzzle.com/collections/best-two-player-board-games-adults?srsltid=AU7gw4XFeIO44jJtwO0mmbwybUO8hwTwBcdhLfu39pBcYkR6KmEfB5dc",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://theuzzle.com › collections › best-two-player-boa...",
+        "website_name": "The Uzzle",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Our assortment of two-player board games marries entertaining gameplay with cognitive stimulation, encouraging critical thinking, tactical foresight, and ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 30,
+         "regular": null,
+         "max_value": 60,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$30 to $60"
+        },
+        "highlighted": [
+         "two-player board games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://theuzzle.com/collections/best-two-player-board-games-adults?srsltid=AU7gw4XFeIO44jJtwO0mmbwybUO8hwTwBcdhLfu39pBcYkR6KmEfB5dc#:~:text=Our%20assortment%20of%20two-player%20board,tactical%20foresight%2C%20and%20creative%20problem-solving.",
+          "domain": "theuzzle.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]",
+        "domain": "thetabletopfamily.com",
+        "title": "Best Board Games for Date Night: 15 We Actually Play",
+        "url": "https://thetabletopfamily.com/best-board-games-for-date-night-2025/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://thetabletopfamily.com › Blog",
+        "website_name": "The Tabletop Family",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Lord of the Rings Duel This tightly designed two-player contest. King of Tokyo Duel A. Lost Cities is a MUST HAVE two player game.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Lord of the Rings Duel"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What are good 2-player board games with strategy and ' ...",
+        "url": "https://www.facebook.com/groups/theboardgamegroup/posts/7024706094250016/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "100+ comments  ·  2 years ago",
+        "website_name": "Facebook · THE BOARDGAME GROUP",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "7 Wonders Duel, Star Realms, and Jaipur are top recommendations for strategic 2-player games … at Camelot, Campy Creatures, and Sea Salt & Paper",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "7 Wonders Duel"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[21]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What are the best 2-player only board games?",
+        "url": "https://www.facebook.com/groups/boardgamerevolution/posts/3570854896539756/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "80+ comments  ·  2 years ago",
+        "website_name": "Facebook · Board Game Revolution Community",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "What's everyone's favorite 2-player only game?\n\n(and give us a follow if you want to see our upcoming strategy game)",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 10,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[23]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What are great two-player board games?",
+        "url": "https://www.facebook.com/groups/132851767828/posts/10161210601972829/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "30+ comments  ·  2 years ago",
+        "website_name": "Facebook · BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Heya! I’m new to the group and I’m looking for recommendations for board games that are great for two players. A lot of games say 2-4 but are really ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 13,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Best 2 player board games for adults",
+         "Best 2 player board games for couples",
+         "Best 2 player board games Reddit",
+         "Best 2 player board games tabletop simulator",
+         "Best 2 player board games BGG",
+         "Best 2 player board games online",
+         "Best 2 player board games 2026",
+         "Best 2-player board games for kids"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

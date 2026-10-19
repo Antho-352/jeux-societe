@@ -1,0 +1,884 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "2.9673 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190341-2588-0139-0000-5d2467611abb",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "2.8570 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "games like catan",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "games like catan",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=games%20like%20catan&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:41:11 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "related_searches"
+      ],
+      "se_results_count": 161,
+      "pages_count": 1,
+      "items_count": 12,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "If you love the resource management, trade, and building mechanics of Catan, several popular board games capture that same feel while offering new twists:\n\n### For Fans of Trading and Negotiation\n\n- **Bohnanza:** Focuses heavily on Catan's trading and deal-making vibe, where you plant, harvest, and trade different types of beans to maximize profit.\n- **Chinatown:** A heavier economic negotiation game where players trade shop spaces and stock to dominate real estate.[[1]](https://boardgamegeek.com/geeklist/321264/what-to-play-afterbesides-catan-geeklist)[[2]](https://www.donteatthemeeples.com/12-games-to-replace-catan/)[[3]](https://www.tiktok.com/@bored.to.board/video/7536419962240437535)\n\n### For Fans of Dice Rolling and Production\n\n- **Machi Koro:** A faster, lighter city-building game where rolling dice activates your buildings to earn coins and construct landmarks.[[1]](https://www.donteatthemeeples.com/12-games-to-replace-catan/)[[2]](https://boardgamegeek.com/geeklist/321264/what-to-play-afterbesides-catan-geeklist)\n- **Valeria: Card Kingdoms:** Uses dice rolls each turn to gather resources, buy citizens, and build up an engine with less board blocking than Catan.[[1]](https://www.youtube.com/watch?v=WebkzzmsBQI&t=139)\n- **Space Base:** Swaps out Catan's hex map for a tableau of ships and cards that activate on both your turn and your opponents' rolls based on dice numbers.[[1]](https://www.donteatthemeeples.com/12-games-to-replace-catan/)\n\n### For Fans of Route-Building and Map Control\n\n- **Ticket to Ride:** The quintessential stepping-stone family game that keeps the tension of claiming routes across a map without the frustration of heavy resource blocking.\n- **Carcassonne:** A tile-placement game where you slowly build roads, cities, and fields together, focusing on territorial control.\n- **Concordia:** A smooth strategy game about-building trade networks, collecting resources, and playing cards to guide a Roman empire.[[1]](https://www.radartoys.com/blogs/blog/board-games-like-catan)[[2]](https://www.eneba.com/hub/games/games-like-catan/)[[3]](https://boardgamegeek.com/geeklist/321264/what-to-play-afterbesides-catan-geeklist)[[4]](https://www.youtube.com/watch?v=1lxByjctBOE&t=62)\n\n### For Deeper Strategy and Engine Building\n\n- **The Castles of Burgundy:** Uses dice placement on a hex-and-region grid to develop estates, trade, and build an economic engine.\n- **Splendor:** A streamlined, fast-paced economic game where collecting gem tokens lets you build a card-purchasing engine.\n- **Terraforming Mars:** A heavier strategy game where players manage corporations, place tiles, and build resource engines to transform Mars.[[1]](https://www.eneba.com/hub/games/games-like-catan/)[[2]](https://boardgamegeek.com/geeklist/321264/what-to-play-afterbesides-catan-geeklist)[[3]](https://www.elevatedboardgames.com/post/10-great-board-games-that-are-better-than-catan)[[4]](https://www.radartoys.com/blogs/blog/board-games-like-catan)\n\nYou can browse community-curated recommendations and lists on [BoardGameGeek](https://boardgamegeek.com/geeklist/321264/what-to-play-afterbesides-catan-geeklist).[[1]](https://boardgamegeek.com/geeklist/321264/what-to-play-afterbesides-catan-geeklist)Here is a helpful video breakdown comparing board games that share core mechanics like dice rolling, resource gathering, and network building with Catan:\n\n![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpaY9vbhf4ilw0CN_Uj5BKqd7rSrPDwhroycitwZo6KPOa32gu)\n9m\n[](https://www.youtube.com/watch?v=1lxByjctBOE&t=62) 7 Games To Try If You like Catan 24K views  · 2 years ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · BoardGameCo\n\nTo help narrow down the best option for your group, tell me:\n\n- **Who** you usually play with (family, kids, or a dedicated game night group)\n- **What part of Catan** you like most (the trading, the dice rolling, or building on the map)\n- Your preferred **complexity level** (light/casual vs. deep/strategic)",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "If you love the resource management, trade, and building mechanics of Catan, several popular board games capture that same feel while offering new twists:",
+          "markdown": "If you love the resource management, trade, and building mechanics of Catan, several popular board games capture that same feel while offering new twists:",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "For Fans of Trading and Negotiation",
+          "text": "Bohnanza: Focuses heavily on Catan's trading and deal-making vibe, where you plant, harvest, and trade different types of beans to maximize profit. Chinatown: A heavier economic negotiation game where players trade shop spaces and stock to dominate real estate.",
+          "markdown": "- **Bohnanza:** Focuses heavily on Catan's trading and deal-making vibe, where you plant, harvest, and trade different types of beans to maximize profit.\n- **Chinatown:** A heavier economic negotiation game where players trade shop spaces and stock to dominate real estate.[[1]](https://boardgamegeek.com/geeklist/321264/what-to-play-afterbesides-catan-geeklist)[[2]](https://www.donteatthemeeples.com/12-games-to-replace-catan/)[[3]](https://www.tiktok.com/@bored.to.board/video/7536419962240437535)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BoardGameGeek",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/geeklist/321264/what-to-play-afterbesides-catan-geeklist",
+            "title": "What to play after/besides CATAN Geeklist. | BoardGameGeek",
+            "text": "Alternatives to Catan: Rivals for Catan (2-player variant), Machi Koro (faster production wagering), Chinatown (heavier dealmaking..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Don't Eat the Meeples",
+            "domain": "www.donteatthemeeples.com",
+            "url": "https://www.donteatthemeeples.com/12-games-to-replace-catan/",
+            "title": "12 games to replace Catan - by Matt Montgomery",
+            "text": "Negotiation: Bohnanza (growing/trading beans), QE (wild bidding), Modern Art (four auction types). Ramp-up: Splendor (gem collecti..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "TikTok",
+            "domain": "www.tiktok.com",
+            "url": "https://www.tiktok.com/@bored.to.board/video/7536419962240437535",
+            "title": "Hot take 🚨Here are our 3 favorite Catan alternatives! Concordia",
+            "text": "Hot take 🚨Here are our 3 favorite Catan alternatives! Concordia: a game for 2-5 players all about trading goods and getting rich ..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "For Fans of Dice Rolling and Production",
+          "text": "Machi Koro: A faster, lighter city-building game where rolling dice activates your buildings to earn coins and construct landmarks. Valeria: Card Kingdoms: Uses dice rolls each turn to gather resources, buy citizens, and build up an engine with less board blocking than Catan. Space Base: Swaps out Catan's hex map for a tableau of ships and cards that activate on both your turn and your opponents' rolls based on dice numbers.",
+          "markdown": "- **Machi Koro:** A faster, lighter city-building game where rolling dice activates your buildings to earn coins and construct landmarks.[[1]](https://www.donteatthemeeples.com/12-games-to-replace-catan/)[[2]](https://boardgamegeek.com/geeklist/321264/what-to-play-afterbesides-catan-geeklist)\n- **Valeria: Card Kingdoms:** Uses dice rolls each turn to gather resources, buy citizens, and build up an engine with less board blocking than Catan.[[1]](https://www.youtube.com/watch?v=WebkzzmsBQI&t=139)\n- **Space Base:** Swaps out Catan's hex map for a tableau of ships and cards that activate on both your turn and your opponents' rolls based on dice numbers.[[1]](https://www.donteatthemeeples.com/12-games-to-replace-catan/)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Don't Eat the Meeples",
+            "domain": "www.donteatthemeeples.com",
+            "url": "https://www.donteatthemeeples.com/12-games-to-replace-catan/",
+            "title": "12 games to replace Catan - by Matt Montgomery",
+            "text": "Negotiation: Bohnanza (growing/trading beans), QE (wild bidding), Modern Art (four auction types). Ramp-up: Splendor (gem collection/engine building), The Quacks o..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BoardGameGeek",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/geeklist/321264/what-to-play-afterbesides-catan-geeklist",
+            "title": "What to play after/besides CATAN Geeklist. | BoardGameGeek",
+            "text": "Alternatives to Catan: Rivals for Catan (2-player variant), Machi Koro (faster production wagering), Chinatown (heavier dealmaking), 7 Wonders (empire building, up..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=WebkzzmsBQI&t=139",
+            "title": "5 Games Better Than Catan, Connect 4, Battleship, Yahtzee and Apples to ...",
+            "text": "Instead of This - 5 Games Better Than Catan, Connect 4, Battleship, Yahtzee and Apples to Apples and if you're someone who doesn't..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "For Fans of Route-Building and Map Control",
+          "text": "Ticket to Ride: The quintessential stepping-stone family game that keeps the tension of claiming routes across a map without the frustration of heavy resource blocking. Carcassonne: A tile-placement game where you slowly build roads, cities, and fields together, focusing on territorial control. Concordia: A smooth strategy game about-building trade networks, collecting resources, and playing cards to guide a Roman empire.",
+          "markdown": "- **Ticket to Ride:** The quintessential stepping-stone family game that keeps the tension of claiming routes across a map without the frustration of heavy resource blocking.\n- **Carcassonne:** A tile-placement game where you slowly build roads, cities, and fields together, focusing on territorial control.\n- **Concordia:** A smooth strategy game about-building trade networks, collecting resources, and playing cards to guide a Roman empire.[[1]](https://www.radartoys.com/blogs/blog/board-games-like-catan)[[2]](https://www.eneba.com/hub/games/games-like-catan/)[[3]](https://boardgamegeek.com/geeklist/321264/what-to-play-afterbesides-catan-geeklist)[[4]](https://www.youtube.com/watch?v=1lxByjctBOE&t=62)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Radar Toys",
+            "domain": "www.radartoys.com",
+            "url": "https://www.radartoys.com/blogs/blog/board-games-like-catan",
+            "title": "11 Board Games Like Catan You'll Actually Want to Play - Radar Toys",
+            "text": "Popular Products * Blokees Jurassic World Terraventure TS02 Single Blind Box Building Set $3.99. * Blokees DC Batman Defender Vers..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Eneba",
+            "domain": "www.eneba.com",
+            "url": "https://www.eneba.com/hub/games/games-like-catan/",
+            "title": "17 Games Like Catan To Play in 2026",
+            "text": "Jump to: * Our Top Picks for Games Like Catan. * 17 Games Like Catan Every Fan of Board Games Should Play. Ticket to Ride. Carcass..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BoardGameGeek",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/geeklist/321264/what-to-play-afterbesides-catan-geeklist",
+            "title": "What to play after/besides CATAN Geeklist. | BoardGameGeek",
+            "text": "Alternatives to Catan: Rivals for Catan (2-player variant), Machi Koro (faster production wagering), Chinatown (heavier dealmaking), 7 Wonders (empire building, up..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=1lxByjctBOE&t=62",
+            "title": "7 Games To Try If You like Catan",
+            "text": "7 Games To Try If You like Catan and then once we are done figuring our way move moving forward in the game to figure out what exp..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "For Deeper Strategy and Engine Building",
+          "text": "The Castles of Burgundy: Uses dice placement on a hex-and-region grid to develop estates, trade, and build an economic engine. Splendor: A streamlined, fast-paced economic game where collecting gem tokens lets you build a card-purchasing engine. Terraforming Mars: A heavier strategy game where players manage corporations, place tiles, and build resource engines to transform Mars.",
+          "markdown": "- **The Castles of Burgundy:** Uses dice placement on a hex-and-region grid to develop estates, trade, and build an economic engine.\n- **Splendor:** A streamlined, fast-paced economic game where collecting gem tokens lets you build a card-purchasing engine.\n- **Terraforming Mars:** A heavier strategy game where players manage corporations, place tiles, and build resource engines to transform Mars.[[1]](https://www.eneba.com/hub/games/games-like-catan/)[[2]](https://boardgamegeek.com/geeklist/321264/what-to-play-afterbesides-catan-geeklist)[[3]](https://www.elevatedboardgames.com/post/10-great-board-games-that-are-better-than-catan)[[4]](https://www.radartoys.com/blogs/blog/board-games-like-catan)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Eneba",
+            "domain": "www.eneba.com",
+            "url": "https://www.eneba.com/hub/games/games-like-catan/",
+            "title": "17 Games Like Catan To Play in 2026",
+            "text": "Jump to: * Our Top Picks for Games Like Catan. * 17 Games Like Catan Every Fan of Board Games Should Play. Ticket to Ride. Carcassonne. Wingspan. Takenoko. Terrafo..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BoardGameGeek",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/geeklist/321264/what-to-play-afterbesides-catan-geeklist",
+            "title": "What to play after/besides CATAN Geeklist. | BoardGameGeek",
+            "text": "Alternatives to Catan: Rivals for Catan (2-player variant), Machi Koro (faster production wagering), Chinatown (heavier dealmaking), 7 Wonders (empire building, up..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Elevated Board Games",
+            "domain": "www.elevatedboardgames.com",
+            "url": "https://www.elevatedboardgames.com/post/10-great-board-games-that-are-better-than-catan",
+            "title": "10 Great Board Games That Are Better Than Catan",
+            "text": "10 Great Board Games That Are Better Than Catan * By: Blaze Aldrich | February 19th, 2026. * 10 Great Board Games That Are Better ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Radar Toys",
+            "domain": "www.radartoys.com",
+            "url": "https://www.radartoys.com/blogs/blog/board-games-like-catan",
+            "title": "11 Board Games Like Catan You'll Actually Want to Play - Radar Toys",
+            "text": "Popular Products * Blokees Jurassic World Terraventure TS02 Single Blind Box Building Set $3.99. * Blokees DC Batman Defender Version DC01 Legendary Batman Assembl..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "You can browse community-curated recommendations and lists on BoardGameGeek.",
+          "markdown": "You can browse community-curated recommendations and lists on [BoardGameGeek](https://boardgamegeek.com/geeklist/321264/what-to-play-afterbesides-catan-geeklist).[[1]](https://boardgamegeek.com/geeklist/321264/what-to-play-afterbesides-catan-geeklist)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "BoardGameGeek",
+            "description": null,
+            "url": "https://boardgamegeek.com/geeklist/321264/what-to-play-afterbesides-catan-geeklist",
+            "domain": "boardgamegeek.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BoardGameGeek",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/geeklist/321264/what-to-play-afterbesides-catan-geeklist",
+            "title": "What to play after/besides CATAN Geeklist. | BoardGameGeek",
+            "text": "Alternatives to Catan: Rivals for Catan (2-player variant), Machi Koro (faster production wagering), Chinatown (heavier dealmaking), 7 Wonders (empire building, up..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_video_element",
+          "position": "left",
+          "title": "7 Games To Try If You like Catan",
+          "snippet": "9m",
+          "url": "https://www.youtube.com/watch?v=1lxByjctBOE&t=62",
+          "domain": "www.youtube.com",
+          "image_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpaY9vbhf4ilw0CN_Uj5BKqd7rSrPDwhroycitwZo6KPOa32gu",
+          "source": "YouTube",
+          "date": "2 years ago",
+          "timestamp": "2024-10-19 03:41:11 +00:00"
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Here is a helpful video breakdown comparing board games that share core mechanics like dice rolling, resource gathering, and network building with Catan: 9m 7 Games To Try If You like Catan 24K views · 2 years ago YouTube · BoardGameCo",
+          "markdown": "Here is a helpful video breakdown comparing board games that share core mechanics like dice rolling, resource gathering, and network building with Catan:\n\n![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpaY9vbhf4ilw0CN_Uj5BKqd7rSrPDwhroycitwZo6KPOa32gu)\n9m\n[](https://www.youtube.com/watch?v=1lxByjctBOE&t=62) 7 Games To Try If You like Catan 24K views  · 2 years ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · BoardGameCo",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "To help narrow down the best option for your group, tell me:Who you usually play with (family, kids, or a dedicated game night group)\nWhat part of Catan you like most (the trading, the dice rolling, or building on the map)\nYour preferred complexity level (light/casual vs. deep/strategic)",
+          "markdown": "To help narrow down the best option for your group, tell me:\n\n- **Who** you usually play with (family, kids, or a dedicated game night group)\n- **What part of Catan** you like most (the trading, the dice rolling, or building on the map)\n- Your preferred **complexity level** (light/casual vs. deep/strategic)",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "BoardGameGeek",
+          "domain": "boardgamegeek.com",
+          "url": "https://boardgamegeek.com/geeklist/321264/what-to-play-afterbesides-catan-geeklist",
+          "title": "What to play after/besides CATAN Geeklist. | BoardGameGeek",
+          "text": "Alternatives to Catan: Rivals for Catan (2-player variant), Machi Koro (faster production wagering), Chinatown (heavier dealmaking), 7 Wonders (empire building, up..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Radar Toys",
+          "domain": "www.radartoys.com",
+          "url": "https://www.radartoys.com/blogs/blog/board-games-like-catan",
+          "title": "11 Board Games Like Catan You'll Actually Want to Play - Radar Toys",
+          "text": "Popular Products * Blokees Jurassic World Terraventure TS02 Single Blind Box Building Set $3.99. * Blokees DC Batman Defender Version DC01 Legendary Batman Assembl..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "YouTube",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=1lxByjctBOE&t=62",
+          "title": "7 Games To Try If You like Catan",
+          "text": "7 Games To Try If You like Catan and then once we are done figuring our way move moving forward in the game to figure out what expansions or add-ons or where else"
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "www.youtube.com",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=NkA-nQahWwQ",
+          "title": "If You Like Catan You'll Love These Board Games",
+          "text": "and the publisher is going to be Aaliyah SL Ravensburger or awaken reals if you're only interested in playing multiplayer. you can get the Aaliyah version the 20th..."
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Suggested entry game similar to Catan but for two players ...",
+        "url": "https://boardgamegeek.com/thread/3345038/suggested-entry-game-similar-to-catan-but-for-two",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › ... › Recommendations",
+        "website_name": "BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Aug 4, 2024 — try Rivals for Catan . also consider something from the Ticket to Ride range. Carcassonne is a great option. Plays well at two, similar entry ...",
+        "pre_snippet": "08/04/2024 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Rivals for Catan"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Games Similar to Catan in Terms of Resource Gathering/Trading",
+          "description": null,
+          "url": "https://boardgamegeek.com/thread/1806572/games-similar-to-catan-in-terms-of-resource-gather",
+          "domain": "boardgamegeek.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Games like Monopoly/Catan, where all the action is in the ...",
+          "description": null,
+          "url": "https://boardgamegeek.com/thread/3102300/games-like-monopolycatan-where-all-the-action-is-i",
+          "domain": "boardgamegeek.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from boardgamegeek.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+catan+site:boardgamegeek.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQntjyzDRaKeRZubKYxFrYwJ_amwGdw:1792381270251&sa=X&ved=2ahUKEwi8-qjHlMWXAxXl8bsIHRmjAREQrQIoAnoECCUQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2024-08-04 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]",
+        "domain": "chris2x.com",
+        "title": "Best Board Games like Catan (Also Available on the iPad )",
+        "url": "https://chris2x.com/best-board-games-like-catan-also-available-on-the-ipad/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://chris2x.com › best-board-games-like-catan-also-av...",
+        "website_name": "chris2x.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jul 6, 2020 — Catan HD Puerto Rico HD Agricola Roll for the Galaxy Ticket to Ride Pandemic 7 Wonders Carcassonne Lords of Waterdeep",
+        "pre_snippet": "07/06/2020 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Catan HD"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2020-07-06 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]",
+        "domain": "www.youtube.com",
+        "title": "The 5 Most Popular Modern Board Games… in ONE VIDEO!",
+        "url": "https://www.youtube.com/watch?v=SHCJdzO7z68",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "3.1K+ views  ·  1 year ago",
+        "website_name": "YouTube · Board Game Dad",
+        "is_image": false,
+        "is_video": true,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_video"
+        ],
+        "description": null,
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-10-09 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "Is risk like Catan?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some board games about conquering a world?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Why is it no longer settlers of Catan?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Which Catan game should I buy?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Looking for games like Settlers of Catan and Age of The ...",
+        "url": "https://www.reddit.com/r/Catan/comments/1hi2t68/looking_for_games_like_settlers_of_catan_and_age/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "9 comments  ·  1 year ago",
+        "website_name": "Reddit · r/Catan",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "whenever I start playing Settlers of Catan, I get all my cities and ports going and whatnot but then I just want to keep going and expand and get bigger ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Any strategize/conquer games? (like Risk&Catan)?",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/x9q42d/any_strategizeconquer_games_like_riskcatan/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What's your favorite board game besides Catan?",
+          "description": null,
+          "url": "https://www.reddit.com/r/Catan/comments/1s9y014/whats_your_favorite_board_game_besides_catan/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+catan+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQntjyzDRaKeRZubKYxFrYwJ_amwGdw:1792381270251&sa=X&ved=2ahUKEwi8-qjHlMWXAxXl8bsIHRmjAREQrQIoAnoECFoQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "Games similar to Catan and Carcassonne?",
+        "url": "https://www.facebook.com/groups/132851767828/posts/10160113528702829/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "90+ comments  ·  4 years ago",
+        "website_name": "Facebook · BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Hi all!\nJust started getting into more board games. Any suggestions on those similar to Catan and Carcassonne? 😁",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "New board game suggestions like Catan and Ticket to Ride?",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10163213238877829/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What are interactive board games like Catan for 5-6 players?",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10163910671647829/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.facebook.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+catan+site:www.facebook.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQntjyzDRaKeRZubKYxFrYwJ_amwGdw:1792381270251&sa=X&ved=2ahUKEwi8-qjHlMWXAxXl8bsIHRmjAREQrQIoAnoECE8QAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]",
+        "domain": "www.dicebreaker.com",
+        "title": "Board games to play if you like Catan",
+        "url": "https://www.dicebreaker.com/games/catan-1/best-games/board-games-like-catan",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.dicebreaker.com › Best Games",
+        "website_name": "Dicebreaker",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jul 20, 2021 — Board games like Catan · Bohnanza · Space Base · Concordia. For anyone looking to put down little wooden houses and collect resources. Concordia ... Read more",
+        "pre_snippet": "07/20/2021 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Bohnanza"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.dicebreaker.com/games/catan-1/best-games/board-games-like-catan#:~:text=Board%20games%20like%20Catan&text=Bohnanza&text=Space%20Base&text=Concordia,wooden%20houses%20and%20collect%20resources",
+          "domain": "www.dicebreaker.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2021-07-20 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "7 Games To Try If You like Catan | Video",
+        "url": "https://boardgamegeek.com/video/462252/catan/7-games-to-try-if-you-like-catan",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com · Oct 19, 2023",
+        "website_name": "BoardGameGeek · BoardGameCo",
+        "is_image": false,
+        "is_video": true,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_video"
+        ],
+        "description": "This is the list of the best games I believe can be great next steps into the hobby if you like Catan.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "best games I believe can be great next steps into the hobby"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2023-10-19 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]",
+        "domain": "www.quora.com",
+        "title": "What are some board games like Catan but more skill- ...",
+        "url": "https://www.quora.com/What-are-some-board-games-like-Catan-but-more-skill-based-and-less-RNG-based",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "30+ answers  ·  4 years ago",
+        "website_name": "Quora",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "What are some board games like Catan but more skill-based and less RNG-based?",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "33 answers",
+          "description": null,
+          "url": "https://www.quora.com/What-are-some-board-games-like-Catan-but-more-skill-based-and-less-RNG-based?top_ans=349049216",
+          "domain": "www.quora.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]",
+        "domain": "thedicedrop.com",
+        "title": "5 Games to Play If You Love Catan (And Want Something More)",
+        "url": "https://thedicedrop.com/posts/games-like-catan/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://thedicedrop.com › Games Like",
+        "website_name": "thedicedrop.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Sep 11, 2026 — 5 Games to Play If You Love Catan (And Want Something More) · 1. Ticket to Ride# · 2. Carcassonne# · 3. 7 Wonders# · 4. Dominion# · 5. Wingspan#. Read more",
+        "pre_snippet": "09/11/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1. Ticket to Ride"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "1. Ticket To Ride",
+          "description": null,
+          "url": "https://thedicedrop.com/posts/games-like-catan/#:~:text=1.%20Ticket%20to%20Ride",
+          "domain": "thedicedrop.com"
+         },
+         {
+          "type": "link_element",
+          "title": "2. Carcassonne",
+          "description": null,
+          "url": "https://thedicedrop.com/posts/games-like-catan/#:~:text=2.%20Carcassonne",
+          "domain": "thedicedrop.com"
+         },
+         {
+          "type": "link_element",
+          "title": "3. 7 Wonders",
+          "description": null,
+          "url": "https://thedicedrop.com/posts/games-like-catan/#:~:text=3.%207%20Wonders",
+          "domain": "thedicedrop.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-09-11 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Games like catan reddit",
+         "Board games like catan",
+         "Games like catan with friends",
+         "The Rivals of Catan",
+         "Games like Catan for 2 players",
+         "Carcassonne game",
+         "Games similar to Hive",
+         "Games like Jaipur"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

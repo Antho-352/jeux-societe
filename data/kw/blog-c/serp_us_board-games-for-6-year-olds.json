@@ -1,0 +1,1069 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "2.5846 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190344-2588-0139-0000-5753816b9587",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "2.4904 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "board games for 6 year olds",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "board games for 6 year olds",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=board%20games%20for%206%20year%20olds&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:44:59 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "popular_products",
+       "people_also_ask",
+       "related_searches"
+      ],
+      "se_results_count": 118,
+      "pages_count": 1,
+      "items_count": 13,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "Great board games for 6-year-olds mix simple rules with fun themes that keep both kids and adults engaged:[[1]](https://www.youtube.com/watch?v=JsqUelwSfKg)[[2]](https://www.mindware.orientaltrading.com/games/6-years-old-a1-553541+2317-1.fltr)\n\n### Top Cooperative & Family-Friendly Games\n\n- **[Zombie Kidz Evolution](https://www.reddit.com/r/boardgames/comments/12h055h/parents_with_a_6year_old_whatre_you_playing/)** : A cooperative legacy game where players work together to defend a school from zombies, unlocking mystery envelopes with new rules as they play.\n- **Outfoxed!** : A cooperative whodunit game where players gather clues and eliminate suspects before the guilty fox escapes.\n- **Rhino Hero** : A fun, fast-paced stacking game similar to Jenga where players build a multi-story 3D card skyscraper.\n- **Save the Pie** : A team-building game where players race to get berries to the piemaker before a hungry bear eats them (costs around $32).[[1]](https://www.reddit.com/r/boardgames/comments/12h055h/parents_with_a_6year_old_whatre_you_playing/)[[2]](https://www.youtube.com/watch?v=y5LTlBiZJvo)[[3]](https://www.nytimes.com/wirecutter/reviews/board-games-for-kids/)[[4]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:14984403858687124988,catalogid:7094265099463550653,gpcid:11108534147115862450,mid:576462737715690697&ibp=oshop)\n\n### Strategy & Light Adventure Games\n\n- **Catan Junior** : A simplified kids' version of the classic resource-building strategy game, priced around $35.\n- **Ticket to Ride: First Journey** : A kid-friendly entry into the popular train route-building series.\n- **Dragomino** : A quick, tile-matching domino game where players explore lands to find hidden dragon eggs.\n- **Mouse Trap** : The classic build-and-play zany action game where players construct a multi-part trap to catch mice, priced around $22 at [Walmart](https://www.walmart.com/ip/Mouse-Trap-Easier-Set-Up-Board-Game-for-Kids-and-Family-Ages-6-and-up-2-4-Players/536709351?wmlspartner=wlpa&selectedSellerId=0&veh=seo_fpl&cn=google).[[1]](https://www.youtube.com/watch?v=y5LTlBiZJvo)[[2]](https://www.dadsuggests.com/home/the-best-board-games-for-6-year-olds)[[3]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:4506517255682373450,catalogid:13040388562445451856,gpcid:6579805136091879179,mid:576462859587489904&ibp=oshop)\n\nYou can browse a wider selection of options categorized by skill level on [Target](https://www.target.com/c/board-games-toys/6-years-and-up/-/N-5xt9hZ5n5nc) or check out enthusiast recommendations on [Dad Suggests](https://www.dadsuggests.com/home/the-best-board-games-for-6-year-olds).[[1]](https://www.target.com/c/board-games-toys/6-years-and-up/-/N-5xt9hZ5n5nc)[[2]](https://www.dadsuggests.com/home/the-best-board-games-for-6-year-olds)To help narrow down the best choice, let me know:\n\n- Do you prefer **cooperative games** (everyone plays together against the game) or **competitive games**?\n- Are you looking for a **quick 15-minute game** or something more involved?",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Great board games for 6-year-olds mix simple rules with fun themes that keep both kids and adults engaged :",
+          "markdown": "Great board games for 6-year-olds mix simple rules with fun themes that keep both kids and adults engaged:[[1]](https://www.youtube.com/watch?v=JsqUelwSfKg)[[2]](https://www.mindware.orientaltrading.com/games/6-years-old-a1-553541+2317-1.fltr)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=JsqUelwSfKg",
+            "title": "10 Best Games to Play WITH Your Kids (Ages 4–8)",
+            "text": "10 Best Games to Play WITH Your Kids (Ages 4–8) this is Board Game Dad. and today I'm finally going to be doing a video that viewe..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Oriental Trading",
+            "domain": "www.mindware.orientaltrading.com",
+            "url": "https://www.mindware.orientaltrading.com/games/6-years-old-a1-553541+2317-1.fltr",
+            "title": "Educational & Learning Games for 6 Year Olds - MindWare",
+            "text": "From cooperative board games to strategy challenges, each option encourages growth and laughter. Board games for 6 year olds intro..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Top Cooperative & Family-Friendly Games",
+          "text": "Zombie Kidz Evolution : A cooperative legacy game where players work together to defend a school from zombies, unlocking mystery envelopes with new rules as they play. Outfoxed! : A cooperative whodunit game where players gather clues and eliminate suspects before the guilty fox escapes. Rhino Hero : A fun, fast-paced stacking game similar to Jenga where players build a multi-story 3D card skyscraper. Save the Pie : A team-building game where players race to get berries to the piemaker before a hungry bear eats them (costs around $32).",
+          "markdown": "- **[Zombie Kidz Evolution](https://www.reddit.com/r/boardgames/comments/12h055h/parents_with_a_6year_old_whatre_you_playing/)** : A cooperative legacy game where players work together to defend a school from zombies, unlocking mystery envelopes with new rules as they play.\n- **Outfoxed!** : A cooperative whodunit game where players gather clues and eliminate suspects before the guilty fox escapes.\n- **Rhino Hero** : A fun, fast-paced stacking game similar to Jenga where players build a multi-story 3D card skyscraper.\n- **Save the Pie** : A team-building game where players race to get berries to the piemaker before a hungry bear eats them (costs around $32).[[1]](https://www.reddit.com/r/boardgames/comments/12h055h/parents_with_a_6year_old_whatre_you_playing/)[[2]](https://www.youtube.com/watch?v=y5LTlBiZJvo)[[3]](https://www.nytimes.com/wirecutter/reviews/board-games-for-kids/)[[4]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:14984403858687124988,catalogid:7094265099463550653,gpcid:11108534147115862450,mid:576462737715690697&ibp=oshop)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Zombie Kidz Evolution",
+            "description": null,
+            "url": "https://www.reddit.com/r/boardgames/comments/12h055h/parents_with_a_6year_old_whatre_you_playing/",
+            "domain": "www.reddit.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/boardgames/comments/12h055h/parents_with_a_6year_old_whatre_you_playing/",
+            "title": "Parents with a 6-year old: what're you playing? : r/boardgames - Reddit",
+            "text": "Legacy Game Recommendation: Zombie Kidz Evolution is a highly recommended legacy game for 6-year-olds, featuring mystery envelopes..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=y5LTlBiZJvo",
+            "title": "7 Best Board Games for Young Families (That Parents Actually Enjoy)",
+            "text": "7 Best Board Games for Young Families (That Parents Actually Enjoy) hi friends thanks for joining this episode of What's in a Game..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "The New York Times",
+            "domain": "www.nytimes.com",
+            "url": "https://www.nytimes.com/wirecutter/reviews/board-games-for-kids/",
+            "title": "Board Games We Love for Kids and Families | Reviews by Wirecutter",
+            "text": "Preschool: First Orchard (cooperative, ages 2-5); Max (strategy, ages 4-7); Rhino Hero (stacking, ages 5+); Set Junior (abstract c..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Google",
+            "domain": "www.google.com",
+            "url": "https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:14984403858687124988,catalogid:7094265099463550653,gpcid:11108534147115862450,mid:576462737715690697&ibp=oshop",
+            "title": "Save the Pie Team-Building Board Game for Ages 6+",
+            "text": "Get the berries to the piemaker before the bear eats them in the early childhood education board game, Save the Pie! A cooperative..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Strategy & Light Adventure Games",
+          "text": "Catan Junior : A simplified kids' version of the classic resource-building strategy game, priced around $35. Ticket to Ride: First Journey : A kid-friendly entry into the popular train route-building series. Dragomino : A quick, tile-matching domino game where players explore lands to find hidden dragon eggs. Dragomino Mouse Trap : The classic build-and-play zany action game where players construct a multi-part trap to catch mice, priced around $22 at Walmart. Walmart",
+          "markdown": "- **Catan Junior** : A simplified kids' version of the classic resource-building strategy game, priced around $35.\n- **Ticket to Ride: First Journey** : A kid-friendly entry into the popular train route-building series.\n- **Dragomino** : A quick, tile-matching domino game where players explore lands to find hidden dragon eggs.\n- **Mouse Trap** : The classic build-and-play zany action game where players construct a multi-part trap to catch mice, priced around $22 at [Walmart](https://www.walmart.com/ip/Mouse-Trap-Easier-Set-Up-Board-Game-for-Kids-and-Family-Ages-6-and-up-2-4-Players/536709351?wmlspartner=wlpa&selectedSellerId=0&veh=seo_fpl&cn=google).[[1]](https://www.youtube.com/watch?v=y5LTlBiZJvo)[[2]](https://www.dadsuggests.com/home/the-best-board-games-for-6-year-olds)[[3]](https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:4506517255682373450,catalogid:13040388562445451856,gpcid:6579805136091879179,mid:576462859587489904&ibp=oshop)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Walmart",
+            "description": null,
+            "url": "https://www.walmart.com/ip/Mouse-Trap-Easier-Set-Up-Board-Game-for-Kids-and-Family-Ages-6-and-up-2-4-Players/536709351?wmlspartner=wlpa&selectedSellerId=0&veh=seo_fpl&cn=google",
+            "domain": "www.walmart.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=y5LTlBiZJvo",
+            "title": "7 Best Board Games for Young Families (That Parents Actually Enjoy)",
+            "text": "7 Best Board Games for Young Families (That Parents Actually Enjoy) hi friends thanks for joining this episode of What's in a Game..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Dad Suggests Books",
+            "domain": "www.dadsuggests.com",
+            "url": "https://www.dadsuggests.com/home/the-best-board-games-for-6-year-olds",
+            "title": "The Best Board Games for 6-Year-Olds | Dad Suggests",
+            "text": "Top Board Games for 6-Year-Olds: Catan Junior (strategy, building); Ticket to Ride: First Journey (route completion); SOS Dino (co..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Google",
+            "domain": "www.google.com",
+            "url": "https://www.google.com/search?q=product&prds=pvt:hg,pvo:29,productid:4506517255682373450,catalogid:13040388562445451856,gpcid:6579805136091879179,mid:576462859587489904&ibp=oshop",
+            "title": "Game Mouse Trap",
+            "text": "The Mouse Trap game, a longtime family favorite, is always good for zany action and lots of laughs. Scurry around the board collec..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "You can browse a wider selection of options categorized by skill level on Target or check out enthusiast recommendations on Dad Suggests.",
+          "markdown": "You can browse a wider selection of options categorized by skill level on [Target](https://www.target.com/c/board-games-toys/6-years-and-up/-/N-5xt9hZ5n5nc) or check out enthusiast recommendations on [Dad Suggests](https://www.dadsuggests.com/home/the-best-board-games-for-6-year-olds).[[1]](https://www.target.com/c/board-games-toys/6-years-and-up/-/N-5xt9hZ5n5nc)[[2]](https://www.dadsuggests.com/home/the-best-board-games-for-6-year-olds)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Target",
+            "description": null,
+            "url": "https://www.target.com/c/board-games-toys/6-years-and-up/-/N-5xt9hZ5n5nc",
+            "domain": "www.target.com"
+           },
+           {
+            "type": "link_element",
+            "title": "Dad Suggests",
+            "description": null,
+            "url": "https://www.dadsuggests.com/home/the-best-board-games-for-6-year-olds",
+            "domain": "www.dadsuggests.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Target",
+            "domain": "www.target.com",
+            "url": "https://www.target.com/c/board-games-toys/6-years-and-up/-/N-5xt9hZ5n5nc",
+            "title": "6 Years and Up : Board Games : Target",
+            "text": "Target Board Games for Ages 6+: Hasbro Classic Operation ($19.99), Pokémon Guess Who ($24.99), CrunchLabs Squirrel Dash ($24.99), ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Dad Suggests Books",
+            "domain": "www.dadsuggests.com",
+            "url": "https://www.dadsuggests.com/home/the-best-board-games-for-6-year-olds",
+            "title": "The Best Board Games for 6-Year-Olds | Dad Suggests",
+            "text": "Top Board Games for 6-Year-Olds: Catan Junior (strategy, building); Ticket to Ride: First Journey (route completion); SOS Dino (cooperative rescue); Rhino Hero (st..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "To help narrow down the best choice, let me know:Do you prefer cooperative games (everyone plays together against the game) or competitive games ?\nAre you looking for a quick 15-minute game or something more involved?",
+          "markdown": "To help narrow down the best choice, let me know:\n\n- Do you prefer **cooperative games** (everyone plays together against the game) or **competitive games**?\n- Are you looking for a **quick 15-minute game** or something more involved?",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Reddit",
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/boardgames/comments/12h055h/parents_with_a_6year_old_whatre_you_playing/",
+          "title": "Parents with a 6-year old: what're you playing? : r/boardgames - Reddit",
+          "text": "Legacy Game Recommendation: Zombie Kidz Evolution is a highly recommended legacy game for 6-year-olds, featuring mystery envelopes that maintain interest and rules..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Dad Suggests Books",
+          "domain": "www.dadsuggests.com",
+          "url": "https://www.dadsuggests.com/home/the-best-board-games-for-6-year-olds",
+          "title": "The Best Board Games for 6-Year-Olds | Dad Suggests",
+          "text": "Top Board Games for 6-Year-Olds: Catan Junior (strategy, building); Ticket to Ride: First Journey (route completion); SOS Dino (cooperative rescue); Rhino Hero (st..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Target",
+          "domain": "www.target.com",
+          "url": "https://www.target.com/c/board-games-toys/6-years-and-up/-/N-5xt9hZ5n5nc",
+          "title": "6 Years and Up : Board Games : Target",
+          "text": "Target Board Games for Ages 6+: Hasbro Classic Operation ($19.99), Pokémon Guess Who ($24.99), CrunchLabs Squirrel Dash ($24.99), Asmodee Magical Athlete ($29.99)"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "A 6 Year Old's Top 25",
+        "url": "https://boardgamegeek.com/geeklist/277993/a-6-year-olds-top-25",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › geeklist › a-6-year-olds-t...",
+        "website_name": "BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "A 6 Year Old's Top 25. Browse All Boardgames Categories Artists Publishers Honors Gone Cardboard Recent Additions Previews Families Mechanics Designers ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "A 6 Year Old's Top 25"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]",
+        "domain": "www.mindware.orientaltrading.com",
+        "title": "Educational & Learning Games for 6 Year Olds",
+        "url": "https://www.mindware.orientaltrading.com/games/6-years-old-a1-553541+2317-1.fltr",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.mindware.orientaltrading.com › games › 6...",
+        "website_name": "Oriental Trading",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Board games for 6 year olds introduce simple rules and engaging themes that capture young imaginations. They promote social skills like taking turns and ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Board games for 6 year olds"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.mindware.orientaltrading.com/games/6-years-old-a1-553541+2317-1.fltr#:~:text=Board%20games%20for%206%20year,skills%20like%20taking%20turns%20and",
+          "domain": "www.mindware.orientaltrading.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]",
+        "domain": "www.youtube.com",
+        "title": "10 Best Games to Play WITH Your Kids (Ages 6–10)",
+        "url": "https://www.youtube.com/watch?v=VbrhYpI-B40",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "10.5K+ views  ·  5 months ago",
+        "website_name": "YouTube · Board Game Dad",
+        "is_image": false,
+        "is_video": true,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_video"
+        ],
+        "description": null,
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-05-21 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What are favorite card or board games for kids aged 6 and 8?",
+        "url": "https://www.facebook.com/groups/homeschoolfreeandaffordable/posts/3316823531948565/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "50+ comments  ·  2 years ago",
+        "website_name": "Facebook · The Homeschool Quest Free And Affordable Resources & Printables",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Hi there! We’d like to add to our shelf of games for Christmas. Can you share your absolute favorite card or board games? Our children are 6 and 8 🙂",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "What board games are suitable for a 6-year-old? - Facebook",
+          "description": null,
+          "url": "https://www.facebook.com/groups/boardgamerevolution/posts/3526559944302585/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What are good board games for a 6-year-old? - Facebook",
+          "description": null,
+          "url": "https://www.facebook.com/groups/theboardgamegroup/posts/3184413981612599/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.facebook.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=board+games+for+6+year+olds+site:www.facebook.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnv6FPmddE38RuwH3hgol0NS-pQGOg:1792381498199&sa=X&ved=2ahUKEwjs5IG0lcWXAxVHVfEDHShwAPYQrQIoAnoECCAQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[8]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Top 15 Children's games (age 4-6)",
+        "url": "https://boardgamegeek.com/geeklist/366431/top-15-childrens-games-age-4-6",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › geeklist › top-15-children...",
+        "website_name": "BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Oct 31, 2025 — 1. Coconuts · 2. Taco Kitten Pizza · 3. Sleeping Queens · 4. Pantomime · 5. Beethupferl · 6. Magic Keys · 7. Magic Mountain · 8. Jumanji Stampede. Read more",
+        "pre_snippet": "10/31/2025 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "1. Coconuts"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://boardgamegeek.com/geeklist/366431/top-15-childrens-games-age-4-6#:~:text=1.,Coconuts&text=2.,Taco%20Kitten%20Pizza&text=3.,Sleeping%20Queens&text=4.,Pantomime&text=5.,Beethupferl&text=6.,Magic%20Keys&text=7.,Magic%20Mountain&text=8.,Jumanji%20Stampede",
+          "domain": "boardgamegeek.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-10-31 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[10]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Board games for 6yr old : r/UKParenting",
+        "url": "https://www.reddit.com/r/UKParenting/comments/17ia2gl/board_games_for_6yr_old/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "10+ comments  ·  2 years ago",
+        "website_name": "Reddit · r/UKParenting",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "At 6, ticket to ride (either the first journey or Europe editions) is a great board game, but doesn't involve dice rolling. Kingdomino is a ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "ticket to ride"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Best boardgames for 6 year olds?",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/3xgugv/best_boardgames_for_6_year_olds/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What are good board games to play with a six-year-old?",
+          "description": null,
+          "url": "https://www.reddit.com/r/AskReddit/comments/1174ua/what_are_good_board_games_to_play_with_a/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=board+games+for+6+year+olds+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnv6FPmddE38RuwH3hgol0NS-pQGOg:1792381498199&sa=X&ved=2ahUKEwjs5IG0lcWXAxVHVfEDHShwAPYQrQIoAnoECD0QAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 1,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[12]/div[1]",
+        "title": "More products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Peaceable Kingdom Count Your Chickens Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+6+year+olds&prds=gpcid:5814349464909031902,rds:PC_5814349464909031902%7CPROD_PC_5814349464909031902,headlineOfferDocid:13908047994339595797,catalogid:11169741156117802378,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+\nFun (100 user reviews)",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-5753816b9587:0",
+          "price": {
+           "current": 15.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$15.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 202,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "11169741156117802378",
+           "data_docid": "11540361993814533658",
+           "gid": "5814349464909031902"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Builders & Biomes Minecraft Junior",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+6+year+olds&prds=gpcid:1412195771613976706,rds:PC_1412195771613976706%7CPROD_PC_1412195771613976706,headlineOfferDocid:7194089525202137258,catalogid:6863438779654502540,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "The Little Seedling",
+          "more_sellers": false,
+          "seller": "The Little Seedling",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-5753816b9587:1",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 13,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "6863438779654502540",
+           "data_docid": "5899048433735893676",
+           "gid": "1412195771613976706"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Hurry Up Chicken Butt",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+6+year+olds&prds=gpcid:2451195047190729337,rds:PC_2451195047190729337%7CPROD_PC_2451195047190729337,headlineOfferDocid:17765631683310550260,catalogid:1206857880469484488,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+\nFun (247 user reviews)",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-5753816b9587:2",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 346,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "1206857880469484488",
+           "data_docid": "13262781408421868920",
+           "gid": "2451195047190729337"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Goliath Greedy Granny Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+6+year+olds&prds=gpcid:15691947138112216600,rds:PC_15691947138112216600%7CPROD_PC_15691947138112216600,headlineOfferDocid:7472040383962907894,catalogid:1837154925987461984,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+\nFun (226 user reviews)",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-5753816b9587:3",
+          "price": {
+           "current": 15.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$15.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 408,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "1837154925987461984",
+           "data_docid": "9752223628222489497",
+           "gid": "15691947138112216600"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Hasbro Operation Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+6+year+olds&prds=gpcid:16483865541573137687,rds:PC_16483865541573137687%7CPROD_PC_16483865541573137687,headlineOfferDocid:14107874913364127986,catalogid:13701951262117249040,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Kohl's & more\nFun (154 user reviews)",
+          "more_sellers": true,
+          "seller": "Kohl's",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-5753816b9587:4",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 397,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "13701951262117249040",
+           "data_docid": "3552491286808851726",
+           "gid": "16483865541573137687"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Hasbro Don't Break the Ice Game",
+          "url": "https://picknest.co/best-educational-board-games-preschoolers/",
+          "domain": "picknest.co",
+          "description": "Target & more\nFree delivery on $35+\nSimple gameplay makes it accessible to preschoolers · Limited strategic depth for older children PickNest",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-5753816b9587:5",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 764,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "7170098856510918194",
+           "data_docid": "4979409464879442109",
+           "gid": "15764142189541915756"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Clue Junior Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+6+year+olds&prds=gpcid:17434216858464743069,rds:PC_17434216858464743069%7CPROD_PC_17434216858464743069,headlineOfferDocid:11141455716168550342,catalogid:10501035107261376327,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Barnes & Noble & more\nNext-day delivery $7\nFun (69 user reviews)",
+          "more_sellers": true,
+          "seller": "Barnes & Noble",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-5753816b9587:6",
+          "price": {
+           "current": 17.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$17.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 122,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "10501035107261376327",
+           "data_docid": "5754340183692481672",
+           "gid": "17434216858464743069"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Tapple Game",
+          "url": "https://www.thegamer.com/best-word-board-games/",
+          "domain": "www.thegamer.com",
+          "description": "Target & more\nFree delivery on $35+\nFast-paced and exciting gameplay · Can be stressful for players who don't like being put on the spot TheGamer",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190344-2588-0139-0000-5753816b9587:7",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 1200,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "11735642665355992479",
+           "data_docid": "16947985508799951895",
+           "gid": "11810378174198701195"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[14]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some good board games for a 7-year-old?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[14]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some fun games for a 6-year-old girl?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[14]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What's the best game system for a 6 year old?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[14]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What games do ADHD kids like?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[14]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[16]/div[1]/div[1]",
+        "domain": "wonderkidstoy.com",
+        "title": "Board Games for Kids: Educational, Strategy & Family Games",
+        "url": "https://wonderkidstoy.com/collections/board-games?srsltid=AU7gw4XN2nVSo_ExIWD2Yk0vuhld-lbwLUw3a302ei-4R0Y2Fo8M1LRL",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://wonderkidstoy.com › collections › board-games",
+        "website_name": "Wonder Kids Toy",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Shop board games for kids at Wonder Kids Toy. Explore hands-on learning activities, compare toy types and find playful ways to practice new skills.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 50,
+         "regular": null,
+         "max_value": 132,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$50 to $132"
+        },
+        "highlighted": [
+         "board games for kids at Wonder Kids Toy"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[18]/div[1]/div[1]",
+        "domain": "simplyfun.com",
+        "title": "Board Games for Kids | Best Games for Learning & Fun",
+        "url": "https://simplyfun.com/collections/all?srsltid=AU7gw4WNz-0r9wF8rDZLlexya5PyFUgBsPFPf-qShLGpQFd4R8FlHFq6",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://simplyfun.com › collections › all",
+        "website_name": "SimplyFun",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Discover fun and educational board games for kids! Perfect for learning, strategy, and family bonding. ✓ Find the best games today with SimplyFun!",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 15,
+         "regular": null,
+         "max_value": 86,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$15 to $86"
+        },
+        "highlighted": [
+         "fun and educational board games for kids"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[20]/div[1]/div[1]",
+        "domain": "thetabletopfamily.com",
+        "title": "Best Board Games for 6 Year Olds (That The Whole ...",
+        "url": "https://thetabletopfamily.com/great-games-for-6-year-olds/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://thetabletopfamily.com › Blog",
+        "website_name": "The Tabletop Family",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Best Board Games for 6 Year Olds · Foxy · Splendor Kids · Dr. Eureka · Ziggurat · Collect! · Mantis · Stomp the Plank · Mmm! A cooperative press-your-luck dice ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "board games for 6 year olds from thetabletopfamily.com",
+          "url": "https://thetabletopfamily.com/great-games-for-6-year-olds/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp3YpgsBSBaMyQW9vggUlew-3VohYF2WpQ6_E5Ndg&usqp=CAE&s"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Foxy"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://thetabletopfamily.com/great-games-for-6-year-olds/#:~:text=Best%20Board%20Games%20for%206,Year%20Olds&text=Foxy&text=Splendor%20Kids&text=Dr.%20Eureka&text=Ziggurat&text=Collect!&text=Mantis&text=Stomp%20the%20Plank&text=Mmm!,sneak%20cheese%20past%20a%20cat.",
+          "domain": "thetabletopfamily.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 13,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Board games for 6 year olds girl",
+         "Best board games for 6 year olds",
+         "Board games for 6 year olds boy",
+         "Games for 6 7 year olds",
+         "Board games for 6 year olds Reddit",
+         "Educational board games for 6 year olds",
+         "6 Year old games online",
+         "Games for 6 years olds"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

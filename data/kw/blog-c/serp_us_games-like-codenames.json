@@ -1,0 +1,646 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "10.4439 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190342-2588-0139-0000-396b462c668b",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "10.3536 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "games like codenames",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "games like codenames",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=games%20like%20codenames&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:42:10 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "video",
+       "related_searches"
+      ],
+      "se_results_count": 91,
+      "pages_count": 1,
+      "items_count": 11,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "Top board games similar to **Codenames** feature `word association, team deduction, or clever clue-giving mechanics`:\n\n### 1. Just One\n\n- **How it plays:** A fully cooperative party game where players try to guess a secret word. Everyone simultaneously writes down a single-word clue.\n- **The twist:** Before the guesser sees the clues, any identical clues cancel each other out and get hidden, forcing players to think of clever, non-obvious hints.\n- **Best for:** Groups of 3 to 7 players who prefer working together instead of competing.[[1]](https://boardgamegeek.com/thread/3201345/recommend-a-light-game-similar-to-codenames-does-n)[[2]](https://manyworldstavern.com/blogs/tavern-talk/5-board-games-to-try-if-you-like-codenames)\n\n### 2. Decrypto\n\n- **How it plays:** A team-vs-team spy and communication game where you intercept and decode your opponents' encrypted messages while keeping your own codes secret.\n- **The twist:** It offers much deeper strategic depth than Codenames, as giving clues that are too obvious lets the other team crack your code.\n- **Best for:** Competitive groups and players who want a brainier puzzle.[[1]](https://manyworldstavern.com/blogs/tavern-talk/5-board-games-to-try-if-you-like-codenames)\n\n### 3. Wavelength\n\n- **How it plays:** A social-deduction and telepathy game where one player knows the target location on a hidden, invisible spectrum (e.g., \"Hot vs. Cold\" or \"Bad Gift vs. Great Gift\").\n- **The twist:** The clue-giver gives a single conceptual hint, and the team must physically rotate a dial to match where they think the target lands.\n- **Best for:** Large, lively parties and non-gamers.[[1]](https://manyworldstavern.com/blogs/tavern-talk/5-board-games-to-try-if-you-like-codenames)\n\n### 4. Concept\n\n- **How it plays:** A cooperative game where players try to guess words or phrases.\n- **The twist:** Instead of using spoken or written word clues, the clue-giver places markers on a board of universal icons to communicate concepts.\n- **Best for:** Visual thinkers and mixed-age groups.[[1]](https://manyworldstavern.com/blogs/tavern-talk/5-board-games-to-try-if-you-like-codenames)\n\n### 5. Cross Clues\n\n- **How it plays:** A fast-paced cooperative grid game where players intersect two different categories or words on a matrix to give a single-word clue that links both.\n- **The twist:** Everyone works together against a timer to fill a grid of cards as quickly and accurately as possible.\n- **Best for:** Quick, low-stress turns that scale well at any player count.[[1]](https://boardgamegeek.com/thread/3201345/recommend-a-light-game-similar-to-codenames-does-n)\n\nIf you'd like to narrow down the best pick, let me know:\n\n- **How many players** do you usually have at the table?\n- Do you prefer **cooperative** (working together) or **competitive** (team vs. team) games?",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Top board games similar to Codenames feature word association, team deduction, or clever clue-giving mechanics :",
+          "markdown": "Top board games similar to **Codenames** feature `word association, team deduction, or clever clue-giving mechanics`:",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "1. Just One",
+          "text": "How it plays: A fully cooperative party game where players try to guess a secret word. Everyone simultaneously writes down a single-word clue. The twist: Before the guesser sees the clues, any identical clues cancel each other out and get hidden, forcing players to think of clever, non-obvious hints. Best for: Groups of 3 to 7 players who prefer working together instead of competing.",
+          "markdown": "- **How it plays:** A fully cooperative party game where players try to guess a secret word. Everyone simultaneously writes down a single-word clue.\n- **The twist:** Before the guesser sees the clues, any identical clues cancel each other out and get hidden, forcing players to think of clever, non-obvious hints.\n- **Best for:** Groups of 3 to 7 players who prefer working together instead of competing.[[1]](https://boardgamegeek.com/thread/3201345/recommend-a-light-game-similar-to-codenames-does-n)[[2]](https://manyworldstavern.com/blogs/tavern-talk/5-board-games-to-try-if-you-like-codenames)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BGG",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/thread/3201345/recommend-a-light-game-similar-to-codenames-does-n",
+            "title": "Recommend a light game similar to CODENAMES? (Does not have to ...",
+            "text": "@Molokov @Molokov Dec 2, 2023 I'd say Just One needs a slightly bigger group (4-7+ works best), but it's definitely a good suggest..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Many Worlds Tavern - Coffee",
+            "domain": "manyworldstavern.com",
+            "url": "https://manyworldstavern.com/blogs/tavern-talk/5-board-games-to-try-if-you-like-codenames",
+            "title": "5 Board Games To Try If You Like Codenames – Many Worlds Tavern",
+            "text": "Recommended Board Games for Codenames Fans: Concept (uses icon pawns to convey words/phrases for clever associations); Just One (s..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "2. Decrypto",
+          "text": "How it plays: A team-vs-team spy and communication game where you intercept and decode your opponents' encrypted messages while keeping your own codes secret. The twist: It offers much deeper strategic depth than Codenames, as giving clues that are too obvious lets the other team crack your code. Best for: Competitive groups and players who want a brainier puzzle.",
+          "markdown": "- **How it plays:** A team-vs-team spy and communication game where you intercept and decode your opponents' encrypted messages while keeping your own codes secret.\n- **The twist:** It offers much deeper strategic depth than Codenames, as giving clues that are too obvious lets the other team crack your code.\n- **Best for:** Competitive groups and players who want a brainier puzzle.[[1]](https://manyworldstavern.com/blogs/tavern-talk/5-board-games-to-try-if-you-like-codenames)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Many Worlds Tavern - Coffee",
+            "domain": "manyworldstavern.com",
+            "url": "https://manyworldstavern.com/blogs/tavern-talk/5-board-games-to-try-if-you-like-codenames",
+            "title": "5 Board Games To Try If You Like Codenames – Many Worlds Tavern",
+            "text": "Recommended Board Games for Codenames Fans: Concept (uses icon pawns to convey words/phrases for clever associations); Just One (secret one-word clues where duplic..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "3. Wavelength",
+          "text": "How it plays: A social-deduction and telepathy game where one player knows the target location on a hidden, invisible spectrum (e.g., \"Hot vs. Cold\" or \"Bad Gift vs. Great Gift\"). The twist: The clue-giver gives a single conceptual hint, and the team must physically rotate a dial to match where they think the target lands. Best for: Large, lively parties and non-gamers.",
+          "markdown": "- **How it plays:** A social-deduction and telepathy game where one player knows the target location on a hidden, invisible spectrum (e.g., \"Hot vs. Cold\" or \"Bad Gift vs. Great Gift\").\n- **The twist:** The clue-giver gives a single conceptual hint, and the team must physically rotate a dial to match where they think the target lands.\n- **Best for:** Large, lively parties and non-gamers.[[1]](https://manyworldstavern.com/blogs/tavern-talk/5-board-games-to-try-if-you-like-codenames)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Many Worlds Tavern - Coffee",
+            "domain": "manyworldstavern.com",
+            "url": "https://manyworldstavern.com/blogs/tavern-talk/5-board-games-to-try-if-you-like-codenames",
+            "title": "5 Board Games To Try If You Like Codenames – Many Worlds Tavern",
+            "text": "Recommended Board Games for Codenames Fans: Concept (uses icon pawns to convey words/phrases for clever associations); Just One (secret one-word clues where duplic..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "4. Concept",
+          "text": "How it plays: A cooperative game where players try to guess words or phrases. The twist: Instead of using spoken or written word clues, the clue-giver places markers on a board of universal icons to communicate concepts. Best for: Visual thinkers and mixed-age groups.",
+          "markdown": "- **How it plays:** A cooperative game where players try to guess words or phrases.\n- **The twist:** Instead of using spoken or written word clues, the clue-giver places markers on a board of universal icons to communicate concepts.\n- **Best for:** Visual thinkers and mixed-age groups.[[1]](https://manyworldstavern.com/blogs/tavern-talk/5-board-games-to-try-if-you-like-codenames)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Many Worlds Tavern - Coffee",
+            "domain": "manyworldstavern.com",
+            "url": "https://manyworldstavern.com/blogs/tavern-talk/5-board-games-to-try-if-you-like-codenames",
+            "title": "5 Board Games To Try If You Like Codenames – Many Worlds Tavern",
+            "text": "Recommended Board Games for Codenames Fans: Concept (uses icon pawns to convey words/phrases for clever associations); Just One (secret one-word clues where duplic..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "5. Cross Clues",
+          "text": "How it plays: A fast-paced cooperative grid game where players intersect two different categories or words on a matrix to give a single-word clue that links both. The twist: Everyone works together against a timer to fill a grid of cards as quickly and accurately as possible. Best for: Quick, low-stress turns that scale well at any player count.",
+          "markdown": "- **How it plays:** A fast-paced cooperative grid game where players intersect two different categories or words on a matrix to give a single-word clue that links both.\n- **The twist:** Everyone works together against a timer to fill a grid of cards as quickly and accurately as possible.\n- **Best for:** Quick, low-stress turns that scale well at any player count.[[1]](https://boardgamegeek.com/thread/3201345/recommend-a-light-game-similar-to-codenames-does-n)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BGG",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/thread/3201345/recommend-a-light-game-similar-to-codenames-does-n",
+            "title": "Recommend a light game similar to CODENAMES? (Does not have to ...",
+            "text": "@Molokov @Molokov Dec 2, 2023 I'd say Just One needs a slightly bigger group (4-7+ works best), but it's definitely a good suggestion. Along with Letter Jam, and a..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "If you'd like to narrow down the best pick, let me know:How many players do you usually have at the table?\nDo you prefer cooperative (working together) or competitive (team vs. team) games?",
+          "markdown": "If you'd like to narrow down the best pick, let me know:\n\n- **How many players** do you usually have at the table?\n- Do you prefer **cooperative** (working together) or **competitive** (team vs. team) games?",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "BGG",
+          "domain": "boardgamegeek.com",
+          "url": "https://boardgamegeek.com/thread/3201345/recommend-a-light-game-similar-to-codenames-does-n",
+          "title": "Recommend a light game similar to CODENAMES? (Does not have to ...",
+          "text": "@Molokov @Molokov Dec 2, 2023 I'd say Just One needs a slightly bigger group (4-7+ works best), but it's definitely a good suggestion. Along with Letter Jam, and a..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Many Worlds Tavern - Coffee",
+          "domain": "manyworldstavern.com",
+          "url": "https://manyworldstavern.com/blogs/tavern-talk/5-board-games-to-try-if-you-like-codenames",
+          "title": "5 Board Games To Try If You Like Codenames – Many Worlds Tavern",
+          "text": "Recommended Board Games for Codenames Fans: Concept (uses icon pawns to convey words/phrases for clever associations); Just One (secret one-word clues where duplic..."
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "Fallen in love with Codenames - want something similar",
+        "url": "https://boardgamegeek.com/thread/1766544/fallen-in-love-with-codenames-want-something-simil",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › ... › Recommendations",
+        "website_name": "BGG",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Apr 20, 2017 — Both Deception and Mysterium have the mechanic of one player trying to give clues to the other players in a limited way. Mysterium is more like ... Read more",
+        "pre_snippet": "04/20/2017 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Deception and Mysterium"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://boardgamegeek.com/thread/1766544/fallen-in-love-with-codenames-want-something-simil#:~:text=Both%20Deception%20and%20Mysterium%20have,with%20using%20art%20as%20clues.",
+          "domain": "boardgamegeek.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2017-04-20 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]",
+        "domain": "en.wikipedia.org",
+        "title": "Codenames (board game)",
+        "url": "https://en.wikipedia.org/wiki/Codenames_(board_game)",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://en.wikipedia.org › wiki › Codenames_(board_ga...",
+        "website_name": "Wikipedia",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Related games Dixit, 25 Words or Less, Mysterium, Deception. The Simpsons Family Edition … it is similar to other collaborative franchise editions like the ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Dixit, 25 Words or Less, Mysterium, Deception"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Please recommend board games similar to codenames or ...",
+        "url": "https://www.reddit.com/r/gamerecommendations/comments/1t2lqx5/please_recommend_board_games_similar_to_codenames/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "4 comments  ·  5 months ago",
+        "website_name": "Reddit · r/gamerecommendations",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Just One: a cooperative game. Krakel-Orakel: draw your personal secret word. A Fake Artist Goes to New York: +1 for Poetry for Neanderthals. ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Just One: a cooperative game"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Name of specific Codenames-like game : r/boardgames ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/zomwi2/name_of_specific_codenameslike_game/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Looking For iOS Game similar to Codenames : r ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/digitaltabletop/comments/c5f7oz/looking_for_ios_game_similar_to_codenames/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+codenames+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQns5O1ktYP0yORQ00h_bcL3jKSQ5qA:1792381323743&sa=X&ved=2ahUKEwiY1unglMWXAxUWUkEAHXLPAU4QrQIoAnoECCcQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What are good communication-based team building games ...",
+        "url": "https://www.facebook.com/groups/132851767828/posts/10156591497757829/?tl=th_TH",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "40+ comments  ·  8 years ago",
+        "website_name": "Facebook · BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Games like Hanabi, Keep Talking and Nobody Explodes, and Forbidden Island are recommended for communication-based team building. CrossTalk, ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Games like Hanabi, Keep Talking and Nobody Explodes, and Forbidden Island"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Best games suggestions for 8-12 people - Facebook",
+          "description": null,
+          "url": "https://www.facebook.com/groups/boardgamerevolution/posts/2025990681026193/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What's the game like Code Names but better? - Facebook",
+          "description": null,
+          "url": "https://www.facebook.com/groups/BoardGameBBQCommunity/posts/1394698834320148/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.facebook.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+codenames+site:www.facebook.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQns5O1ktYP0yORQ00h_bcL3jKSQ5qA:1792381323743&sa=X&ved=2ahUKEwiY1unglMWXAxUWUkEAHXLPAU4QrQIoAnoECCkQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+        "domain": "segurancaesaudenasescolas.trabalho.gov.br",
+        "title": "online board games like codenames - Apps on Google Play",
+        "url": "https://segurancaesaudenasescolas.trabalho.gov.br/storage/store.php/online-board-games-like-codenames/en",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://segurancaesaudenasescolas.trabalho.gov.br › storage",
+        "website_name": "Segurança e Saúde nas Escolas",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Play online board games like Codenames with friends in real time. Includes built-in voice chat, turn timers, and a card reveal system … a Great online board  ...",
+        "pre_snippet": null,
+        "extended_snippet": "4.6(56,637)  · Free · ‎Android · ‎Game",
+        "images": null,
+        "amp_version": false,
+        "rating": {
+         "rating_type": "Max5",
+         "value": 4.6,
+         "votes_count": 56637,
+         "rating_max": 5
+        },
+        "price": null,
+        "highlighted": [
+         "Play online board games like Codenames"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "video",
+        "rank_group": 1,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]",
+        "items": [
+         {
+          "type": "video_element",
+          "source": "YouTube · CheeseDud",
+          "title": "8 Party Games BETTER than CODENAMES",
+          "timestamp": "2026-03-18 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=GRViV61H1V0"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · kovray",
+          "title": "Skip Codenames - Play These 5 Board Games Instead!",
+          "timestamp": "2025-07-29 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=II4rz253fDA"
+         },
+         {
+          "type": "video_element",
+          "source": "Instagram · Now Boarding | Board Games Bengaluru",
+          "title": "Standing in the corner at every party like: \"Please... ...",
+          "timestamp": "2025-11-13 00:00:00 +00:00",
+          "url": "https://www.instagram.com/reel/DQ_5pVcD3gc/?hl=en"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+        "domain": "www.polygon.com",
+        "title": "The 5 best party board games",
+        "url": "https://www.polygon.com/23471659/best-party-games-board-games-large-groups/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.polygon.com › Board Games",
+        "website_name": "Polygon.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Nov 22, 2022 — These are the 5 best party games, including hits like Codenames, Decrypto, Wavelength, and more.",
+        "pre_snippet": "11/22/2022 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Codenames"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2022-11-22 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+        "domain": "gg.deals",
+        "title": "Games like Codenames - 18 best alternatives",
+        "url": "https://gg.deals/game/codenames/similar-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://gg.deals › Games › Casual › PC › Codenames",
+        "website_name": "GG.deals",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "we have prepared for you more than 15 games similar to Codenames in terms of genre, gameplay, and visuals. :Current price: $6.99 … find alternative to  ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 2,
+         "regular": null,
+         "max_value": 13,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$2 to $13"
+        },
+        "highlighted": [
+         "more than 15 games similar to Codenames"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+        "domain": "www.wired.com",
+        "title": "The Best Family Board Games",
+        "url": "https://www.wired.com/gallery/best-family-board-games/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.wired.com › Gear › buying guides",
+        "website_name": "WIRED",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jul 20, 2026 — From monsters to kittens to strategy games, Codenames a board game. It combines fun elements from classic card games, like Old Maid, and adds a ...",
+        "pre_snippet": "07/20/2026 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Codenames a board game"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2026-07-20 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Games like codenames reddit",
+         "Board games like codenames",
+         "Codenames online",
+         "Codenames Czech Games Edition",
+         "Just One game",
+         "Codenames original game",
+         "Codenames Duet",
+         "Codenames Deep Undercover"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

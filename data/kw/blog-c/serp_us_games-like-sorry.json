@@ -1,0 +1,787 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "6.0024 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190341-2588-0139-0000-6be063bdc43c",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "5.8850 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "games like sorry",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "games like sorry",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=games%20like%20sorry&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:41:53 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "video",
+       "related_searches"
+      ],
+      "se_results_count": 112,
+      "pages_count": 1,
+      "items_count": 12,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "Board games similar to [Sorry!](https://www.amazon.com/Toys-Games-Sorry/s?rh=n%3A165793011%2Cp_n_g-1001486116111%3A3239695011) share a race-and-bump mechanic where you move pieces around a track and send opponents back to start.[[1]](https://www.reddit.com/r/boardgames/comments/1j2ou7g/game_that_plays_like_sorrytrouble_but_with_a_deck/)[[2]](https://www.mcall.com/2021/07/16/6-board-games-that-are-similar-to-sorry/)[[3]](https://www.sun-sentinel.com/2021/07/16/6-board-games-that-are-similar-to-sorry/)\n\n### Direct Relatives (Pachisi Variants)\n\n- **Trouble:** Uses the same race-to-the-finish concept, but replaces cards with a plastic \"Pop-O-Matic\" dice bubble in the center of the board.[[1]](https://www.mcall.com/2021/07/16/6-board-games-that-are-similar-to-sorry/)[[2]](https://www.reddit.com/r/boardgames/comments/1j2ou7g/game_that_plays_like_sorrytrouble_but_with_a_deck/)\n- **Parcheesi:** The classic royal Indian game ([Pachisi](https://www.reddit.com/r/boardgames/comments/1j2ou7g/game_that_plays_like_sorrytrouble_but_with_a_deck/) ) that inspired *Sorry!* , played with dice and blocking rules.[[1]](https://www.sun-sentinel.com/2021/07/16/6-board-games-that-are-similar-to-sorry/)[[2]](https://www.reddit.com/r/boardgames/comments/1j2ou7g/game_that_plays_like_sorrytrouble_but_with_a_deck/)\n- **Aggravation / Wahoo:** A marble-moving board game where you can shortcut across the board or \"aggravate\" (bump) opponents back to their base.[[1]](https://www.reddit.com/r/boardgames/comments/1j2ou7g/game_that_plays_like_sorrytrouble_but_with_a_deck/)\n- **Ludo:** A simplified global race-and-capture board game using standard dice.[[1]](https://www.reddit.com/r/boardgames/comments/1j2ou7g/game_that_plays_like_sorrytrouble_but_with_a_deck/)\n\n### Modern & Strategic Alternatives\n\n- **Camel Up:** A fast-paced family board game about camel racing, betting, and unpredictable stack movements.\n- **Tsuro:** A tile-laying game where you slide paths and try to knock or force other players' pieces off the edge of the board.\n- **Monopoly:** A longer, high-competition game of strategy, risk, and ruining relationships.[[1]](https://www.youtube.com/watch?v=LyaFl3iyvh8)[[2]](https://nerdist.com/article/get-even-sweeter-revenge-in-these-alternatives-to-sorry/)[[3]](https://www.sun-sentinel.com/2021/07/16/6-board-games-that-are-similar-to-sorry/)\n\nIf you'd like to narrow it down, let me know:\n\n- **Who** is playing (kids, adults, or mixed family)?\n- Do you prefer **dice or cards** for movement?",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Board games similar to Sorry! share a race-and-bump mechanic where you move pieces around a track and send opponents back to start.",
+          "markdown": "Board games similar to [Sorry!](https://www.amazon.com/Toys-Games-Sorry/s?rh=n%3A165793011%2Cp_n_g-1001486116111%3A3239695011) share a race-and-bump mechanic where you move pieces around a track and send opponents back to start.[[1]](https://www.reddit.com/r/boardgames/comments/1j2ou7g/game_that_plays_like_sorrytrouble_but_with_a_deck/)[[2]](https://www.mcall.com/2021/07/16/6-board-games-that-are-similar-to-sorry/)[[3]](https://www.sun-sentinel.com/2021/07/16/6-board-games-that-are-similar-to-sorry/)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Sorry!",
+            "description": null,
+            "url": "https://www.amazon.com/Toys-Games-Sorry/s?rh=n%3A165793011%2Cp_n_g-1001486116111%3A3239695011",
+            "domain": "www.amazon.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/boardgames/comments/1j2ou7g/game_that_plays_like_sorrytrouble_but_with_a_deck/",
+            "title": "Game that plays like Sorry/Trouble but with a deck of cards. - Reddit",
+            "text": "* Game Winning/Ace Cards. r/YuGiOhMasterDuel. • 2y ago. Game Winning/Ace Cards. 0. 11. * Game like spades but not working in pairs..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "The Morning Call",
+            "domain": "www.mcall.com",
+            "url": "https://www.mcall.com/2021/07/16/6-board-games-that-are-similar-to-sorry/",
+            "title": "6 board games that are similar to Sorry",
+            "text": "Camel Up Board Game: available at It is suitable for two to eight players, making it a great party game, and each game should last..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Sun Sentinel",
+            "domain": "www.sun-sentinel.com",
+            "url": "https://www.sun-sentinel.com/2021/07/16/6-board-games-that-are-similar-to-sorry/",
+            "title": "6 board games that are similar to Sorry",
+            "text": "Is the game replayable? Best board games like Sorry Parcheesi New Royal Edition Board Game: available at Amazon Sorry was inspired..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Direct Relatives (Pachisi Variants)",
+          "text": "Trouble: Uses the same race-to-the-finish concept, but replaces cards with a plastic \"Pop-O-Matic\" dice bubble in the center of the board. Parcheesi: The classic royal Indian game ( Pachisi ) that inspired Sorry!, played with dice and blocking rules. Aggravation / Wahoo: A marble-moving board game where you can shortcut across the board or \"aggravate\" (bump) opponents back to their base. Ludo: A simplified global race-and-capture board game using standard dice.",
+          "markdown": "- **Trouble:** Uses the same race-to-the-finish concept, but replaces cards with a plastic \"Pop-O-Matic\" dice bubble in the center of the board.[[1]](https://www.mcall.com/2021/07/16/6-board-games-that-are-similar-to-sorry/)[[2]](https://www.reddit.com/r/boardgames/comments/1j2ou7g/game_that_plays_like_sorrytrouble_but_with_a_deck/)\n- **Parcheesi:** The classic royal Indian game ([Pachisi](https://www.reddit.com/r/boardgames/comments/1j2ou7g/game_that_plays_like_sorrytrouble_but_with_a_deck/) ) that inspired *Sorry!* , played with dice and blocking rules.[[1]](https://www.sun-sentinel.com/2021/07/16/6-board-games-that-are-similar-to-sorry/)[[2]](https://www.reddit.com/r/boardgames/comments/1j2ou7g/game_that_plays_like_sorrytrouble_but_with_a_deck/)\n- **Aggravation / Wahoo:** A marble-moving board game where you can shortcut across the board or \"aggravate\" (bump) opponents back to their base.[[1]](https://www.reddit.com/r/boardgames/comments/1j2ou7g/game_that_plays_like_sorrytrouble_but_with_a_deck/)\n- **Ludo:** A simplified global race-and-capture board game using standard dice.[[1]](https://www.reddit.com/r/boardgames/comments/1j2ou7g/game_that_plays_like_sorrytrouble_but_with_a_deck/)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "Pachisi",
+            "description": null,
+            "url": "https://www.reddit.com/r/boardgames/comments/1j2ou7g/game_that_plays_like_sorrytrouble_but_with_a_deck/",
+            "domain": "www.reddit.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "The Morning Call",
+            "domain": "www.mcall.com",
+            "url": "https://www.mcall.com/2021/07/16/6-board-games-that-are-similar-to-sorry/",
+            "title": "6 board games that are similar to Sorry",
+            "text": "Camel Up Board Game: available at It is suitable for two to eight players, making it a great party game, and each game should last..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/boardgames/comments/1j2ou7g/game_that_plays_like_sorrytrouble_but_with_a_deck/",
+            "title": "Game that plays like Sorry/Trouble but with a deck of cards. - Reddit",
+            "text": "* Game Winning/Ace Cards. r/YuGiOhMasterDuel. • 2y ago. Game Winning/Ace Cards. 0. 11. * Game like spades but not working in pairs? r/cardgames. • 2y ago. Game lik..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Sun Sentinel",
+            "domain": "www.sun-sentinel.com",
+            "url": "https://www.sun-sentinel.com/2021/07/16/6-board-games-that-are-similar-to-sorry/",
+            "title": "6 board games that are similar to Sorry",
+            "text": "Is the game replayable? Best board games like Sorry Parcheesi New Royal Edition Board Game: available at Amazon Sorry was inspired..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Modern & Strategic Alternatives",
+          "text": "Camel Up: A fast-paced family board game about camel racing, betting, and unpredictable stack movements. Tsuro: A tile-laying game where you slide paths and try to knock or force other players' pieces off the edge of the board. Monopoly: A longer, high-competition game of strategy, risk, and ruining relationships.",
+          "markdown": "- **Camel Up:** A fast-paced family board game about camel racing, betting, and unpredictable stack movements.\n- **Tsuro:** A tile-laying game where you slide paths and try to knock or force other players' pieces off the edge of the board.\n- **Monopoly:** A longer, high-competition game of strategy, risk, and ruining relationships.[[1]](https://www.youtube.com/watch?v=LyaFl3iyvh8)[[2]](https://nerdist.com/article/get-even-sweeter-revenge-in-these-alternatives-to-sorry/)[[3]](https://www.sun-sentinel.com/2021/07/16/6-board-games-that-are-similar-to-sorry/)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=LyaFl3iyvh8",
+            "title": "Board games better than Trouble, Sorry!, and Life",
+            "text": "Board games better than Trouble, Sorry!, and Life - YouTube This content isn't available. Here are three games that are similar, b..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Nerdist",
+            "domain": "nerdist.com",
+            "url": "https://nerdist.com/article/get-even-sweeter-revenge-in-these-alternatives-to-sorry/",
+            "title": "Get Even Sweeter Revenge In These Alternatives to Sorry!",
+            "text": "Tsuro Image Credit: Dad's Gaming Addiction If a piece slides off the edge of the board, it's out of the game. The last piece on th..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Sun Sentinel",
+            "domain": "www.sun-sentinel.com",
+            "url": "https://www.sun-sentinel.com/2021/07/16/6-board-games-that-are-similar-to-sorry/",
+            "title": "6 board games that are similar to Sorry",
+            "text": "Is the game replayable? Best board games like Sorry Parcheesi New Royal Edition Board Game: available at Amazon Sorry was inspired..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "If you'd like to narrow it down, let me know:Who is playing (kids, adults, or mixed family)?\nDo you prefer dice or cards for movement?",
+          "markdown": "If you'd like to narrow it down, let me know:\n\n- **Who** is playing (kids, adults, or mixed family)?\n- Do you prefer **dice or cards** for movement?",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Reddit",
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/boardgames/comments/1j2ou7g/game_that_plays_like_sorrytrouble_but_with_a_deck/",
+          "title": "Game that plays like Sorry/Trouble but with a deck of cards. - Reddit",
+          "text": "* Game Winning/Ace Cards. r/YuGiOhMasterDuel. • 2y ago. Game Winning/Ace Cards. 0. 11. * Game like spades but not working in pairs? r/cardgames. • 2y ago. Game lik..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "YouTube",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=LyaFl3iyvh8",
+          "title": "Board games better than Trouble, Sorry!, and Life",
+          "text": "Board games better than Trouble, Sorry!, and Life - YouTube This content isn't available. Here are three games that are similar, but better, than some classics lot..."
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]",
+        "domain": "nerdist.com",
+        "title": "Get Even Sweeter Revenge In These Alternatives to Sorry!",
+        "url": "https://nerdist.com/article/get-even-sweeter-revenge-in-these-alternatives-to-sorry/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://nerdist.com › Articles",
+        "website_name": "Nerdist",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Feb 16, 2016 — a card game, a dice game, and a dexterity game, to name a few. In Tsuro , you draw a on the board wins, there's also Tsuro of the Seas , And  ...",
+        "pre_snippet": "02/16/2016 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Tsuro"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2016-02-16 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Help identify Sorry-like marble game : r/boardgames",
+        "url": "https://www.reddit.com/r/boardgames/comments/1i5hyrl/help_identify_sorrylike_marble_game/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "10+ comments  ·  1 year ago",
+        "website_name": "Reddit · r/boardgames",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "That's an Aggravation board. It's derived from a German game \"Mensch ärgere Dich nicht!\" (Man, don't get aggravated!), like Sorry! Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "games like sorry from www.reddit.com",
+          "url": "https://www.reddit.com/r/boardgames/comments/1i5hyrl/help_identify_sorrylike_marble_game/",
+          "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-6be063bdc43c:0"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Aggravation board"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "What are some modern alternatives to classic games ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/2pdv3g/what_are_some_modern_alternatives_to_classic_games/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Are there any good word-based games besides Scrabble?",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/15rgsu7/are_there_any_good_wordbased_games_besides/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+sorry+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnsS1PsfBm9xpR-zJlM1qghj842RKg:1792381310884&sa=X&ved=2ahUKEwiQ_tjalMWXAxUR0AIHHY9tMPwQrQIoAnoECDIQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]",
+        "domain": "www.crazygames.com",
+        "title": "Board Games 🕹️ Play on CrazyGames",
+        "url": "https://www.crazygames.com/c/board",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.crazygames.com › board",
+        "website_name": "CrazyGames",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Chess · Checkers · Tic Tac Toe · Guess Who? These are just some of the classic titles available to play at CrazyGames. There's also a range of strategy games ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "games like sorry from www.crazygames.com",
+          "url": "https://www.crazygames.com/c/board",
+          "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-6be063bdc43c:1"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Chess"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.crazygames.com/c/board#:~:text=Chess,card%20games%2C%20and%20cooperative%20games.",
+          "domain": "www.crazygames.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[8]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some of the saddest games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "Are there any free carrom board games available?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are games like Boomerang Fu?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are the top 3 most popular board games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "video",
+        "rank_group": 1,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[10]/div[1]",
+        "items": [
+         {
+          "type": "video_element",
+          "source": "YouTube · Board Game Bonkers",
+          "title": "10 Games Better Than Sorry - Trouble",
+          "timestamp": "2025-03-22 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=yESLMKF7NHg"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · Game and Party",
+          "title": "Top 10 Board Games Better than Sorry",
+          "timestamp": "2020-03-20 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=NGYnN-n3eo8"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · Board Game Plays",
+          "title": "Board games better than Trouble, Sorry!, and Life",
+          "timestamp": "2022-06-03 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=LyaFl3iyvh8"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[12]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What is a 12-player board game similar to Sorry?",
+        "url": "https://www.facebook.com/groups/132851767828/posts/10161124949482829/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "20+ comments  ·  2 years ago",
+        "website_name": "Facebook · BoardGameGeek",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Suggestions include Pegs and Jokers, Marbles and Jokers, and Telestrations for large groups.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "games like sorry from www.facebook.com",
+          "url": "https://www.facebook.com/groups/132851767828/posts/10161124949482829/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH1s3Xtw4QX0cDjrKcZPlhAPgs-6vU3FJVb7FXaq8A3axLeEsCr_8z&usqp=CAE&s"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "What are fun board games like Monopoly and Sorry? - Facebook",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10160519098412829/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What are alternative board games to classic family games?",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10163813197937829/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.facebook.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+sorry+site:www.facebook.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQnsS1PsfBm9xpR-zJlM1qghj842RKg:1792381310884&sa=X&ved=2ahUKEwiQ_tjalMWXAxUR0AIHHY9tMPwQrQIoAnoECEMQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[14]/div[1]/div[1]",
+        "domain": "uppervalleyfun.com",
+        "title": "Beyond Sorry! and Monopoly: Board Games to Rent and ...",
+        "url": "https://uppervalleyfun.com/beyond-sorry-and-monopoly-board-games-to-rent-and-love/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://uppervalleyfun.com › beyond-sorry-and-monopol...",
+        "website_name": "Upper Valley Fun",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Feb 18, 2020 — Below you'll find an overview of games you can rent at Black Moon Games to get you started into the wonderful world of modern board games. Read more",
+        "pre_snippet": "02/18/2020 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "games you can rent at Black Moon Games"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://uppervalleyfun.com/beyond-sorry-and-monopoly-board-games-to-rent-and-love/#:~:text=Below%20you'll%20find%20an%20overview,world%20of%20modern%20board%20games.",
+          "domain": "uppervalleyfun.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2020-02-18 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[16]/div[1]/div[1]",
+        "domain": "www.rochesterfirst.com",
+        "title": "10 board games that are similar to Sorry",
+        "url": "https://www.rochesterfirst.com/reviews/br/toys-games-br/board-games-br/10-board-games-that-are-similar-to-sorry/amp/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.rochesterfirst.com › board-games-br › amp",
+        "website_name": "RochesterFirst",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Jul 17, 2022 — A classic game from years past, Chutes and Ladders ranks alongside Sorry as a popular, family-friendly game that inspired countless others. It's ... Read more",
+        "pre_snippet": "07/17/2022 00:00:00",
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "games like sorry from www.rochesterfirst.com",
+          "url": "https://www.rochesterfirst.com/reviews/br/toys-games-br/board-games-br/10-board-games-that-are-similar-to-sorry/amp/",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREMDyYKc0fX3lBqMEKKdHBY4O_0EObQE80r-ynfHCC7H0ITHdvIUpD&usqp=CAE&s"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Chutes and Ladders"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.rochesterfirst.com/reviews/br/toys-games-br/board-games-br/10-board-games-that-are-similar-to-sorry/amp/#:~:text=A%20classic%20game%20from%20years,that%20inspired%20countless%20others.%20It's",
+          "domain": "www.rochesterfirst.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2022-07-17 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[18]/div[1]/div[1]",
+        "domain": "www.amazon.com",
+        "title": "Sorry: Toys & Games",
+        "url": "https://www.amazon.com/Toys-Games-Sorry/s?rh=n%3A165793011%2Cp_n_g-1001486116111%3A3239695011",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.amazon.com › Toys-Games-Sorry",
+        "website_name": "Amazon.com",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": [
+         "is_image"
+        ],
+        "description": "Hasbro Gaming Sorry! Family Board Games for Kids and Adults, 2 to 4 Players, Ages 6 and Up (Amazon Exclusive). Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+         {
+          "type": "images_element",
+          "alt": "games like sorry from www.amazon.com",
+          "url": "https://www.amazon.com/Toys-Games-Sorry/s?rh=n%3A165793011%2Cp_n_g-1001486116111%3A3239695011",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2NOOKvOMraEFFresekv5wRHdw53dhki4d0mp8DhJGk4a-4t4bDQL&usqp=CAE&s"
+         }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Hasbro Gaming Sorry! Family Board Games for Kids and Adults"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.amazon.com/Toys-Games-Sorry/s?rh=n:165793011,p_n_g-1001486116111:3239695011#:~:text=Hasbro%20Gaming%20Sorry!%20Family%20Board,6%20and%20Up%20(Amazon%20Exclusive)",
+          "domain": "www.amazon.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[20]/div[1]/div[1]",
+        "domain": "www.walmart.com",
+        "title": "Sorry Games Classic Board Games for Kids",
+        "url": "https://www.walmart.com/c/kp/sorry-games",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.walmart.com › sorry-games",
+        "website_name": "Walmart",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Explore Sorry games for family fun. Classic board games for kids ages 6 and up, perfect for 2-4 players.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 8,
+         "regular": null,
+         "max_value": 81,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$8 to $81"
+        },
+        "highlighted": [
+         "Classic board games for kids ages 6 and up"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Board games like sorry",
+         "Games like sorry reddit",
+         "Games like sorry for adults",
+         "Family games like sorry",
+         "Games like Sorry and Trouble",
+         "Game like Sorry with Marbles",
+         "Free online board games multiplayer",
+         "Board games online free"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,990 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "2.9755 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190341-2588-0139-0000-53f2018e9fff",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "2.8320 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "games like monopoly",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "games like monopoly",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=games%20like%20monopoly&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:41:15 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "organic",
+       "people_also_ask",
+       "popular_products",
+       "video",
+       "related_searches"
+      ],
+      "se_results_count": 87,
+      "pages_count": 1,
+      "items_count": 13,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "![10 Board Games Better Than Monopoly](https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-53f2018e9fff:4)\nTop board games like Monopoly include `property trading, economic strategy, and dice-rolling mechanics without the long elimination phase`:\n\n- **Catan** : Players roll dice to gather resources, build roads and settlements, and trade with each other. Users on [BoardGameGeek](https://boardgamegeek.com/thread/2766450/recommendations-for-games-to-people-who-like-monop) reach a **consensus** that Catan is the best gateway alternative for Monopoly fans.\n- **Lords of Vegas** : A high-interaction dice and card game where players build, expand, and score casinos on the Las Vegas Strip, matching Monopoly's real estate vibe with tighter rules.\n- **Power Grid** : A classic economic strategy game where players bid for power plants, buy resources (coal, oil, garbage, uranium), and power cities across a map.\n- **Machi Koro** : A fast-paced city-building and dice-rolling game where players construct local establishments to earn income and finish major landmarks.\n- **Ticket to Ride** : A set-collection and route-building game where players claim railway tracks across a map, offering high competition and blocking tactics.\n- **Acquire** : A classic corporate-merger and stock-investment game where laying down tiles grows hotel chains that swallow each other up.[[1]](https://www.reddit.com/r/boardgames/comments/jpuf3c/a_game_like_monopoly_but_not_garbage/)[[2]](https://boardgamegeek.com/thread/2766450/recommendations-for-games-to-people-who-like-monop)[[3]](https://www.youtube.com/watch?v=p5xtIHug1Es)[[4]](https://www.donteatthemeeples.com/seven-games-to-replace-monopoly/)[[5]](https://www.pogo.com/games-like-monopoly-online-12-fun-options-you-should-try)[[6]](https://www.facebook.com/61556342682721/videos/here-are-5-classic-board-games-that-suck-and-5-amazing-replacements-boardgames/4488532694710016/)\n\nHere is a video showcasing top board game recommendations that improve upon the classic Monopoly formula:\n\n![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx86v-QAtOaY37jSRXUldYsJtFI6psA6u3bKASL4jmJcVXQXrN)\n14:56\n[](https://www.youtube.com/watch?v=p5xtIHug1Es) Top 5 Games Better Than MONOPOLY 2.9K views  · 1 year ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · RollingReggie\n\nIf you'd like to narrow down the list, tell me:\n\n- **How many players** will be playing?\n- **How long** do you want the game to take?\n- Do you prefer **heavy strategy** or a **family-friendly** style?",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Top board games like Monopoly include property trading, economic strategy, and dice-rolling mechanics without the long elimination phase :",
+          "markdown": "![10 Board Games Better Than Monopoly](https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-53f2018e9fff:2)\nTop board games like Monopoly include `property trading, economic strategy, and dice-rolling mechanics without the long elimination phase`:",
+          "links": null,
+          "images": [
+           {
+            "type": "images_element",
+            "alt": "10 Board Games Better Than Monopoly",
+            "url": null,
+            "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-53f2018e9fff:3"
+           }
+          ],
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Catan : Players roll dice to gather resources, build roads and settlements, and trade with each other. Users on BoardGameGeek reach a consensus that Catan is the best gateway alternative for Monopoly fans. Catan Lords of Vegas : A high-interaction dice and card game where players build, expand, and score casinos on the Las Vegas Strip, matching Monopoly's real estate vibe with tighter rules. Lords of Vegas Power Grid : A classic economic strategy game where players bid for power plants, buy resources (coal, oil, garbage, uranium), and power cities across a map. Power Grid Machi Koro : A fast-paced city-building and dice-rolling game where players construct local establishments to earn income and finish major landmarks. Machi Koro Ticket to Ride : A set-collection and route-building game where players claim railway tracks across a map, offering high competition and blocking tactics. Ticket to Ride Acquire : A classic corporate-merger and stock-investment game where laying down tiles grows hotel chains that swallow each other up.",
+          "markdown": "- **Catan** : Players roll dice to gather resources, build roads and settlements, and trade with each other. Users on [BoardGameGeek](https://boardgamegeek.com/thread/2766450/recommendations-for-games-to-people-who-like-monop) reach a **consensus** that Catan is the best gateway alternative for Monopoly fans.\n- **Lords of Vegas** : A high-interaction dice and card game where players build, expand, and score casinos on the Las Vegas Strip, matching Monopoly's real estate vibe with tighter rules.\n- **Power Grid** : A classic economic strategy game where players bid for power plants, buy resources (coal, oil, garbage, uranium), and power cities across a map.\n- **Machi Koro** : A fast-paced city-building and dice-rolling game where players construct local establishments to earn income and finish major landmarks.\n- **Ticket to Ride** : A set-collection and route-building game where players claim railway tracks across a map, offering high competition and blocking tactics.\n- **Acquire** : A classic corporate-merger and stock-investment game where laying down tiles grows hotel chains that swallow each other up.[[1]](https://www.reddit.com/r/boardgames/comments/jpuf3c/a_game_like_monopoly_but_not_garbage/)[[2]](https://boardgamegeek.com/thread/2766450/recommendations-for-games-to-people-who-like-monop)[[3]](https://www.youtube.com/watch?v=p5xtIHug1Es)[[4]](https://www.donteatthemeeples.com/seven-games-to-replace-monopoly/)[[5]](https://www.pogo.com/games-like-monopoly-online-12-fun-options-you-should-try)[[6]](https://www.facebook.com/61556342682721/videos/here-are-5-classic-board-games-that-suck-and-5-amazing-replacements-boardgames/4488532694710016/)",
+          "links": [
+           {
+            "type": "link_element",
+            "title": "BoardGameGeek",
+            "description": null,
+            "url": "https://boardgamegeek.com/thread/2766450/recommendations-for-games-to-people-who-like-monop",
+            "domain": "boardgamegeek.com"
+           }
+          ],
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/boardgames/comments/jpuf3c/a_game_like_monopoly_but_not_garbage/",
+            "title": "A game like monopoly but not garbage? : r/boardgames",
+            "text": "Knowing what you are targeting will save you so much time and frustration! ... This is an absolutely awesome response! I'll pose t..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "BoardGameGeek",
+            "domain": "boardgamegeek.com",
+            "url": "https://boardgamegeek.com/thread/2766450/recommendations-for-games-to-people-who-like-monop",
+            "title": "Recommendations For Games To People Who Like Monopoly?",
+            "text": "Catan as Gateway: Catan is suggested as a suitable entry point into modern board gaming for Monopoly fans due to its similarities,"
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=p5xtIHug1Es",
+            "title": "Top 5 Games Better Than MONOPOLY",
+            "text": "and also their most recent Kickstarter had the Americana expansion which added a bunch of other US cities that changed up the game..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Don't Eat the Meeples",
+            "domain": "www.donteatthemeeples.com",
+            "url": "https://www.donteatthemeeples.com/seven-games-to-replace-monopoly/",
+            "title": "Seven games to replace Monopoly - by Matt Montgomery",
+            "text": "Seven games to replace Monopoly. Thanks for the memories, Monopoly, but it's time to say goodbye. · Acquire. Your first option her..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Pogo.com",
+            "domain": "www.pogo.com",
+            "url": "https://www.pogo.com/games-like-monopoly-online-12-fun-options-you-should-try",
+            "title": "Games like Monopoly Online: 11 Fun Options You Should Try",
+            "text": "From classic adaptations to innovative twists on gameplay, here are the top games that deliver Monopoly-style entertainment right ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Facebook",
+            "domain": "www.facebook.com",
+            "url": "https://www.facebook.com/61556342682721/videos/here-are-5-classic-board-games-that-suck-and-5-amazing-replacements-boardgames/4488532694710016/",
+            "title": "Here are 5 Classic Board Games That Suck And 5 Amazing Replacements ...",
+            "text": "here are five classic board games that absolutely suck. and five amazing games to replace them first Monopoly and instead of playi..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_video_element",
+          "position": "left",
+          "title": "Top 5 Games Better Than MONOPOLY",
+          "snippet": null,
+          "url": "https://www.youtube.com/watch?v=p5xtIHug1Es",
+          "domain": "www.youtube.com",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx86v-QAtOaY37jSRXUldYsJtFI6psA6u3bKASL4jmJcVXQXrN",
+          "source": "YouTube",
+          "date": "1 year ago",
+          "timestamp": "2025-10-19 03:41:14 +00:00"
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Here is a video showcasing top board game recommendations that improve upon the classic Monopoly formula: 14:56 Top 5 Games Better Than MONOPOLY 2.9K views · 1 year ago YouTube · RollingReggie",
+          "markdown": "Here is a video showcasing top board game recommendations that improve upon the classic Monopoly formula:\n\n![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx86v-QAtOaY37jSRXUldYsJtFI6psA6u3bKASL4jmJcVXQXrN)\n14:56\n[](https://www.youtube.com/watch?v=p5xtIHug1Es) Top 5 Games Better Than MONOPOLY 2.9K views  · 1 year ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · RollingReggie",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "If you'd like to narrow down the list, tell me:How many players will be playing?\nHow long do you want the game to take?\nDo you prefer heavy strategy or a family-friendly style?",
+          "markdown": "If you'd like to narrow down the list, tell me:\n\n- **How many players** will be playing?\n- **How long** do you want the game to take?\n- Do you prefer **heavy strategy** or a **family-friendly** style?",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Reddit",
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/boardgames/comments/jpuf3c/a_game_like_monopoly_but_not_garbage/",
+          "title": "A game like monopoly but not garbage? : r/boardgames",
+          "text": "Knowing what you are targeting will save you so much time and frustration! ... This is an absolutely awesome response! I'll pose these questions to my family and s..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "BoardGameGeek",
+          "domain": "boardgamegeek.com",
+          "url": "https://boardgamegeek.com/thread/2766450/recommendations-for-games-to-people-who-like-monop",
+          "title": "Recommendations For Games To People Who Like Monopoly?",
+          "text": "Catan as Gateway: Catan is suggested as a suitable entry point into modern board gaming for Monopoly fans due to its similarities, including trading and incorporat..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "YouTube",
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=p5xtIHug1Es",
+          "title": "Top 5 Games Better Than MONOPOLY",
+          "text": "and also their most recent Kickstarter had the Americana expansion which added a bunch of other US cities that changed up the gameplay. and the maps. and the strat"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Good and interesting 'track' board games like Monopoly?",
+        "url": "https://www.reddit.com/r/BoardgameDesign/comments/1kc7g0f/good_and_interesting_track_board_games_like/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "9 comments  ·  1 year ago",
+        "website_name": "Reddit · r/BoardgameDesign",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "I'm looking for good 'track' board games where you go round and round a set track like Monopoly.\n\nI'm particularly interested in good an innovative mechanics ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Games similar to Monopoly and Game of Life that ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/zd4x8m/games_similar_to_monopoly_and_game_of_life_that/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What is a good replacement for monopoly that is still ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/boardgames/comments/26poo1/what_is_a_good_replacement_for_monopoly_that_is/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+monopoly+site:www.reddit.com&sca_esv=9e597e613f614ac0&hl=en&gl=US&sxsrf=APpeQnsA_FLjX8Q2covvXz8RhWuQvg9cMQ:1792381273695&sa=X&ved=2ahUKEwiThPvIlMWXAxXZU6QEHUHWC-4QrQIoAnoECCsQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "Is there a game similar to monopoly go?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What type of game is Monopoly?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are the top 3 most popular board games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some good board games for a whole family?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+        "domain": "www.pogo.com",
+        "title": "Games like Monopoly Online: 11 Fun Options You Should Try",
+        "url": "https://www.pogo.com/games-like-monopoly-online-12-fun-options-you-should-try",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.pogo.com › games-like-monopoly-online-...",
+        "website_name": "Pogo.com",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Aug 1, 2025 — What Games Are Similar to Monopoly? 12 Top Games · Monopoly Sudoku · Trivial Pursuit Online · Monopoly Plus · Catan Universe · Ticket to Ride. Read more",
+        "pre_snippet": "08/01/2025 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Monopoly Sudoku"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.pogo.com/games-like-monopoly-online-12-fun-options-you-should-try#:~:text=What%20Games%20Are%20Similar%20to,Monopoly%3F%2012%20Top%20Games&text=Monopoly%20Sudoku&text=Trivial%20Pursuit%20Online&text=Monopoly%20Plus&text=Catan%20Universe&text=Ticket%20to%20Ride",
+          "domain": "www.pogo.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-08-01 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What is your favourite board game similar to Monopoly?",
+        "url": "https://www.facebook.com/groups/boardgamerevolution/posts/3661678030790775/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "20+ comments  ·  2 years ago",
+        "website_name": "Facebook · Board Game Revolution Community",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "\"My favourite boardgame is __________, and it's similar to Monopoly because ___________...\"",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "What board games are similar to Monopoly and Scrabble?",
+          "description": null,
+          "url": "https://www.facebook.com/groups/boardgamerevolution/posts/3497486533876593/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "What are some multiplayer logic games similar to Monopoly?",
+          "description": null,
+          "url": "https://www.facebook.com/groups/1675594809369195/posts/4189096008019050/",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.facebook.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+monopoly+site:www.facebook.com&sca_esv=9e597e613f614ac0&hl=en&gl=US&sxsrf=APpeQnsA_FLjX8Q2covvXz8RhWuQvg9cMQ:1792381273695&sa=X&ved=2ahUKEwiThPvIlMWXAxXZU6QEHUHWC-4QrQIoAnoECEQQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 1,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]",
+        "title": "More products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "University Games Anti-Monopoly Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=games+like+monopoly&prds=gpcid:12515018206494979599,rds:PC_12515018206494979599%7CPROD_PC_12515018206494979599,headlineOfferDocid:16476537372395489148,catalogid:12457699308602101423,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Wayfair & more",
+          "more_sellers": true,
+          "seller": "Wayfair",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-53f2018e9fff:5",
+          "price": {
+           "current": 27.99,
+           "regular": 30,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$27.99 $30"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 27,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "12457699308602101423",
+           "data_docid": "12276531782059107114",
+           "gid": "12515018206494979599"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Capitalist Monopoly Type Family Board Game Best Economic Game for Children",
+          "url": "https://www.google.com/search?ibp=oshop&q=games+like+monopoly&prds=headlineOfferDocid:9510045335436447740,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "eBay\nStrategy, Economic · Kids · Family Friendly",
+          "more_sellers": false,
+          "seller": "eBay",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-53f2018e9fff:6",
+          "price": {
+           "current": 33.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$33.99"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": null,
+           "data_docid": "9510045335436447740",
+           "gid": null
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "America Opoly Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=games+like+monopoly&prds=gpcid:1359067604614728339,rds:PC_1359067604614728339%7CPROD_PC_1359067604614728339,headlineOfferDocid:6668354395027354513,catalogid:14656326088535394648,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Noble Knight Games & more\nFree delivery on $149+",
+          "more_sellers": true,
+          "seller": "Noble Knight Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-53f2018e9fff:7",
+          "price": {
+           "current": 20,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$20.00 Pre-owned"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 77,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "14656326088535394648",
+           "data_docid": "2974162946214971238",
+           "gid": "1359067604614728339"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Monopoly Deal No Mercy",
+          "url": "https://www.ubuy.com.pk/en/productde/TZHLIOG90-monopoly-deal-no-mercy-card-game-the-monopoly-deal-edition-without-mercy-fun-family-games-for-children-teenagers-and-adults-2-5-players-from",
+          "domain": "www.ubuy.com.pk",
+          "description": "Target & more\nFree delivery on $100+\nEngaging card game for family and friends · Fast-paced gameplay keeps it exciting Ubuy Pakistan",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-53f2018e9fff:8",
+          "price": {
+           "current": 9.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$9.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 65,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "17928252025586800919",
+           "data_docid": "4168782033534316050",
+           "gid": "1426713554149375140"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Custompoly Game Printable Board Game Kit, Editable Monopoly-Style Custom Board, Playable Property Trading Games, Personalized Family Gifts",
+          "url": "https://www.google.com/search?ibp=oshop&q=games+like+monopoly&prds=headlineOfferDocid:16622084791442454845,catalogid:5527354099307627078,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Etsy - Seller\nFree delivery\nEconomic · 6 Player · Kids",
+          "more_sellers": false,
+          "seller": "Etsy - Seller",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-53f2018e9fff:9",
+          "price": {
+           "current": 12.69,
+           "regular": 28,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$12.69 $28"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": "5527354099307627078",
+           "data_docid": "11574211018249982125",
+           "gid": null
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Tdc Games Make Your Own Opoly Board Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=games+like+monopoly&prds=gpcid:17814723298609274087,rds:PC_17814723298609274087%7CPROD_PC_17814723298609274087,headlineOfferDocid:13155328632646994584,catalogid:14843829585058609355,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Likethatbea & more\nWith a little patience and imagination, this is a nice crafty present to make for anyone. A reviewer on walmart.com",
+          "more_sellers": true,
+          "seller": "Likethatbea",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-53f2018e9fff:10",
+          "price": {
+           "current": 14,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$14.00"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 5,
+           "votes_count": 1,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "14843829585058609355",
+           "data_docid": "9442124431808693397",
+           "gid": "17814723298609274087"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Real Estate Tycoon Game | Multiplayer Monopoly Board Card Game for 2-6 Players | Bear Dice Alloy Edition (655G)",
+          "url": "https://www.google.com/search?ibp=oshop&q=games+like+monopoly&prds=headlineOfferDocid:393329712241028730,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Bear Dice\nFree delivery\nStrategy, Economic · 6 Player · 3 hour",
+          "more_sellers": false,
+          "seller": "Bear Dice",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-53f2018e9fff:11",
+          "price": {
+           "current": 42.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$42.99"
+          },
+          "rating": null,
+          "product_identifiers": {
+           "product_id": null,
+           "data_docid": "393329712241028730",
+           "gid": null
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Winning Moves Monopoly Scrabble Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=games+like+monopoly&prds=gpcid:6213297389321840935,rds:PC_6213297389321840935%7CPROD_PC_6213297389321840935,headlineOfferDocid:5372166191802922651,catalogid:5223041932395362539,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Rainbow Resource Center & more\nFree delivery on $50+",
+          "more_sellers": true,
+          "seller": "Rainbow Resource Center",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190341-2588-0139-0000-53f2018e9fff:12",
+          "price": {
+           "current": 32.95,
+           "regular": 36,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$32.95 $36"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 38,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "5223041932395362539",
+           "data_docid": "7242869176597319621",
+           "gid": "6213297389321840935"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+        "domain": "monopoly-here-now-big-screen.en.softonic.com",
+        "title": "Top 20 Games like Monopoly Here & ...",
+        "url": "https://monopoly-here-now-big-screen.en.softonic.com/android/alternatives",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://monopoly-here-now-big-screen.en.softonic.com › ...",
+        "website_name": "Softonic",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Find the best games like Monopoly Here & Now Big Screen for Android. More than 20 alternatives to choose: Monopoly, MONOPOLY Hotels, Monopoly Tycoon.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Monopoly"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+        "domain": "www.quora.com",
+        "title": "If Monopoly is your fallback for family game night, what are ...",
+        "url": "https://www.quora.com/If-Monopoly-is-your-fallback-for-family-game-night-what-are-the-modern-board-games-you-should-consider-playing-this-Christmas",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "30+ answers  ·  10 months ago",
+        "website_name": "Quora",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "If Monopoly is your fallback for family game night, what are the modern board games you should consider playing this Christmas?",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "31 answers",
+          "description": null,
+          "url": "https://www.quora.com/If-Monopoly-is-your-fallback-for-family-game-night-what-are-the-modern-board-games-you-should-consider-playing-this-Christmas?top_ans=1477743892736006",
+          "domain": "www.quora.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "video",
+        "rank_group": 1,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]",
+        "items": [
+         {
+          "type": "video_element",
+          "source": "YouTube · RollingReggie",
+          "title": "Top 5 Games Better Than MONOPOLY",
+          "timestamp": "2025-09-02 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=p5xtIHug1Es"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · The Hoffinator",
+          "title": "10 Best Board Games To Start Your Collection",
+          "timestamp": "2025-11-09 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=NPfAZVDuna8"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · The Dice Tower",
+          "title": "Pick 6... Games Like Monopoly",
+          "timestamp": "2024-02-24 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=bayQOA8MeHA"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "Games similar to Monopoly with less predictability?",
+        "url": "https://www.facebook.com/groups/GameDesignersGuild/posts/5916580221776007/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "3 years ago",
+        "website_name": "Facebook · Card & Board Game Designers Guild",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "If you like Monopoly, try Machi Koro! You'll get the same city-building real-estate mogul vibes along with some dice rolling and card collecting ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Machi Koro"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.facebook.com/groups/GameDesignersGuild/posts/5916580221776007/#:~:text=If%20you%20like%20Monopoly%2C%20try,take%202%2B%20hours%20to%20play!",
+          "domain": "www.facebook.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+        "domain": "www.vg247.com",
+        "title": "Games like Monopoly GO: If you love ...",
+        "url": "https://www.vg247.com/games-like-monopoly-go",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.vg247.com › Guides",
+        "website_name": "VG247",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "May 15, 2024 — Games like Monopoly GO: If you love Monopoly GO, you should try these other games · Coin Master · Monopoly Poker · Dice Dreams · Board Kings ... Read more",
+        "pre_snippet": "05/15/2024 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Coin Master"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.vg247.com/games-like-monopoly-go#:~:text=Games%20like%20Monopoly%20GO%3A%20If,should%20try%20these%20other%20games&text=Coin%20Master&text=Monopoly%20Poker&text=Dice%20Dreams&text=Board%20Kings",
+          "domain": "www.vg247.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2024-05-15 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[21]/div[1]/div[1]",
+        "domain": "boardgamegeek.com",
+        "title": "A money based boardgame that is not monopoly?",
+        "url": "https://boardgamegeek.com/thread/2491695/a-money-based-boardgame-that-is-not-monopoly",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://boardgamegeek.com › ... › Recommendations",
+        "website_name": "BGG",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Aug 26, 2020 — My favourite \"like Monopoly but better\" family game is probably Poleconomy. Read more",
+        "pre_snippet": "08/26/2020 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Poleconomy"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Games like Monopoly? - BoardGameGeek",
+          "description": null,
+          "url": "https://boardgamegeek.com/thread/2547436/games-like-monopoly",
+          "domain": "boardgamegeek.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Top 10 games better than Monopoly - BoardGameGeek",
+          "description": null,
+          "url": "https://boardgamegeek.com/thread/1179479/top-10-games-better-than-monopoly",
+          "domain": "boardgamegeek.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from boardgamegeek.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+like+monopoly+site:boardgamegeek.com&sca_esv=9e597e613f614ac0&hl=en&gl=US&sxsrf=APpeQnsA_FLjX8Q2covvXz8RhWuQvg9cMQ:1792381273695&sa=X&ved=2ahUKEwiThPvIlMWXAxXZU6QEHUHWC-4QrQIoAnoECDcQAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2020-08-26 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 13,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Board games like monopoly",
+         "Games like Monopoly online",
+         "Games like monopoly reddit",
+         "Games like monopoly for adults",
+         "Monopoly like games android",
+         "Games like Monopoly Go",
+         "Games like monopoly app",
+         "Games like the game of life online"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

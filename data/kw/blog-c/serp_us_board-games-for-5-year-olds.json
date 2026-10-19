@@ -1,0 +1,1213 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "6.1041 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190343-2588-0139-0000-ddb06858f94d",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "6.0159 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "board games for 5 year olds",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "board games for 5 year olds",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=board%20games%20for%205%20year%20olds&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:43:46 +00:00",
+      "spell": null,
+      "refinement_chips": {
+       "type": "refinement_chips",
+       "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+       "items": [
+        {
+         "type": "refinement_chips_element",
+         "title": "Best",
+         "url": "https://www.google.com/search?q=best+board+games+for+5+year+olds&hl=en&gl=US&shoprs=EgViAwiQAxgTKhtib2FyZCBnYW1lcyBmb3IgNSB5ZWFyIG9sZHMyDwgTEgRCZXN0IgViAwiQA2AB&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKAF6BQgsEIMB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Online",
+         "url": "https://www.google.com/search?q=online+board+games+for+5+year+olds&hl=en&gl=US&shoprs=GBIqG2JvYXJkIGdhbWVzIGZvciA1IHllYXIgb2xkczIKCBISBk9ubGluZWAB&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKAJ6BQgsEIQB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Girl",
+         "url": "https://www.google.com/search?q=girl+board+games+for+5+year+olds&hl=en&gl=US&shoprs=GBIqG2JvYXJkIGdhbWVzIGZvciA1IHllYXIgb2xkczIICBISBEdpcmxgAQ&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKAN6BQgsEIUB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board Game",
+         "url": "https://www.google.com/search?q=board+game+games+for+5+year+olds&hl=en&gl=US&shoprs=GAEqG2JvYXJkIGdhbWVzIGZvciA1IHllYXIgb2xkczIcCAESCkJvYXJkIEdhbWU6DAjUnZ4CENedngIwA1jTySBgAQ&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKAR6BQgsEIYB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Educational",
+         "url": "https://www.google.com/search?q=educational+board+games+for+5+year+olds&hl=en&gl=US&shoprs=GAEqG2JvYXJkIGdhbWVzIGZvciA1IHllYXIgb2xkczIbCAESC0VkdWNhdGlvbmFsOgoIobg-EKS4PjAAWNPJIGAB&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKAV6BQgsEIcB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Nearby",
+         "url": "https://www.google.com/search?q=board+games+for+5+year+olds+nearby&hl=en&gl=US&shoprs=GAMqG2JvYXJkIGdhbWVzIGZvciA1IHllYXIgb2xkczIMCAMSBk5lYXJieRgCWNPJIGAB&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKAZ6BQgsEIgB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "On sale",
+         "url": "https://www.google.com/search?q=board+games+for+5+year+olds+sale&hl=en&gl=US&shoprs=EgRKAhgBGAYqG2JvYXJkIGdhbWVzIGZvciA1IHllYXIgb2xkczITCAYSB09uIHNhbGUYAiIESgIYAVjTySBgAQ&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKAd6BQgsEIkB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Boy",
+         "url": "https://www.google.com/search?q=boy+board+games+for+5+year+olds&hl=en&gl=US&shoprs=GBIqG2JvYXJkIGdhbWVzIGZvciA1IHllYXIgb2xkczIHCBISA0JveWAB&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKAh6BQgsEIoB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Board & Card Games",
+         "url": "https://www.google.com/search?q=board+%26+card+games+for+5+year+olds&hl=en&gl=US&shoprs=GAkqG2JvYXJkIGdhbWVzIGZvciA1IHllYXIgb2xkczIWCAkSEkJvYXJkICYgQ2FyZCBHYW1lc2AB&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKAl6BQgsEIsB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Under $15",
+         "url": "https://www.google.com/search?q=board+games+for+5+year+olds+under+$15&hl=en&gl=US&shoprs=Eg0SCxEAAAAAOJxsQRgBGAUqG2JvYXJkIGdhbWVzIGZvciA1IHllYXIgb2xkczIiCAUSCVVuZGVyICQxNRgCIg0SCxEAAAAAOJxsQRgBKgIYAVjTySBgAQ&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKAp6BQgsEIwB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Free",
+         "url": "https://www.google.com/search?q=free+board+games+for+5+year+olds&hl=en&gl=US&shoprs=GBIqG2JvYXJkIGdhbWVzIGZvciA1IHllYXIgb2xkczIICBISBEZyZWVgAQ&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKAt6BQgsEI0B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "2 Player",
+         "url": "https://www.google.com/search?q=2+player+board+games+for+5+year+olds&hl=en&gl=US&shoprs=GAEqG2JvYXJkIGdhbWVzIGZvciA1IHllYXIgb2xkczIaCAESCDIgUGxheWVyOgwI6ZyaAhDrnJoCMABY08kgYAE&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKAx6BQgsEI4B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids",
+         "url": "https://www.google.com/search?q=kids+board+games+for+5+year+olds&hl=en&gl=US&shoprs=GAEqG2JvYXJkIGdhbWVzIGZvciA1IHllYXIgb2xkczIUCAESBEtpZHM6Cgj8kG8Q_pBvMABY08kgYAE&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKA16BQgsEI8B",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "4 Player",
+         "url": "https://www.google.com/search?q=4+player+board+games+for+5+year+olds&hl=en&gl=US&shoprs=GAEqG2JvYXJkIGdhbWVzIGZvciA1IHllYXIgb2xkczIaCAESCDQgUGxheWVyOgwI6ZyaAhDtnJoCMABY08kgYAE&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKA56BQgsEJAB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "2 players or more",
+         "url": "https://www.google.com/search?q=2+players+or+more+board+games+for+5+year+olds&hl=en&gl=US&shoprs=EhsqGQiPmdQCEhIJAAAAAAAAAEARAAAAAAAAAEAYASobYm9hcmQgZ2FtZXMgZm9yIDUgeWVhciBvbGRzMkEIARIRMiBwbGF5ZXJzIG9yIG1vcmUiGyoZCI-Z1AISEgkAAAAAAAAAQBEAAAAAAAAAQCoCGAE6CQiPmdQCEAAwBljTySBgAQ&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKA96BQgsEJEB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Pink",
+         "url": "https://www.google.com/search?q=pink+board+games+for+5+year+olds&hl=en&gl=US&shoprs=GAEqG2JvYXJkIGdhbWVzIGZvciA1IHllYXIgb2xkczIWCAESBFBpbms6DAjYjPUBEOmK9QEwC1jTySBgAQ&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKBB6BQgsEJIB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Party Games",
+         "url": "https://www.google.com/search?q=party+games+board+for+5+year+olds&hl=en&gl=US&shoprs=GAkqG2JvYXJkIGdhbWVzIGZvciA1IHllYXIgb2xkczIPCAkSC1BhcnR5IEdhbWVzYAE&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKBF6BQgsEJMB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Family Friendly",
+         "url": "https://www.google.com/search?q=family+friendly+board+games+for+5+year+olds&hl=en&gl=US&shoprs=GAEqG2JvYXJkIGdhbWVzIGZvciA1IHllYXIgb2xkczIhCAESD0ZhbWlseSBGcmllbmRseToMCN2xngIQ3rGeAjADWNPJIGAB&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKBJ6BQgsEJQB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Math & Counting Toys",
+         "url": "https://www.google.com/search?q=math+%26+counting+toys+board+games+for+5+year+olds&hl=en&gl=US&shoprs=GAkqG2JvYXJkIGdhbWVzIGZvciA1IHllYXIgb2xkczIYCAkSFE1hdGggJiBDb3VudGluZyBUb3lzYAE&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKBN6BQgsEJUB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Kids' Games",
+         "url": "https://www.google.com/search?q=kids'+games+board+for+5+year+olds&hl=en&gl=US&shoprs=GAkqG2JvYXJkIGdhbWVzIGZvciA1IHllYXIgb2xkczIPCAkSC0tpZHMnIEdhbWVzYAE&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKBR6BQgsEJYB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "10 – 20 minutes",
+         "url": "https://www.google.com/search?q=10+minutes+to+20+minutes+board+games+for+5+year+olds&hl=en&gl=US&shoprs=EhoqGAjGvj0SEgkAAAAAAAAkQBEAAAAAAAA0QBgBKhtib2FyZCBnYW1lcyBmb3IgNSB5ZWFyIG9sZHMyWQgBEhExMCDigJMgMjAgbWludXRlcyIaKhgIxr49EhIJAAAAAAAAJEARAAAAAAAANEAqHAoYMTAgbWludXRlcyB0byAyMCBtaW51dGVzGAE6CAjGvj0QADAGWNPJIGAB&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKBV6BQgsEJcB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Over 20 minutes",
+         "url": "https://www.google.com/search?q=over+20+minutes+board+games+for+5+year+olds&hl=en&gl=US&shoprs=EhEqDwjGvj0SCQkAAAAAAAA0QBgBKhtib2FyZCBnYW1lcyBmb3IgNSB5ZWFyIG9sZHMyNAgBEg9PdmVyIDIwIG1pbnV0ZXMiESoPCMa-PRIJCQAAAAAAADRAKgIYAToICMa-PRAAMAZY08kgYAE&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKBZ6BQgsEJgB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Diy",
+         "url": "https://www.google.com/search?q=diy+board+games+for+5+year+olds&hl=en&gl=US&shoprs=GBIqG2JvYXJkIGdhbWVzIGZvciA1IHllYXIgb2xkczIHCBISA0RpeWAB&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKBd6BQgsEJkB",
+         "domain": "www.google.com",
+         "options": null
+        },
+        {
+         "type": "refinement_chips_element",
+         "title": "Books",
+         "url": "https://www.google.com/search?q=books+board+games+for+5+year+olds&hl=en&gl=US&shoprs=GAkqG2JvYXJkIGdhbWVzIGZvciA1IHllYXIgb2xkczIJCAkSBUJvb2tzYAE&sa=X&ved=2ahUKEwjH4J-QlcWXAxVdTkEAHXI9KCUQip4GKBh6BQgsEJoB",
+         "domain": "www.google.com",
+         "options": null
+        }
+       ]
+      },
+      "item_types": [
+       "organic",
+       "popular_products",
+       "video",
+       "related_searches"
+      ],
+      "se_results_count": 169,
+      "pages_count": 1,
+      "items_count": 13,
+      "items": [
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "domain": "thetabletopfamily.com",
+        "title": "5 Great Board Games for 5-7 Year Olds",
+        "url": "https://thetabletopfamily.com/5-great-games-for-kids-ages-5-7/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://thetabletopfamily.com › Blog",
+        "website_name": "The Tabletop Family",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "5 Great Board Games for 5-7 Year Olds · Dragomino · Cloaked Cats · SOS Dino · Dr. Eureka · The Magic Labyrinth · If you liked this post you may also like:. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Dragomino"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://thetabletopfamily.com/5-great-games-for-kids-ages-5-7/#:~:text=5%20Great%20Board%20Games%20for,5-7%20Year%20Olds&text=Dragomino&text=Cloaked%20Cats&text=SOS%20Dino&text=Dr.%20Eureka&text=The%20Magic%20Labyrinth&text=If%20you%20liked%20this%20post,you%20may%20also%20like%3A",
+          "domain": "thetabletopfamily.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+        "domain": "www.mindware.orientaltrading.com",
+        "title": "Fun and Educational Board Games for 5 Year Olds",
+        "url": "https://www.mindware.orientaltrading.com/early-learning/early-learning-games/5-years-old-a1-553540+2316-1.fltr",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.mindware.orientaltrading.com › 5-years-ol...",
+        "website_name": "Oriental Trading",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Fun and Educational Board Games for 5 Year Olds · Animal · Classroom · Dinosaur · Duck · Unicorn · Bear · Books · Bugs & Butterflies (1); Cars & Trucks (1) Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 10,
+         "regular": null,
+         "max_value": 45,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$10 to $45"
+        },
+        "highlighted": [
+         "Animal"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.mindware.orientaltrading.com/early-learning/early-learning-games/5-years-old-a1-553540+2316-1.fltr#:~:text=Fun%20and%20Educational%20Board%20Games,for%205%20Year%20Olds&text=Acorn%20Soup%20Peaceable%20Kingdom%20Toddler&text=Acorn%20Soup%20Peaceable%20Kingdom%20Toddler&text=Acorn%20Soup%20Peaceable%20Kingdom%20Toddler&text=Acorn%20Soup%20Peaceable%20Kingdom%20Toddler&text=Acorn%20Soup%20Peaceable%20Kingdom%20Toddler&text=Acorn%20Soup%20Peaceable%20Kingdom%20Toddler&text=Acorn%20Soup%20Peaceable%20Kingdom%20Toddler&text=Acorn%20Soup%20Peaceable%20Kingdom%20Toddler",
+          "domain": "www.mindware.orientaltrading.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]",
+        "title": "Popular products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Ravensburger Cat & Mouse",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+5+year+olds&prds=gpcid:4922188891654626341,rds:PC_4922188891654626341%7CPROD_PC_4922188891654626341,headlineOfferDocid:8596580644554317523,catalogid:16090261265901740824,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Ravensburger North America & more",
+          "more_sellers": true,
+          "seller": "Ravensburger North America",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-ddb06858f94d:0",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 34,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "16090261265901740824",
+           "data_docid": "5647649986112794773",
+           "gid": "4922188891654626341"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Hasbro Gaming: Candy Land - Classic Children's Board Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+5+year+olds&prds=headlineOfferDocid:15332776242418120032,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Galactic Toys\nFun (60 user reviews)",
+          "more_sellers": false,
+          "seller": "Galactic Toys",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-ddb06858f94d:1",
+          "price": {
+           "current": 14.95,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$14.95"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 128,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": null,
+           "data_docid": "15332776242418120032",
+           "gid": null
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Hasbro Operation Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+5+year+olds&prds=gpcid:16483865541573137687,rds:PC_16483865541573137687%7CPROD_PC_16483865541573137687,headlineOfferDocid:17805038564095879543,catalogid:13701951262117249040,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+\nFun (154 user reviews)",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-ddb06858f94d:2",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.4,
+           "votes_count": 397,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "13701951262117249040",
+           "data_docid": "3552491286808851726",
+           "gid": "16483865541573137687"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "HABA Animal Upon Animal Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+5+year+olds&prds=gpcid:9122414519408319822,rds:PC_9122414519408319822%7CPROD_PC_9122414519408319822,headlineOfferDocid:9282045250276748685,catalogid:10670365030046062674,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Bard Owl Games & more\nFun (81 user reviews)",
+          "more_sellers": true,
+          "seller": "Bard Owl Games",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-ddb06858f94d:3",
+          "price": {
+           "current": 24.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$24.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 136,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "10670365030046062674",
+           "data_docid": "8843532508757424777",
+           "gid": "9122414519408319822"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "I Saw It First! Jungle : A Family Spotting Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+5+year+olds&prds=gpcid:16350643006130632911,rds:PC_16350643006130632911%7CPROD_PC_16350643006130632911,headlineOfferDocid:4138529299657724642,catalogid:8851861814877067178,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Magpie Kids & more",
+          "more_sellers": true,
+          "seller": "Magpie Kids",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-ddb06858f94d:4",
+          "price": {
+           "current": 29.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$29.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 5,
+           "votes_count": 3,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "8851861814877067178",
+           "data_docid": "873851634543313836",
+           "gid": "16350643006130632911"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Peaceable Kingdom Race to the Treasure Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+5+year+olds&prds=gpcid:7986933521237428302,rds:PC_7986933521237428302%7CPROD_PC_7986933521237428302,headlineOfferDocid:14755216695981781548,catalogid:9038947764519059874,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "areyougame.com & more\nFun (71 user reviews)",
+          "more_sellers": true,
+          "seller": "areyougame.com",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-ddb06858f94d:5",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 136,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "9038947764519059874",
+           "data_docid": "1047989520493111244",
+           "gid": "7986933521237428302"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Clue Junior Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+5+year+olds&prds=gpcid:17434216858464743069,rds:PC_17434216858464743069%7CPROD_PC_17434216858464743069,headlineOfferDocid:671985956242571908,catalogid:10501035107261376327,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Blain's Farm & Fleet & more\nFun (69 user reviews)",
+          "more_sellers": true,
+          "seller": "Blain's Farm & Fleet",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-ddb06858f94d:6",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.6,
+           "votes_count": 122,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "10501035107261376327",
+           "data_docid": "5754340183692481672",
+           "gid": "17434216858464743069"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Hasbro Candy Land Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+5+year+olds&prds=gpcid:459775374420642389,rds:PC_459775374420642389%7CPROD_PC_459775374420642389,headlineOfferDocid:3879225572673978022,catalogid:6809870084421237135,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "J2Games.com & more\nI like that the candy cards are made of a thick cardboard making them durable for rough children. A reviewer on hasbro.com",
+          "more_sellers": true,
+          "seller": "J2Games.com",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://api.dataforseo.com/cdn/i/10190343-2588-0139-0000-ddb06858f94d:7",
+          "price": {
+           "current": 15.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$15.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 128,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "6809870084421237135",
+           "data_docid": "6357644212418116992",
+           "gid": "459775374420642389"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What are your recommendations for teaching board games ...",
+        "url": "https://www.facebook.com/groups/BoardGameSpotlight/posts/2731781413517631/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "90+ comments  ·  7 years ago",
+        "website_name": "Facebook · Board Game Spotlight",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Haba games, Piratatak, and Batasaurus are top recommendations for teaching 4-5 year olds. We love Catan Jr, My First Carcassonne, and Ticket to ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Haba games, Piratatak, and Batasaurus"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What board games to recommend for a 5-year-old?",
+        "url": "https://www.facebook.com/groups/132851767828/posts/10159570060702829/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "80+ comments  ·  5 years ago",
+        "website_name": "Facebook · BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Exploding kittens, Blockus,Santorini, Ice Cool and Catan Junior are good for kids that age and the adults who play with them. 5y · 2 likes. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Exploding kittens, Blockus,Santorini, Ice Cool and Catan"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10159570060702829/#:~:text=Exploding%20kittens%2C%20Blockus%2CSantorini%2C%20Ice%20Cool,5y%20%C2%B7%202%20likes",
+          "domain": "www.facebook.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "video",
+        "rank_group": 1,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]",
+        "items": [
+         {
+          "type": "video_element",
+          "source": "YouTube · Rolls in the Family",
+          "title": "Best Board Games for 5 Year Olds",
+          "timestamp": "2025-09-19 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=ctXjq_BvPjU"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · Board Game Dad",
+          "title": "10 Best Games to Play WITH Your Kids (Ages 4–8)",
+          "timestamp": "2026-03-20 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=JsqUelwSfKg"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · KidsCastel",
+          "title": "4 Best Board Games for 5 Year Olds: The $9 Winner",
+          "timestamp": "2026-09-19 03:43:43 +00:00",
+          "url": "https://www.youtube.com/watch?v=48K3a9fJ_Pk"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "popular_products",
+        "rank_group": 2,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]",
+        "title": "More products",
+        "items": [
+         {
+          "type": "popular_products_element",
+          "title": "Goliath Greedy Granny Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+5+year+olds&prds=gpcid:15691947138112216600,rds:PC_15691947138112216600%7CPROD_PC_15691947138112216600,headlineOfferDocid:7472040383962907894,catalogid:1837154925987461984,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+\nFun (226 user reviews)",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT_QYh9qfJkILKqv5NedYyBc8zspe5QjaNthk5yOJixNyN8MX0MZFvwnRvoZiY0YX_4nSgJ07JFOedBxR-fHr0_h8bTFl_cZ0o_nQxV_HxIqEvlZ5lB1uib",
+          "price": {
+           "current": 15.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$15.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.2,
+           "votes_count": 408,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "1837154925987461984",
+           "data_docid": "9752223628222489497",
+           "gid": "15691947138112216600"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Catan Junior",
+          "url": "https://www.momjunction.com/articles/best-board-games-for-7-year-olds_00784900/",
+          "domain": "www.momjunction.com",
+          "description": "The Arcanum Sanctorum & more\nFast-paced · May be slightly difficult to play for some children MomJunction",
+          "more_sellers": true,
+          "seller": "The Arcanum Sanctorum",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSJwf0XECe_UJrt1G8O2-iUEGyFsPaB-6wx0zFphnwVgbZ2cKaegh0_Xc4zkAe6QMVhAEM87aL-V1m6hRCpnpl9CLbV0OAg5MMBZtOVgX0",
+          "price": {
+           "current": 30.99,
+           "regular": 38,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$30.99 $38"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 174,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "15604358328449283086",
+           "data_docid": "11971111408958813865",
+           "gid": "5197578995962457090"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Bluey Rubbish Run Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+5+year+olds&prds=gpcid:4168429710570557122,rds:PC_4168429710570557122%7CPROD_PC_4168429710570557122,headlineOfferDocid:15511675963571909896,catalogid:1029679816235546938,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSU2YFsoAxWXgmUo_5epk6b7mxJxUCKH0QWdhryaAwY_OkcYjsz19Y08M5UV9mP_C5NzqMZL8ycoNR_yZYxFr1mWZh662b4732Krn1F706PwTD-eMKciLviNQ",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.5,
+           "votes_count": 42,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "1029679816235546938",
+           "data_docid": "1724466837740332536",
+           "gid": "4168429710570557122"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Monkey Around Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+5+year+olds&prds=gpcid:5250851154178858481,rds:PC_5250851154178858481%7CPROD_PC_5250851154178858481,headlineOfferDocid:5196032245497365969,catalogid:10434981458432303465,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "areyougame.com & more\nFun (80 user reviews)",
+          "more_sellers": true,
+          "seller": "areyougame.com",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQvk1Zh5_jvtxFVJAdzPpwOINwGmbZk1YeQw-JxBoi_oKEto4_LLRYcSd7vqLm3Vdvpow5BqeW7uWpMShX3KZoQpaBqX5H-8FGOUfcsMZudae-yfFp-7-MNKg",
+          "price": {
+           "current": 19.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$19.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.9,
+           "votes_count": 111,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "10434981458432303465",
+           "data_docid": "6778974121844831251",
+           "gid": "5250851154178858481"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Bluey Scavenger Hunt Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+5+year+olds&prds=gpcid:3864707716436755651,rds:PC_3864707716436755651%7CPROD_PC_3864707716436755651,headlineOfferDocid:2064248743831332438,catalogid:8693256592460336111,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+\nFun (103 user reviews)",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRWve6-oru457TtcyPwNCslIPt_jlmayYkGp675zoF4uIf-sQytknAfSIpFLvuDrQYc4DcWTtgAIycgkcXxzzDafLgtn_gz8BDwHpbhwT95frHU6xT4Sy9i",
+          "price": {
+           "current": 14.89,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$14.89"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.7,
+           "votes_count": 221,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "8693256592460336111",
+           "data_docid": "9203035828101691450",
+           "gid": "3864707716436755651"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "The Very Hungry Caterpillar What Can You Do? Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+5+year+olds&prds=gpcid:4292793823668644989,rds:PC_4292793823668644989%7CPROD_PC_4292793823668644989,headlineOfferDocid:7009515696239306308,catalogid:18020619256385195706,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Barnes & Noble & more\nNext-day delivery $7\nIt's a great learning experience for the little ones. A reviewer on influenster.com",
+          "more_sellers": true,
+          "seller": "Barnes & Noble",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTWvKlQ5ukrtYTeLuC1TTaYt5drioz1CH2fskcz6R3hnEXGDRrZQXjeDoNCf49a8KzYNNSa1DiBomGFkAhF4xIcOxd29RSqQLK3gK7JrXA",
+          "price": {
+           "current": 16.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$16.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 5,
+           "votes_count": 3,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "18020619256385195706",
+           "data_docid": "17073003068826640907",
+           "gid": "4292793823668644989"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Chalk & Chuckles Critter Heights Memory Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+5+year+olds&prds=gpcid:10864924974697098172,rds:PC_10864924974697098172%7CPROD_PC_10864924974697098172,headlineOfferDocid:148276368149926892,catalogid:10641866632274093886,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Macy's & more\nStrategy · Kids · Family Friendly",
+          "more_sellers": true,
+          "seller": "Macy's",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQRxHFW0lGkLOioq5_hgsvfc-6QmtSJIsMZzUwr_E5MABagWlxjwn6sutcafuVHRw7ZrbQt0eRcS3c9BsSSmCOc_wKQjK0BSlVBR2BRhU4jNWCqgfZwP7je8g",
+          "price": {
+           "current": 14.44,
+           "regular": 17,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$14.44 $17"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 5,
+           "votes_count": 1,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "10641866632274093886",
+           "data_docid": "1097346577909618804",
+           "gid": "10864924974697098172"
+          }
+         },
+         {
+          "type": "popular_products_element",
+          "title": "Peaceable Kingdom Count Your Chickens Game",
+          "url": "https://www.google.com/search?ibp=oshop&q=board+games+for+5+year+olds&prds=gpcid:5814349464909031902,rds:PC_5814349464909031902%7CPROD_PC_5814349464909031902,headlineOfferDocid:13908047994339595797,catalogid:11169741156117802378,pvo:3,pvt:hg&hl=en&gl=US",
+          "domain": "www.google.com",
+          "description": "Target & more\nFree delivery on $35+\nFun (100 user reviews)",
+          "more_sellers": true,
+          "seller": "Target",
+          "group_title": null,
+          "group_source": null,
+          "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTgnWLw2UiU8Z3pCQ0kCXRYujnGETnqR8EzbSA9xwdFKILS7ssf3QeHrTq2HGHhw24EcUajSES6guLaI3a5uonSBTX_RxMIed1PFFfEuLsKkVGrcLeQsJQT",
+          "price": {
+           "current": 15.99,
+           "regular": null,
+           "max_value": null,
+           "currency": "USD",
+           "is_price_range": false,
+           "displayed_price": "$15.99"
+          },
+          "rating": {
+           "rating_type": "Max5",
+           "value": 4.8,
+           "votes_count": 202,
+           "rating_max": 5
+          },
+          "product_identifiers": {
+           "product_id": "11169741156117802378",
+           "data_docid": "11540361993814533658",
+           "gid": "5814349464909031902"
+          }
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]",
+        "domain": "forums.welltrainedmind.com",
+        "title": "Favorite board games for 5 year-olds?",
+        "url": "https://forums.welltrainedmind.com/topic/201625-favorite-board-games-for-5-year-olds/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://forums.welltrainedmind.com › topic › 201625-fa...",
+        "website_name": "The Well-Trained Mind Community",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Aug 6, 2010 — Guess WHo, Connect 4, Uno, BLockus and Stratego. CandyLand, Zingo, Uno, Shrek Matching, Trouble, Go Fish, War, Hi Ho Cherry Oh, Checkers.....and ...",
+        "pre_snippet": "08/06/2010 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Guess WHo, Connect 4, Uno, BLockus and Stratego"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2010-08-06 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]",
+        "domain": "wonderkidstoy.com",
+        "title": "Board Games for Kids: Educational, Strategy & Family Games",
+        "url": "https://wonderkidstoy.com/collections/board-games?srsltid=AU7gw4UWsG66DDZaN583OVlnfomxb9IjzPm8kaXt__BkWa_yhtTKUKUC",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://wonderkidstoy.com › collections › board-games",
+        "website_name": "Wonder Kids Toy",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Shop board games for kids at Wonder Kids Toy. Explore hands-on learning activities, compare toy types and find playful ways to practice new skills.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": {
+         "current": 50,
+         "regular": null,
+         "max_value": 133,
+         "currency": "USD",
+         "is_price_range": true,
+         "displayed_price": "$50 to $133"
+        },
+        "highlighted": [
+         "board games for kids at Wonder Kids Toy"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]",
+        "domain": "www.resetera.com",
+        "title": "Recommend board games for kids (ages 5, 12, 16)!",
+        "url": "https://www.resetera.com/threads/recommend-board-games-for-kids-ages-5-12-16.299951/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.resetera.com › Discussion › EtcetEra Forum",
+        "website_name": "ResetEra",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Oct 3, 2020 — Machi Koro, My Little Scythe and Carcassonne are other titles that have been mentioned that fits the bill. Maybe add Splendor and Ticket to Ride ... Read more",
+        "pre_snippet": "10/03/2020 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Machi Koro, My Little Scythe and Carcassonne"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.resetera.com/threads/recommend-board-games-for-kids-ages-5-12-16.299951/#:~:text=Machi%20Koro%2C%20My%20Little%20Scythe,to%20Ride%20to%20the%20list.",
+          "domain": "www.resetera.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2020-10-03 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[21]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What are easy board games for family fun with a 5-year-old?",
+        "url": "https://www.facebook.com/groups/132851767828/posts/10160917617237829/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "6 comments  ·  3 years ago",
+        "website_name": "Facebook · BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Star Wars the Clone Wars. A game that we love to play as family. When can I even integrate easily our youngest one (5 years) here. Easy to set ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Star Wars the Clone Wars"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10160917617237829/#:~:text=Star%20Wars%20the%20Clone%20Wars.,set%20up%2C%20easy%20to%20play.",
+          "domain": "www.facebook.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 9,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[23]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Board Games and Learning Games for 5 Year Old : r/daddit",
+        "url": "https://www.reddit.com/r/daddit/comments/1lbcapw/board_games_and_learning_games_for_5_year_old/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "3 comments  ·  1 year ago",
+        "website_name": "Reddit · r/daddit",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Outfoxed - Co-op mix between Guess Who and Clue. All the players try to find which fox did the crime, using descriptors from their appearance. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Outfoxed"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://www.reddit.com/r/daddit/comments/1lbcapw/board_games_and_learning_games_for_5_year_old/#:~:text=Outfoxed%20-%20Co-op%20mix%20between,using%20descriptors%20from%20their%20appearance.",
+          "domain": "www.reddit.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 13,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Board games for 5 year olds girl",
+         "Best board games for 5 year olds",
+         "Board games for 5 year olds boy",
+         "Best board games for 7 year olds",
+         "Best games for 7 year olds",
+         "Games for kids",
+         "Strategy games for 8 year olds",
+         "Top family board games"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

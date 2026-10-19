@@ -1,0 +1,820 @@
+[
+ {
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "3.4628 sec.",
+  "cost": 0.002,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "10190342-2588-0139-0000-829900313fe3",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.3914 sec.",
+    "cost": 0.002,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "serp",
+     "google",
+     "organic",
+     "live",
+     "advanced"
+    ],
+    "data": {
+     "api": "serp",
+     "function": "live",
+     "se": "google",
+     "se_type": "organic",
+     "keyword": "games to play with friends without anything",
+     "location_code": 2840,
+     "language_code": "en",
+     "depth": 10,
+     "device": "desktop",
+     "os": "windows"
+    },
+    "result": [
+     {
+      "keyword": "games to play with friends without anything",
+      "type": "organic",
+      "se_domain": "google.com",
+      "location_code": 2840,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=games%20to%20play%20with%20friends%20without%20anything&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "datetime": "2026-10-19 03:42:28 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+       "ai_overview",
+       "video",
+       "people_also_ask",
+       "organic",
+       "related_searches"
+      ],
+      "se_results_count": 86,
+      "pages_count": 1,
+      "items_count": 12,
+      "items": [
+       {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": false,
+        "markdown": "You can play several fun and interactive games with friends that require zero equipment or supplies:[[1]](https://letsfib.com/en/party-games-no-prep)\n\n### Word & Guessing Games\n\n- **20 Questions:** One person thinks of a famous person, place, or object. The rest of the group asks up to twenty \"yes or no\" questions to figure out what it is.\n- **Two Truths and a Lie:** Each player shares three statements about themselves—two that are true and one that is a lie. The other friends have to vote on which statement is the fake one.\n- **Ghost:** Players take turns adding a single letter to a growing word. You try not to complete a valid word yourself; spelling a full word or making a letter sequence that cannot possibly become a word means you lose a letter (like G-H-O-S-T).\n- **I Spy:** One person looks around the room or area and says, *\"I spy with my little eye something [color or clue],\"* and everyone else takes turns guessing the object.\n- **Stinky Pinkies:** A rhyming riddle game where someone describes a pair of rhyming words with the same syllable count (e.g., a sick pony is a \"limp chimp\") and others race to guess them.[[1]](http://matadornetwork.com/life/7-boardless-cardless-games-to-play-anywhere/)[[2]](https://www.youtube.com/watch?v=rt6FS_d7TGc)[[3]](https://www.youtube.com/shorts/SAIUK-G4ThQ)[[4]](https://playwise.education/games-play-without-anything/with-friends)[[5]](https://troomi.com/blog/ten-games-to-play-without-anything/)[[6]](https://www.simchafisher.com/2021/12/08/10-ridiculous-family-games-that-need-no-equipment-2/)\n\n### Social & Icebreaker Games\n\n- **Never Have I Ever:** Players hold up a hand (or a few fingers) and take turns saying something they have never done. Anyone in the group who *has* done that action puts a finger down.\n- **Would You Rather?:** Pose quirky, extreme, or difficult hypothetical scenarios to the group and debate everyone's choices.\n- **Truth or Dare:** Take turns choosing between answering a personal question honestly or performing a lighthearted dare.[[1]](https://www.kristinagraffphotography.com/blog/10-no-prep-family-games-you-can-play-anytime-no-screens-no-supplies)[[2]](http://matadornetwork.com/life/7-boardless-cardless-games-to-play-anywhere/)[[3]](https://playwise.education/games-play-without-anything/with-friends)\n\n### Creative & Active Games\n\n- **One-Word Story (or Sentence Story):** The group builds a story together. The first person says a word or sentence, the next person adds the next piece, and you see how wild or funny the plot gets.\n- **The Floor is Lava:** Shout *\"The floor is lava!\"* and give everyone a few seconds to scramble onto chairs, couches, or pillows so their feet do not touch the ground.\n- **Simon Says:** One person plays \"Simon\" and gives physical commands (like *\"Simon says touch your toes\"* ). If Simon gives a command *without* saying the magic phrase first, anyone who follows it is out.\n- **Telephone:** Form a line or sit in a circle. The first person whispers a complex sentence into the next person's ear, and it gets passed down the line until the last person says the altered phrase out loud.[[1]](https://www.reddit.com/r/simpleliving/comments/vr7avk/games_without_equipment/)[[2]](https://www.youtube.com/watch?v=UKdjFC963pg)[[3]](https://www.kristinagraffphotography.com/blog/10-no-prep-family-games-you-can-play-anytime-no-screens-no-supplies)[[4]](https://www.youtube.com/shorts/SAIUK-G4ThQ)[[5]](https://letsfib.com/en/party-games-no-prep)[[6]](https://www.youtube.com/watch?v=rt6FS_d7TGc)\n\nHere is a quick video showcasing more no-equipment party games you can try with your friends:\n\n![](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSX7cQ4X5vX5ibmEAGdmNCvfqJr-b0fFDBdsk96HA5BLWd4KWSt)\n6:32\n[](https://www.youtube.com/watch?v=rt6FS_d7TGc) Games to Play Without Anything – Fun, Easy & No Equipment Needed!12K views  · 1 year ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · Board Games & Game Night!\n\nIf you let me know **how many friends you have** and **where you are** (like in a car, at home, or outside), I can recommend the best specific game for your setup.",
+        "items": [
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "You can play several fun and interactive games with friends that require zero equipment or supplies :",
+          "markdown": "You can play several fun and interactive games with friends that require zero equipment or supplies:[[1]](https://letsfib.com/en/party-games-no-prep)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Let's Fib!",
+            "domain": "letsfib.com",
+            "url": "https://letsfib.com/en/party-games-no-prep",
+            "title": "Party Games No Prep: Fun Games for Adults with No Equipment | Let's Fib!",
+            "text": "No-Prep Games: Let's Fib (1-8 players, browser/smartphone, 30s setup, trivia/bluffing/voting), Who Am I (3+ players, paper/pen, 1 ..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Word & Guessing Games",
+          "text": "20 Questions: One person thinks of a famous person, place, or object. The rest of the group asks up to twenty \"yes or no\" questions to figure out what it is. Two Truths and a Lie: Each player shares three statements about themselves—two that are true and one that is a lie. The other friends have to vote on which statement is the fake one. Ghost: Players take turns adding a single letter to a growing word. You try not to complete a valid word yourself; spelling a full word or making a letter sequence that cannot possibly become a word means you lose a letter (like G-H-O-S-T). I Spy: One person looks around the room or area and says, \"I spy with my little eye something [color or clue],\" and everyone else takes turns guessing the object. Stinky Pinkies: A rhyming riddle game where someone describes a pair of rhyming words with the same syllable count (e.g., a sick pony is a \"limp chimp\") and others race to guess them.",
+          "markdown": "- **20 Questions:** One person thinks of a famous person, place, or object. The rest of the group asks up to twenty \"yes or no\" questions to figure out what it is.\n- **Two Truths and a Lie:** Each player shares three statements about themselves—two that are true and one that is a lie. The other friends have to vote on which statement is the fake one.\n- **Ghost:** Players take turns adding a single letter to a growing word. You try not to complete a valid word yourself; spelling a full word or making a letter sequence that cannot possibly become a word means you lose a letter (like G-H-O-S-T).\n- **I Spy:** One person looks around the room or area and says, *\"I spy with my little eye something [color or clue],\"* and everyone else takes turns guessing the object.\n- **Stinky Pinkies:** A rhyming riddle game where someone describes a pair of rhyming words with the same syllable count (e.g., a sick pony is a \"limp chimp\") and others race to guess them.[[1]](http://matadornetwork.com/life/7-boardless-cardless-games-to-play-anywhere/)[[2]](https://www.youtube.com/watch?v=rt6FS_d7TGc)[[3]](https://www.youtube.com/shorts/SAIUK-G4ThQ)[[4]](https://playwise.education/games-play-without-anything/with-friends)[[5]](https://troomi.com/blog/ten-games-to-play-without-anything/)[[6]](https://www.simchafisher.com/2021/12/08/10-ridiculous-family-games-that-need-no-equipment-2/)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Matador Network",
+            "domain": "matadornetwork.com",
+            "url": "http://matadornetwork.com/life/7-boardless-cardless-games-to-play-anywhere/",
+            "title": "Games to Play Without Cards for Two People or More",
+            "text": "Boardless cardless games requiring no materials: How's Yours (guesser asks one question for truthful clues); I Went To Market (seq..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=rt6FS_d7TGc",
+            "title": "Games to Play Without Anything – Fun, Easy & No Equipment Needed!",
+            "text": "Games to Play Without Anything – Fun, Easy & No Equipment Needed! tired of setting up game boards losing dice or scrambling to fin..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/shorts/SAIUK-G4ThQ",
+            "title": "10 Games to Play Without Anything: No Board or Materials Required ...",
+            "text": "here are 10 games to play without anything no boards or materials. required. 20 questions one person thinks of an object. and othe..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "PlayWise Education",
+            "domain": "playwise.education",
+            "url": "https://playwise.education/games-play-without-anything/with-friends",
+            "title": "20+ Games to Play with Friends without Anything (Tested & True)",
+            "text": "Word & Guessing: 20 Questions (2+, chill), Word Chain (2+, chill), Contact (3+, focused), Ghost (2+, chill), I Spy (2+, chill), Ca..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Troomi",
+            "domain": "troomi.com",
+            "url": "https://troomi.com/blog/ten-games-to-play-without-anything/",
+            "title": "Ten Games to Play Without Anything | Troomi Kid",
+            "text": "With a little imagination and creativity, games to play without anything can keep your kids entertained fully phone-free and engag..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "simcha fisher",
+            "domain": "www.simchafisher.com",
+            "url": "https://www.simchafisher.com/2021/12/08/10-ridiculous-family-games-that-need-no-equipment-2/",
+            "title": "10 ridiculous family games that need no equipment - simcha fisher",
+            "text": "One thing we like doing is playing games — video games, certainly, and board games, sometimes. But my favorites are the ones we ca..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Social & Icebreaker Games",
+          "text": "Never Have I Ever: Players hold up a hand (or a few fingers) and take turns saying something they have never done. Anyone in the group who has done that action puts a finger down. Would You Rather?: Pose quirky, extreme, or difficult hypothetical scenarios to the group and debate everyone's choices. Truth or Dare: Take turns choosing between answering a personal question honestly or performing a lighthearted dare.",
+          "markdown": "- **Never Have I Ever:** Players hold up a hand (or a few fingers) and take turns saying something they have never done. Anyone in the group who *has* done that action puts a finger down.\n- **Would You Rather?:** Pose quirky, extreme, or difficult hypothetical scenarios to the group and debate everyone's choices.\n- **Truth or Dare:** Take turns choosing between answering a personal question honestly or performing a lighthearted dare.[[1]](https://www.kristinagraffphotography.com/blog/10-no-prep-family-games-you-can-play-anytime-no-screens-no-supplies)[[2]](http://matadornetwork.com/life/7-boardless-cardless-games-to-play-anywhere/)[[3]](https://playwise.education/games-play-without-anything/with-friends)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Kristina Graff Photography",
+            "domain": "www.kristinagraffphotography.com",
+            "url": "https://www.kristinagraffphotography.com/blog/10-no-prep-family-games-you-can-play-anytime-no-screens-no-supplies",
+            "title": "10 No-Prep Family Games You Can Play Anytime — Kristina Graff Photography",
+            "text": "While I tired of it, I also loved a quick and easy way to connect with my kids. * 2. Tapping hand game. Ok, don't know if there's ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Matador Network",
+            "domain": "matadornetwork.com",
+            "url": "http://matadornetwork.com/life/7-boardless-cardless-games-to-play-anywhere/",
+            "title": "Games to Play Without Cards for Two People or More",
+            "text": "Boardless cardless games requiring no materials: How's Yours (guesser asks one question for truthful clues); I Went To Market (seq..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "PlayWise Education",
+            "domain": "playwise.education",
+            "url": "https://playwise.education/games-play-without-anything/with-friends",
+            "title": "20+ Games to Play with Friends without Anything (Tested & True)",
+            "text": "Word & Guessing: 20 Questions (2+, chill), Word Chain (2+, chill), Contact (3+, focused), Ghost (2+, chill), I Spy (2+, chill), Ca..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": "Creative & Active Games",
+          "text": "One-Word Story (or Sentence Story): The group builds a story together. The first person says a word or sentence, the next person adds the next piece, and you see how wild or funny the plot gets. The Floor is Lava: Shout \"The floor is lava!\" and give everyone a few seconds to scramble onto chairs, couches, or pillows so their feet do not touch the ground. Simon Says: One person plays \"Simon\" and gives physical commands (like \"Simon says touch your toes\"). If Simon gives a command without saying the magic phrase first, anyone who follows it is out. Telephone: Form a line or sit in a circle. The first person whispers a complex sentence into the next person's ear, and it gets passed down the line until the last person says the altered phrase out loud.",
+          "markdown": "- **One-Word Story (or Sentence Story):** The group builds a story together. The first person says a word or sentence, the next person adds the next piece, and you see how wild or funny the plot gets.\n- **The Floor is Lava:** Shout *\"The floor is lava!\"* and give everyone a few seconds to scramble onto chairs, couches, or pillows so their feet do not touch the ground.\n- **Simon Says:** One person plays \"Simon\" and gives physical commands (like *\"Simon says touch your toes\"* ). If Simon gives a command *without* saying the magic phrase first, anyone who follows it is out.\n- **Telephone:** Form a line or sit in a circle. The first person whispers a complex sentence into the next person's ear, and it gets passed down the line until the last person says the altered phrase out loud.[[1]](https://www.reddit.com/r/simpleliving/comments/vr7avk/games_without_equipment/)[[2]](https://www.youtube.com/watch?v=UKdjFC963pg)[[3]](https://www.kristinagraffphotography.com/blog/10-no-prep-family-games-you-can-play-anytime-no-screens-no-supplies)[[4]](https://www.youtube.com/shorts/SAIUK-G4ThQ)[[5]](https://letsfib.com/en/party-games-no-prep)[[6]](https://www.youtube.com/watch?v=rt6FS_d7TGc)",
+          "links": null,
+          "images": null,
+          "references": [
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Reddit",
+            "domain": "www.reddit.com",
+            "url": "https://www.reddit.com/r/simpleliving/comments/vr7avk/games_without_equipment/",
+            "title": "Games without equipment : r/simpleliving - Reddit",
+            "text": "Collaborative Storytelling and Rhyming Games: Players can engage in group storytelling by taking turns adding sentences to build a..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=UKdjFC963pg",
+            "title": "Games to Play with Family Without Any Materials",
+            "text": "looking for a fun game to play with your family. but you don't actually have any well games there are all kinds of games you can p..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Kristina Graff Photography",
+            "domain": "www.kristinagraffphotography.com",
+            "url": "https://www.kristinagraffphotography.com/blog/10-no-prep-family-games-you-can-play-anytime-no-screens-no-supplies",
+            "title": "10 No-Prep Family Games You Can Play Anytime — Kristina Graff Photography",
+            "text": "While I tired of it, I also loved a quick and easy way to connect with my kids. * 2. Tapping hand game. Ok, don't know if there's an official name for this game, b..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/shorts/SAIUK-G4ThQ",
+            "title": "10 Games to Play Without Anything: No Board or Materials Required ...",
+            "text": "here are 10 games to play without anything no boards or materials. required. 20 questions one person thinks of an object. and othe..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "Let's Fib!",
+            "domain": "letsfib.com",
+            "url": "https://letsfib.com/en/party-games-no-prep",
+            "title": "Party Games No Prep: Fun Games for Adults with No Equipment | Let's Fib!",
+            "text": "No-Prep Games: Let's Fib (1-8 players, browser/smartphone, 30s setup, trivia/bluffing/voting), Who Am I (3+ players, paper/pen, 1 ..."
+           },
+           {
+            "type": "ai_overview_reference",
+            "position": "left",
+            "source": "YouTube",
+            "domain": "www.youtube.com",
+            "url": "https://www.youtube.com/watch?v=rt6FS_d7TGc",
+            "title": "Games to Play Without Anything – Fun, Easy & No Equipment Needed!",
+            "text": "Games to Play Without Anything – Fun, Easy & No Equipment Needed! tired of setting up game boards losing dice or scrambling to fin..."
+           }
+          ]
+         },
+         {
+          "type": "ai_overview_video_element",
+          "position": "left",
+          "title": "Games to Play Without Anything – Fun, Easy & No Equipment Needed!",
+          "snippet": null,
+          "url": "https://www.youtube.com/watch?v=rt6FS_d7TGc",
+          "domain": "www.youtube.com",
+          "image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSX7cQ4X5vX5ibmEAGdmNCvfqJr-b0fFDBdsk96HA5BLWd4KWSt",
+          "source": "YouTube",
+          "date": "1 year ago",
+          "timestamp": "2025-10-19 03:42:27 +00:00"
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "Here is a quick video showcasing more no-equipment party games you can try with your friends: 6:32 Games to Play Without Anything – Fun, Easy & No Equipment Needed! 12K views · 1 year ago YouTube · Board Games & Game Night!",
+          "markdown": "Here is a quick video showcasing more no-equipment party games you can try with your friends:\n\n![](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSX7cQ4X5vX5ibmEAGdmNCvfqJr-b0fFDBdsk96HA5BLWd4KWSt)\n6:32\n[](https://www.youtube.com/watch?v=rt6FS_d7TGc) Games to Play Without Anything – Fun, Easy & No Equipment Needed!12K views  · 1 year ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · Board Games & Game Night!",
+          "links": null,
+          "images": null,
+          "references": null
+         },
+         {
+          "type": "ai_overview_element",
+          "position": "left",
+          "title": null,
+          "text": "If you let me know how many friends you have and where you are (like in a car, at home, or outside), I can recommend the best specific game for your setup.",
+          "markdown": "If you let me know **how many friends you have** and **where you are** (like in a car, at home, or outside), I can recommend the best specific game for your setup.",
+          "links": null,
+          "images": null,
+          "references": null
+         }
+        ],
+        "references": [
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Reddit",
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/simpleliving/comments/vr7avk/games_without_equipment/",
+          "title": "Games without equipment : r/simpleliving - Reddit",
+          "text": "Collaborative Storytelling and Rhyming Games: Players can engage in group storytelling by taking turns adding sentences to build a narrative. Another no-equipment ..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "simcha fisher",
+          "domain": "www.simchafisher.com",
+          "url": "https://www.simchafisher.com/2021/12/08/10-ridiculous-family-games-that-need-no-equipment-2/",
+          "title": "10 ridiculous family games that need no equipment - simcha fisher",
+          "text": "One thing we like doing is playing games — video games, certainly, and board games, sometimes. But my favorites are the ones we can play without any equipment exce..."
+         },
+         {
+          "type": "ai_overview_reference",
+          "position": "right",
+          "source": "Kristina Graff Photography",
+          "domain": "www.kristinagraffphotography.com",
+          "url": "https://www.kristinagraffphotography.com/blog/10-no-prep-family-games-you-can-play-anytime-no-screens-no-supplies",
+          "title": "10 No-Prep Family Games You Can Play Anytime — Kristina Graff Photography",
+          "text": "While I tired of it, I also loved a quick and easy way to connect with my kids. * 2. Tapping hand game. Ok, don't know if there's an official name for this game, b..."
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "video",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]",
+        "items": [
+         {
+          "type": "video_element",
+          "source": "YouTube · ShawnMHowell",
+          "title": "15 FUN GAMES to PLAY that Don't Require Anything (NO ...",
+          "timestamp": "2026-05-01 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=aH2_JA8mrKQ"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · Board Games & Game Night!",
+          "title": "Games to Play Without Anything – Fun, Easy & No Equipment ...",
+          "timestamp": "2025-02-22 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=rt6FS_d7TGc"
+         },
+         {
+          "type": "video_element",
+          "source": "YouTube · wikiHow",
+          "title": "Games to Play with Family Without Any Materials",
+          "timestamp": "2024-08-26 00:00:00 +00:00",
+          "url": "https://www.youtube.com/watch?v=UKdjFC963pg"
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]",
+        "items": [
+         {
+          "type": "people_also_ask_element",
+          "title": "What is a game you can play with your friends?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some fun travel games?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are fun games to play with your partner?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         },
+         {
+          "type": "people_also_ask_element",
+          "title": "What are some fun and engaging youth group games that don't require any prep?",
+          "seed_question": null,
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+          "expanded_element": [
+           {
+            "type": "people_also_ask_ai_overview_expanded_element",
+            "items": null,
+            "references": null,
+            "asynchronous_ai_overview": true
+           }
+          ]
+         }
+        ],
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]",
+        "domain": "www.reddit.com",
+        "title": "Fun and simple family games for 8 players",
+        "url": "https://www.reddit.com/r/boardgames/comments/13wpt5t/what_are_some_fun_and_simple_family_games_for_at/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "150+ comments  ·  3 years ago",
+        "website_name": "Reddit · r/boardgames",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "I've begun attending my girlfriend's family parties, and I learned that they enjoy board games like me and my gf. The only issue is that there are some ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Group games that require little to no equipment ...",
+          "description": null,
+          "url": "https://www.reddit.com/r/summercamp/comments/1cuatmk/group_games_that_require_little_to_no_equipment/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Go-to no-equipment games ideas? : r/daddit - Reddit",
+          "description": null,
+          "url": "https://www.reddit.com/r/daddit/comments/1shl37s/goto_noequipment_games_ideas/",
+          "domain": "www.reddit.com"
+         },
+         {
+          "type": "link_element",
+          "title": "More results from www.reddit.com",
+          "description": null,
+          "url": "https://www.google.com/search?q=games+to+play+with+friends+without+anything+site:www.reddit.com&sca_esv=4dc8063a2e18b58e&hl=en&gl=US&sxsrf=APpeQntOIK7iKm35Fx2NnK4kCwHKxBDn6w:1792381346707&sa=X&ved=2ahUKEwi1uePrlMWXAxUF1wIHHUX-IpsQrQIoAnoECD8QAw",
+          "domain": "www.google.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[8]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What simple and funny games to play with non-gamers?",
+        "url": "https://www.facebook.com/groups/theboardgamegroup/posts/9966665363387393/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "230+ comments  ·  1 year ago",
+        "website_name": "Facebook · THE BOARDGAME GROUP",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "I am having family over this weekend and I was wondering what game would you suggest we play? They are not gamers so it has to be something very simple ...",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[10]/div[1]/div[1]",
+        "domain": "deepertalk.com",
+        "title": "Fun Family Game to Play Together: Good for Any Age & No ...",
+        "url": "https://deepertalk.com/blogs/journal/fun-family-game-to-play-together-good-for-any-age-no-equipment?srsltid=AU7gw4X_pIuHtdIIR5e-bN2bmkn4ZvYNTGhb8dSSZW9tywBRCFpBzXIx",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://deepertalk.com › blogs › journal › fun-family-g...",
+        "website_name": "Deeper Talk",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Oct 18, 2025 — Games to play with friends without anything · Human Bingo, call a line of traits, has a pet, loves dragons, can whistle, first to find a row wins ... Read more",
+        "pre_snippet": "10/18/2025 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Human Bingo"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://deepertalk.com/blogs/journal/fun-family-game-to-play-together-good-for-any-age-no-equipment?srsltid=AU7gw4X_pIuHtdIIR5e-bN2bmkn4ZvYNTGhb8dSSZW9tywBRCFpBzXIx#:~:text=Games%20to%20play%20with%20friends,without%20anything&text=Human%20Bingo%2C%20call%20a%20line,to%20find%20a%20row%20wins",
+          "domain": "deepertalk.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-10-18 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[12]/div[1]/div[1]",
+        "domain": "ask.metafilter.com",
+        "title": "Games for two players, no pieces, no board.",
+        "url": "https://ask.metafilter.com/64057/Games-for-two-players-no-pieces-no-board",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://ask.metafilter.com › Games-for-two-players-no-...",
+        "website_name": "Ask MetaFilter",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Jun 4, 2007 — One that I like is the double letter game. Though it's best if there's one participant (or onlooker) who doesn't know the trick. You say pairs ... Read more",
+        "pre_snippet": "06/04/2007 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "double letter game"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://ask.metafilter.com/64057/Games-for-two-players-no-pieces-no-board#:~:text=One%20that%20I%20like%20is,pairs%20of%20words%2C%20like%20so%3A",
+          "domain": "ask.metafilter.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2007-06-04 00:00:00 +00:00",
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[14]/div[1]/div[1]",
+        "domain": "www.quora.com",
+        "title": "What are fun games to play with no equipment?",
+        "url": "https://www.quora.com/What-are-fun-games-to-play-with-no-equipment",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "30+ answers  ·  13 years ago",
+        "website_name": "Quora",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "What are fun games to play with no equipment?",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": null,
+        "links": [
+         {
+          "type": "link_element",
+          "title": "38 answers",
+          "description": null,
+          "url": "https://www.quora.com/What-are-fun-games-to-play-with-no-equipment?top_ans=2793758",
+          "domain": "www.quora.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[16]/div[1]/div[1]",
+        "domain": "thegourmethost.com",
+        "title": "10 Party Games for Adults Only With No Kids Around",
+        "url": "https://thegourmethost.com/10-party-games-for-adults-only-with-no-kids-around/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://thegourmethost.com › Blog",
+        "website_name": "The Gourmet Host",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Ten Games for a Room With No Kids ; Saucy trivia, 8 to 12, Mixed crowd ; Truth or dare, adult deck, 4 to 10, Couples night ; Hot-takes wager, 6 to 12, Mixed crowd ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Saucy trivia, 8 to 12, Mixed crowd"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Read more",
+          "description": null,
+          "url": "https://thegourmethost.com/10-party-games-for-adults-only-with-no-kids-around/#:~:text=Ten%20Games%20for%20a%20Room,With%20No%20Kids&text=Saucy%20trivia,Mixed%20crowd&text=Truth%20or%20dare%2C%20adult%20deck,Couples%20night&text=Hot-takes%20wager,Mixed%20crowd",
+          "domain": "thegourmethost.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 7,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[18]/div[1]/div[1]",
+        "domain": "www.pinterest.com",
+        "title": "Games to Play Without Anything",
+        "url": "https://www.pinterest.com/ideas/games-to-play-without-anything/908750687796/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.pinterest.com › ideas › games-to-play-with...",
+        "website_name": "Pinterest",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Find and save ideas about games to play without anything on Pinterest.",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "games to play without anything"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "organic",
+        "rank_group": 8,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[20]/div[1]/div[1]",
+        "domain": "www.facebook.com",
+        "title": "What are some fun party games to play without physical ...",
+        "url": "https://www.facebook.com/groups/132851767828/posts/10154790591847829/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "10+ comments  ·  9 years ago",
+        "website_name": "Facebook · BoardGameGeek",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "checks": null,
+        "description": "Exquisite Corpse, Spyfall, and Werewolf are popular suggestions, along with classics like Charades and Pictionary. David Funderburk. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+         "Exquisite Corpse, Spyfall, and Werewolf"
+        ],
+        "links": [
+         {
+          "type": "link_element",
+          "title": "Fun Party Games!",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10154790591847829/#:~:text=Fun%20party%20games%21",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Party Games Idea",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10154790591847829/#:~:text=Party%20Games%20Idea",
+          "domain": "www.facebook.com"
+         },
+         {
+          "type": "link_element",
+          "title": "Family Party Games",
+          "description": null,
+          "url": "https://www.facebook.com/groups/132851767828/posts/10154790591847829/#:~:text=Family%20party%20games.",
+          "domain": "www.facebook.com"
+         }
+        ],
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+       },
+       {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+         "Indoor party games for adults",
+         "Indoor games to play with friends without anything",
+         "Games to play with friends without anything for adults",
+         "Games to play with friends without anything at home",
+         "Free games to play with friends without anything",
+         "Outdoor games to play with friends without anything",
+         "Games to play with 2 players no equipment",
+         "Mind games to play with friends without anything"
+        ],
+        "rectangle": null
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]
