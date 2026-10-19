@@ -83,33 +83,45 @@ p { margin: 0; }
 .playloop .chrome em { margin-left: 8px; font-style: normal; font-size: 11px; font-weight: 700; color: var(--muted); }
 .playloop .browser strong { font-family: var(--font-display); font-size: 28px; display: block; }
 .playloop .facts { display: block; font-size: 13px; font-weight: 700; margin-bottom: 10px; }
-.playloop .dl-btn { display: inline-block; background: var(--primary); color: #fff; font-weight: 800; border-radius: 999px; padding: 8px 14px; animation: press 9s infinite; }
-.playloop .cursor { position: absolute; right: 78px; top: 118px; width: 16px; height: 16px; background: var(--ink); clip-path: polygon(0 0, 0 100%, 35% 70%, 55% 100%, 70% 90%, 50% 62%, 100% 62%); animation: click 9s infinite; }
-.playloop .file { position: absolute; left: 50%; bottom: 28px; transform: translateX(-50%); background: #fff; border: 2px solid var(--ink); border-radius: 10px; padding: 8px 12px; font-weight: 800; opacity: 0; animation: drop 9s infinite; }
+.playloop .dl-btn { display: inline-block; background: var(--primary); color: #fff; font-weight: 800; border-radius: 999px; padding: 8px 14px; animation: press 12s infinite; }
+.playloop .cursor { position: absolute; width: 18px; height: 18px; background: var(--ink); left: 250px; top: 150px; clip-path: polygon(0 0, 0 100%, 35% 70%, 55% 100%, 70% 90%, 50% 62%, 100% 62%); animation: click 12s infinite; z-index: 3; }
+.playloop .bar { display: block; height: 8px; margin-top: 12px; background: #fff; border: 2px solid var(--ink); border-radius: 99px; overflow: hidden; }
+.playloop .bar i { display: block; height: 100%; width: 0; background: var(--primary); animation: fill 12s infinite; }
+.playloop .file { position: absolute; left: 50%; bottom: 22px; transform: translateX(-50%); background: #fff; border: 2px solid var(--ink); border-radius: 10px; padding: 8px 12px; font-weight: 800; opacity: 0; animation: drop 12s infinite; }
 .playloop .file::before { content: "PDF"; display: inline-block; background: var(--primary); color: #fff; border-radius: 4px; font-size: 11px; padding: 2px 4px; margin-right: 6px; }
-.playloop .printer { position: absolute; left: 28px; top: 72px; width: 92px; height: 54px; background: var(--ink); border-radius: 8px; color: var(--accent); font-size: 12px; font-weight: 800; display: grid; place-items: center; }
-.playloop .paper { position: absolute; left: 16px; right: 16px; top: 40px; height: 0; background: #fff; border: 2px solid var(--ink); animation: printout 9s infinite; }
-.playloop .sheet-page { position: absolute; right: 28px; top: 78px; width: 168px; height: 200px; background: #fff; border: 2px solid var(--ink); border-radius: 12px; display: grid; grid-template-columns: 1fr 1fr; gap: 8px; padding: 12px; }
+.playloop .file b { display: inline-grid; place-items: center; width: 18px; height: 18px; margin-left: 6px; border-radius: 50%; background: #1f9d55; color: #fff; font-size: 12px; opacity: 0; animation: ok 12s infinite; }
+.playloop .printer { position: absolute; left: 24px; top: 70px; width: 86px; height: 48px; background: var(--ink); border-radius: 8px; color: var(--accent); font-size: 12px; font-weight: 800; display: grid; place-items: center; }
+.playloop .paper { position: absolute; left: 14px; right: 14px; top: 36px; height: 0; background: #fff; border: 2px solid var(--ink); animation: printout 12s infinite; }
+.playloop .sheet-page { position: absolute; right: 22px; top: 68px; width: 176px; height: 210px; background: #fff; border: 2px solid var(--ink); border-radius: 12px; display: grid; grid-template-columns: 1fr 1fr; gap: 14px; padding: 14px; }
 .playloop .sheet-page span { background: var(--tint); border: 2px dashed var(--ink); border-radius: 8px; display: grid; place-items: center; font-family: var(--font-display); font-weight: 800; font-size: 22px; }
-.playloop .scissors { position: absolute; left: 120px; top: 168px; animation: snip 9s infinite; }
-.playloop .table { position: absolute; left: 70px; right: 70px; bottom: 70px; height: 84px; background: var(--accent); border-radius: 80px; }
-.playloop .person { position: absolute; bottom: 120px; width: 64px; display: flex; flex-direction: column; align-items: center; }
-.playloop .person.left { left: 48px; } .playloop .person.right { right: 48px; }
-.playloop .person i { width: 34px; height: 34px; border-radius: 50%; background: var(--ink); }
-.playloop .person b { width: 52px; height: 40px; border-radius: 16px 16px 6px 6px; background: var(--ink); margin-top: -2px; }
-.playloop .hand { position: absolute; bottom: 92px; display: flex; gap: 4px; }
-.playloop .hand.left { left: 108px; } .playloop .hand.right { right: 108px; }
-.playloop .hand span { width: 28px; height: 38px; background: #fff; border: 2px solid var(--ink); border-radius: 4px; display: grid; place-items: center; font-weight: 800; font-size: 13px; }
-.playloop .hand.left span:first-child { animation: playcard 9s infinite; background: var(--primary); color: #fff; }
+.playloop .cut { position: absolute; background: repeating-linear-gradient(90deg, var(--ink) 0 6px, transparent 6px 10px); }
+.playloop .cut.h { left: 10px; right: 10px; top: 50%; height: 2px; }
+.playloop .cut.v { top: 10px; bottom: 10px; left: 50%; width: 2px; background: repeating-linear-gradient(180deg, var(--ink) 0 6px, transparent 6px 10px); }
+.playloop .scissors { position: absolute; left: 0; top: 0; offset-path: path("M 8 104 H 168 V 104 H 88 V 12 V 198"); offset-rotate: 0deg; animation: snip 12s linear infinite; }
+.playloop .table { position: absolute; left: 110px; right: 110px; top: 168px; height: 92px; background: var(--accent); border-radius: 80px; }
+.playloop .seat { position: absolute; width: 54px; display: flex; flex-direction: column; align-items: center; }
+.playloop .seat i { width: 32px; height: 32px; border-radius: 50%; background: var(--ink); position: relative; }
+.playloop .seat i::after { content: ""; position: absolute; left: 8px; top: 12px; width: 4px; height: 4px; border-radius: 50%; background: #fff; box-shadow: 12px 0 0 #fff; }
+.playloop .seat i::before { content: ""; position: absolute; left: 10px; top: 20px; width: 12px; height: 6px; border-bottom: 2px solid #fff; border-radius: 0 0 10px 10px; }
+.playloop .seat em { position: absolute; width: 16px; height: 16px; top: -6px; right: -4px; border-top: 2px solid var(--primary); border-right: 2px solid var(--primary); transform: rotate(20deg); animation: joy 12s infinite; }
+.playloop .s1 { left: 36px; top: 78px; } .playloop .s2 { right: 36px; top: 78px; }
+.playloop .s3 { left: 36px; bottom: 28px; } .playloop .s4 { right: 36px; bottom: 28px; }
+.playloop .pile { position: absolute; left: 50%; top: 186px; transform: translateX(-50%); display: flex; gap: 4px; }
+.playloop .pile span { width: 26px; height: 36px; background: #fff; border: 2px solid var(--ink); border-radius: 4px; display: grid; place-items: center; font-weight: 800; }
+.playloop .beat { animation-duration: 12s; }
+.playloop .beat-cut { animation-delay: 4s; }
+.playloop .beat-play { animation-delay: 8s; }
 @keyframes beat { 0%, 30% { opacity: 1; } 34%, 100% { opacity: 0; } }
-@keyframes press { 8% { transform: none; } 14% { transform: scale(0.92); } 20%, 100% { transform: none; } }
-@keyframes click { 0%, 6% { transform: translate(12px, -8px); } 14%, 28% { transform: translate(0, 0); } 100% { transform: translate(0, 0); } }
-@keyframes drop { 0%, 16% { opacity: 0; transform: translate(-50%, -24px); } 26%, 32% { opacity: 1; transform: translate(-50%, 0); } 100% { opacity: 0; } }
-@keyframes printout { 0%, 34% { height: 0; } 46%, 64% { height: 36px; } 100% { height: 0; } }
-@keyframes snip { 0%, 36% { transform: translateX(0); } 52%, 64% { transform: translateX(90px); } 100% { transform: translateX(90px); } }
-@keyframes playcard { 0%, 68% { transform: translateY(0); } 80%, 96% { transform: translate(18px, -28px) rotate(-8deg); } 100% { transform: none; } }
+@keyframes press { 8% { transform: none; } 12% { transform: scale(0.9); } 16%, 100% { transform: none; } }
+@keyframes click { 0% { transform: translate(70px, -36px); } 10%, 30% { transform: translate(0, 0); } 34%, 100% { transform: translate(0, 0); } }
+@keyframes fill { 0%, 12% { width: 0; } 24%, 32% { width: 100%; } 100% { width: 100%; } }
+@keyframes drop { 0%, 14% { opacity: 0; transform: translate(-50%, -20px); } 22%, 32% { opacity: 1; transform: translate(-50%, 0); } 100% { opacity: 0; } }
+@keyframes ok { 0%, 22% { opacity: 0; } 26%, 32% { opacity: 1; } 100% { opacity: 0; } }
+@keyframes printout { 0%, 34% { height: 0; } 44%, 64% { height: 28px; } 100% { height: 0; } }
+@keyframes snip { 0%, 36% { offset-distance: 0%; opacity: 0; } 40% { opacity: 1; offset-distance: 0%; } 60% { opacity: 1; offset-distance: 100%; } 66%, 100% { opacity: 0; offset-distance: 100%; } }
+@keyframes joy { 70%, 100% { opacity: 1; } 78% { transform: rotate(20deg) scale(1.2); } }
 @media (prefers-reduced-motion: reduce) {
-  .playloop .beat, .playloop .dl-btn, .playloop .cursor, .playloop .file, .playloop .paper, .playloop .scissors, .playloop .hand.left span:first-child { animation: none; }
+  .playloop .beat, .playloop .dl-btn, .playloop .cursor, .playloop .bar i, .playloop .file, .playloop .file b, .playloop .paper, .playloop .scissors, .playloop .seat em { animation: none; }
   .playloop .beat { opacity: 0; }
   .playloop .beat-play { opacity: 1; }
 }

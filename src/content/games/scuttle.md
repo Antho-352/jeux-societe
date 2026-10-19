@@ -30,7 +30,7 @@ files:
   - { label: "Cards", url: "/pdf/scuttle/Scuttle_Cards.pdf" }
   - { label: "Rulebook", url: "/pdf/scuttle/Scuttle-rulebook.pdf" }
 source_url: "https://jellybean.games/scuttle/"
-cover: "/img/games/scuttle.png"
+cover: "/img/games/scuttle-box.png"
 status: "published"
 featured: true
 date_added: "2026-10-18"

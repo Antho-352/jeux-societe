@@ -1,5 +1,5 @@
 ---
-cover: "/img/games/awaken-the-ancients.jpg"
+cover: "/img/games/awaken-the-ancients-box.png"
 cover_credit: "Image: Gregg Jewell (itch.io)"
 cover_source: "https://greggjewell.itch.io/awaken-the-ancients"
 title: "Awaken the Ancients"

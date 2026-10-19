@@ -1,5 +1,5 @@
 ---
-cover: "/img/games/ultima-ratio-regis.jpg"
+cover: "/img/games/ultima-ratio-regis-box.png"
 cover_credit: "Image: printandplay.games"
 cover_source: "https://printandplay.games/ultima-ratio-regis-en/"
 title: "Ultima Ratio Regis"

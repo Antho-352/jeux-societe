@@ -1,5 +1,5 @@
 ---
-cover: "/img/games/aleas-garden.jpg"
+cover: "/img/games/aleas-garden-box.png"
 cover_credit: "Image: Brave James and Jon Tiburzi"
 cover_source: "https://drive.google.com/file/d/1vOm8wUDi4mqMsCvbd8_SoAOq0M6piiEP/view"
 title: "Alea's Garden"
