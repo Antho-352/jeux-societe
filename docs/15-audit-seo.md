@@ -97,7 +97,15 @@ Deux erreurs trouvées sur les pages puzzles elles-mêmes :
 
 ### Exactitude des fiches jeux (échantillon de 15)
 
-<!-- résultats de l'échantillon -->
+Quinze fiches vérifiées, choisies parmi celles qui recevront du trafic en premier (Halloween, gros noms comme Secret Hitler, Love Letter, Carcassonne ou Pandemic). Toutes les pages sources et tous les fichiers liés répondent. Joueurs, durées et âges sont justes partout ; 9 fiches sur 15 sont entièrement conformes. Aucun texte périmé.
+
+Écarts trouvés :
+
+- **Two Rooms and a Boom** : année 2014 sur le site, 2013 sur BoardGameGeek. Corrigé.
+- **Zombie in My Pocket** : BoardGameGeek crédite deux illustrateurs (Carol LaGrow et Kwanchai Moriya), la fiche n'en cite qu'un. Non corrigé, car il faut d'abord savoir lequel a illustré la version du PDF lié.
+- **Dungeon Pages** : la page itch.io ne crédite que Vittoria Pompolani, la fiche ajoute Delapouite et Thomas Tamblyn. Delapouite est probablement l'auteur d'icônes utilisées dans le jeu. À vérifier dans le PDF.
+- **Love Letter, Carcassonne** : l'éditeur indiqué est Asmodee, qui héberge le fichier. Les éditeurs d'origine sont Kanai Factory et Hans im Glück. Ce n'est pas faux, mais préciser « Hans im Glück (PnP hébergé par Asmodee) » serait plus exact.
+- **Jellybean Games (12 fiches hébergées)** : la licence affichée, « Jellybean hereby permits the redistribution and hosting of this content… », ne figure ni sur le site de Jellybean ni dans les PDF. `docs/07` concluait « droits réservés, demander l'accord ». Si cette phrase vient d'un accord écrit, il faut l'archiver dans `docs/`. Voir la question 4. La fiche *Ninjitsu* du même éditeur affiche une autre licence (« Free for personal use »), à harmoniser.
 
 ### Profondeur du contenu des hubs
 
@@ -144,6 +152,7 @@ Douze couvertures dépassaient 700 Ko (jusqu'à 1 Mo), dont Dracula's Feast, Bra
 | 2 fiches bingo vierges et `scripts/puzzles/build_batch.py` | Pas de corrigé. |
 | `src/content/hubs/puzzles__mazes__hard.md`, `src/pages/how-to-print.astro` | Titres raccourcis. |
 | 12 images de `public/img/games/` | Recompressées. |
+| `src/content/games/two-rooms-and-a-boom.md` | Année 2013 (BoardGameGeek). |
 
 Ces corrections sont sur la branche `claude/fervent-turing-5cvddc`. Elles seront en ligne quand elles seront fusionnées dans la branche de production (`ccr-205f3937-62xvhk`).
 
@@ -164,6 +173,9 @@ Ces corrections sont sur la branche `claude/fervent-turing-5cvddc`. Elles seront
 1. **Données structurées `Product` sur les fiches jeux.** Elles déclarent une offre à 0 $ « en stock », alors que le site ne vend rien et que le téléchargement est souvent sur le site du créateur. Google réserve ses fiches marchandes aux pages où l'on peut acheter, avec un prix supérieur à zéro. Au mieux, le prix « gratuit » peut apparaître dans le résultat. Au pire, Search Console affichera des avertissements « Fiches de marchand », et Google peut juger le balisage trompeur. Je recommande de le retirer et de garder `CreativeWork`, mais c'était un choix noté dans `docs/06`. À trancher.
 2. **Âges des sudokus enfants.** Les pages disent « 4×4 dès 5 ans » et « 6×6 pour les 8–12 ans », alors que les fiches sont classées 6–8 et 9–13 ans. Lequel est juste : le texte ou le classement ?
 3. **Textes des hubs.** Est-ce que je rédige les guides et FAQ des 6 hubs prioritaires (section 4) ? Ce sont des ajouts éditoriaux importants, d'où la question avant de les faire.
+
+
+4. **Jellybean Games.** As-tu reçu l'autorisation d'héberger par écrit (mail) ? Si oui, il faut l'archiver dans `docs/` avec la citation exacte, pour pouvoir la montrer en cas de réclamation. Si non, les 12 fiches doivent repasser en `hosting_mode: link`, comme le veut la règle de la maison.
 
 
 ## 10. Prochain audit
