@@ -108,9 +108,34 @@ p { margin: 0; }
 .playloop .s3 { left: 36px; bottom: 28px; } .playloop .s4 { right: 36px; bottom: 28px; }
 .playloop .pile { position: absolute; left: 50%; top: 186px; transform: translateX(-50%); display: flex; gap: 4px; }
 .playloop .pile span { width: 26px; height: 36px; background: #fff; border: 2px solid var(--ink); border-radius: 4px; display: grid; place-items: center; font-weight: 800; }
-.playloop .beat { animation-duration: 12s; }
-.playloop .beat-cut { animation-delay: 4s; }
-.playloop .beat-play { animation-delay: 8s; }
+.playloop .beat { animation-duration: 16s; }
+.playloop .beat-print { animation-delay: 4s; }
+.playloop .beat-cut { animation-delay: 8s; }
+.playloop .beat-play { animation-delay: 12s; }
+.playloop .dl-btn { position: relative; animation-duration: 16s; }
+.playloop .cursor { position: absolute; left: 28px; top: 4px; width: 16px; height: 16px; animation: click 16s infinite; }
+.playloop .bar i, .playloop .file, .playloop .file b, .playloop .paper { animation-duration: 16s; }
+.playloop .big-sheet { position: absolute; left: 28px; right: 28px; top: 64px; bottom: 24px; background: #fff; border: 2px solid var(--ink); border-radius: 16px; padding: 16px; transform-origin: center bottom; animation: grow 16s infinite; }
+.playloop .big-sheet strong { font-family: var(--font-display); font-size: 22px; display: block; }
+.playloop .big-sheet em { font-style: normal; font-weight: 800; font-size: 13px; color: var(--muted); }
+.playloop .big-sheet div { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 12px; height: 180px; }
+.playloop .big-sheet span { border: 2px dashed var(--ink); border-radius: 8px; background: var(--tint); display: grid; place-items: center; font-family: var(--font-display); font-weight: 800; font-size: 22px; }
+.playloop .one-card { position: absolute; left: 50%; top: 90px; width: 120px; height: 160px; margin-left: -60px; background: var(--tint); border: 3px dashed var(--ink); border-radius: 12px; display: grid; place-items: center; font-family: var(--font-display); font-size: 36px; font-weight: 800; animation: fall 16s infinite; }
+.playloop .one-card .scissors { position: absolute; left: 0; top: 0; offset-path: path("M 2 2 H 118 V 158 H 2 Z"); offset-rotate: auto; animation: snip 16s linear infinite; }
+.playloop .table { left: 70px; right: 70px; top: 150px; height: 120px; }
+.playloop .board { position: absolute; left: 50%; top: 176px; transform: translateX(-50%); width: 110px; height: 70px; background: #fff; border: 2px solid var(--ink); border-radius: 8px; display: grid; place-items: center; font-size: 12px; font-weight: 800; }
+.playloop .seat b { width: 48px; height: 36px; border-radius: 14px 14px 6px 6px; background: var(--ink); margin-top: -2px; }
+.playloop .seat { width: 64px; }
+.playloop .s1 { left: 28px; top: 118px; } .playloop .s2 { right: 28px; top: 118px; }
+.playloop .s3 { left: 28px; bottom: 18px; } .playloop .s4 { right: 28px; bottom: 18px; }
+.playloop .pcard { position: absolute; width: 24px; height: 32px; background: #fff; border: 2px solid var(--ink); border-radius: 4px; display: grid; place-items: center; font-weight: 800; font-size: 12px; top: 8px; }
+.playloop .pcard.a { animation: playa 16s infinite; }
+.playloop .pcard.b { animation: playb 16s infinite; }
+@keyframes click { 0% { transform: translate(70px, -36px); } 8%, 24% { transform: translate(2px, 2px); } 100% { transform: translate(2px, 2px); } }
+@keyframes grow { 0%, 25% { transform: translateY(40px) scale(0.7); opacity: 0; } 32%, 48% { transform: none; opacity: 1; } 100% { opacity: 0; } }
+@keyframes fall { 0%, 68% { transform: none; } 74%, 75% { transform: translateY(64px) rotate(8deg); } 100% { transform: translateY(64px) rotate(8deg); } }
+@keyframes playa { 0%, 78% { transform: none; } 84%, 99% { transform: translate(70px, 20px); } 100% { transform: none; } }
+@keyframes playb { 0%, 86% { transform: none; } 92%, 99% { transform: translate(-70px, 20px); } 100% { transform: none; } }
 @keyframes beat { 0%, 30% { opacity: 1; } 34%, 100% { opacity: 0; } }
 @keyframes press { 8% { transform: none; } 12% { transform: scale(0.9); } 16%, 100% { transform: none; } }
 @keyframes click { 0% { transform: translate(70px, -36px); } 10%, 30% { transform: translate(0, 0); } 34%, 100% { transform: translate(0, 0); } }

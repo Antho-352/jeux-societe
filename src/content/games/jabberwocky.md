@@ -31,7 +31,7 @@ files:
   - { label: "Rules cards", url: "/pdf/jabberwocky/Jabberwocky-Rules-Cards.pdf" }
   - { label: "Rulebook", url: "/pdf/jabberwocky/JW-Rulebook.pdf" }
 source_url: "https://jellybean.games/jabberwocky/"
-cover: "/img/games/jabberwocky.png"
+cover: "/img/games/jabberwocky-box.png"
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Jabberwocky free print and play microgame collection"

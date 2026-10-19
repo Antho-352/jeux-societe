@@ -30,7 +30,7 @@ files:
   - { label: "Cards, full art", url: "/pdf/village-pillage/Village-Pillage-all-cards-full-art.pdf" }
   - { label: "Cannoneer promo", url: "/pdf/village-pillage/Cannoneer-Corrected.pdf" }
 source_url: "https://jellybean.games/village-pillage/"
-cover: "/img/games/village-pillage.png"
+cover: "/img/games/village-pillage-box.png"
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Village Pillage free print and play card game"

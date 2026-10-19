@@ -10,11 +10,14 @@ const creators = await getCollection('creators');
 const byId = new Map(creators.map((c) => [c.id, c.data.name]));
 const games = (await getCollection('games')).filter((g) => g.data.status === 'published').sort((a, b) => b.data.date_added.getTime() - a.data.date_added.getTime());
 const puzzles = (await getCollection('puzzles')).filter((p) => p.data.status === 'published').sort((a, b) => b.data.date_added.getTime() - a.data.date_added.getTime());
+const byGameId = new Map(games.map((g) => [g.id, g]));
+const fresh = ['citadels-print-and-play-demo', 'secret-hitler', 'jabberwocky', 'night-of-the-mummy'].map((id) => byGameId.get(id)).filter((g) => g);
+const boardRow = ['carcassonne-print-and-play-demo', 'pandemic-hot-zone-north-america-print-and-play', 'bloc-by-bloc-uprising', 'unfair-base-game'].map((id) => byGameId.get(id)).filter((g) => g);
+const puzzleRow = (['maze', 'bingo', 'sudoku', 'dot-to-dot'] as const).map((t) => puzzles.find((p) => p.data.type === t)).filter((p) => p);
 const rules = (await getCollection('rules')).filter((r) => r.data.status === 'published');
 const hubs = await getCollection('hubs');
 const featured = games.find((g) => g.data.featured) ?? games[0];
 const withVideo = games.find((g) => g.data.video_id);
-const fresh = games.filter((g) => g.id !== featured?.id).slice(0, 4);
 const count = (path: string) => hubs.find((h) => h.data.path === path);
 const tiles = [
   { href: '/board-games/', label: 'Board games', bg: '#CFFF5E', glyph: 'B' },
@@ -52,30 +55,35 @@ const orgLd = { '@context': 'https://schema.org', '@type': 'WebSite', name: 'Pri
           <p class="say">1. Download the PDF</p>
           <div class="browser">
             <div class="chrome"><i></i><i></i><i></i><em>printandplaygame.com</em></div>
-            <strong>Scuttle</strong>
-            <span class="dl-btn">Download PDF</span>
+            <strong>Scuttle Print &amp; Play</strong>
+            <span class="dl-btn">Download PDF<span class="cursor"></span></span>
             <span class="bar"><i></i></span>
           </div>
-          <span class="cursor"></span>
           <span class="file">Scuttle.pdf <b>✓</b></span>
         </div>
+        <div class="beat beat-print">
+          <p class="say">2. Print the cards</p>
+          <div class="big-sheet">
+            <strong>Scuttle Print &amp; Play</strong>
+            <em>Cards to cut</em>
+            <div><span>A</span><span>K</span><span>Q</span><span>J</span></div>
+          </div>
+        </div>
         <div class="beat beat-cut">
-          <p class="say">2. Print, then cut</p>
-          <div class="printer">Print<span class="paper"></span></div>
-          <div class="sheet-page">
-            <span>A</span><span>K</span><span>Q</span><span>J</span>
-            <i class="cut h"></i><i class="cut v"></i>
-            <svg class="scissors" viewBox="0 0 72 36" width="64" height="32"><circle cx="12" cy="10" r="7" fill="none" stroke="#0F3D2E" stroke-width="3"/><circle cx="12" cy="26" r="7" fill="none" stroke="#0F3D2E" stroke-width="3"/><path d="M18 12 L66 4 M18 24 L66 32" stroke="#0F3D2E" stroke-width="3" stroke-linecap="round"/></svg>
+          <p class="say">3. Cut one card</p>
+          <div class="one-card">
+            <span>A</span>
+            <svg class="scissors" viewBox="0 0 72 36" width="56" height="28"><circle cx="12" cy="10" r="7" fill="none" stroke="#0F3D2E" stroke-width="3"/><circle cx="12" cy="26" r="7" fill="none" stroke="#0F3D2E" stroke-width="3"/><path d="M18 12 L66 4 M18 24 L66 32" stroke="#0F3D2E" stroke-width="3" stroke-linecap="round"/></svg>
           </div>
         </div>
         <div class="beat beat-play">
-          <p class="say">3. Play tonight</p>
+          <p class="say">4. Play tonight</p>
           <div class="table"></div>
-          <div class="seat s1"><i></i><em></em></div>
-          <div class="seat s2"><i></i><em></em></div>
-          <div class="seat s3"><i></i><em></em></div>
-          <div class="seat s4"><i></i><em></em></div>
-          <div class="pile"><span>A</span><span>K</span></div>
+          <div class="board">Board</div>
+          <div class="seat s1"><i></i><b></b><em></em><span class="pcard a">A</span></div>
+          <div class="seat s2"><i></i><b></b><em></em><span class="pcard b">K</span></div>
+          <div class="seat s3"><i></i><b></b><em></em></div>
+          <div class="seat s4"><i></i><b></b><em></em></div>
         </div>
       </div>
     </div>
@@ -124,10 +132,17 @@ const orgLd = { '@context': 'https://schema.org', '@type': 'WebSite', name: 'Pri
     </div>
   </section>
 
-  {puzzles.length > 0 && (
+  {boardRow.length > 0 && (
+    <section class="section wrap" style="padding-top:0">
+      <div class="section-head"><h2>Board games</h2><a href="/board-games/">All board games</a></div>
+      <div class="grid">{boardRow.map((g) => { const it = gameItem(g, g.data.creator ? byId.get(g.data.creator.id) : undefined); return <ItemCard href={it.href} title={it.title} by={it.by} typeLabel={it.typeLabel} cover={it.cover} colour={it.colour} pills={it.pills} />; })}</div>
+    </section>
+  )}
+
+  {puzzleRow.length > 0 && (
     <section class="section wrap" style="padding-top:0">
       <div class="section-head"><h2>Printable puzzles</h2><a href="/puzzles/">All puzzles</a></div>
-      <div class="grid">{puzzles.slice(0, 4).map((p) => { const it = puzzleItem(p); return <ItemCard href={it.href} title={it.title} by={it.by} typeLabel={it.typeLabel} cover={it.cover} colour={it.colour} pills={it.pills} />; })}</div>
+      <div class="grid">{puzzleRow.map((p) => { const it = puzzleItem(p); return <ItemCard href={it.href} title={it.title} by={it.by} typeLabel={it.typeLabel} cover={it.cover} colour={it.colour} pills={it.pills} />; })}</div>
     </section>
   )}
 

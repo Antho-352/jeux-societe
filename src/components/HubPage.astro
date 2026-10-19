@@ -6,6 +6,7 @@ import Breadcrumb from './Breadcrumb.astro';
 import Listing from './Listing.astro';
 import Faq from './Faq.astro';
 import { hubListing, THIN_THRESHOLD } from '../lib/hubs';
+import { gameItem } from '../lib/listing';
 import { breadcrumbLd, collectionLd, faqLd } from '../lib/seo';
 import { hubUrl, titleCase } from '../lib/taxonomy';
 import type { Hub } from '../lib/taxonomy';
@@ -17,7 +18,17 @@ const { Content } = await render(hub);
 const hubs = await getCollection('hubs');
 
 const { items, facets, noun } = await hubListing(hub);
-items.sort((a, b) => b.sortDate - a.sortDate);
+if (d.path === 'card-games') {
+  const creators = await getCollection('creators');
+  const byId = new Map(creators.map((c) => [c.id, c.data.name]));
+  const sh = (await getCollection('games')).find((g) => g.id === 'secret-hitler' && g.data.status === 'published');
+  if (sh && !items.some((i) => i.href.includes('/secret-hitler/'))) items.push(gameItem(sh, sh.data.creator ? byId.get(sh.data.creator.id) : undefined));
+  const pin = ['citadels-print-and-play-demo', 'secret-hitler', 'jabberwocky', 'night-of-the-mummy', 'meow', 'mini-rogue-print-and-play', 'ninjitsu', 'the-lady-and-the-tiger', 'spot-it-dobble-print-and-play-demo', 'timeline-classic-print-and-play-demo', 'village-pillage'];
+  const rank = (href: string) => { const i = pin.findIndex((s) => href.includes(`/${s}/`)); return i === -1 ? 1000 : i; };
+  items.sort((a, b) => rank(a.href) - rank(b.href) || b.sortDate - a.sortDate);
+} else {
+  items.sort((a, b) => b.sortDate - a.sortDate);
+}
 
 // Breadcrumb from path segments that have a hub
 const segs = d.path.split('/');
