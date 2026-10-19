@@ -54,9 +54,9 @@ export const RULES_CATEGORY_LABEL: Record<Rule['data']['category'], string> = {
 export const AGE_BAND_LABEL: Record<string, string> = {
   preschool: 'Under 6',
   kids: 'Ages 6–8',
-  tweens: 'Ages 9–12',
-  teens: 'Teens (13–17)',
-  adults: 'Adults (18+)',
+  tweens: 'Ages 9–13',
+  teens: '14+ & adults',
+  adults: 'Adults only (18+)',
 };
 export const OCCASION_LABEL: Record<string, string> = {
   christmas: 'Christmas', halloween: 'Halloween', thanksgiving: 'Thanksgiving', easter: 'Easter', valentines: "Valentine's Day",
@@ -68,7 +68,7 @@ export function ageBand(ageMin?: number): string | undefined {
   if (ageMin === undefined) return undefined;
   if (ageMin < 6) return 'preschool';
   if (ageMin < 9) return 'kids';
-  if (ageMin < 13) return 'tweens';
+  if (ageMin < 14) return 'tweens';
   if (ageMin < 18) return 'teens';
   return 'adults';
 }

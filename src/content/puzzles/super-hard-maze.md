@@ -3,7 +3,7 @@ title: "Super hard maze"
 type: "maze"
 summary: "Our largest square maze: 48 × 48 cells, hair-thin walls, one route from top to bottom. For adults with a sharp pencil and half an hour. Solution included."
 difficulty: "hard"
-age_band: "adults"
+age_band: "teens"
 themes: ["shapes"]
 occasions: []
 pages: 2

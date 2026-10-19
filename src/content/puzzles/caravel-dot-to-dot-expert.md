@@ -3,7 +3,7 @@ title: "Caravel dot to dot (143 dots)"
 type: "dot-to-dot"
 summary: "Caravel connect-the-dots with 143 dots, hard level, finished picture on page 2."
 difficulty: "hard"
-age_band: "adults"
+age_band: "teens"
 themes: ["vehicles", "ocean", "pirates"]
 occasions: []
 pages: 2

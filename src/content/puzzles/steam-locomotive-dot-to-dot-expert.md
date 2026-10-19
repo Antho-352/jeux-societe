@@ -3,7 +3,7 @@ title: "Steam locomotive dot to dot (172 dots)"
 type: "dot-to-dot"
 summary: "Steam locomotive connect-the-dots with 172 dots, hard level, finished picture on page 2."
 difficulty: "hard"
-age_band: "adults"
+age_band: "teens"
 themes: ["vehicles", "trains"]
 occasions: []
 pages: 2

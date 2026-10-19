@@ -3,7 +3,7 @@ title: "Diamond maze"
 type: "maze"
 summary: "A 36 × 36 maze rotated into a diamond, with diagonal corridors and thin walls, for adults. Enter on the upper right edge, leave on the lower left. Solution included."
 difficulty: "hard"
-age_band: "adults"
+age_band: "teens"
 themes: ["shapes", "diamonds"]
 occasions: []
 pages: 2

@@ -3,7 +3,7 @@ title: "Medium sudoku puzzles"
 type: "sudoku"
 summary: "Twenty medium 9 × 9 sudoku puzzles with about 32 clues, two per page in large print. Still solvable without guessing. Solutions at the back."
 difficulty: "medium"
-age_band: "adults"
+age_band: "teens"
 themes: ["numbers", "logic"]
 occasions: []
 pages: 14

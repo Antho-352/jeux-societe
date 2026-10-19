@@ -3,7 +3,7 @@ title: "Rooster dot to dot (158 dots)"
 type: "dot-to-dot"
 summary: "Rooster connect-the-dots with 158 dots, hard level, finished picture on page 2."
 difficulty: "hard"
-age_band: "adults"
+age_band: "teens"
 themes: ["animals", "farm"]
 occasions: []
 pages: 2

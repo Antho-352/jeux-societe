@@ -369,13 +369,13 @@ ITEMS = [
          body="A lion's head in profile, its mane drawn as a ring of sharp tufts. Several lines, each starting at a red circle, and well over a hundred dots."),
     dict(slug='fox-dot-to-dot-expert', src='game-icons:fox', n=150, diff=Hd, level='expert', band='teens', name='Fox', themes=['animals', 'autumn'], occ=['thanksgiving'], dmin=0.012, pieces=True,
          body='A fox sitting with its big tail wrapped around its paws. The face, the ears and the tail are separate lines, each starting at a red circle.'),
-    dict(slug='mammoth-dot-to-dot-expert', src='game-icons:mammoth', n=160, diff=Hd, level='expert', band='adults', name='Mammoth', themes=['dinosaurs', 'animals'], occ=[], dmin=0.012, pieces=True,
+    dict(slug='mammoth-dot-to-dot-expert', src='game-icons:mammoth', n=160, diff=Hd, level='expert', band='teens', name='Mammoth', themes=['dinosaurs', 'animals'], occ=[], dmin=0.012, pieces=True,
          body='A woolly mammoth with curled tusks and a shaggy coat. More than 150 dots spread over several lines: a long, slow puzzle for adults and older teens.'),
-    dict(slug='rooster-dot-to-dot-expert', src='game-icons:rooster', n=160, diff=Hd, level='expert', band='adults', name='Rooster', themes=['animals', 'farm'], occ=[], dmin=0.012, pieces=True,
+    dict(slug='rooster-dot-to-dot-expert', src='game-icons:rooster', n=160, diff=Hd, level='expert', band='teens', name='Rooster', themes=['animals', 'farm'], occ=[], dmin=0.012, pieces=True,
          body='A crowing rooster with its comb, wattles and a sweeping tail of feathers. The feathers are separate lines, each starting at a red circle: one of the most detailed pictures of the set.'),
-    dict(slug='caravel-dot-to-dot-expert', src='game-icons:caravel', n=200, diff=Hd, level='expert', band='adults', name='Caravel', themes=['vehicles', 'ocean', 'pirates'], occ=[], dmin=0.012, pieces=True,
+    dict(slug='caravel-dot-to-dot-expert', src='game-icons:caravel', n=200, diff=Hd, level='expert', band='teens', name='Caravel', themes=['vehicles', 'ocean', 'pirates'], occ=[], dmin=0.012, pieces=True,
          body='An old sailing ship with three masts, square sails and a high stern, drawn in several lines. Long straight runs and tight corners, for adults who like a slow drawing.'),
-    dict(slug='steam-locomotive-dot-to-dot-expert', src='game-icons:steam-locomotive', n=180, diff=Hd, level='expert', band='adults', name='Steam locomotive', themes=['vehicles', 'trains'], occ=[], dmin=0.012, pieces=True,
+    dict(slug='steam-locomotive-dot-to-dot-expert', src='game-icons:steam-locomotive', n=180, diff=Hd, level='expert', band='teens', name='Steam locomotive', themes=['vehicles', 'trains'], occ=[], dmin=0.012, pieces=True,
          body='A steam locomotive with its smoke cloud, cab, boiler and six wheels. The most lines of the set: every wheel and window is its own shape, starting at a red circle.'),
 ]
 

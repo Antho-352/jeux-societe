@@ -3,7 +3,7 @@ title: "Difficult maze"
 type: "maze"
 summary: "A 44 × 44 maze with rounded corners and thin walls for adults. Nearly two thousand cells, one solution, drawn in red on the second page."
 difficulty: "hard"
-age_band: "adults"
+age_band: "teens"
 themes: ["shapes"]
 occasions: []
 pages: 2

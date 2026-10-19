@@ -3,7 +3,7 @@ title: "Hard word search for adults"
 type: "word-search"
 summary: "Twenty long words, from serendipity to metamorphosis, in a 20 × 20 grid in all eight directions. A difficult word search for adults, answer key on page 2."
 difficulty: "hard"
-age_band: "adults"
+age_band: "teens"
 themes: ["vocabulary", "big-words"]
 occasions: []
 pages: 2

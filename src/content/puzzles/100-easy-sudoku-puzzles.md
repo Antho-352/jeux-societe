@@ -3,7 +3,7 @@ title: "100 easy sudoku puzzles"
 type: "sudoku"
 summary: "A hundred easy 9 × 9 sudoku puzzles, four per page over 25 pages, each with 38 clues and a unique solution. Solutions printed at the back of the book."
 difficulty: "easy"
-age_band: "adults"
+age_band: "teens"
 themes: ["numbers", "logic", "book"]
 occasions: []
 pages: 42

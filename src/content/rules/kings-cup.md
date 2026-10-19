@@ -7,7 +7,7 @@ category: "card"
 summary: "Kings Cup is the party drinking game where each card drawn from a circle triggers a rule, and whoever draws the fourth king drinks the cup in the middle."
 players_min: 3
 players_max: 10
-age_min: 18
+age_min: 21
 time_min: 20
 time_max: 60
 equipment: ["Standard 52-card deck", "A large cup", "Drinks (alcoholic or not)"]
@@ -25,7 +25,7 @@ seo_description: "Kings Cup drinking game rules: setting up the circle, what eve
 
 A standard 52-card deck, a large cup or glass for the middle of the table, and a drink for each player. Three or more players; the game works best with a group of five to ten.
 
-Kings Cup is an adult drinking game. Play it only with people of legal drinking age, drink responsibly, never pressure anyone to drink, and keep the "drinks" small: a sip, not a glass. It also works perfectly well with water, soft drinks or forfeits instead of alcohol.
+Kings Cup is an adult drinking game. Play it only with people of legal drinking age (21 in the United States), drink responsibly, never pressure anyone to drink, and keep the "drinks" small: a sip, not a glass. It also works perfectly well with water, soft drinks or forfeits instead of alcohol.
 
 ## Setup
 

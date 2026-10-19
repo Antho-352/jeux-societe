@@ -3,7 +3,7 @@ title: "100 hard sudoku puzzles"
 type: "sudoku"
 summary: "A hundred hard 9 × 9 sudoku puzzles with about 27 clues each, two per page in large print, none solvable with singles alone. Solutions at the back."
 difficulty: "hard"
-age_band: "adults"
+age_band: "teens"
 themes: ["numbers", "logic", "book"]
 occasions: []
 pages: 67

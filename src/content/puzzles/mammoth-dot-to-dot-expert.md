@@ -3,7 +3,7 @@ title: "Mammoth dot to dot (156 dots)"
 type: "dot-to-dot"
 summary: "Mammoth connect-the-dots with 156 dots, hard level, finished picture on page 2."
 difficulty: "hard"
-age_band: "adults"
+age_band: "teens"
 themes: ["dinosaurs", "animals"]
 occasions: []
 pages: 2

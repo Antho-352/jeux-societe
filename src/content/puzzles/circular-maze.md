@@ -3,7 +3,7 @@ title: "Circular maze"
 type: "maze"
 summary: "A round maze 42 cells across with rounded corridors, for adults. Enter at the top, exit at the bottom, one path through well over a thousand cells. Solution on page 2."
 difficulty: "hard"
-age_band: "adults"
+age_band: "teens"
 themes: ["shapes", "circles"]
 occasions: []
 pages: 2

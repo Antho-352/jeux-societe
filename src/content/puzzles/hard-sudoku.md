@@ -3,7 +3,7 @@ title: "Hard sudoku puzzles"
 type: "sudoku"
 summary: "Twenty hard 9 × 9 sudoku puzzles with about 27 clues, two per page, that cannot be finished with singles alone. Solutions in a compact grid at the back."
 difficulty: "hard"
-age_band: "adults"
+age_band: "teens"
 themes: ["numbers", "logic"]
 occasions: []
 pages: 14

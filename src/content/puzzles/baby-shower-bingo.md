@@ -2,7 +2,7 @@
 title: "Baby shower bingo cards"
 type: "bingo"
 summary: "Twenty unique baby shower bingo cards with 36 baby words from pacifier to stork, plus cut-out calling cards. Two cards per page, FREE centre square."
-age_band: "adults"
+age_band: "teens"
 themes: ["baby"]
 occasions: ["baby-shower"]
 pages: 11

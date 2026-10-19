@@ -2,7 +2,7 @@
 title: "Bridal shower bingo cards"
 type: "bingo"
 summary: "Twenty unique bridal shower bingo cards with 36 wedding words, from veil to something blue, plus calling cards to cut out. Two per page, FREE centre."
-age_band: "adults"
+age_band: "teens"
 themes: ["wedding"]
 occasions: ["bridal-shower"]
 pages: 11

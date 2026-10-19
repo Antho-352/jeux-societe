@@ -3,7 +3,7 @@ title: "Snowflake maze"
 type: "maze"
 summary: "A six-armed snowflake maze, 44 cells wide, for adults: thin walls, deep dead ends in every arm, one route through the centre. Solution on page 2."
 difficulty: "hard"
-age_band: "adults"
+age_band: "teens"
 themes: ["snow", "snowflakes"]
 occasions: ["winter", "christmas"]
 pages: 2

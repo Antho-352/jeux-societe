@@ -3,7 +3,7 @@ title: "Expert sudoku puzzles"
 type: "sudoku"
 summary: "Twenty expert 9 × 9 sudoku puzzles with only 24 to 26 clues, two per page, unique solutions checked by a solver. For people who find hard sudoku too easy."
 difficulty: "hard"
-age_band: "adults"
+age_band: "teens"
 themes: ["numbers", "logic", "expert"]
 occasions: []
 pages: 14
