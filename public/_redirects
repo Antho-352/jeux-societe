@@ -1,0 +1,17 @@
+# Dot-to-dot puzzles removed in the October 2026 redesign (too many dots, shape visible before joining)
+/puzzles/dot-to-dot/abc-star-dot-to-dot/ /puzzles/dot-to-dot/abc-gingerbread-man-dot-to-dot/ 301
+/puzzles/dot-to-dot/easter-egg-dot-to-dot/ /puzzles/dot-to-dot/abc-rabbit-dot-to-dot/ 301
+/puzzles/dot-to-dot/heart-dot-to-dot-hard/ /puzzles/dot-to-dot/heart-dot-to-dot-easy/ 301
+/puzzles/dot-to-dot/butterfly-dot-to-dot-hard/ /puzzles/dot-to-dot/abc-butterfly-dot-to-dot/ 301
+/puzzles/dot-to-dot/flower-dot-to-dot-hard/ /puzzles/dot-to-dot/ 301
+/puzzles/dot-to-dot/moon-dot-to-dot-hard/ /puzzles/dot-to-dot/ 301
+/puzzles/dot-to-dot/hexagon-dot-to-dot-hard/ /puzzles/dot-to-dot/ 301
+/puzzles/dot-to-dot/umbrella-dot-to-dot/ /puzzles/dot-to-dot/ 301
+/pdf/puzzles/dot-to-dot/abc-star-dot-to-dot.pdf /pdf/puzzles/dot-to-dot/abc-gingerbread-man-dot-to-dot.pdf 301
+/pdf/puzzles/dot-to-dot/easter-egg-dot-to-dot.pdf /pdf/puzzles/dot-to-dot/abc-rabbit-dot-to-dot.pdf 301
+/pdf/puzzles/dot-to-dot/heart-dot-to-dot-hard.pdf /pdf/puzzles/dot-to-dot/heart-dot-to-dot-easy.pdf 301
+/pdf/puzzles/dot-to-dot/butterfly-dot-to-dot-hard.pdf /pdf/puzzles/dot-to-dot/abc-butterfly-dot-to-dot.pdf 301
+/pdf/puzzles/dot-to-dot/flower-dot-to-dot-hard.pdf /puzzles/dot-to-dot/ 301
+/pdf/puzzles/dot-to-dot/moon-dot-to-dot-hard.pdf /puzzles/dot-to-dot/ 301
+/pdf/puzzles/dot-to-dot/hexagon-dot-to-dot-hard.pdf /puzzles/dot-to-dot/ 301
+/pdf/puzzles/dot-to-dot/umbrella-dot-to-dot.pdf /puzzles/dot-to-dot/ 301

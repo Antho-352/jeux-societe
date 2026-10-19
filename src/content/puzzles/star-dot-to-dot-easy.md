@@ -5,7 +5,7 @@ summary: "Star connect-the-dots with 10 dots, easy level, finished picture on pa
 difficulty: "easy"
 age_band: "preschool"
 themes: ["shapes", "space"]
-occasions: []
+occasions: ["christmas"]
 pages: 2
 paper: "both"
 colour: "bw"
@@ -28,7 +28,9 @@ Ten dots and a star: the simplest connect-the-dots for a first pencil. Big numbe
 ## What's in the PDF
 
 - Page 1: the puzzle, 10 numbered dots with the starting point circled.
-- Page 2: the finished outline, to check the drawing or to use as a colouring page.
+- Page 2: the finished picture, to check the drawing or to use as a colouring page.
 - Black and white, prints on A4 or US Letter at 100% scale.
+
+The dots sit on the corners and turns of the picture only, so the shape stays a surprise until the last line.
 
 **Tip:** print page 1 only to keep the answer a surprise, and use a coloured pencil so the line stands out from the dots.

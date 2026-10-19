@@ -1,7 +1,7 @@
 ---
-title: "Rocket dot to dot (18 dots)"
+title: "Rocket dot to dot (15 dots)"
 type: "dot-to-dot"
-summary: "Rocket connect-the-dots with 18 dots, easy level, finished picture on page 2."
+summary: "Rocket connect-the-dots with 15 dots, easy level, finished picture on page 2."
 difficulty: "easy"
 age_band: "preschool"
 themes: ["space", "vehicles"]
@@ -11,24 +11,26 @@ paper: "both"
 colour: "bw"
 answers_included: true
 count: 1
-grid: "18 dots"
+grid: "15 dots"
 download_url: "/pdf/puzzles/dot-to-dot/rocket-dot-to-dot-easy.pdf"
 download_size_mb: 0.01
 cover: "/img/puzzles/rocket-dot-to-dot-easy.png"
 licence: "CC BY-NC 4.0"
 status: "published"
 date_added: "2026-10-19"
-seo_title: "Rocket dot to dot (18 dots) \u2013 free printable"
+seo_title: "Rocket dot to dot (15 dots) \u2013 free printable"
 ---
 <!-- hand-edited -->
 ## About this dot to dot
 
-Blast off: a rocket with fins and a nose cone in eighteen dots, for the space fans in kindergarten.
+Blast off: a rocket with fins and a nose cone in fifteen dots, all on corners, so every line is a straight one. Made for the space fans in kindergarten.
 
 ## What's in the PDF
 
-- Page 1: the puzzle, 18 numbered dots with the starting point circled.
-- Page 2: the finished outline, to check the drawing or to use as a colouring page.
+- Page 1: the puzzle, 15 numbered dots with the starting point circled.
+- Page 2: the finished picture, to check the drawing or to use as a colouring page.
 - Black and white, prints on A4 or US Letter at 100% scale.
+
+The dots sit on the corners and turns of the picture only, so the shape stays a surprise until the last line.
 
 **Tip:** print page 1 only to keep the answer a surprise, and use a coloured pencil so the line stands out from the dots.
