@@ -1,6 +1,5 @@
 ---
-cover: "/img/games/carcassonne-print-and-play-demo.png"
-cover_art: true
+cover: "/img/games/carcassonne-box.png"
 title: "Carcassonne print-and-play demo"
 type: "board"
 subtype: "demo"

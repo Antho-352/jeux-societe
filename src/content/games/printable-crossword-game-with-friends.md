@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/printable-crossword-game-with-friends.png"
-cover_art: true
+cover: "/img/games/printable-crossword-game-with-friends.jpg"
+cover_credit: "Image: PrintablePaper.net"
+cover_source: "https://www.printablepaper.net/preview/Printable_Crossword_Game_with_Friends"
 title: "Printable Crossword Game with Friends"
 type: "board"
 subtype: "template"

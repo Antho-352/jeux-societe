@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/hms-speedy-cruise-for-glory.png"
-cover_art: true
+cover: "/img/games/hms-speedy-cruise-for-glory.jpg"
+cover_credit: "Image: Brian Athey via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/thread/2898411"
 title: "HMS Speedy: Cruise for Glory"
 type: "card"
 subtype: "solo"

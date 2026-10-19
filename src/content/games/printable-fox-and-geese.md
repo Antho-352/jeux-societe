@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/printable-fox-and-geese.png"
-cover_art: true
+cover: "/img/games/printable-fox-and-geese.jpg"
+cover_credit: "Image: PrintablePaper.net"
+cover_source: "https://www.printablepaper.net/preview/Fox_and_Geese"
 title: "Printable Fox and Geese"
 type: "board"
 subtype: "template"

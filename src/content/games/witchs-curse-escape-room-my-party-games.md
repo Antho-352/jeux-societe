@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/witchs-curse-escape-room-my-party-games.png"
-cover_art: true
+cover: "/img/games/witchs-curse-escape-room-my-party-games.jpg"
+cover_credit: "Image: My Party Games"
+cover_source: "https://www.mypartygames.com/free-printable-diy-escape-room-witchs-curse/"
 title: "Witch's Curse DIY Escape Room (My Party Games)"
 type: "escape"
 summary: "A free printable DIY escape room by Mary of My Party Games: trapped in the witch Sylvara's cottage, players solve 12 clues hidden around the house in 45 minutes. Ages 8 and up."

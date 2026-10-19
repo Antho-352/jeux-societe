@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/indoor-scavenger-hunt-play-party-plan.png"
-cover_art: true
+cover: "/img/games/indoor-scavenger-hunt-play-party-plan.jpg"
+cover_credit: "Image: Play Party Plan"
+cover_source: "https://www.playpartyplan.com/indoor-scavenger-hunt-for-kids/"
 title: "Indoor Scavenger Hunt for Kids (Play Party Plan)"
 type: "scavenger-hunt"
 summary: "A free printable indoor scavenger hunt by Britni Vigil where kids hunt for 'something green', 'something that sparkles' and other descriptions around the house; three colour variants in one PDF."

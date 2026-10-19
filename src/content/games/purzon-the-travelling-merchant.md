@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/purzon-the-travelling-merchant.png"
-cover_art: true
+cover: "/img/games/purzon-the-travelling-merchant.jpg"
+cover_credit: "Image: Lachlan Kadick via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/398700"
 title: "Purzon: The Travelling Merchant"
 type: "board"
 subtype: "solo"

@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/escape-game-halloween-petites-chasses-au-tresor.png"
-cover_art: true
+cover: "/img/games/escape-game-halloween-petites-chasses-au-tresor.jpg"
+cover_credit: "Image: Petites Chasses au Trésor"
+cover_source: "https://petiteschassesautresor.com/escape-game-halloween/"
 title: "Escape Game Halloween 7-9 ans (Petites Chasses au Trésor)"
 type: "escape"
 summary: "A free French printable Halloween escape game for 7 to 9 year olds: a cursed mummy, a word grid, a spooky coded message and a pyramid of sums hidden in envelopes around the house, 25 to 30 minutes."

@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/awaken-the-ancients.png"
-cover_art: true
+cover: "/img/games/awaken-the-ancients-box.png"
+cover_credit: "Image: Gregg Jewell (itch.io)"
+cover_source: "https://greggjewell.itch.io/awaken-the-ancients"
 title: "Awaken the Ancients"
 type: "board"
 subtype: "solo"

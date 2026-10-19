@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/carcassonne-the-castle-falcon-expansion.png"
-cover_art: true
+cover: "/img/games/carcassonne-the-castle-falcon-expansion.jpg"
+cover_credit: "Image: Hans im Glück via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/114473"
 title: "Carcassonne: The Castle – Falcon Expansion"
 type: "board"
 subtype: "expansion"

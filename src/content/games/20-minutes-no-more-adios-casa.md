@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/20-minutes-no-more-adios-casa.png"
-cover_art: true
+cover: "/img/games/20-minutes-no-more-adios-casa.jpg"
+cover_credit: "Image: Adios Casa"
+cover_source: "https://adios-casa.com/escape-game/banque/"
 title: "20 minutes no more (Adios Casa)"
 type: "escape"
 summary: "A free French print-at-home escape game for 1 or 2 players: guide your accomplice inside the Goldbank by chat in the free Adios Casa app and open the vault in 20 minutes. Short PDF, no setup."

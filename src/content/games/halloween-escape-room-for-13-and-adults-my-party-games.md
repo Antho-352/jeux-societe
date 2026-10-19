@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/halloween-escape-room-for-13-and-adults-my-party-games.png"
-cover_art: true
+cover: "/img/games/halloween-escape-room-for-13-and-adults-my-party-games.jpg"
+cover_credit: "Image: My Party Games"
+cover_source: "https://www.mypartygames.com/free-printable-halloween-escape-room-for-13-and-adults/"
 title: "Halloween Escape Room for 13+ and Adults (My Party Games)"
 type: "escape"
 summary: "A free printable DIY Halloween escape room by Mary of My Party Games: you inherit the haunted Rosehallow Estate and must crack nine puzzles in envelopes within an hour. For teens and adults."

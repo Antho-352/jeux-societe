@@ -31,7 +31,7 @@ files:
   - { label: "Full-art print and play", url: "/pdf/night-of-the-mummy/Night-of-the-Mummy-Full-art-print-and-play.pdf" }
   - { label: "Rulebook v4", url: "/pdf/night-of-the-mummy/Rulebook-v4.pdf" }
 source_url: "https://jellybean.games/night-of-the-mummy/"
-cover: "/img/games/night-of-the-mummy.png"
+cover: "/img/games/night-of-the-mummy-box.png"
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Night of the Mummy free print and play deduction game"

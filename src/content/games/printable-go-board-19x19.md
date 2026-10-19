@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/printable-go-board-19x19.png"
-cover_art: true
+cover: "/img/games/printable-go-board-19x19.jpg"
+cover_credit: "Image: PrintablePaper.net"
+cover_source: "https://www.printablepaper.net/preview/Go_Board_19x19"
 title: "Printable Go Board 19x19"
 type: "board"
 subtype: "template"

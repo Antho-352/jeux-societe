@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/crisis-imperator.png"
-cover_art: true
+cover: "/img/games/crisis-imperator.jpg"
+cover_credit: "Image: Brian Athey via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/404325"
 title: "Crisis Imperator"
 type: "card"
 subtype: "solo"

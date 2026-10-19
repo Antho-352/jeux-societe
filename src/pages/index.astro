@@ -10,23 +10,23 @@ const creators = await getCollection('creators');
 const byId = new Map(creators.map((c) => [c.id, c.data.name]));
 const games = (await getCollection('games')).filter((g) => g.data.status === 'published').sort((a, b) => b.data.date_added.getTime() - a.data.date_added.getTime());
 const puzzles = (await getCollection('puzzles')).filter((p) => p.data.status === 'published').sort((a, b) => b.data.date_added.getTime() - a.data.date_added.getTime());
+const byGameId = new Map(games.map((g) => [g.id, g]));
+const fresh = ['citadels-print-and-play-demo', 'secret-hitler', 'jabberwocky', 'night-of-the-mummy'].map((id) => byGameId.get(id)).filter((g) => g);
+const boardRow = ['carcassonne-print-and-play-demo', 'pandemic-hot-zone-north-america-print-and-play', 'bloc-by-bloc-uprising', 'unfair-base-game'].map((id) => byGameId.get(id)).filter((g) => g);
+const puzzleRow = (['maze', 'bingo', 'sudoku', 'dot-to-dot'] as const).map((t) => puzzles.find((p) => p.data.type === t)).filter((p) => p);
 const rules = (await getCollection('rules')).filter((r) => r.data.status === 'published');
 const hubs = await getCollection('hubs');
 const featured = games.find((g) => g.data.featured) ?? games[0];
 const withVideo = games.find((g) => g.data.video_id);
-const fresh = games.filter((g) => g.id !== featured?.id).slice(0, 4);
 const count = (path: string) => hubs.find((h) => h.data.path === path);
 const tiles = [
-  { href: '/board-games/', label: 'Board games', bg: '#CFFF5E', glyph: 'B' },
-  { href: '/card-games/', label: 'Card games', bg: '#B8D8FF', glyph: 'C' },
-  { href: '/escape-games/', label: 'Escape games', bg: '#FFD9D2', glyph: 'E' },
-  { href: '/scavenger-hunts/', label: 'Scavenger hunts', bg: '#FFE8A3', glyph: 'S' },
-  { href: '/roll-and-write/', label: 'Roll & write', bg: '#D9F2E6', glyph: 'R' },
-  { href: '/puzzles/mazes/', label: 'Mazes', bg: '#CFFF5E', glyph: 'M' },
-  { href: '/puzzles/dot-to-dot/', label: 'Dot to dot', bg: '#B8D8FF', glyph: 'D' },
-  { href: '/puzzles/word-search/', label: 'Word search', bg: '#FFD9D2', glyph: 'W' },
-  { href: '/bingo/', label: 'Bingo cards', bg: '#FFE8A3', glyph: 'B' },
-  { href: '/rules/', label: 'Game rules', bg: '#D9F2E6', glyph: '?' },
+  { href: '/board-games/', label: 'Board games', bg: '#CFFF5E', icon: 'board' },
+  { href: '/card-games/', label: 'Card games', bg: '#B8D8FF', icon: 'card' },
+  { href: '/escape-games/', label: 'Escape games', bg: '#FFD9D2', icon: 'escape' },
+  { href: '/roll-and-write/', label: 'Roll & write', bg: '#D9F2E6', icon: 'roll' },
+  { href: '/puzzles/mazes/', label: 'Mazes', bg: '#CFFF5E', icon: 'maze' },
+  { href: '/puzzles/dot-to-dot/', label: 'Dot to dot', bg: '#B8D8FF', icon: 'dots' },
+  { href: '/bingo/', label: 'Bingo cards', bg: '#FFE8A3', icon: 'bingo' },
 ];
 const chips = [
   { label: 'Solo', href: '/board-games/solo/' }, { label: '2 players', href: '/board-games/2-player/' }, { label: 'Party', href: '/party-games/' },
@@ -46,16 +46,50 @@ const orgLd = { '@context': 'https://schema.org', '@type': 'WebSite', name: 'Pri
       </div>
       {chips.length > 0 && <div class="row" style="--gap:8px">{chips.map((c) => <a class="chip" href={c.href}>{c.label}</a>)}</div>}
     </div>
-    <div class="hero-art" aria-hidden="true">
-      <div class="card-a"></div>
-      <div class="card-b">Escape<br />the attic<small>2–5 players · 45 min · 8+</small></div>
-      <span class="badge">100%<br />free</span>
+    <div class="hero-art playloop" aria-hidden="true">
+      <div class="stage">
+        <div class="beat beat-dl">
+          <p class="say">1. Download the PDF</p>
+          <div class="browser">
+            <div class="chrome"><i></i><i></i><i></i><em>printandplaygame.com</em></div>
+            <strong>Scuttle Print &amp; Play</strong>
+            <span class="dl-btn">Download PDF<span class="cursor"></span></span>
+            <span class="bar"><i></i></span>
+          </div>
+          <span class="file">Scuttle.pdf <b>✓</b></span>
+        </div>
+        <div class="beat beat-print">
+          <p class="say">2. Print the cards</p>
+          <div class="printer">Print<span class="paper"></span></div>
+          <div class="big-sheet">
+            <strong>Scuttle Print &amp; Play</strong>
+            <em>Cards to cut</em>
+            <div><span>A</span><span>K</span><span>Q</span><span>J</span></div>
+          </div>
+        </div>
+        <div class="beat beat-cut">
+          <p class="say">3. Cut the cards</p>
+          <div class="sheet-cut">
+            <span>A</span><span>K</span><span>Q</span><span>J</span>
+            <svg class="scissors" viewBox="0 0 72 36" width="56" height="28"><circle cx="12" cy="10" r="7" fill="none" stroke="#0F3D2E" stroke-width="3"/><circle cx="12" cy="26" r="7" fill="none" stroke="#0F3D2E" stroke-width="3"/><path d="M18 12 L66 4 M18 24 L66 32" stroke="#0F3D2E" stroke-width="3" stroke-linecap="round"/></svg>
+          </div>
+        </div>
+        <div class="beat beat-play">
+          <p class="say">4. Play tonight</p>
+          <div class="table"></div>
+          <div class="tiles-board"><i></i><i></i><i></i><i></i></div>
+          <div class="seat s1"><i></i><b></b><span class="pawn"></span><span class="pcard a">A</span><span class="pcard stay">Q</span></div>
+          <div class="seat s2"><i></i><b></b><span class="pawn"></span><span class="pcard b">K</span><span class="pcard stay">J</span></div>
+          <div class="seat s3"><i></i><b></b><span class="pawn"></span><span class="pcard stay">9</span><span class="pcard stay">8</span></div>
+          <div class="seat s4"><i></i><b></b><span class="pawn"></span><span class="pcard stay">7</span><span class="pcard stay">6</span></div>
+        </div>
+      </div>
     </div>
   </section>
 
   <section class="wrap" style="padding-bottom:40px">
     <div class="tiles">
-      {tiles.map((t) => <a class="tile" href={t.href}><span class="glyph" style={`background:${t.bg}`}>{t.glyph}</span>{t.label}</a>)}
+      {tiles.map((t) => <a class="tile" href={t.href}><span class="glyph" style={`background:${t.bg}`}><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" fill="none" stroke="#0F3D2E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">{t.icon === 'board' && <><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></>}{t.icon === 'card' && <><rect x="6" y="3" width="12" height="18" rx="2"/><path d="M12 8v8"/></>}{t.icon === 'escape' && <><circle cx="8" cy="12" r="3"/><path d="M11 12h10l-2 2 2 2"/></>}{t.icon === 'roll' && <><path d="M5 19l4-14 3 6 6-3-7 11z"/></>}{t.icon === 'maze' && <><path d="M4 4h16v16H4zM4 10h8M12 10v6M12 16h6"/></>}{t.icon === 'dots' && <><circle cx="6" cy="16" r="1.4" fill="#0F3D2E"/><circle cx="12" cy="8" r="1.4" fill="#0F3D2E"/><circle cx="18" cy="14" r="1.4" fill="#0F3D2E"/><path d="M6 16l6-8 6 6" stroke-dasharray="2 2"/></>}{t.icon === 'bingo' && <><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M3 15h18M9 3v18M15 3v18"/></>}</svg></span>{t.label}</a>)}
     </div>
   </section>
 
@@ -78,8 +112,8 @@ const orgLd = { '@context': 'https://schema.org', '@type': 'WebSite', name: 'Pri
           </div>
           <a class="btn btn-primary" href={gameItem(featured).href} style="align-self:flex-start">See the game</a>
         </div>
-        <div style="flex:1 1 320px; min-height:300px; background:var(--accent); display:grid; place-items:center">
-          <span class="display" style="font-size:180px; color:var(--ink); opacity:.85" aria-hidden="true">{featured.data.title[0]}</span>
+        <div style="flex:1 1 320px; min-height:300px; background:var(--ground); display:grid; place-items:center; overflow:hidden">
+          {featured.data.cover ? <img src={featured.data.cover} alt="" width="420" height="420" style="width:100%; height:100%; object-fit:contain; padding:28px" /> : <span class="display" style="font-size:180px; color:var(--ink); opacity:.85" aria-hidden="true">{featured.data.title[0]}</span>}
         </div>
       </div>
     </section>
@@ -96,10 +130,10 @@ const orgLd = { '@context': 'https://schema.org', '@type': 'WebSite', name: 'Pri
     </div>
   </section>
 
-  {puzzles.length > 0 && (
+  {boardRow.length > 0 && (
     <section class="section wrap" style="padding-top:0">
-      <div class="section-head"><h2>Printable puzzles</h2><a href="/puzzles/">All puzzles</a></div>
-      <div class="grid">{puzzles.slice(0, 4).map((p) => { const it = puzzleItem(p); return <ItemCard href={it.href} title={it.title} by={it.by} typeLabel={it.typeLabel} cover={it.cover} colour={it.colour} pills={it.pills} />; })}</div>
+      <div class="section-head"><h2>Board games</h2><a href="/board-games/">All board games</a></div>
+      <div class="grid">{boardRow.map((g) => { const it = gameItem(g, g.data.creator ? byId.get(g.data.creator.id) : undefined); return <ItemCard href={it.href} title={it.title} by={it.by} typeLabel={it.typeLabel} cover={it.cover} colour={it.colour} pills={it.pills} />; })}</div>
     </section>
   )}
 
@@ -116,6 +150,13 @@ const orgLd = { '@context': 'https://schema.org', '@type': 'WebSite', name: 'Pri
           <VideoEmbed id={withVideo.data.video_id!} title={`How to play ${withVideo.data.title}`} />
         </div>
       </div>
+    </section>
+  )}
+
+  {puzzleRow.length > 0 && (
+    <section class="section wrap" style="padding-top:0">
+      <div class="section-head"><h2>Printable puzzles</h2><a href="/puzzles/">All puzzles</a></div>
+      <div class="grid">{puzzleRow.map((p) => { const it = puzzleItem(p); return <ItemCard href={it.href} title={it.title} by={it.by} typeLabel={it.typeLabel} cover={it.cover} colour={it.colour} pills={it.pills} />; })}</div>
     </section>
   )}
 

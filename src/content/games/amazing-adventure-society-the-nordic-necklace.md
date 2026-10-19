@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/amazing-adventure-society-the-nordic-necklace.png"
-cover_art: true
+cover: "/img/games/amazing-adventure-society-the-nordic-necklace.jpg"
+cover_credit: "Image: Printable Escapes"
+cover_source: "https://www.printableescapes.com/games/freeescapegame.html"
 title: "Amazing Adventure Society: The Nordic Necklace"
 type: "escape"
 summary: "A free 9-page printable escape room from Printable Escapes: help Clara Ridley of the Amazing Adventure Society solve the mystery of the Nordic Necklace, 1 to 4 players in 15 to 30 minutes."

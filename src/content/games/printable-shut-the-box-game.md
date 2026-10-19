@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/printable-shut-the-box-game.png"
-cover_art: true
+cover: "/img/games/printable-shut-the-box-game.jpg"
+cover_credit: "Image: PrintablePaper.net"
+cover_source: "https://www.printablepaper.net/preview/Shut_the_Box_Game"
 title: "Printable Shut the Box Game"
 type: "dice"
 subtype: "template"

@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/the-last-trick-or-treat.png"
-cover_art: true
+cover: "/img/games/the-last-trick-or-treat.jpg"
+cover_credit: "Image: CouchEscape"
+cover_source: "https://couchescape.com/printable-halloween-escape-room/"
 title: "The Last Trick-or-Treat (CouchEscape)"
 type: "escape"
 summary: "A free printable Halloween escape room for two players aged 10 and up: one player goes inside the house on Cutter's Lane, the other stays on the street. 27 pages, 25 to 35 minutes, four endings."

@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/printable-rook-cards.png"
-cover_art: true
+cover: "/img/games/printable-rook-cards.jpg"
+cover_credit: "Image: PrintablePaper.net"
+cover_source: "https://www.printablepaper.net/preview/Rook_Cards"
 title: "Printable Rook Cards"
 type: "card"
 summary: "A printable deck of Rook-style cards (numbered cards in four colours plus a Rook card) for trick-taking games."

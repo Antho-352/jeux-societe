@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/escape-team-training-mission-and-central-station.png"
-cover_art: true
+cover: "/img/games/escape-team-training-mission-and-central-station.jpg"
+cover_credit: "Image: Escape Team"
+cover_source: "https://www.escape-team.com/"
 title: "Escape Team: Training Mission and Mission 1, Central Station"
 type: "escape"
 summary: "Two free printable Escape Team missions in one 12-page PDF: a 10-minute training mission and the 15-minute Central Station bomb defusal, played with pens, scissors and the free app, 2 to 4 players."

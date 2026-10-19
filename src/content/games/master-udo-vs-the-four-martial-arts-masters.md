@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/master-udo-vs-the-four-martial-arts-masters.png"
-cover_art: true
+cover: "/img/games/master-udo-vs-the-four-martial-arts-masters.jpg"
+cover_credit: "Image: Jayzee Games via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/385948"
 title: "Master Udo Vs. the Four Martial Arts Masters"
 type: "card"
 subtype: "solo"

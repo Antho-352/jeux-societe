@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/unfair-abdw-expansion.png"
-cover_art: true
+cover: "/img/games/unfair-abdw-expansion.jpg"
+cover_credit: "Image: 2am Gameworks"
+cover_source: "https://www.unfair-game.com/flux-content/unfair/pdf/Unfair-ABDW-rulebook-20230725-web.pdf"
 title: "Unfair: ABDW expansion"
 type: "card"
 subtype: "expansion"

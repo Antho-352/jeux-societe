@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/two-rooms-and-a-boom.png"
-cover_art: true
+cover: "/img/games/two-rooms-and-a-boom.jpg"
+cover_credit: "Image: Tuesday Knight Games"
+cover_source: "https://www.tuesdayknightgames.com/products/two-rooms-and-a-boom"
 title: "Two Rooms and a Boom"
 type: "party"
 summary: "Two Rooms and a Boom is a 6–30 player hidden-role party game of trust, hostages, and a bomb that must not reach the president."

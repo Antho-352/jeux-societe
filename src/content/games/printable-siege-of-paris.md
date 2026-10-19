@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/printable-siege-of-paris.png"
-cover_art: true
+cover: "/img/games/printable-siege-of-paris.jpg"
+cover_credit: "Image: PrintablePaper.net"
+cover_source: "https://www.printablepaper.net/preview/Siege_of_Paris"
 title: "Printable Siege of Paris"
 type: "board"
 subtype: "template"

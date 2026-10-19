@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/concrete-jungle.png"
-cover_art: true
+cover: "/img/games/concrete-jungle.jpg"
+cover_credit: "Image: Austin Charlie via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/thread/2885285"
 title: "Concrete Jungle"
 type: "card"
 subtype: "solo"

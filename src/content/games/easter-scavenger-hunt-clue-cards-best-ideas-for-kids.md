@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/easter-scavenger-hunt-clue-cards-best-ideas-for-kids.png"
-cover_art: true
+cover: "/img/games/easter-scavenger-hunt-clue-cards-best-ideas-for-kids.jpg"
+cover_credit: "Image: The Best Ideas for Kids"
+cover_source: "https://www.thebestideasforkids.com/easter-scavenger-hunt/"
 title: "Easter Scavenger Hunt Clue Cards (The Best Ideas for Kids)"
 type: "scavenger-hunt"
 summary: "Two free printable Easter scavenger hunts by Kimberly McLeod, one indoor and one outdoor, each with 12 rhyming clue cards that lead children from hiding spot to hiding spot and end at the Easter basket."

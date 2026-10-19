@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/dixit-print-and-play.png"
-cover_art: true
+cover: "/img/games/dixit-print-and-play.jpg"
+cover_credit: "Image: Libellud via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/39856"
 title: "Dixit print and play: cards and rules"
 type: "party"
 subtype: "demo"

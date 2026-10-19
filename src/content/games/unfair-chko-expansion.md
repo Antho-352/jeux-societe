@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/unfair-chko-expansion.png"
-cover_art: true
+cover: "/img/games/unfair-chko-expansion.jpg"
+cover_credit: "Image: 2am Gameworks"
+cover_source: "https://www.unfair-game.com/flux-content/unfair/pdf/Unfair-CHKO-rulebook-20230725-web.pdf"
 title: "Unfair: CHKO expansion"
 type: "card"
 subtype: "expansion"

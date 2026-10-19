@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/nature-scavenger-hunt-play-party-plan.png"
-cover_art: true
+cover: "/img/games/nature-scavenger-hunt-play-party-plan.jpg"
+cover_credit: "Image: Play Party Plan"
+cover_source: "https://www.playpartyplan.com/nature-scavenger-hunt/"
 title: "Nature Scavenger Hunt for Kids (Play Party Plan)"
 type: "scavenger-hunt"
 summary: "A free printable 16-item nature scavenger hunt by Britni Vigil: caterpillar, spiderweb, boulder, acorn and more to tick off on a hike, a park walk or a camping trip; full-sheet and half-sheet versions."

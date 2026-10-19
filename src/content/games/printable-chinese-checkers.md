@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/printable-chinese-checkers.png"
-cover_art: true
+cover: "/img/games/printable-chinese-checkers.jpg"
+cover_credit: "Image: PrintablePaper.net"
+cover_source: "https://www.printablepaper.net/preview/Chinese_Checkers"
 title: "Printable Chinese Checkers"
 type: "board"
 subtype: "template"

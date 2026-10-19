@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/captain-parks-imaginary-polar-expedition.png"
-cover_art: true
+cover: "/img/games/captain-parks-imaginary-polar-expedition.jpg"
+cover_credit: "Image: Crab Fragment Labs (Cheapass Games)"
+cover_source: "https://crabfragmentlabs.com/shop/p/captain-park"
 title: "Captain Park's Imaginary Polar Expedition"
 type: "board"
 subtype: "family"

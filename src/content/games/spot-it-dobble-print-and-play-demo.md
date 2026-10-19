@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/spot-it-dobble-print-and-play-demo.png"
-cover_art: true
+cover: "/img/games/spot-it-dobble-print-and-play-demo.jpg"
+cover_credit: "Image: Asmodee via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/63268"
 title: "Spot It! (Dobble) print-and-play demo"
 type: "card"
 subtype: "demo"

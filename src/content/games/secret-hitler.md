@@ -25,7 +25,7 @@ licence_url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
 hosting_mode: "mirror"
 source_url: "https://www.secrethitler.com/"
 download_url: "/pdf/secret-hitler/secret-hitler-print-and-play.pdf"
-cover: "/img/games/secret-hitler.png"
+cover: "/img/games/secret-hitler-box.png"
 download_size_mb: 3.5
 files:
   - { label: "Print and play PDF", url: "/pdf/secret-hitler/secret-hitler-print-and-play.pdf" }

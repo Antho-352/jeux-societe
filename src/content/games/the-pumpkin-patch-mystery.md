@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/the-pumpkin-patch-mystery.png"
-cover_art: true
+cover: "/img/games/the-pumpkin-patch-mystery.jpg"
+cover_credit: "Image: CouchEscape"
+cover_source: "https://couchescape.com/printable-halloween-escape-room/"
 title: "The Pumpkin Patch Mystery (CouchEscape)"
 type: "escape"
 summary: "A free printable Halloween escape room for a child aged 7 to 12 and a grown-up: find the giant pumpkin that vanished before the fair. Not scary, 23 pages, 15 to 20 minutes, happy endings."

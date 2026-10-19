@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/bismarck-s-dance.png"
-cover_art: true
+cover: "/img/games/bismarck-s-dance.jpg"
+cover_credit: "Image: Nils (7quark) via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/thread/2878068"
 title: "Bismarck's Dance"
 type: "card"
 subtype: "solo"

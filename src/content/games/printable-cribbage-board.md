@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/printable-cribbage-board.png"
-cover_art: true
+cover: "/img/games/printable-cribbage-board.jpg"
+cover_credit: "Image: PrintablePaper.net"
+cover_source: "https://www.printablepaper.net/preview/Cribbage_Board"
 title: "Printable Cribbage Board"
 type: "board"
 subtype: "template"

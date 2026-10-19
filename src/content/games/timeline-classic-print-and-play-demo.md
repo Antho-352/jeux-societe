@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/timeline-classic-print-and-play-demo.png"
-cover_art: true
+cover: "/img/games/timeline-classic-print-and-play-demo.jpg"
+cover_credit: "Image: Asmodee via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/128664"
 title: "Timeline Classic print-and-play demo"
 type: "card"
 subtype: "demo"

@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/collapsi.png"
-cover_art: true
+cover: "/img/games/collapsi.jpg"
+cover_credit: "Image: Mark S. Ball (itch.io)"
+cover_source: "https://riffleshuffleandroll.itch.io/collapsi"
 title: "Collapsi"
 type: "card"
 subtype: "abstract"

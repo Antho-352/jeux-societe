@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/deckscape-demo.png"
-cover_art: true
+cover: "/img/games/deckscape-demo.jpg"
+cover_credit: "Image: dV Giochi"
+cover_source: "https://www.dvgiochi.com/catalogo/deckscape-ora-del-test/"
 title: "Deckscape demo (free printable escape room)"
 type: "escape"
 summary: "The free 10-card print-and-play demo of Deckscape, the escape room in a deck: open a toolbox, a safe and a coloured keypad to get out of a locked room. 1 to 6 players, ages 12 and up, about 10 minutes."

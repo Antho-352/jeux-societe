@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/the-closest-ghost.png"
-cover_art: true
+cover: "/img/games/the-closest-ghost.jpg"
+cover_credit: "Image: Looney Labs via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/296319"
 title: "The Closest Ghost"
 type: "board"
 summary: "A free two-player print-and-play game from Looney Labs played with real candy: pick up your sweets in a haunted house while moving the ghost closest to you."

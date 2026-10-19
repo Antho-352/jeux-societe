@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/concept-print-and-play-demo.png"
-cover_art: true
+cover: "/img/games/concept-print-and-play-demo.jpg"
+cover_credit: "Image: Repos Production via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/147151"
 title: "Concept print-and-play demo"
 type: "party"
 subtype: "demo"

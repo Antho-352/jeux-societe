@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/bible-escape-room-jesus-miracles-my-party-games.png"
-cover_art: true
+cover: "/img/games/bible-escape-room-jesus-miracles-my-party-games.jpg"
+cover_credit: "Image: My Party Games"
+cover_source: "https://www.mypartygames.com/free-printable-bible-escape-room-jesus-miracles/"
 title: "Bible Escape Room: Jesus' Miracles (My Party Games)"
 type: "escape"
 summary: "A free printable Bible escape room by Mary of My Party Games: seven clues about the miracles of Jesus, including Braille and a cut-up message, lead to a final message. Teams of 3 to 4 players."

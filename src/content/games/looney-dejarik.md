@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/looney-dejarik.png"
-cover_art: true
+cover: "/img/games/looney-dejarik.jpg"
+cover_credit: "Image: Looney Labs via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/460032"
 title: "Looney Dejarik"
 type: "board"
 summary: "Looney Dejarik is Andrew Looney's free two-player abstract game for a Dejarik-style board, playable with a printable board, Lego towers or chess pieces, and four two-colour chance cubes."

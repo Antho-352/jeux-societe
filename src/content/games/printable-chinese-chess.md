@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/printable-chinese-chess.png"
-cover_art: true
+cover: "/img/games/printable-chinese-chess.jpg"
+cover_credit: "Image: PrintablePaper.net"
+cover_source: "https://www.printablepaper.net/preview/Chinese_Chess"
 title: "Printable Chinese Chess"
 type: "board"
 subtype: "template"

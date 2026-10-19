@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/hall-of-the-dwarven-king.png"
-cover_art: true
+cover: "/img/games/hall-of-the-dwarven-king.jpg"
+cover_credit: "Image: Metal Snail (itch.io)"
+cover_source: "https://metalsnail.itch.io/hall-of-the-dwarven-king"
 title: "Hall of the Dwarven King"
 type: "roll-and-write"
 subtype: "solo"

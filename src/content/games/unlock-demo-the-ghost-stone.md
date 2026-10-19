@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/unlock-demo-the-ghost-stone.png"
-cover_art: true
+cover: "/img/games/unlock-demo-the-ghost-stone.jpg"
+cover_credit: "Image: Space Cowboys"
+cover_source: "https://cdn.svc.asmodee.net/production-spacecowboys/uploads/2025/11/Proto_A4_CAMBRIOLAGE_FANTOME_EN_4card.pdf"
 title: "Unlock! The Ghost Stone (free demo)"
 type: "escape"
 summary: "A 22-card haunted-mansion Unlock! demo written by Licki, Mana and Franfran: avenge a ghost by stealing a gem from Beckett. Print, cut and play with the free app, 1 to 6 players."

@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/dungeon-pages-core-set.png"
-cover_art: true
+cover: "/img/games/dungeon-pages-core-set.jpg"
+cover_credit: "Image: PNP Arcade (itch.io)"
+cover_source: "https://pnparcade.itch.io/dungeon-pages-2023"
 title: "Dungeon Pages: Core Set"
 type: "roll-and-write"
 subtype: "solo"

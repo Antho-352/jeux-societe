@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/printable-three-mens-morris.png"
-cover_art: true
+cover: "/img/games/printable-three-mens-morris.jpg"
+cover_credit: "Image: PrintablePaper.net"
+cover_source: "https://www.printablepaper.net/preview/Morris_Three_Men"
 title: "Printable Three Men's Morris"
 type: "board"
 subtype: "template"

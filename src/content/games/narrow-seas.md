@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/narrow-seas.png"
-cover_art: true
+cover: "/img/games/narrow-seas.jpg"
+cover_credit: "Image: Felix Livni"
+cover_source: "https://flivni.github.io/narrow-seas/"
 title: "Narrow Seas"
 type: "board"
 subtype: "two-player"

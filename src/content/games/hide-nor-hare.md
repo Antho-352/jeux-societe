@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/hide-nor-hare.png"
-cover_art: true
+cover: "/img/games/hide-nor-hare.jpg"
+cover_credit: "Image: D. Teuber via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/372844"
 title: "Hide nor Hare"
 type: "roll-and-write"
 subtype: "solo"

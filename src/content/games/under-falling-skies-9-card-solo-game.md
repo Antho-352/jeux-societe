@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/under-falling-skies-9-card-solo-game.png"
-cover_art: true
+cover: "/img/games/under-falling-skies-9-card-solo-game.jpg"
+cover_credit: "Image: Czech Games Edition via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/273779"
 title: "Under Falling Skies: A 9-Card Solo Game"
 type: "dice"
 subtype: "solo"

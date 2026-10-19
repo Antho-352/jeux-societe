@@ -1,6 +1,7 @@
 ---
-cover: "/img/games/printable-quick-on-the-draw.png"
-cover_art: true
+cover: "/img/games/printable-quick-on-the-draw.jpg"
+cover_credit: "Image: PrintablePaper.net"
+cover_source: "https://www.printablepaper.net/preview/Quick_on_the_Draw"
 title: "Printable Quick on the Draw"
 type: "party"
 subtype: "template"
