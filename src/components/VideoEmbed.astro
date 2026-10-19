@@ -20,7 +20,7 @@ const watch = `https://www.youtube.com/watch?v=${id}`;
   .video-facade img { width: 100%; height: 100%; object-fit: cover; display: block; }
   .video-play { position: absolute; left: 50%; top: 50%; width: 88px; height: 88px; transform: translate(-50%, -50%); border-radius: 50%; background: var(--primary); color: var(--ink); display: grid; place-items: center; box-shadow: 0 12px 30px rgba(15, 61, 46, .3); transition: transform .15s; }
   .video-facade:hover .video-play { transform: translate(-50%, -50%) scale(1.06); }
-  .video-embed iframe { width: 100%; aspect-ratio: 16 / 9; border: 0; border-radius: var(--radius); display: block; box-shadow: var(--shadow); }
+  .video-embed :global(iframe) { width: 100%; aspect-ratio: 16 / 9; height: auto; border: 0; border-radius: var(--radius); display: block; box-shadow: var(--shadow); }
   figcaption { margin-top: 10px; font-size: 14px; color: var(--muted); }
 </style>
 <script>
@@ -34,6 +34,8 @@ const watch = `https://www.youtube.com/watch?v=${id}`;
       f.title = btn.getAttribute('aria-label') ?? 'YouTube video';
       f.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
       f.allowFullscreen = true;
+      f.width = '1280'; f.height = '720';
+      f.style.cssText = 'width:100%;aspect-ratio:16/9;height:auto;border:0;display:block';
       btn.replaceWith(f);
     });
   });
