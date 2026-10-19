@@ -1,0 +1,68 @@
+---
+/**
+ * "Where should X play?" quiz on tic-tac-toe positions: the reader taps a square, sees the right squares and why.
+ * positions[].cells: 9 characters row by row ("X", "O", "."); toPlay: whose move; correct: squares 1–9 that are right.
+ */
+interface Position { cells: string; toPlay: 'X' | 'O'; q?: string; correct: number[]; explain: string }
+interface Props { title: string; intro?: string; positions: Position[] }
+const { title, intro, positions } = Astro.props;
+for (const p of positions) {
+  if (p.cells.length !== 9 || /[^XO.]/.test(p.cells)) throw new Error(`TicTacToeQuiz: bad cells "${p.cells}"`);
+  if (!p.correct.length || p.correct.some((n) => p.cells[n - 1] !== '.')) throw new Error(`TicTacToeQuiz: a correct square is not empty in "${p.cells}"`);
+}
+const id = 'tttq-' + Math.abs([...title].reduce((h, c) => (h * 31 + c.charCodeAt(0)) | 0, 0)).toString(36);
+---
+<section class="tool ttt-quiz" data-ttt-quiz={JSON.stringify(positions)} id={id} aria-labelledby={`${id}-t`}>
+  <p class="tool-kicker">Interactive quiz</p>
+  <h2 class="tool-title" id={`${id}-t`}>{title}</h2>
+  {intro && <p class="tool-intro">{intro}</p>}
+  <div class="quiz-progress"><span data-step>Position 1 of {positions.length}</span><span data-pct>{Math.round(100 / positions.length)}%</span></div>
+  <div class="quiz-bar"><span data-bar style={`width:${100 / positions.length}%`}></span></div>
+  <div data-stage aria-live="polite"></div>
+  <noscript><p>This quiz needs JavaScript.</p></noscript>
+</section>
+<script>
+  type Pos = { cells: string; toPlay: 'X' | 'O'; q?: string; correct: number[]; explain: string };
+  for (const root of document.querySelectorAll<HTMLElement>('[data-ttt-quiz]')) {
+    const positions: Pos[] = JSON.parse(root.dataset.tttQuiz!);
+    const stage = root.querySelector<HTMLElement>('[data-stage]')!;
+    const step = root.querySelector<HTMLElement>('[data-step]')!;
+    const pct = root.querySelector<HTMLElement>('[data-pct]')!;
+    const bar = root.querySelector<HTMLElement>('[data-bar]')!;
+    const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
+    const ROW = ['top', 'middle', 'bottom'], COL = ['left', 'centre', 'right'];
+    const where = (i: number) => (i === 4 ? 'centre' : `${ROW[Math.floor(i / 3)]} ${COL[i % 3]}`);
+    let i = 0, score = 0;
+    const render = () => {
+      if (i >= positions.length) return finish();
+      const p = positions[i];
+      const pr = Math.round(((i + 1) / positions.length) * 100);
+      step.textContent = `Position ${i + 1} of ${positions.length}`; pct.textContent = `${pr}%`; bar.style.width = `${pr}%`;
+      const cells = [...p.cells].map((ch, k) => ch === '.'
+        ? `<button type="button" class="ttt-cell" data-k="${k}" aria-label="Play ${p.toPlay} in the ${where(k)} square"></button>`
+        : `<span class="ttt-cell ${ch === 'X' ? 'is-x' : 'is-o'}" role="img" aria-label="${ch} in the ${where(k)} square">${ch}</span>`).join('');
+      stage.innerHTML = `<p class="ttt-q">${esc(p.q ?? `${p.toPlay} to play. Where should ${p.toPlay} go?`)}</p><div class="ttt-board ttt-board-play" data-to-play="${p.toPlay}">${cells}</div><div class="quiz-feedback" hidden></div><button type="button" class="btn btn-dark" data-next hidden>${i === positions.length - 1 ? 'See my score' : 'Next position'}</button>`;
+      const fb = stage.querySelector<HTMLElement>('.quiz-feedback')!;
+      const next = stage.querySelector<HTMLButtonElement>('[data-next]')!;
+      const buttons = Array.from(stage.querySelectorAll<HTMLButtonElement>('button.ttt-cell'));
+      buttons.forEach((b) => b.addEventListener('click', () => {
+        const k = Number(b.dataset.k);
+        const ok = p.correct.includes(k + 1);
+        if (ok) score++;
+        b.textContent = p.toPlay; b.classList.add(p.toPlay === 'X' ? 'is-x' : 'is-o', ok ? 'is-right' : 'is-wrong');
+        buttons.forEach((o) => { o.disabled = true; if (p.correct.includes(Number(o.dataset.k) + 1) && o !== b) o.classList.add('is-hl'); });
+        fb.hidden = false; fb.innerHTML = `<strong>${ok ? 'Right!' : 'Not quite.'}</strong> ${esc(p.explain)}`;
+        next.hidden = false; next.focus();
+      }));
+      next.addEventListener('click', () => { i++; render(); });
+    };
+    const finish = () => {
+      step.textContent = 'Done'; pct.textContent = '100%'; bar.style.width = '100%';
+      const n = positions.length;
+      const verdict = score === n ? 'Perfect: nobody beats you now.' : score >= n * 0.7 ? 'Great job, you will draw most games.' : score >= n * 0.4 ? 'Not bad. Read the priority list once more.' : 'Time for a rematch.';
+      stage.innerHTML = `<div class="quiz-result"><p class="quiz-score">${score} / ${n}</p><p>${verdict}</p><button type="button" class="btn btn-outline" data-again>Try again</button></div>`;
+      stage.querySelector('[data-again]')!.addEventListener('click', () => { i = 0; score = 0; render(); });
+    };
+    render();
+  }
+</script>

@@ -1,0 +1,34 @@
+---
+/**
+ * Static tic-tac-toe diagrams (no JS), one or several boards side by side, e.g. the steps of a trap.
+ * cells: 9 characters read row by row, "X", "O" or "." for empty. highlight: squares 1–9 to colour (the move to play).
+ * numbers: show the square numbers 1–9 in the empty cells.
+ */
+interface Board { cells: string; caption?: string; highlight?: number[]; numbers?: boolean }
+interface Props { boards: Board[]; caption?: string }
+const { boards, caption } = Astro.props;
+const ROWS = ['Top row', 'Middle row', 'Bottom row'];
+const describe = (b: Board) => {
+  const c = b.cells.toUpperCase();
+  if (c.length !== 9 || /[^XO.]/.test(c)) throw new Error(`TicTacToeBoard: bad cells "${b.cells}"`);
+  const name = (i: number) => (c[i] === '.' ? (b.highlight?.includes(i + 1) ? 'empty, marked' : 'empty') : c[i]);
+  return ROWS.map((r, k) => `${r}: ${[0, 1, 2].map((j) => name(k * 3 + j)).join(', ')}`).join('. ') + '.';
+};
+---
+<figure class="ttt-figure">
+  <div class="ttt-steps">
+    {boards.map((b) => (
+      <div class="ttt-step">
+        <div class="ttt-board" role="img" aria-label={(b.caption ? b.caption + '. ' : '') + describe(b)}>
+          {[...b.cells.toUpperCase()].map((ch, i) => (
+            <span class:list={['ttt-cell', { 'is-x': ch === 'X', 'is-o': ch === 'O', 'is-hl': b.highlight?.includes(i + 1) }]} aria-hidden="true">
+              {ch === '.' ? (b.numbers ? <small>{i + 1}</small> : '') : ch}
+            </span>
+          ))}
+        </div>
+        {b.caption && <p class="ttt-step-cap">{b.caption}</p>}
+      </div>
+    ))}
+  </div>
+  {caption && <figcaption>{caption}</figcaption>}
+</figure>

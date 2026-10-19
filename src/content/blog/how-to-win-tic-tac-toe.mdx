@@ -1,0 +1,244 @@
+---
+title: "How to win tic-tac-toe: the moves that never lose"
+seo_title: "How to win tic-tac-toe: the strategy that never loses"
+description: "How to win tic-tac-toe: the 8-step priority list, the corner trap for X, the only safe replies for O, a 6-position quiz and a computer to practise against."
+excerpt: "Nobody can force a win at tic-tac-toe, but you can make sure you never lose and win every time your opponent slips. Here is the priority list, the corner trap and the safe replies, with diagrams and a quiz."
+category: "guides"
+author: "anthony"
+publish_at: 2026-11-18T20:50:00Z
+target_keyword: "how to win tic tac toe"
+secondary_keywords: ["tic tac toe strategy", "tic tac toe tricks", "how to never lose tic tac toe"]
+keyword_volume: 8100
+keyword_difficulty: 0
+silo: "rules/pen-and-paper"
+pushes: ["/rules/tic-tac-toe/", "/rules/sim/", "/rules/dots-and-boxes/"]
+tldr: "Against a perfect player you cannot win tic-tac-toe: best play from both sides always ends in a draw. To never lose and to win whenever the other player slips, choose each move from this list, in order: win, block, make a fork (two threats at once), block their fork, take the centre, take the corner opposite theirs, take any corner, take an edge. Going first, start in a corner: seven of the eight replies lose."
+key_takeaways:
+  - "Tic-tac-toe is solved: with perfect play from both sides, every game is a draw."
+  - "Every move, check in order: can I win, must I block, can I fork, must I stop a fork? Only then think about centre, corners and edges."
+  - "Open in a corner as X; as O, answer a corner with the centre and a centre with a corner."
+cover: "/img/blog/how-to-win-tic-tac-toe.png"
+cover_alt: "Title card for how to win tic-tac-toe, with a big red X"
+cover_emoji: "❌"
+faq:
+  - q: "Can you always win tic-tac-toe?"
+    a: "No. Tic-tac-toe is a solved game and perfect play from both players always ends in a draw. You can only win when your opponent makes a mistake, so the real goal is never to lose and to punish every slip."
+  - q: "What is the best first move in tic-tac-toe?"
+    a: "A corner. Against perfect play every first move leads to a draw, but after a corner opening only one of the eight replies, the centre, avoids a forced loss."
+  - q: "How do you never lose at tic-tac-toe when you go second?"
+    a: "Answer a corner with the centre and a centre with a corner. If X opens on an edge, take the centre, a corner next to the X or the opposite edge. After that, always win, block, and stop forks before anything else."
+  - q: "How many possible games of tic-tac-toe are there?"
+    a: "255,168, counting every finished game move by move. The first player wins 131,184 of them, the second 77,904, and 46,080 are draws. Up to rotations and reflections there are 765 essentially different positions."
+  - q: "What is a fork in tic-tac-toe?"
+    a: "A move that creates two lines of two at the same time, each with an empty third square. Your opponent can block only one, so you complete the other on your next turn."
+sources:
+  - label: "Tic-tac-toe: strategy, combinatorics and history (Wikipedia)"
+    url: "https://en.wikipedia.org/wiki/Tic-tac-toe"
+  - label: "Tic-Tac-Toe (Wolfram MathWorld)"
+    url: "https://mathworld.wolfram.com/Tic-Tac-Toe.html"
+  - label: "255,168 ways of playing tic-tac-toe, Jesper Juul (The Ludologist)"
+    url: "https://jesperjuul.net/ludologist/255168-ways-of-playing-tic-tac-toe"
+  - label: "Sim (game) (Wikipedia)"
+    url: "https://en.wikipedia.org/wiki/Sim_(game)"
+  - label: "Dots and boxes (Wikipedia)"
+    url: "https://en.wikipedia.org/wiki/Dots_and_boxes"
+  - label: "Three men's morris (Wikipedia)"
+    url: "https://en.wikipedia.org/wiki/Three_men%27s_morris"
+  - label: "Connect Four (Wikipedia)"
+    url: "https://en.wikipedia.org/wiki/Connect_Four"
+sources_checked: 2026-10-19
+resources:
+  - label: "Tic-tac-toe rules and printable grids"
+    href: "/rules/tic-tac-toe/"
+  - label: "Pen-and-paper game rules"
+    href: "/rules/pen-and-paper/"
+  - label: "Sim: the pencil game with no draws"
+    href: "/rules/sim/"
+  - label: "Dots and boxes rules and dot grids"
+    href: "/rules/dots-and-boxes/"
+  - label: "Printable two-player board games"
+    href: "/board-games/2-player/"
+---
+import Callout from '../../components/blog/Callout.astro';
+import StatGrid from '../../components/blog/StatGrid.astro';
+import BarChart from '../../components/blog/BarChart.astro';
+import ItemCallout from '../../components/blog/ItemCallout.astro';
+import TicTacToeBoard from '../../components/blog/TicTacToeBoard.astro';
+import TicTacToeQuiz from '../../components/blog/TicTacToeQuiz.astro';
+import TicTacToeGame from '../../components/blog/TicTacToeGame.astro';
+
+Most tic-tac-toe advice stops at "take the centre". That is not enough to stop a fork, and it is not how the first player actually wins. Below is the full priority list that never loses, the corner trap that punishes seven of the eight possible replies, the only safe replies when you go second, and six positions to test yourself. There is a computer to practise against at the end.
+
+## Can you always win tic-tac-toe?
+
+**No, and neither can anyone else.** Tic-tac-toe is a solved game: if both players make no mistakes, every game ends in a draw. Mathematicians call it a futile game for exactly that reason. Computers have played it perfectly since 1952, when Sandy Douglas wrote OXO for the EDSAC computer at Cambridge, one of the first known video games.
+
+What you can do is **never lose, and win every game in which your opponent slips**. Against children and casual players, that is often enough to come out ahead.
+
+<StatGrid
+  caption="Games counted by brute force, move by move until someone wins or the grid is full (Jesper Juul, re-checked with our own script). Positions and openings from Wikipedia."
+  items={[
+    { value: '255,168', label: 'possible games', note: 'rotations and mirror images counted separately' },
+    { value: '765', label: 'essentially different positions', note: 'once rotations and reflections are merged' },
+    { value: '3', label: 'first moves that matter', note: 'corner, edge or centre' },
+    { value: '1 of 8', label: 'safe replies to a corner opening', note: 'only the centre avoids a forced loss' },
+  ]}
+/>
+
+The full count also shows that **going first is an advantage**. Of the 255,168 games, the first player wins more than half. These games include every silly move, so they say nothing about perfect play, but they show how many more ways there are for X to win than for O.
+
+<BarChart
+  title="How all 255,168 possible games end"
+  items={[
+    { label: 'X (first player) wins', value: 131184 },
+    { label: 'O (second player) wins', value: 77904 },
+    { label: 'Draw', value: 46080 },
+  ]}
+  caption="X wins 51%, O 31%, and 18% are draws. Figures from Jesper Juul's enumeration; we re-counted them with our own script and got the same totals."
+/>
+
+## The priority list: what to play on every move
+
+The surest way to play well is to **check the same eight rules every turn, in this order, and play the first one that applies**. Allen Newell and Herbert Simon used this list in their 1972 tic-tac-toe program, and following it gives a win or at least a draw.
+
+1. **Win.** If you have two in a row with the third square empty, play there.
+2. **Block.** If your opponent has two in a row, take the third square.
+3. **Fork.** Make a move that creates two lines of two at once. Your opponent can block only one of them.
+4. **Block their fork.** If your opponent can fork next turn, take that square, or force them to block you with a two in a row that does not hand them the fork.
+5. **Centre.** Take the middle square.
+6. **Opposite corner.** If your opponent is in a corner, take the corner diagonally opposite.
+7. **Empty corner.** Take any corner.
+8. **Empty edge.** Take a middle square on one of the sides.
+
+Rules 1 and 2 are the ones everyone knows. **Rules 3 and 4 are where games are won and lost.** A fork is the only way to beat an opponent who always blocks, so learning to spot it, both for you and against you, is the whole game.
+
+<TicTacToeBoard
+  boards={[
+    { cells: 'XO..X...O', caption: 'X to play. One threat is not enough: O would block it.' },
+    { cells: 'XO..X.X.O', highlight: [7], caption: 'X plays the bottom-left corner: two threats at once. That is a fork.' },
+  ]}
+  caption="A fork. X now threatens the left column and the diagonal. O can block one; X completes the other."
+/>
+
+## How to win when you go first: the corner trap
+
+**Open in a corner.** Against perfect play the centre and the corner both draw, but after a corner opening seven of the eight replies lose by force. Only the centre holds. Here is how X wins against each kind of reply.
+
+### If O answers on an edge
+
+Take the centre. O must block the diagonal, and you take a corner that makes a fork.
+
+<TicTacToeBoard
+  boards={[
+    { cells: 'XO.......', caption: 'O answers next to the X.' },
+    { cells: 'XO..X...O', highlight: [5], caption: 'X takes the centre; O must block.' },
+    { cells: 'XO..X.X.O', highlight: [7], caption: 'X forks: left column and diagonal.' },
+  ]}
+/>
+
+The same idea works when O plays the edge further away: take the centre, wait for the block, then take the corner that lines up with both of your Xs.
+
+### If O answers in a corner
+
+Take another corner so that O has to block between your two Xs, then take the last free corner.
+
+<TicTacToeBoard
+  boards={[
+    { cells: 'X.O......', caption: 'O takes the corner beside X.' },
+    { cells: 'X.OO..X..', highlight: [7], caption: 'X takes the bottom-left corner; O must block in between.' },
+    { cells: 'X.OO..X.X', highlight: [9], caption: 'X takes the last corner: bottom row and diagonal.' },
+  ]}
+  caption="If O takes the corner opposite yours instead, take one of the two remaining corners; O blocks between your Xs, and the last corner forks again."
+/>
+
+### If O answers in the centre
+
+This is the correct reply, so you cannot force a win, but you can set one more trap. **Take the corner opposite your first X.** Now O must play an edge. If O takes a corner, you are forced to block, and the block itself makes a fork.
+
+<TicTacToeBoard
+  boards={[
+    { cells: 'X...O...X', caption: 'X takes the opposite corner.' },
+    { cells: 'X.O.O...X', caption: 'O takes a corner: a mistake.' },
+    { cells: 'X.O.O.X.X', highlight: [7], caption: 'X blocks at bottom left, and now threatens two lines.' },
+  ]}
+/>
+
+<Callout type="tip" title="Why the corner works">
+A corner sits on three lines (a row, a column and a diagonal), an edge on only two. After a corner opening just one reply is safe, against four after a centre or edge opening, so the corner sets the most traps for an opponent who does not know the answer.
+</Callout>
+
+## How never to lose when you go second
+
+As O you are playing for a draw, and you get it by **answering the first move correctly**. Any other answer lets a perfect X force a win.
+
+<TicTacToeBoard
+  boards={[
+    { cells: 'X........', highlight: [5], caption: 'Corner opening: take the centre. Nothing else is safe.' },
+    { cells: '....X....', highlight: [1, 3, 7, 9], caption: 'Centre opening: take any corner. An edge loses.' },
+    { cells: '.X.......', highlight: [1, 3, 5, 8], caption: 'Edge opening: the centre, a corner beside X, or the opposite edge.' },
+  ]}
+  caption="The green squares are the replies that hold the draw against perfect play."
+/>
+
+Then watch for the two traps that catch second players after a good start:
+
+- **X in two opposite corners, you in the centre:** play an edge, not a corner. An edge makes X block you, and X's forced block does not create a fork. A corner forces X into exactly the square that forks.
+- **X in the centre and the corner opposite yours:** here it is the reverse. Take one of the two free corners. Any edge loses: X replies in a corner that threatens two lines at once.
+
+After the opening, go back to the priority list. Win, block, stop forks; the draw follows.
+
+## Tic-tac-toe tricks that beat beginners
+
+These are the habits that win in real games, where nobody plays perfectly.
+
+- **Always open in a corner as X.** Seven of the eight replies lose, so an opponent who does not know the answer is likely to pick a losing one.
+- **If you open in the centre and they answer on an edge, take a corner next to their O.** They must block the diagonal, and your next corner forks. A centre opening is drawn against a corner reply, so this only works against an edge.
+- **Count lines, not squares.** Before each move, run your eye over the eight lines (three rows, three columns, two diagonals) and look for any line with two of the same mark and a space.
+- **Alternate who starts.** Our [tic-tac-toe rules](/rules/tic-tac-toe/) suggest swapping the first player after each game, because starting is an advantage.
+- **Change the game when it goes stale.** In misère tic-tac-toe, the player who makes three in a row loses. It is still a draw with perfect play, but nobody's instincts work any more.
+
+<ItemCallout href="/rules/tic-tac-toe/" note="The rules in one minute, variants like misère and numerical tic-tac-toe, and a free sheet of 12 printable grids." />
+
+## Test yourself: 6 positions
+
+Tap the square where you would play. Each answer comes with the reason, and the positions follow the priority list from top to bottom.
+
+<TicTacToeQuiz
+  title="Where should you play?"
+  intro="Six positions, from the obvious to the sneaky. Tap a square."
+  positions={[
+    { cells: 'XX.OO....', toPlay: 'X', correct: [3], explain: 'Win before you block. O threatens the middle row, but completing the top row ends the game first.' },
+    { cells: 'X.O.O...X', toPlay: 'X', correct: [7], explain: 'Block the diagonal at bottom left. Bonus: that block also gives X the left column and the bottom row, a fork that wins next turn.' },
+    { cells: 'XO..X...O', toPlay: 'X', correct: [4, 7], explain: 'Fork. The middle-left square threatens the left column and the middle row; the bottom-left corner threatens the left column and the diagonal. O can only block one.' },
+    { cells: 'X........', toPlay: 'O', correct: [5], explain: 'Against a corner opening only the centre is safe. Every other reply loses to the corner trap.' },
+    { cells: 'X...O...X', toPlay: 'O', correct: [2, 4, 6, 8], explain: 'Take an edge. A corner would force X to block in the last corner, and that block is a fork.' },
+    { cells: 'O...X...X', toPlay: 'O', correct: [3, 7], explain: 'Take a corner here. Any edge lets X reply in a corner that threatens two lines at once.' },
+  ]}
+/>
+
+## Practise against the computer
+
+The beginner computer only takes a win or blocks a line; otherwise it plays at random. **Beat it with a fork from a corner opening.** Then switch to the perfect computer: it searches every possible game, so the best you can get is a draw.
+
+<TicTacToeGame
+  title="Can you beat the computer?"
+  intro="Start as X against the beginner and set the corner trap. Then try O against the perfect computer and hold the draw."
+/>
+
+## When tic-tac-toe gets too easy: Sim, dots and boxes
+
+Once both players block every fork, every game is a draw and it is time for a pencil game that is not solved at the table. Our [pen-and-paper rules](/rules/pen-and-paper/) have several; these are the best next steps.
+
+**Sim** cannot end in a draw at all. Six dots, fifteen lines, two colours, and the first player to complete a triangle in their own colour loses. A computer search in 1974 showed that the second player can always win with perfect play, but few people know how, so at the table it is still a real fight.
+
+<ItemCallout href="/rules/sim/" note="Six dots and two coloured pens. A two-minute game where somebody always loses." />
+
+**Dots and boxes**, first published by the French mathematician Édouard Lucas in the 19th century, rewards the same habit as forks: thinking one move ahead about what you give away. Close a box and you play again, so the endgame turns on long chains of boxes.
+
+<ItemCallout href="/rules/dots-and-boxes/" note="Rules, the chain and double-cross strategy, and a printable sheet of four 6×6 dot grids." />
+
+If you like the three-in-a-row idea, [three men's morris](/board-games/printable-three-mens-morris/) adds movement: each player has only three pieces and slides them once all six are placed. [Connect Four](/rules/connect-four/) goes the other way: the first player can force a win, but the winning line is far too long to memorise. For a longer game on the same theme, try [nine men's morris](/rules/nine-mens-morris/) or the pencil game [Sprouts](/rules/sprouts/), played with dots and lines.
+
+<Callout type="key" title="In one sentence">
+You cannot force a win at tic-tac-toe, but if you **win, block, fork and stop forks before anything else**, open in a corner as X and answer correctly as O, you will never lose.
+</Callout>

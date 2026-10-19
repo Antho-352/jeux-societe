@@ -1,0 +1,108 @@
+---
+/**
+ * Playable tic-tac-toe against the computer. The reader picks X (moves first) or O, and a level:
+ * "beginner" only takes a win or blocks a line, otherwise plays at random (forks beat it);
+ * "perfect" searches the whole game tree (minimax) and never loses.
+ */
+interface Props { title?: string; intro?: string; level?: 'beginner' | 'perfect' }
+const { title = 'Play tic-tac-toe against the computer', intro, level = 'beginner' } = Astro.props;
+---
+<section class="tool ttt-game" data-ttt-game={level}>
+  <p class="tool-kicker">Play</p>
+  <h2 class="tool-title">{title}</h2>
+  {intro && <p class="tool-intro">{intro}</p>}
+  <div class="ttt-controls">
+    <label>You play
+      <select data-side><option value="X">X (you start)</option><option value="O">O (computer starts)</option></select>
+    </label>
+    <label>Computer
+      <select data-level>
+        <option value="beginner" selected={level === 'beginner'}>Beginner (wins and blocks only)</option>
+        <option value="perfect" selected={level === 'perfect'}>Perfect (never loses)</option>
+      </select>
+    </label>
+    <button type="button" class="btn btn-primary" data-new>New game</button>
+  </div>
+  <div class="ttt-board ttt-board-play" data-board>
+    {Array.from({ length: 9 }, (_, k) => <button type="button" class="ttt-cell" data-k={k} aria-label={`Square ${k + 1}, empty`}></button>)}
+  </div>
+  <p class="ttt-status" data-status aria-live="polite">Your move: you are X.</p>
+  <p class="ttt-tally" data-tally>You 0 · Draws 0 · Computer 0</p>
+  <noscript><p>This game needs JavaScript.</p></noscript>
+</section>
+<script>
+  type Mark = 'X' | 'O' | '';
+  const LINES = [[0, 1, 2], [3, 4, 5], [6, 7, 8], [0, 3, 6], [1, 4, 7], [2, 5, 8], [0, 4, 8], [2, 4, 6]];
+  const winner = (b: Mark[]) => { for (const [a, c, d] of LINES) if (b[a] && b[a] === b[c] && b[a] === b[d]) return { mark: b[a], line: [a, c, d] }; return null; };
+  const other = (m: Mark): Mark => (m === 'X' ? 'O' : 'X');
+  const empty = (b: Mark[]) => b.flatMap((m, k) => (m ? [] : [k]));
+  const pick = <T,>(a: T[]) => { const r = new Uint32Array(1); crypto.getRandomValues(r); return a[r[0] % a.length]; };
+  // Score from the point of view of `me`: win sooner is better, lose later is better.
+  const minimax = (b: Mark[], turn: Mark, me: Mark, depth: number): number => {
+    const w = winner(b);
+    if (w) return w.mark === me ? 10 - depth : depth - 10;
+    const free = empty(b);
+    if (!free.length) return 0;
+    const scores = free.map((k) => { b[k] = turn; const s = minimax(b, other(turn), me, depth + 1); b[k] = ''; return s; });
+    return turn === me ? Math.max(...scores) : Math.min(...scores);
+  };
+  const completing = (b: Mark[], m: Mark) => empty(b).filter((k) => { b[k] = m; const ok = winner(b)?.mark === m; b[k] = ''; return ok; });
+  const computerMove = (b: Mark[], me: Mark, level: string) => {
+    const free = empty(b);
+    if (level === 'perfect') {
+      const scored = free.map((k) => { b[k] = me; const s = minimax(b, other(me), me, 1); b[k] = ''; return { k, s }; });
+      const best = Math.max(...scored.map((x) => x.s));
+      const top = scored.filter((x) => x.s === best).map((x) => x.k);
+      // Among equally good moves, prefer the centre and corners, as a good human player would.
+      const strong = top.filter((k) => k % 2 === 0);
+      return pick(strong.length ? strong : top);
+    }
+    const win = completing(b, me); if (win.length) return pick(win);
+    const block = completing(b, other(me)); if (block.length) return pick(block);
+    return pick(free);
+  };
+  const ROW = ['top', 'middle', 'bottom'], COL = ['left', 'centre', 'right'];
+  const where = (k: number) => (k === 4 ? 'centre' : `${ROW[Math.floor(k / 3)]} ${COL[k % 3]}`);
+
+  for (const root of document.querySelectorAll<HTMLElement>('[data-ttt-game]')) {
+    const cells = Array.from(root.querySelectorAll<HTMLButtonElement>('[data-board] .ttt-cell'));
+    const status = root.querySelector<HTMLElement>('[data-status]')!;
+    const tallyEl = root.querySelector<HTMLElement>('[data-tally]')!;
+    const sideSel = root.querySelector<HTMLSelectElement>('[data-side]')!;
+    const levelSel = root.querySelector<HTMLSelectElement>('[data-level]')!;
+    const tally = { you: 0, draw: 0, cpu: 0 };
+    let board: Mark[] = Array(9).fill(''), you: Mark = 'X', over = false;
+    const paint = (line: number[] = []) => cells.forEach((c, k) => {
+      c.textContent = board[k]; c.disabled = over || !!board[k];
+      c.classList.toggle('is-x', board[k] === 'X'); c.classList.toggle('is-o', board[k] === 'O'); c.classList.toggle('is-hl', line.includes(k));
+      c.setAttribute('aria-label', `${where(k)} square, ${board[k] || 'empty'}`);
+    });
+    const end = () => {
+      const w = winner(board);
+      if (!w && empty(board).length) return false;
+      over = true;
+      if (!w) { tally.draw++; status.textContent = 'Draw: the cat\'s game. That is perfect play from both sides.'; }
+      else if (w.mark === you) { tally.you++; status.textContent = 'You win! Try the perfect computer next.'; }
+      else { tally.cpu++; status.textContent = 'The computer wins. Check the priority list and try again.'; }
+      tallyEl.textContent = `You ${tally.you} · Draws ${tally.draw} · Computer ${tally.cpu}`;
+      paint(w?.line); return true;
+    };
+    const cpuTurn = () => {
+      const k = computerMove(board, other(you), levelSel.value);
+      board[k] = other(you); paint();
+      if (!end()) status.textContent = `The computer played the ${where(k)} square. Your move.`;
+    };
+    const start = () => {
+      board = Array(9).fill(''); over = false; you = sideSel.value as Mark; paint();
+      if (you === 'O') { status.textContent = 'The computer starts.'; cpuTurn(); } else status.textContent = 'Your move: you are X.';
+    };
+    cells.forEach((c, k) => c.addEventListener('click', () => {
+      if (over || board[k]) return;
+      board[k] = you; paint();
+      if (!end()) cpuTurn();
+    }));
+    root.querySelector('[data-new]')!.addEventListener('click', start);
+    sideSel.addEventListener('change', start); levelSel.addEventListener('change', start);
+    start();
+  }
+</script>

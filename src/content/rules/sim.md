@@ -44,7 +44,7 @@ The player who completes a triangle in **their own colour loses** immediately. T
 
 Sim can never end in a draw. A result from Ramsey theory, often stated as "among any six people, there are three who all know each other or three who are all strangers", guarantees that once all fifteen lines are coloured, a single-colour triangle must exist. So someone always loses before the lines run out.
 
-Computer searches in 1974 showed that the second player can always win with perfect play. The strategy is too complicated to memorise, so in practice the game stays open.
+Computer searches in 1974 showed that the second player can always win with perfect play. A winning strategy simple enough for people to use was only described in 2020, and few casual players know it, so around the table the game stays wide open.
 
 ## Common variants
 

@@ -45,6 +45,9 @@ The reference article is `src/content/blog/how-to-solve-a-maze.mdx`: copy its st
 | `Timer seconds` | Party games, speed challenges, maze races. |
 | `ScoreKeeper players` | Card and dice games played over several rounds. |
 | `Checklist id items` | Party prep, printing kit, classroom set-up (kept in the reader's browser). |
+| `TicTacToeBoard boards=[{cells,caption,highlight}]` | Static 3×3 grid diagrams (cells: 9 chars of X, O or `.`), e.g. the steps of a trap. |
+| `TicTacToeQuiz positions=[{cells,toPlay,correct,explain}]` | "Where should X play?" quiz: the reader taps a square. |
+| `TicTacToeGame` | Tic-tac-toe against the computer (beginner or perfect). |
 
 ## 5. Files
 - Article: `src/content/blog/<slug>.mdx` (slug = keyword in kebab case, no stop words, ≤ 5 words).
