@@ -73,7 +73,9 @@ export function ageBand(ageMin?: number): string | undefined {
   if (ageMin < 18) return 'teens';
   return 'adults';
 }
+export const OPEN_ENDED = 99; // players_max for group games with no upper limit
 export function playersLabel(min: number, max: number): string {
+  if (max >= OPEN_ENDED) return `${min}+ players`;
   if (min === max) return min === 1 ? '1 player' : `${min} players`;
   return `${min}–${max} players`;
 }

@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 """Build the editorial calendar from data/blog-topics-*.json.
 
-Rhythm: 1.5 articles per week on average, i.e. alternating weeks of 1 and 2 posts, never on the
-same weekday or hour twice in a row. Seasonal topics are placed before their deadline; the rest is
+Rhythm: 3 posts a week for the holiday season (until RUSH_UNTIL), then 2 a week; written posts keep
+their date and count towards their week. Seasonal topics are placed before their deadline; the rest is
 ordered by priority (quick wins first), then by keyword difficulty, then volume, while alternating
 silos so one silo never gets two posts in a row.
 
 Writes data/blog-calendar.json and docs/14-calendrier-editorial.md.
 Usage: python3 -I scripts/blog_calendar.py [start YYYY-MM-DD] [weeks]
 """
-import datetime as dt, json, pathlib, random, sys
+import datetime as dt, json, pathlib, random, re, sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 start = dt.date.fromisoformat(sys.argv[1]) if len(sys.argv) > 1 else dt.date(2026, 10, 26)
@@ -28,20 +28,38 @@ for t in topics:
     seen.add(k); uniq.append(t)
 topics = uniq
 
-# Slots: Monday-based weeks, 1 or 2 posts alternating, weekdays Mon-Sat, hours 12-21 UTC (morning to afternoon in the US)
-slots, last_day, last_hour = [], None, None
+# Posts already written keep their publish_at (they count towards their week's quota).
+written = {}
+for f in (ROOT / 'src/content/blog').glob('*.mdx'):
+    m = re.search(r'^publish_at:\s*"?([0-9T:\-Z]+)"?', f.read_text(), re.M)
+    if m: written[f.stem] = dt.datetime.fromisoformat(m.group(1).replace('Z', '+00:00'))
+
+# Slots: Monday-based weeks, RUSH posts a week until RUSH_UNTIL (holiday season), then NORMAL;
+# weekdays Mon-Sat, never two posts on the same day, hours 12-21 UTC (morning to afternoon in the US),
+# never the same hour twice in a row. No new slot within the next 2 days (time to write and review).
+RUSH, RUSH_UNTIL, NORMAL = 3, dt.date(2026, 12, 14), 2
+not_before = dt.datetime.now(dt.timezone.utc) + dt.timedelta(days=2)
+slots, last_hour = [], None
 for w in range(weeks):
     monday = start + dt.timedelta(weeks=w)
-    n = 2 if w % 2 == 0 else 1
-    days = sorted(rng.sample(range(0, 6), n))
-    if n == 2 and days[1] - days[0] < 2: days = [days[0], min(5, days[0] + rng.choice([2, 3]))]
-    for d in days:
-        if last_day is not None and d == last_day and n == 1: d = (d + rng.choice([1, 2])) % 6
+    target = RUSH if monday < RUSH_UNTIL else NORMAL
+    taken = {d.date() for d in written.values() if monday <= d.date() < monday + dt.timedelta(days=7)}
+    free_days = [d for d in range(6) if monday + dt.timedelta(days=d) not in taken]
+    need = max(0, target - len(taken))
+    # spread the new posts: prefer days not next to a taken day or to each other
+    rng.shuffle(free_days)
+    chosen = []
+    for d in sorted(free_days, key=lambda d: sum(abs(d - (t - monday).days) <= 1 for t in taken)):
+        if len(chosen) == need: break
+        if all(abs(d - c) > 1 for c in chosen): chosen.append(d)
+    chosen += [d for d in free_days if d not in chosen][: need - len(chosen)]  # no well-spread day left: take any free day
+    for d in sorted(chosen):
         h = rng.choice([12, 13, 14, 15, 16, 17, 18, 19, 20, 21])
         while h == last_hour: h = rng.choice([12, 13, 14, 15, 16, 17, 18, 19, 20, 21])
         m = rng.choice([0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55])
-        slots.append(dt.datetime.combine(monday + dt.timedelta(days=d), dt.time(h, m), tzinfo=dt.timezone.utc))
-        last_day, last_hour = d, h
+        when = dt.datetime.combine(monday + dt.timedelta(days=d), dt.time(h, m), tzinfo=dt.timezone.utc)
+        if when >= not_before: slots.append(when)
+        last_hour = h
 slots.sort()
 
 # Hard deadlines only for real dated events (holidays); "peak season" hints from the games list are soft.
@@ -52,20 +70,14 @@ def deadline(t):
     return dt.datetime.fromisoformat(s + 'T23:59:00+00:00') if s else None
 
 plan, used = [], set()
-# 0. Posts already written keep their publish_at: pin them to their slot (or add the slot if it is not one of ours).
-import re
-written = {}
-for f in (ROOT / 'src/content/blog').glob('*.mdx'):
-    m = re.search(r'^publish_at:\s*"?([0-9T:\-Z]+)"?', f.read_text(), re.M)
-    if m: written[f.stem] = dt.datetime.fromisoformat(m.group(1).replace('Z', '+00:00'))
+# 0. Pin the written posts to their own dates.
 by_slug = {t['slug']: t for t in topics}
 for slug, when in written.items():
     t = by_slug.get(slug)
     if not t: continue
-    i = next((i for i, s in enumerate(slots) if s == when), None)
-    if i is None:
-        slots.append(when); slots.sort(); used = {slots.index(s) for s, _ in plan}; i = slots.index(when)
-    used.add(i); plan.append((when, t))
+    slots.append(when); slots.sort()
+    used = {slots.index(s) for s, _ in plan} | {slots.index(when)}
+    plan.append((when, t))
 pinned = [t for _, t in plan]
 topics = [t for t in topics if t not in pinned]
 seasonal = sorted([t for t in topics if deadline(t)], key=deadline)
@@ -104,7 +116,7 @@ out = [{'publish_at': s.strftime('%Y-%m-%dT%H:%M:00Z'), **{k: v for k, v in t.it
 DAYS = ['lundi', 'mardi', 'mercredi', 'jeudi', 'vendredi', 'samedi', 'dimanche']
 MONTHS = ['janv.', 'févr.', 'mars', 'avr.', 'mai', 'juin', 'juil.', 'août', 'sept.', 'oct.', 'nov.', 'déc.']
 lines = ['# Calendrier éditorial du blog', '',
-         f'{len(out)} articles du {start:%d/%m/%Y} au {plan[-1][0]:%d/%m/%Y} ({weeks} semaines, 1,5 article par semaine en moyenne).',
+         f'{len(out)} articles du {start:%d/%m/%Y} au {plan[-1][0]:%d/%m/%Y} ({weeks} semaines : 3 articles par semaine jusqu’au {RUSH_UNTIL:%d/%m/%Y}, puis 2).',
          'Jours et heures variés ; heures en UTC (13 h UTC = 9 h à New York, 14 h à Paris). Les articles saisonniers sont placés avant leur date limite.',
          'Généré par `scripts/blog_calendar.py` à partir de `data/blog-topics-*.json`.', '',
          '| # | Date (UTC) | Article | Mot-clé cible | Vol. US | KD | Page mère | Priorité |', '|---|---|---|---|---|---|---|---|']
