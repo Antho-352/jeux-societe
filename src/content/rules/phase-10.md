@@ -2,6 +2,7 @@
 cover: "/img/rules/phase-10.jpg"
 cover_credit: "Image: Mattel via BoardGameGeek"
 cover_source: "https://boardgamegeek.com/boardgame/1258/phase-10"
+buy_url: "https://amzn.to/3Wyol5S"
 title: "Phase 10 rules: how to play Phase 10"
 game_name: "Phase 10"
 aliases: ["Phase Ten"]

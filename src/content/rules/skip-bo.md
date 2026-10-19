@@ -2,6 +2,7 @@
 cover: "/img/rules/skip-bo.jpg"
 cover_credit: "Image: Mattel via BoardGameGeek"
 cover_source: "https://boardgamegeek.com/boardgame/1269/skip-bo"
+buy_url: "https://amzn.to/4jtllkX"
 title: "Skip-Bo rules: how to play Skip-Bo"
 game_name: "Skip-Bo"
 aliases: ["Skip Bo", "Spite and Malice (ancestor)"]

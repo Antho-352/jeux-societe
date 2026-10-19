@@ -2,6 +2,7 @@
 cover: "/img/rules/uno.jpg"
 cover_credit: "Image: Mattel via BoardGameGeek"
 cover_source: "https://boardgamegeek.com/boardgame/2223/uno"
+buy_url: "https://amzn.to/4BkwqLI"
 title: "UNO rules: how to play UNO"
 game_name: "UNO"
 aliases: ["Uno card game"]

@@ -2,6 +2,7 @@
 cover: "/img/rules/battleship.jpg"
 cover_credit: "Image: Hasbro via BoardGameGeek"
 cover_source: "https://boardgamegeek.com/boardgame/2425/battleship"
+buy_url: "https://amzn.to/4i4sB4f"
 title: "Battleship rules: how to play battleship on paper"
 game_name: "Battleship"
 aliases: ["Battleships", "Sea Battle", "Salvo"]
