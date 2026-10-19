@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1060 520" width="1060" height="520" role="img" aria-label="Chess family tree: chaturanga in India is the common ancestor of shatranj and Western chess, xiangqi and janggi, shogi and makruk">
+<rect width="1060" height="520" rx="24" fill="#F7F5EE"/>
+<path d="M530 107 C530 150.0 150 150.0 150 193" fill="none" stroke="#0F3D2E" stroke-width="2.5"/>
+<path d="M530 107 C530 150.0 410 150.0 410 193" fill="none" stroke="#0F3D2E" stroke-width="2.5"/>
+<path d="M530 107 C530 150.0 670 150.0 670 193" fill="none" stroke="#0F3D2E" stroke-width="2.5" stroke-dasharray="8 7"/>
+<path d="M530 107 C530 150.0 910 150.0 910 193" fill="none" stroke="#0F3D2E" stroke-width="2.5"/>
+<path d="M150 267 C150 315.0 150 315.0 150 363" fill="none" stroke="#0F3D2E" stroke-width="2.5"/>
+<path d="M410 267 C410 315.0 410 315.0 410 363" fill="none" stroke="#0F3D2E" stroke-width="2.5"/>
+<rect x="400.0" y="33.0" width="260" height="74" rx="16" fill="#CFFF5E" stroke="#0F3D2E" stroke-width="2.5"/>
+<text x="530" y="66" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#0F3D2E">Chaturanga</text>
+<text x="530" y="91" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#4B5A54">India, by the 7th century</text>
+<rect x="50.0" y="193.0" width="200" height="74" rx="16" fill="#FFFFFF" stroke="#0F3D2E" stroke-width="2.5"/>
+<text x="150" y="226" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#0F3D2E">Shatranj</text>
+<text x="150" y="251" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#4B5A54">Persia</text>
+<rect x="310.0" y="193.0" width="200" height="74" rx="16" fill="#B8D8FF" stroke="#0F3D2E" stroke-width="2.5"/>
+<text x="410" y="226" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#0F3D2E">Xiangqi</text>
+<text x="410" y="251" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#4B5A54">China</text>
+<rect x="570.0" y="193.0" width="200" height="74" rx="16" fill="#B8D8FF" stroke="#0F3D2E" stroke-width="2.5"/>
+<text x="670" y="226" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#0F3D2E">Shogi</text>
+<text x="670" y="251" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#4B5A54">Japan</text>
+<rect x="810.0" y="193.0" width="200" height="74" rx="16" fill="#B8D8FF" stroke="#0F3D2E" stroke-width="2.5"/>
+<text x="910" y="226" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#0F3D2E">Makruk</text>
+<text x="910" y="251" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#4B5A54">Thailand</text>
+<rect x="50.0" y="363.0" width="200" height="74" rx="16" fill="#FFD9D2" stroke="#0F3D2E" stroke-width="2.5"/>
+<text x="150" y="396" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#0F3D2E">Chess</text>
+<text x="150" y="421" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#4B5A54">Europe</text>
+<rect x="310.0" y="363.0" width="200" height="74" rx="16" fill="#B8D8FF" stroke="#0F3D2E" stroke-width="2.5"/>
+<text x="410" y="396" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#0F3D2E">Janggi</text>
+<text x="410" y="421" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#4B5A54">Korea</text>
+<text x="670" y="350" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#4B5A54">(dashed: route via China or Korea)</text>
+<text x="670" y="300" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#0F3D2E">drops: captured pieces</text>
+<text x="670" y="320" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#0F3D2E">change sides</text>
+<text x="410" y="470" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#0F3D2E">same 9 × 10 board, no river</text>
+<text x="910" y="300" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#0F3D2E">8 × 8 board, a one-step queen</text>
+<text x="150" y="470" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#0F3D2E">brought to medieval Europe</text>
+</svg>

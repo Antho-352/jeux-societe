@@ -1,0 +1,187 @@
+---
+title: "Mancala strategy: 7 tips to win at mancala (Kalah rules)"
+seo_title: "Mancala strategy: 7 tips to win at mancala"
+description: "Mancala strategy for Kalah: count seeds to your store, open with pit 3 then 6, chain free turns, capture and defend, and play the endgame. With diagrams and a quiz."
+excerpt: "Seven mancala tips shown on diagrams: the free-turn count, the best opening, chained turns, captures and defence, the endgame and playing second, each tested over 100,000 computer games."
+category: "game-rules"
+author: "anthony"
+publish_at: 2027-01-09T16:45:00Z
+status: "published"
+target_keyword: "mancala strategy"
+secondary_keywords: ["how to win at mancala", "best mancala strategy"]
+keyword_volume: 1600
+keyword_difficulty: 0
+silo: "rules/board-games"
+pushes: ["/rules/mancala/", "/board-games/printable-mancala-board/"]
+tldr: "To win at mancala (Kalah), count before you move: a pit whose seeds equal its distance to your store gives a free turn. Open with pit 3, then pit 6. Play free turns nearest the store first so they chain, capture by ending in an empty pit opposite a big pile, and check which of your pits the opponent can capture next. Kalah is a proven first-player win, so when you move second, defend first and wait for a mistake."
+key_takeaways:
+  - "A pit gives a free turn when its seeds equal its steps to your store: 6 seeds in pit 1, 1 seed in pit 6."
+  - "In our 100,000-game tests, simply taking every free turn beat random play 89% of the time, and also checking the opponent's best reply beat a pure grabber 80% of the time."
+  - "Kalah with four seeds is a proven win for the first player, so swap who starts each game or use the pie rule."
+cover: "/img/blog/mancala-strategy.png"
+cover_alt: "Title card for mancala strategy, with a stone"
+cover_emoji: "🪨"
+faq:
+  - q: "What is the best first move in mancala?"
+    a: "In Kalah with four seeds per pit, play pit 3 (the third from your left): its four seeds end in your store and you move again. Then play pit 6. That is how the perfect game published by Irving, Donkers and Uiterwijk in 2000 begins, and the analysis reported by Wikipedia rates it the best opening."
+  - q: "Is there a way to always win at mancala?"
+    a: "Only for the first player, and only with perfect play. Kalah with four seeds per pit has been solved: the first player can always win. Nobody plays perfectly, so in practice you win by taking free turns, making captures and refusing to leave captures to your opponent."
+  - q: "Do you get another turn if you land in your store in mancala?"
+    a: "Yes. In Kalah, if the last seed of your move lands in your own store, you play again, and there is no limit to how many times this can happen in one turn."
+  - q: "Is it better to go first or second in mancala?"
+    a: "First. Kalah is a proven first-player win, and in our simulations the first player won 59% of games between two careful computer players, against 34% for the second player. Alternate who starts, or let the second player swap sides after the first move (the pie rule)."
+  - q: "Should you hoard seeds in mancala?"
+    a: "Only when you can count it out. Seeds left on your side go to you only when the other side runs out first. In our tests, a player who simply preferred keeping seeds on their side late in the game did slightly worse than one who did not."
+sources:
+  - label: "Irving, Donkers and Uiterwijk, Solving Kalah, ICGA Journal 23 (2000)"
+    url: "https://doi.org/10.3233/ICG-2000-23303"
+  - label: "Solving Kalah (author's PDF)"
+    url: "https://naml.us/paper/irving2000_kalah.pdf"
+  - label: "Kalah (Wikipedia)"
+    url: "https://en.wikipedia.org/wiki/Kalah"
+  - label: "How to Play Mancala, Yellow Mountain Imports"
+    url: "https://www.ymimports.com/pages/how-to-play-mancala"
+sources_checked: 2026-10-19
+resources:
+  - label: "Mancala rules (Kalah) and printable board"
+    href: "/rules/mancala/"
+  - label: "Printable mancala board"
+    href: "/board-games/printable-mancala-board/"
+  - label: "Classic board game rules"
+    href: "/rules/board-games/"
+  - label: "Print and play games for 2 players"
+    href: "/board-games/2-player/"
+---
+import Callout from '../../components/blog/Callout.astro';
+import StatGrid from '../../components/blog/StatGrid.astro';
+import Figure from '../../components/blog/Figure.astro';
+import ItemCallout from '../../components/blog/ItemCallout.astro';
+import Quiz from '../../components/blog/Quiz.astro';
+import Checklist from '../../components/blog/Checklist.astro';
+
+The best mancala strategy comes down to one habit: **count the seeds in a pit and compare them with its distance to your store.** That count tells you which move gives a free turn, which one captures, and which one hands your opponent a capture. The seven tips below teach it on real board positions, from the best opening to the endgame. They use the Kalah rules found in most Western mancala sets, and every claim was checked with a small program that plays those rules.
+
+<Callout type="note" title="How to read the diagrams">
+You sit at the bottom. Your pits are numbered **1 to 6 from your left**, and your store is on the right. The top row is your opponent's side: the pit drawn above your pit 3 is the one "opposite" pit 3. Seeds are sown counter-clockwise, one per pit, into your own store but never your opponent's. New to the game? Read our [mancala rules](/rules/mancala/) first.
+</Callout>
+
+<StatGrid
+  caption="From 100,000 simulated games per match-up (method below), and Irving, Donkers and Uiterwijk (2000)."
+  items={[
+    { value: '89%', label: 'wins for "always take the free turn"', note: 'against random moves' },
+    { value: '80%', label: 'wins for checking the reply', note: 'against a player who only grabs' },
+    { value: '59%', label: 'first-player wins', note: 'between two careful players' },
+    { value: '+10', label: 'first player, perfect play', note: 'Kalah with 4 seeds is solved' },
+  ]}
+/>
+
+## 1. Count to your store: the free-turn rule
+
+**If the last seed lands in your own store, you play again.** Whether that happens is simple arithmetic: pit 1 is 6 steps from your store, pit 2 is 5 steps, down to pit 6, which is 1 step away. A pit gives a free turn when its number of seeds equals its number of steps.
+
+<Figure src="/img/blog/mancala-strategy/count-to-store.svg" alt="Mancala starting position with four seeds in every pit; pit 3 is highlighted and the steps to the store are 6, 5, 4, 3, 2 and 1 from pit 1 to pit 6" caption="At the start, only pit 3 has as many seeds (4) as steps to the store (4)." width={1060} height={330} />
+
+With a big pile, add 13: the seeds go all the way round (your 6 pits, your store, the opponent's 6 pits) and come back, so 19 seeds in pit 1 also end in your store. You will rarely need this, but it is why a huge pile is not useless.
+
+How much is the habit worth? We had a computer play two styles against each other, 100,000 games per pairing, seats alternating. **A player that always takes a free turn when one exists, and otherwise moves at random, beat a fully random player in 89% of games.** One rule, nothing else.
+
+## 2. Opening moves that give a free turn
+
+**Open with pit 3, then play pit 6.** Pit 3 holds four seeds and is four steps from your store, so it earns a free turn. Pit 6 then puts one more seed in your store and spreads the rest on your opponent's side.
+
+<Figure src="/img/blog/mancala-strategy/opening-3-6.svg" alt="Two boards: after pit 3 your store holds 1 seed and you move again; after pit 6 your store holds 2 and the opponent's first four pits hold 5 seeds each" caption="The opening 3 then 6. Your store holds 2 seeds and pit 3 is empty, ready for a capture later." width={1060} height={300} />
+
+This is not just a habit. Kalah has been **solved**: in 2000, Geoffrey Irving, Jeroen Donkers and Jos Uiterwijk proved with a computer that the first player wins Kalah with four seeds per pit by 10 seeds with perfect play (under the rule they used, where ending in any empty pit of yours captures). The perfect game they publish opens with pit 3, then pit 6. Wikipedia also reports a later analysis by Mark Rawlings for the standard rule: there, 3-then-6 wins by 8 and is the best of the ten possible first turns, while opening with pit 1 loses by 14.
+
+Pit 3 then pit 6 also leaves pit 3 empty, a capture threat for later in the game.
+
+## 3. Chain extra turns, nearest the store first
+
+**When several pits give a free turn, play the one nearest your store first.** Sowing from a pit adds a seed to every pit after it, so playing a far pit first spoils the count of the nearer ones. Playing the near ones first leaves the far ones untouched.
+
+<Figure src="/img/blog/mancala-strategy/chain-extra-turns.svg" alt="Board with 4, 0, 0, 3, 2 and 1 seeds in your pits; the order 6, 5, 6, 4, 6, 5 chains five free turns and ends with a capture" caption="Pits 4, 5 and 6 hold 3, 2 and 1 seeds. Playing 6, 5, 6, 4, 6 gives five free turns in a row; our program confirms it is the best turn here." width={1060} height={320} />
+
+In the diagram, starting with pit 4 would push seeds into pits 5 and 6 (3 and 2 seeds), and the chain stops after one free turn. Wikipedia notes that the longest possible chain on a six-pit row is 17 moves; you will not see that in a real game, but chains of three or four are common.
+
+## 4. Captures: when to empty a pit, when to defend
+
+**If your last seed lands in an empty pit on your side, and the pit opposite holds seeds, you take them all, plus your own seed.** Captures are where big swings come from.
+
+<Figure src="/img/blog/mancala-strategy/capture.svg" alt="Before and after: the single seed in pit 2 lands in empty pit 3, which takes the 7 seeds opposite plus itself into your store" caption="Pit 2 holds one seed, pit 3 is empty and 7 seeds sit opposite: play pit 2 and capture 8." width={1060} height={300} />
+
+To attack, keep an empty pit on your side with a pit behind it that can reach it, and wait for your opponent to build a pile opposite. To defend, look at **their** empty pits: the pit of yours opposite an empty pit is in danger whenever one of their pits can end its sowing there. You can move the threatened pile away, or drop a seed into their empty pit so it is no longer empty.
+
+This second habit is worth as much as the first. In our tests, a player that picks the turn banking the most seeds ("greedy") beat the free-turn-only player 82% of the time. A "careful" player that also subtracts the most the opponent can take back on the next turn beat the greedy one **80% of the time**.
+
+## 5. Late in the game: count who runs out first
+
+The game ends as soon as all six pits on one side are empty, and **the other player puts every seed left on their side in their own store**. That rule decides many close games.
+
+- Before you play your last seeds, count the seeds still on your opponent's side: they are theirs.
+- If your opponent is about to run out, the seeds on your side will be yours. Keep them there rather than sowing them across.
+- Running out yourself is only good when you are already ahead by more than what remains on their side.
+
+The common advice to "hoard" seeds needs that count. We tested a careful player that, once 20 or fewer seeds were left on the board, also preferred keeping seeds on its own side. Against the same careful player without that habit, it **won 45% of games and lost 49%**. Hoarding pays only when the count says the other side will run out first.
+
+## 6. Playing second: how to catch up
+
+The first player has the edge, and it grows as both players get better. In our simulations, the first player won 48% of games between two random players (45% for the second, the rest drawn), 59% between two careful players, and 72% between two greedy ones. Kalah with four seeds is, after all, a proven first-player win.
+
+When you move second:
+
+- **Answer threats before chasing your own plans.** Check which of your pits sits opposite one of their empty pits.
+- **Do not hand back free turns.** Every seed you sow on their side can change which of their pits now counts exactly to their store.
+- **Keep your empty pits.** An empty pit with seeds opposite is your capture chance once they make a mistake.
+- **Make it fair.** Alternate who starts, or use the pie rule from our rules page: after the first move, the second player may swap sides.
+
+## 7. Test yourself: 5 positions
+
+You are to play from the bottom row in each position. Count before you answer.
+
+<Figure src="/img/blog/mancala-strategy/quiz-positions-1-4.svg" alt="Four mancala positions numbered 1 to 4, you to play from the bottom row" caption="Positions 1 to 4." width={1060} height={570} />
+
+<Figure src="/img/blog/mancala-strategy/quiz-position-5.svg" alt="Mancala position 5: your only seed is in pit 6; the opponent has 12 seeds on their side; stores 20 for you and 15 for them" caption="Position 5. Stores: 20 for you, 15 for your opponent." width={1060} height={330} />
+
+<Quiz
+  mode="score"
+  title="Mancala strategy quiz"
+  intro="Five positions from the diagrams above. Every answer was checked with our Kalah program."
+  questions={[
+    { q: 'Position 1: which pit gives you a free turn?', options: [{ label: 'Pit 3 (5 seeds)' }, { label: 'Pit 6 (1 seed)', correct: true }, { label: 'Pit 1 (3 seeds)' }], explain: 'Pit 6 is one step from your store and holds one seed. Pit 3 would need 4 seeds, pit 1 would need 6.' },
+    { q: 'Position 2: pits 4, 5 and 6 can all reach your store. Which do you play first?', options: [{ label: 'Pit 4' }, { label: 'Pit 5' }, { label: 'Pit 6', correct: true }], explain: 'Nearest the store first: 6, 5, 6, 4, 6 gives five free turns in a row, and pit 1 can then end in empty pit 3 for a capture. Our program finds 8 seeds banked that way, the best possible turn.' },
+    { q: 'Position 3: which move captures the most seeds?', options: [{ label: 'Pit 2', correct: true }, { label: 'Pit 4' }, { label: 'Pit 6' }], explain: 'The single seed in pit 2 lands in empty pit 3, opposite a pile of 6: you capture 7. Pits 4 and 6 each put only one seed in your store.' },
+    { q: 'Position 4: after your move, your opponent plays. Which of your pits are they threatening?', options: [{ label: 'Pit 1 (4 seeds)' }, { label: 'Pit 4 (1 seed)' }, { label: 'Pit 5 (6 seeds)', correct: true }], explain: 'Their pit above your pit 6 holds one seed; sown, it lands in their empty pit above your pit 5 and captures your 6 seeds plus their own, 7 in all. Move pit 5 or block the empty pit.' },
+    { q: 'Position 5: your only seed is in pit 6. What happens when you play it?', options: [{ label: 'It lands in your store, so you take another turn' }, { label: 'Your side is empty, so the game ends and your opponent banks the 12 seeds on their side', correct: true }, { label: 'The game ends and the seeds left on the board do not count' }], explain: 'In Kalah the game ends when one side is empty, and the other player keeps the seeds on their side. You finish with 21, your opponent with 27.' },
+  ]}
+/>
+
+## Practice on a printed board
+
+Strategy sticks when you move the seeds yourself. Set up the diagrams on this page with beans or buttons, play them from both sides, then play a few games trying one tip at a time.
+
+<ItemCallout href="/rules/mancala/" note="The full Kalah rules, variants such as empty capture and the pie rule, and a free printable board." />
+
+<ItemCallout href="/board-games/printable-mancala-board/" note="A color mancala board with twelve cups, two stores and paper stones, on two Letter pages." />
+
+<Checklist
+  id="mancala-before-every-move"
+  title="Before every move"
+  items={[
+    'Does any pit hold exactly as many seeds as its steps to my store?',
+    'If several do, am I playing the one nearest the store first?',
+    'Can a pit end in one of my empty pits opposite a pile?',
+    'Which of my pits sits opposite one of their empty pits, and can they reach it?',
+    'Does my move give them a new free turn?',
+    'If a side runs out now, who keeps the seeds left on the board?',
+  ]}
+/>
+
+<Callout type="example" title="How we measured">
+We wrote a Kalah program with the rules on our [mancala rules page](/rules/mancala/) (four seeds per pit; a capture needs seeds in the opposite pit; leftover seeds go to the owner of that side) and played 100,000 games for each pairing, with players swapping seats every other game. "Random" picks any legal pit. "Free turn" takes a free turn when it can (nearest the store first), otherwise plays at random. "Greedy" tries every possible full turn, chains included, and keeps the one that banks the most seeds. "Careful" does the same but subtracts the most the opponent can bank on the next turn. The quiz answers and the diagrams were checked with the same program.
+</Callout>
+
+If you enjoy two-player strategy games without dice, [Nine Men's Morris](/rules/nine-mens-morris/) and [reversi](/rules/reversi/) are two more classics on our [board game rules page](/rules/board-games/), and both play well on a printed board. For more ideas for two, see our [print and play games for 2 players](/board-games/2-player/).
+
+<Callout type="key" title="In one sentence">
+**Count seeds against steps to your store**: open with pit 3 then pit 6, chain free turns nearest the store first, capture from your empty pits, check their empty pits before every move, and count who runs out first at the end.
+</Callout>

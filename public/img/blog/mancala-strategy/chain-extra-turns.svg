@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1060 320" width="1060" height="320" role="img" aria-label="Mancala position with 3, 2 and 1 seeds in pits 4, 5 and 6: playing nearest the store first chains every free turn">
+<rect width="1060" height="320" rx="24" fill="#F7F5EE"/>
+<text x="270.0" y="66" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700" fill="#0F3D2E">Pits 4, 5 and 6 all reach the store</text>
+<rect x="30" y="80" width="480" height="152.19512195121953" rx="35.1219512195122" fill="#E9D9B5" stroke="#0F3D2E" stroke-width="3"/>
+<rect x="44.63414634146341" y="94.63414634146342" width="52.6829268292683" height="122.9268292682927" rx="26.34146341463415" fill="#FFFDF6" stroke="#0F3D2E" stroke-width="2"/>
+<text x="70.97560975609755" y="165.09756097560978" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700" fill="#0F3D2E">12</text>
+<rect x="442.6829268292683" y="94.63414634146342" width="52.6829268292683" height="122.9268292682927" rx="26.34146341463415" fill="#FFFDF6" stroke="#0F3D2E" stroke-width="2"/>
+<text x="469.0243902439024" y="165.09756097560978" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700" fill="#0F3D2E">11</text>
+<circle cx="130.97560975609758" cy="126.82926829268294" r="23.414634146341466" fill="#FFFDF6" stroke="#0F3D2E" stroke-width="2"/>
+<text x="130.97560975609758" y="134.82926829268294" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" fill="#0F3D2E">3</text>
+<circle cx="130.97560975609758" cy="194.14634146341464" r="23.414634146341466" fill="#FFFDF6" stroke="#0F3D2E" stroke-width="2"/>
+<text x="130.97560975609758" y="202.14634146341464" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" fill="#0F3D2E">4</text>
+<text x="130.97560975609758" y="254.19512195121953" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#4B5A54">1</text>
+<circle cx="186.58536585365854" cy="126.82926829268294" r="23.414634146341466" fill="#FFFDF6" stroke="#0F3D2E" stroke-width="2"/>
+<text x="186.58536585365854" y="134.82926829268294" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" fill="#0F3D2E">2</text>
+<circle cx="186.58536585365854" cy="194.14634146341464" r="23.414634146341466" fill="#FFFDF6" stroke="#0F3D2E" stroke-width="2"/>
+<text x="186.58536585365854" y="202.14634146341464" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" fill="#0F3D2E">0</text>
+<text x="186.58536585365854" y="254.19512195121953" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#4B5A54">2</text>
+<circle cx="242.19512195121953" cy="126.82926829268294" r="23.414634146341466" fill="#FFFDF6" stroke="#0F3D2E" stroke-width="2"/>
+<text x="242.19512195121953" y="134.82926829268294" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" fill="#0F3D2E">4</text>
+<circle cx="242.19512195121953" cy="194.14634146341464" r="23.414634146341466" fill="#FFFDF6" stroke="#0F3D2E" stroke-width="2"/>
+<text x="242.19512195121953" y="202.14634146341464" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" fill="#0F3D2E">0</text>
+<text x="242.19512195121953" y="254.19512195121953" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#4B5A54">3</text>
+<circle cx="297.80487804878044" cy="126.82926829268294" r="23.414634146341466" fill="#FFFDF6" stroke="#0F3D2E" stroke-width="2"/>
+<text x="297.80487804878044" y="134.82926829268294" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" fill="#0F3D2E">1</text>
+<circle cx="297.80487804878044" cy="194.14634146341464" r="23.414634146341466" fill="#FFFDF6" stroke="#0F3D2E" stroke-width="2"/>
+<text x="297.80487804878044" y="202.14634146341464" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" fill="#0F3D2E">3</text>
+<text x="297.80487804878044" y="254.19512195121953" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#4B5A54">4</text>
+<circle cx="353.4146341463415" cy="126.82926829268294" r="23.414634146341466" fill="#FFFDF6" stroke="#0F3D2E" stroke-width="2"/>
+<text x="353.4146341463415" y="134.82926829268294" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" fill="#0F3D2E">3</text>
+<circle cx="353.4146341463415" cy="194.14634146341464" r="23.414634146341466" fill="#FFFDF6" stroke="#0F3D2E" stroke-width="2"/>
+<text x="353.4146341463415" y="202.14634146341464" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" fill="#0F3D2E">2</text>
+<text x="353.4146341463415" y="254.19512195121953" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#4B5A54">5</text>
+<circle cx="409.0243902439024" cy="126.82926829268294" r="23.414634146341466" fill="#FFFDF6" stroke="#0F3D2E" stroke-width="2"/>
+<text x="409.0243902439024" y="134.82926829268294" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" fill="#0F3D2E">2</text>
+<circle cx="409.0243902439024" cy="194.14634146341464" r="23.414634146341466" fill="#CFFF5E" stroke="#0F3D2E" stroke-width="2"/>
+<text x="409.0243902439024" y="202.14634146341464" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" fill="#0F3D2E">1</text>
+<text x="409.0243902439024" y="254.19512195121953" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#4B5A54">6</text><text x="790" y="120" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700" fill="#0F3D2E">Nearest the store first:</text><text x="790" y="152" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#0F3D2E">6 → 5 → 6 → 4 → 6 → 5</text><text x="790" y="186" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="400" fill="#0F3D2E">Five free turns, then the last seed from pit 5</text><text x="790" y="210" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="400" fill="#0F3D2E">lands in empty pit 6 and captures: 8 seeds.</text><text x="790" y="250" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="400" fill="#0F3D2E">Start with pit 4 instead and pits 5 and 6 hold 3 and 2:</text><text x="790" y="272" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="400" fill="#0F3D2E">the best you can then bank is 2 seeds.</text>
+</svg>
