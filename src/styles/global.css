@@ -116,7 +116,8 @@ p { margin: 0; }
 .playloop .beat-play { animation-delay: 12s; }
 .playloop .dl-btn { position: relative; animation-duration: 16s; }
 .playloop .bar i, .playloop .file, .playloop .file b, .playloop .paper { animation-duration: 16s; }
-.playloop .big-sheet { position: absolute; left: 28px; right: 28px; top: 64px; bottom: 24px; background: #fff; border: 2px solid var(--ink); border-radius: 16px; padding: 16px; transform-origin: center bottom; animation: grow 16s infinite; }
+.playloop .big-sheet { position: absolute; left: 36px; right: 36px; top: 128px; height: 230px; background: #fff; border: 2px solid var(--ink); border-radius: 16px; padding: 14px; }
+.playloop .beat-print .printer { left: 50%; top: 62px; width: 150px; margin-left: -75px; z-index: 2; }
 .playloop .big-sheet strong { font-family: var(--font-display); font-size: 22px; display: block; }
 .playloop .big-sheet em { font-style: normal; font-weight: 800; font-size: 13px; color: var(--muted); }
 .playloop .big-sheet div { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 12px; height: 180px; }
