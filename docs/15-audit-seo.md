@@ -113,7 +113,7 @@ C'est le point faible principal. Les hubs visent les requêtes les plus recherch
 
 Le reste de la page est une grille de cartes, identique dans sa structure à celle des concurrents. Pour Google comme pour les IA, une page qui n'explique rien donne peu de raisons d'être citée.
 
-Fait le 19 octobre pour les 6 hubs prioritaires (mots mêlés, bingo, puzzles, dot to dot, chasse au trésor, Halloween) : un guide de 170 à 240 mots sous la grille (par âge ou par usage) et 3 à 4 questions de FAQ, uniquement à partir de ce que contient le hub. Il reste à faire de même pour Noël (avant fin novembre), Thanksgiving, les jeux de cartes, de plateau et les labyrinthes.
+Fait le 19 octobre pour les 6 hubs prioritaires (mots mêlés, bingo, puzzles, dot to dot, chasse au trésor, Halloween) : un guide de 170 à 240 mots sous la grille (par âge ou par usage) et 3 à 4 questions de FAQ, uniquement à partir de ce que contient le hub. Même travail le même jour pour Noël, Thanksgiving, les jeux de cartes, les jeux de plateau et les labyrinthes. Les 11 hubs principaux ont donc un guide et une FAQ. Restent les sous-hubs (labyrinthes par niveau, jeux pour 2, pour enfants, solo), les jeux de dés, les party games, le roll and write et les occasions de printemps et d'été.
 
 ### Fraîcheur
 
