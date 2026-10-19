@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/unfair-abdw-expansion.png"
+cover_art: true
 title: "Unfair: ABDW expansion"
 type: "card"
 subtype: "expansion"

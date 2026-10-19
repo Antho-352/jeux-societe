@@ -1,10 +1,15 @@
 ---
+cover: "/img/games/printable-go-board-19x19.png"
+cover_art: true
 title: "Printable Go Board 19x19"
 type: "board"
 subtype: "template"
 summary: "A free printable 19x19 Go board with 361 black and white paper stones, the full tournament size. Cut or punch out the stones and play Go or Gomoku on a single sheet."
 players_min: 2
 players_max: 2
+age_min: 8
+time_min: 30
+time_max: 180
 themes: ["classic", "abstract", "go", "japan", "china"]
 mechanics: ["territory", "capture"]
 languages: ["en"]

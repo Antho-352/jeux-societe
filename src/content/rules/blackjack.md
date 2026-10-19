@@ -7,6 +7,7 @@ category: "card"
 summary: "Blackjack is the card game where you try to beat the dealer by getting closer to 21 without going over; here are the rules for a casual game at home with counters instead of money."
 players_min: 2
 players_max: 8
+age_min: 8
 time_min: 10
 time_max: 30
 equipment: ["Standard 52-card deck (two decks for 5 or more players)", "Counters or chips, no money needed"]

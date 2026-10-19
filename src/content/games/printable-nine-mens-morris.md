@@ -1,11 +1,15 @@
 ---
 cover: "/img/games/printable-nine-mens-morris.png"
+cover_art: true
 title: "Printable Nine Men's Morris"
 type: "board"
 subtype: "template"
 summary: "A free printable Nine Men's Morris board with cut-out black and white pieces and a page of rules for the medieval mill game, also called Cowboy Checkers."
 players_min: 2
 players_max: 2
+age_min: 6
+time_min: 20
+time_max: 20
 themes: ["classic", "abstract", "medieval", "mill-game"]
 mechanics: ["placement", "grid-movement", "capture"]
 languages: ["en"]

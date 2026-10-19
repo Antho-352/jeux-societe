@@ -7,6 +7,7 @@ category: "board"
 summary: "Chess is a two-player strategy game on an 8×8 board where each side moves 16 pieces with their own ways of moving and the aim is to checkmate the opposing king."
 players_min: 2
 players_max: 2
+age_min: 6
 time_min: 20
 time_max: 90
 equipment: ["8×8 board", "16 white and 16 black pieces", "optional chess clock"]

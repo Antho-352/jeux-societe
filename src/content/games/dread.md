@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/dread.png"
+cover_art: true
 title: "Dread"
 type: "card"
 subtype: "solo"

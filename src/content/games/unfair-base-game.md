@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/unfair-base-game.png"
+cover_art: true
 title: "Unfair (base game)"
 type: "card"
 subtype: "economic"

@@ -7,6 +7,9 @@ category: "dice"
 summary: "Pig is a push-your-luck game with one die: roll as often as you dare to build a turn total, but a 1 wipes it out; the first player to 100 points wins."
 players_min: 2
 players_max: 8
+age_min: 8
+time_min: 10
+time_max: 10
 equipment: ["one die (two for some variants)", "paper and pencil"]
 public_domain: true
 sources:

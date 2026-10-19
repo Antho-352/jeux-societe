@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/lawn-party.png"
+cover_art: true
 title: "Lawn Party"
 type: "card"
 subtype: "solo"

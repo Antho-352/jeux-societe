@@ -1,10 +1,15 @@
 ---
+cover: "/img/games/printable-three-mens-morris.png"
+cover_art: true
 title: "Printable Three Men's Morris"
 type: "board"
 subtype: "template"
 summary: "A free printable Three Men's Morris board with cut-out pieces and rules: a tic-tac-toe style game where two players place, then slide, three pieces each to make a row."
 players_min: 2
 players_max: 2
+age_min: 5
+time_min: 5
+time_max: 5
 themes: ["classic", "abstract", "medieval", "mill-game"]
 mechanics: ["placement", "grid-movement"]
 languages: ["en"]

@@ -1,11 +1,15 @@
 ---
 cover: "/img/games/printable-checkerboard.png"
+cover_art: true
 title: "Printable Checkerboard"
 type: "board"
 subtype: "template"
 summary: "A free printable 8x8 checkerboard on a single Letter page, ready for checkers (draughts) or chess. Pieces are not included: use coins, buttons or our chess piece sheet."
 players_min: 2
 players_max: 2
+age_min: 6
+time_min: 30
+time_max: 30
 themes: ["classic", "abstract", "checkers", "chess"]
 mechanics: ["grid-movement"]
 languages: ["en"]

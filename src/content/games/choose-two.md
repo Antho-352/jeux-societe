@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/choose-two.png"
+cover_art: true
 title: "Choose Two (Choose One for two players)"
 type: "party"
 subtype: "expansion"

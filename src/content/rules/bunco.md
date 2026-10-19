@@ -7,7 +7,9 @@ category: "dice"
 summary: "Bunco is a social dice game for up to 12 players at three tables: roll three dice to match the round number, score points, and shout Bunco when all three dice match it."
 players_min: 2
 players_max: 12
-age_min: 4
+age_min: 8
+time_min: 45
+time_max: 45
 equipment: ["three dice per table", "a score sheet and pencil per table", "a bell (optional)"]
 public_domain: true
 sources:

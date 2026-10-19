@@ -1,11 +1,13 @@
 ---
 cover: "/img/games/printable-go-board-9x9.png"
+cover_art: true
 title: "Printable Go Board 9x9"
 type: "board"
 subtype: "template"
 summary: "A free printable 9x9 Go board with 81 black and white paper stones, the size beginners and quick games use. Cut or punch out the stones and play Go or Gomoku on a single sheet."
 players_min: 2
 players_max: 2
+age_min: 8
 themes: ["classic", "abstract", "go", "japan", "china"]
 mechanics: ["territory", "capture"]
 languages: ["en"]

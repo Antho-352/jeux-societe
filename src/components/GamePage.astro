@@ -93,16 +93,16 @@ const workLd = {
       </dl>
       <div class="row">
         {downloads.map((file) => (
-          <a class="btn btn-primary btn-lg" href={file.url} rel={isMirror ? undefined : 'nofollow noopener'} target={isMirror ? undefined : '_blank'} download={isMirror ? '' : undefined}>
+          <a class="btn btn-primary btn-lg" href={file.url} rel={/^https?:/.test(file.url) ? 'nofollow noopener' : undefined} target={isMirror ? undefined : '_blank'} download={isMirror ? '' : undefined}>
             <svg aria-hidden="true" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="m7 10 5 5 5-5"/><path d="M4 21h16"/></svg>
             {file.label}
           </a>
         ))}
-        {isMirror && <a class="btn btn-outline btn-lg" href={d.source_url} rel="noopener" target="_blank">Creator’s page</a>}
+        {isMirror && <a class="btn btn-outline btn-lg" href={d.source_url} rel="nofollow noopener" target="_blank">Creator’s page</a>}
         {d.buy_url && <a class="btn btn-outline btn-lg" href={d.buy_url} rel="nofollow sponsored noopener" target="_blank">Buy the box</a>}
       </div>
       <p class="fileinfo">
-        PDF{d.pages ? ` · ${d.pages} pages` : ''}{d.download_size_mb ? ` · ${sizeLabel(d.download_size_mb)}` : ''} · {d.licence}{d.licence_url ? <> (<a href={d.licence_url} rel="noopener">licence</a>)</> : null}. {isMirror ? 'Hosted here with the creator’s permission.' : 'Download is on the creator’s website.'}
+        PDF{d.pages ? ` · ${d.pages} pages` : ''}{d.download_size_mb ? ` · ${sizeLabel(d.download_size_mb)}` : ''} · {d.licence}{d.licence_url ? <> (<a href={d.licence_url} rel="nofollow noopener">licence</a>)</> : null}. {isMirror ? 'Hosted here with the creator’s permission.' : 'Download is on the creator’s website.'}
         {d.buy_url && <> As an Amazon Associate, we earn from qualifying purchases.</>}
       </p>
       {(d.components_needed.length > 0 || d.components_included.length > 0) && (
@@ -142,9 +142,9 @@ const workLd = {
           {d.artists.length > 0 && <><strong>Art</strong> {d.artists.join(', ')}<br /></>}
           {(creator || d.publisher) && <><strong>Publisher</strong> {creator ? <a href={creatorUrl(creator.id)}>{creator.data.name}</a> : d.publisher}<br /></>}
           {d.year && <><strong>Released</strong> {d.year}<br /></>}
-          <strong>Source</strong> <a href={d.source_url} rel="noopener">{new URL(d.source_url).hostname.replace('www.', '')}</a>
+          <strong>Source</strong> <a href={d.source_url} rel="nofollow noopener">{new URL(d.source_url).hostname.replace('www.', '')}</a>
         </p>
-        {creator?.data.support_url && <p style="margin-top:10px"><a class="btn btn-outline" href={creator.data.support_url} rel="noopener">{creator.data.support_label ?? 'Support the creator'}</a></p>}
+        {creator?.data.support_url && <p style="margin-top:10px"><a class="btn btn-outline" href={creator.data.support_url} rel="nofollow noopener">{creator.data.support_label ?? 'Support the creator'}</a></p>}
       </div>
       <div class="aside-box mint">
         <h2>Print tips</h2>

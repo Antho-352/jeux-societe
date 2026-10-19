@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/7-wonders-duel-solo-print-and-play.png"
+cover_art: true
 title: "7 Wonders Duel solo mode (print and play)"
 type: "card"
 subtype: "expansion"
@@ -6,8 +8,8 @@ summary: "A free solo mode for 7 Wonders Duel from Asmodee: print the rules and 
 players_min: 1
 players_max: 1
 age_min: 10
-time_min: 30
-time_max: 30
+time_min: 15
+time_max: 15
 themes: ["ancient-civilizations", "wonders"]
 mechanics: ["card-drafting", "automa", "engine-building"]
 languages: ["en"]

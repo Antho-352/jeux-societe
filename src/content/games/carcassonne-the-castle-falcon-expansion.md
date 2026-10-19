@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/carcassonne-the-castle-falcon-expansion.png"
+cover_art: true
 title: "Carcassonne: The Castle – Falcon Expansion"
 type: "board"
 subtype: "expansion"

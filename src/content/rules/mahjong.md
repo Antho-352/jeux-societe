@@ -7,6 +7,9 @@ category: "tile"
 summary: "Mahjong is a four-player tile game: draw and discard tiles to build a hand of four sets and a pair, claim other players' discards, and score with the Hong Kong faan system."
 players_min: 4
 players_max: 4
+age_min: 8
+time_min: 120
+time_max: 120
 equipment: ["mahjong set of 144 tiles", "two or three dice", "scoring sticks or chips (optional)"]
 public_domain: true
 sources:

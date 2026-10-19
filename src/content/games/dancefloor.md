@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/dancefloor.png"
+cover_art: true
 title: "Dancefloor"
 type: "card"
 subtype: "solo"

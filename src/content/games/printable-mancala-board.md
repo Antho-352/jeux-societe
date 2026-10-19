@@ -1,11 +1,15 @@
 ---
 cover: "/img/games/printable-mancala-board.png"
+cover_art: true
 title: "Printable Mancala Board"
 type: "board"
 subtype: "template"
 summary: "A free printable mancala board with yellow and blue cups, two store cups and green paper stones, plus the rules of the classic sowing game on the second page."
 players_min: 2
 players_max: 2
+age_min: 5
+time_min: 10
+time_max: 10
 themes: ["classic", "abstract", "africa", "sowing"]
 mechanics: ["sowing", "capture"]
 languages: ["en"]

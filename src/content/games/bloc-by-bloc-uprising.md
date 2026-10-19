@@ -6,6 +6,7 @@ players_min: 1
 players_max: 4
 age_min: 14
 time_min: 60
+time_max: 180
 themes: ["insurrection", "protest-movements", "police", "city-uprising", "revolutionary-politics"]
 mechanics: ["cooperative-semi-cooperative", "area-control", "modular-board", "action-points"]
 languages: ["en"]

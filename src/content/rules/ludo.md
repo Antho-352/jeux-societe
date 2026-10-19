@@ -8,6 +8,8 @@ summary: "Ludo is a race game for 2 to 4 players: roll a six to enter a token, m
 players_min: 2
 players_max: 4
 age_min: 5
+time_min: 30
+time_max: 30
 equipment: ["ludo board", "4 tokens per player", "one die"]
 public_domain: true
 trademark_note: "Parcheesi and Sorry! are trademarks of Hasbro. This page describes the traditional game of Ludo; the printable is a plain Ludo board, not a copy of any boxed game."

@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/spot-it-dobble-print-and-play-demo.png"
+cover_art: true
 title: "Spot It! (Dobble) print-and-play demo"
 type: "card"
 subtype: "demo"

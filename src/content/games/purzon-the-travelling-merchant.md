@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/purzon-the-travelling-merchant.png"
+cover_art: true
 title: "Purzon: The Travelling Merchant"
 type: "board"
 subtype: "solo"

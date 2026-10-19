@@ -7,6 +7,9 @@ category: "pen-and-paper"
 summary: "Dots and boxes is a pencil game for two players who take turns joining dots; complete the fourth side of a box to claim it and play again, and the most boxes wins."
 players_min: 2
 players_max: 2
+age_min: 7
+time_min: 15
+time_max: 15
 equipment: ["paper and pencil", "or our printable sheet of four 6×6 dot grids"]
 public_domain: true
 printable: "/pdf/rules/dots-and-boxes/dots-and-boxes-sheet.pdf"

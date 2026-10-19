@@ -1,10 +1,13 @@
 ---
+cover: "/img/games/printable-go-board-13x13.png"
+cover_art: true
 title: "Printable Go Board 13x13"
 type: "board"
 subtype: "template"
 summary: "A free printable 13x13 Go board with 169 black and white paper stones, the medium size for learners who have outgrown 9x9. Cut or punch out the stones and play Go or Gomoku on a single sheet."
 players_min: 2
 players_max: 2
+age_min: 8
 themes: ["classic", "abstract", "go", "japan", "china"]
 mechanics: ["territory", "capture"]
 languages: ["en"]

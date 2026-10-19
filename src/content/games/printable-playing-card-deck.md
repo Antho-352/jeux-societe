@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/printable-playing-card-deck.png"
+cover_art: true
 title: "Printable Playing Card Deck"
 type: "card"
 subtype: "template"

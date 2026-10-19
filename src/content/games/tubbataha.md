@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/tubbataha.png"
+cover_art: true
 title: "Tubbataha"
 type: "board"
 subtype: "solo"

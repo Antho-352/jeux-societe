@@ -1,10 +1,13 @@
 ---
+cover: "/img/games/printable-six-mens-morris.png"
+cover_art: true
 title: "Printable Six Men's Morris"
 type: "board"
 subtype: "template"
 summary: "A free printable Six Men's Morris board with cut-out black and white pieces and rules: the smaller medieval mill game in which two players make rows of three to remove each other's pieces."
 players_min: 2
 players_max: 2
+age_min: 8
 themes: ["classic", "abstract", "medieval", "mill-game"]
 mechanics: ["placement", "grid-movement", "capture"]
 languages: ["en"]

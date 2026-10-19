@@ -7,6 +7,7 @@ category: "card"
 summary: "Rummy is the classic draw-and-discard game: build runs and sets, lay them on the table, and be the first to empty your hand to score the cards left in your opponents' hands."
 players_min: 2
 players_max: 6
+age_min: 8
 time_min: 20
 time_max: 45
 equipment: ["Standard 52-card deck", "Pen and paper or a score sheet"]

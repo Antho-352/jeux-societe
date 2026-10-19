@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/halloween-scavenger-hunt-fun-loving-families.png"
+cover_art: true
 title: "Halloween Scavenger Hunt for Kids (Fun Loving Families)"
 type: "scavenger-hunt"
 summary: "Two free printable Halloween scavenger hunt lists by Chrissy of Fun Loving Families: a picture list for preschoolers and a 23-item list for older kids, to tick off decorations while walking the neighbourhood."

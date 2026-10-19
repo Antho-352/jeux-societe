@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/small-world-lost-tribes-crusade.png"
+cover_art: true
 title: "Small World: The Lost Tribe's Crusade"
 type: "board"
 subtype: "expansion"
@@ -6,6 +8,8 @@ summary: "A free Small World mini expansion from Asmodee for solo and two-player
 players_min: 1
 players_max: 2
 age_min: 8
+time_min: 30
+time_max: 40
 themes: ["fantasy", "conquest"]
 mechanics: ["area-control", "automa", "variable-player-powers"]
 languages: ["en"]

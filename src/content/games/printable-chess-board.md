@@ -1,11 +1,13 @@
 ---
 cover: "/img/games/printable-chess-board.png"
+cover_art: true
 title: "Printable Chess Board"
 type: "board"
 subtype: "template"
 summary: "A free printable chess set: a red-and-blue checkered board across two Letter pages, cut-out black and white pieces, and a page of instructions explaining how each piece moves."
 players_min: 2
 players_max: 2
+age_min: 6
 themes: ["classic", "abstract", "chess"]
 mechanics: ["grid-movement", "capture"]
 languages: ["en"]

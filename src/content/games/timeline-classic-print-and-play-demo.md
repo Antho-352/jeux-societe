@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/timeline-classic-print-and-play-demo.png"
+cover_art: true
 title: "Timeline Classic print-and-play demo"
 type: "card"
 subtype: "demo"

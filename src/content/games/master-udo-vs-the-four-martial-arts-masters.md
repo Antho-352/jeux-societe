@@ -1,10 +1,14 @@
 ---
+cover: "/img/games/master-udo-vs-the-four-martial-arts-masters.png"
+cover_art: true
 title: "Master Udo Vs. the Four Martial Arts Masters"
 type: "card"
 subtype: "solo"
 summary: "A solo fighting card game: build combos by overlapping cards with placement restrictions, block the masters' attacks and defeat four opponents before your hand runs out."
 players_min: 1
 players_max: 1
+time_min: 30
+time_max: 30
 themes: ["martial-arts", "fighting", "kung-fu"]
 mechanics: ["hand-management", "combo-building", "card-overlapping", "boss-battles"]
 languages: ["en"]

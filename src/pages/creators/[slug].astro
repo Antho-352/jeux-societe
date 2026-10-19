@@ -23,8 +23,8 @@ const crumbs = [{ name: 'Home', href: '/' }, { name: 'Creators', href: '/creator
     <h1>{d.name}</h1>
     <p class="lead">{d.bio}</p>
     <div class="row">
-      {d.url && <a class="btn btn-outline" href={d.url} rel="noopener">Website</a>}
-      {d.support_url && <a class="btn btn-primary" href={d.support_url} rel="noopener">{d.support_label ?? 'Support the creator'}</a>}
+      {d.url && <a class="btn btn-outline" href={d.url} rel="nofollow noopener">Website</a>}
+      {d.support_url && <a class="btn btn-primary" href={d.support_url} rel="nofollow noopener">{d.support_label ?? 'Support the creator'}</a>}
     </div>
   </section>
   <section class="section wrap" style="padding-top:0">

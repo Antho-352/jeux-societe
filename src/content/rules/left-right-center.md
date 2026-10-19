@@ -8,6 +8,8 @@ summary: "Left Right Center is a fast luck game for three or more players: roll 
 players_min: 3
 players_max: 12
 age_min: 5
+time_min: 20
+time_max: 20
 equipment: ["three LCR dice, or three ordinary dice", "three chips per player"]
 public_domain: false
 trademark_note: "LCR and Left Center Right are trademarks of George & Company. This page describes the rules; the game itself is not for download."

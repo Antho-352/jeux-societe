@@ -7,6 +7,9 @@ category: "pen-and-paper"
 summary: "Hangman is a word-guessing game: one player thinks of a word and draws a dash per letter, the others guess letters, and each wrong guess adds a part to the drawing."
 players_min: 2
 players_max: 8
+age_min: 6
+time_min: 10
+time_max: 10
 equipment: ["paper and pencil, or a whiteboard", "or our printable sheet of six games"]
 public_domain: true
 printable: "/pdf/rules/hangman/hangman-sheet.pdf"

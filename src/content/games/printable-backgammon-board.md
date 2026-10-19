@@ -1,10 +1,15 @@
 ---
+cover: "/img/games/printable-backgammon-board.png"
+cover_art: true
 title: "Printable Backgammon Board"
 type: "board"
 subtype: "template"
 summary: "A free printable backgammon board in tan and black, spread over two Letter pages, with cut-out white and red checkers and a page of instructions. Add two dice and play."
 players_min: 2
 players_max: 2
+age_min: 8
+time_min: 30
+time_max: 30
 themes: ["classic", "backgammon", "race"]
 mechanics: ["dice-rolling", "race"]
 languages: ["en"]

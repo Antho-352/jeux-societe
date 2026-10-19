@@ -5,6 +5,9 @@ subtype: "template"
 summary: "A free printable Reversi board: an 8x8 board, a sheet of two-tone discs to cut out and a page of rules for the classic flipping game also sold as Othello."
 players_min: 2
 players_max: 2
+age_min: 8
+time_min: 30
+time_max: 30
 themes: ["classic", "abstract", "reversi"]
 mechanics: ["flipping", "area-control"]
 languages: ["en"]
@@ -22,6 +25,7 @@ licence_url: "https://www.freeprintable.net/terms.php?s=PrintablePaper.net"
 hosting_mode: "link"
 source_url: "https://www.printablepaper.net/preview/Reversi_Board"
 cover: "/img/games/printable-reversi-board.png"
+cover_art: true
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Printable Reversi board and discs (free PDF)"

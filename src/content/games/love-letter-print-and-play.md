@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/love-letter-print-and-play.png"
+cover_art: true
 title: "Love Letter print and play: cards and rules"
 type: "card"
 subtype: "demo"

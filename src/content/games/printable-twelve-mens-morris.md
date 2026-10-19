@@ -1,10 +1,15 @@
 ---
+cover: "/img/games/printable-twelve-mens-morris.png"
+cover_art: true
 title: "Printable Twelve Men's Morris"
 type: "board"
 subtype: "template"
 summary: "A free printable Twelve Men's Morris (Morabaraba) board with diagonal lines, twelve cut-out pieces per player and rules for this larger version of the classic mill game."
 players_min: 2
 players_max: 2
+age_min: 8
+time_min: 20
+time_max: 20
 themes: ["classic", "abstract", "medieval", "mill-game"]
 mechanics: ["placement", "grid-movement", "capture"]
 languages: ["en"]

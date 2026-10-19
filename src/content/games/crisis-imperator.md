@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/crisis-imperator.png"
+cover_art: true
 title: "Crisis Imperator"
 type: "card"
 subtype: "solo"

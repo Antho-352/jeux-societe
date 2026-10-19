@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/the-secret-of-langton-manor-episode-1-legacy.png"
+cover_art: true
 title: "The Secret of Langton Manor, Episode 1: Legacy"
 type: "escape"
 summary: "A free 12-page print-and-play escape room for 1 to 4 players set in an old English mansion, with a free companion app that checks answers and gives hints; about 1 to 2 hours of play."

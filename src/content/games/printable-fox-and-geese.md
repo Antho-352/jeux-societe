@@ -1,10 +1,15 @@
 ---
+cover: "/img/games/printable-fox-and-geese.png"
+cover_art: true
 title: "Printable Fox and Geese"
 type: "board"
 subtype: "template"
 summary: "A free printable Fox and Geese set: the cross-shaped 33-point board, cut-out pieces for the fox and thirteen geese, and a page of rules for this traditional hunt game."
 players_min: 2
 players_max: 2
+age_min: 8
+time_min: 20
+time_max: 20
 themes: ["classic", "abstract", "hunt-game", "animals"]
 mechanics: ["asymmetric", "jumping"]
 languages: ["en"]

@@ -7,6 +7,7 @@ category: "card"
 summary: "Classic whist is a four-player partnership trick-taking game: 13 cards each, the last card dealt is trumps, and a side scores for tricks above six."
 players_min: 4
 players_max: 4
+age_min: 12
 time_min: 30
 time_max: 60
 equipment: ["Standard 52-card deck", "A second deck is traditional, so the next dealer can be ready"]

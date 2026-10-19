@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/unlock-demo-the-ghost-stone.png"
+cover_art: true
 title: "Unlock! The Ghost Stone (free demo)"
 type: "escape"
 summary: "A 22-card haunted-mansion Unlock! demo written by Licki, Mana and Franfran: avenge a ghost by stealing a gem from Beckett. Print, cut and play with the free app, 1 to 6 players."

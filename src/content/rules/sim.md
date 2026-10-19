@@ -7,6 +7,8 @@ category: "pen-and-paper"
 summary: "Sim is a two-player pencil game on six dots: take turns colouring the lines between them, and the first player to complete a triangle in their own colour loses."
 players_min: 2
 players_max: 2
+time_min: 2
+time_max: 2
 equipment: ["paper", "two pencils or pens of different colours"]
 public_domain: true
 sources:

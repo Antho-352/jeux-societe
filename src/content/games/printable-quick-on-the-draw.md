@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/printable-quick-on-the-draw.png"
+cover_art: true
 title: "Printable Quick on the Draw"
 type: "party"
 subtype: "template"

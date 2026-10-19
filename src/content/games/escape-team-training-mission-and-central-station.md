@@ -1,9 +1,12 @@
 ---
+cover: "/img/games/escape-team-training-mission-and-central-station.png"
+cover_art: true
 title: "Escape Team: Training Mission and Mission 1, Central Station"
 type: "escape"
 summary: "Two free printable Escape Team missions in one 12-page PDF: a 10-minute training mission and the 15-minute Central Station bomb defusal, played with pens, scissors and the free app, 2 to 4 players."
 players_min: 2
 players_max: 4
+age_min: 11
 time_min: 10
 time_max: 25
 themes: ["bomb-defusal", "secret-agents", "railway-station"]

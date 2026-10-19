@@ -1,10 +1,15 @@
 ---
+cover: "/img/games/printable-shut-the-box-game.png"
+cover_art: true
 title: "Printable Shut the Box Game"
 type: "dice"
 subtype: "template"
 summary: "A free printable Shut the Box score sheet for up to three players: roll two dice, cross out numbers from 1 to 9 that add up to the roll, and aim for the lowest total left over."
 players_min: 1
 players_max: 3
+age_min: 8
+time_min: 30
+time_max: 30
 themes: ["classic", "pub-game", "numbers", "maths"]
 mechanics: ["dice-rolling", "push-your-luck"]
 languages: ["en"]

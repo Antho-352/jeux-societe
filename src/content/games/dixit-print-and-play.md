@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/dixit-print-and-play.png"
+cover_art: true
 title: "Dixit print and play: cards and rules"
 type: "party"
 subtype: "demo"

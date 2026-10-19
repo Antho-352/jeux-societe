@@ -1,9 +1,14 @@
 ---
+cover: "/img/games/the-closest-ghost.png"
+cover_art: true
 title: "The Closest Ghost"
 type: "board"
 summary: "A free two-player print-and-play game from Looney Labs played with real candy: pick up your sweets in a haunted house while moving the ghost closest to you."
 players_min: 2
 players_max: 2
+age_min: 8
+time_min: 5
+time_max: 10
 themes: ["halloween", "ghosts", "candy"]
 mechanics: ["grid-movement", "race", "blocking"]
 occasions: ["halloween"]

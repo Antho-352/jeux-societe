@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/beach-scavenger-hunt-mykidstime.png"
+cover_art: true
 title: "Beach Scavenger Hunt for Kids (MyKidsTime)"
 type: "scavenger-hunt"
 summary: "A free one-page beach scavenger hunt from Irish family site MyKidsTime: 20 things to find on the shore, from a white shell and sea glass to a crab shell, a buoy and a tidepool. Direct PDF, A4."

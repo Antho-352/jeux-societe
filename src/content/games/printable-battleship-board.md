@@ -1,11 +1,15 @@
 ---
 cover: "/img/games/printable-battleship-board.png"
+cover_art: true
 title: "Printable Battleship Board"
 type: "board"
 subtype: "template"
 summary: "A free printable Battleship game board: two sheets with an ocean grid and a target grid each, outlines for the five ships and a page of rules. Just add pencils."
 players_min: 2
 players_max: 2
+age_min: 8
+time_min: 30
+time_max: 30
 themes: ["classic", "naval", "deduction"]
 mechanics: ["hidden-information", "guessing"]
 languages: ["en"]

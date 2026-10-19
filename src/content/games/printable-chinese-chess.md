@@ -1,10 +1,15 @@
 ---
+cover: "/img/games/printable-chinese-chess.png"
+cover_art: true
 title: "Printable Chinese Chess"
 type: "board"
 subtype: "template"
 summary: "A free printable xiangqi (Chinese chess) set: the 9x10 board with river and palaces, cut-out pieces with Chinese characters, and two pages explaining the pieces and rules."
 players_min: 2
 players_max: 2
+age_min: 8
+time_min: 60
+time_max: 60
 themes: ["classic", "abstract", "chess", "china"]
 mechanics: ["grid-movement", "capture"]
 languages: ["en"]

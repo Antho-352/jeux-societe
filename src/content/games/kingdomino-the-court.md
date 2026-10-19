@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/kingdomino-the-court.png"
+cover_art: true
 title: "Kingdomino: The Court"
 type: "board"
 subtype: "expansion"

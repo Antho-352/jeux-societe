@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/the-fantasy-trip-melee.png"
+cover_art: true
 title: "The Fantasy Trip: Melee"
 type: "board"
 summary: "Steve Jackson's classic arena-combat game Melee is free as a PDF: build a fighter in minutes, choose weapons and tactics, and fight on a hex map against men, beasts or monsters."

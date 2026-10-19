@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/under-falling-skies-9-card-solo-game.png"
+cover_art: true
 title: "Under Falling Skies: A 9-Card Solo Game"
 type: "dice"
 subtype: "solo"

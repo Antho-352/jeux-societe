@@ -1,10 +1,15 @@
 ---
+cover: "/img/games/printable-the-jungle-game.png"
+cover_art: true
 title: "Printable The Jungle Game"
 type: "board"
 subtype: "template"
 summary: "A free printable Jungle (Dou Shou Qi) set: the 7x9 board with rivers, traps and dens, eight ranked animal pieces per side and a page of rules for this Chinese animal chess game."
 players_min: 2
 players_max: 2
+age_min: 6
+time_min: 20
+time_max: 20
 themes: ["classic", "abstract", "animals", "china"]
 mechanics: ["grid-movement", "capture"]
 languages: ["en"]

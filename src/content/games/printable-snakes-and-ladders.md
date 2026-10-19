@@ -4,7 +4,10 @@ type: "board"
 subtype: "template"
 summary: "A free printable snakes and ladders board: a colourful 100-square grid on one Letter page with ten snakes and ten ladders. Add a die and a counter for each player."
 players_min: 2
-players_max: 4
+players_max: 6
+age_min: 3
+time_min: 30
+time_max: 30
 themes: ["classic", "race", "children", "family"]
 mechanics: ["dice-rolling", "race", "roll-and-move"]
 languages: ["en"]
@@ -22,6 +25,7 @@ licence_url: "https://www.freeprintable.net/terms.php?s=PrintablePaper.net"
 hosting_mode: "link"
 source_url: "https://www.printablepaper.net/preview/Snakes_and_Ladders"
 cover: "/img/games/printable-snakes-and-ladders.png"
+cover_art: true
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Printable snakes and ladders game: free board PDF"

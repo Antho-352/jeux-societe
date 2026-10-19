@@ -77,28 +77,8 @@ def snowman():
     return outline, details
 SAILBOAT = [(0.45, 0.96), (0.64, 0.92), (0.55, 0.87), (0.55, 0.82), (0.68, 0.66), (0.80, 0.52), (0.90, 0.38), (0.55, 0.38), (0.55, 0.29), (0.94, 0.29), (0.80, 0.08), (0.20, 0.08), (0.06, 0.29), (0.45, 0.29), (0.45, 0.38), (0.12, 0.38), (0.28, 0.58), (0.45, 0.78)]
 ROCKET = [(0.50, 0.95), (0.60, 0.82), (0.65, 0.62), (0.65, 0.42), (0.80, 0.26), (0.80, 0.12), (0.64, 0.20), (0.58, 0.10), (0.42, 0.10), (0.36, 0.20), (0.20, 0.12), (0.20, 0.26), (0.35, 0.42), (0.35, 0.62), (0.40, 0.82)]
-def ellipse(cx, cy, rx, ry, n=24):
-    return [(cx + rx * math.cos(2 * math.pi * i / n), cy + ry * math.sin(2 * math.pi * i / n)) for i in range(n)]
-
-def union(polys):
-    """Outline of several filled polygons merged together (0..1, y up, counter-clockwise)."""
-    m = Image.new('L', (RES, RES), 0); d = ImageDraw.Draw(m)
-    for poly in polys: d.polygon([(x * RES, (1 - y) * RES) for x, y in poly], fill=255)
-    c = max(cv2.findContours(np.array(m), cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)[0], key=cv2.contourArea)
-    ring = [(float(q[0][0]) / RES, 1 - float(q[0][1]) / RES) for q in c]
-    return ring[::-1] if area(ring) < 0 else ring
-
-def pig_head():
-    """A pig's face seen from the front: round head and two pointed ears; snout and eyes are printed details."""
-    outline = union([ellipse(0.5, 0.45, 0.38, 0.30, 72), [(0.22, 0.62), (0.08, 0.84), (0.40, 0.73)], [(0.78, 0.62), (0.92, 0.84), (0.60, 0.73)]])
-    details = [(True, ellipse(0.5, 0.36, 0.15, 0.095, 28)), (True, ellipse(0.45, 0.36, 0.022, 0.035, 10)), (True, ellipse(0.55, 0.36, 0.022, 0.035, 10)),
-               (True, ellipse(0.37, 0.55, 0.028, 0.028, 12)), (True, ellipse(0.63, 0.55, 0.028, 0.028, 12)),
-               (False, [(0.40, 0.21), (0.50, 0.18), (0.60, 0.21)]),
-               (False, [(0.25, 0.66), (0.15, 0.80), (0.35, 0.71)]), (False, [(0.75, 0.66), (0.85, 0.80), (0.65, 0.71)])]
-    return outline, details
-
 POLYGONS = {'star': (star(), []), 'rocket': (ROCKET, []), 'house': (HOUSE, [(True, HOUSE_WINDOW)]), 'sailboat': (SAILBOAT, []),
-            'christmas-tree': (TREE, [(True, TREE_STAR)]), 'snowman': snowman(), 'pig': pig_head()}
+            'christmas-tree': (TREE, [(True, TREE_STAR)]), 'snowman': snowman()}
 
 # ---------- silhouettes ----------
 def raster(key):
@@ -336,8 +316,6 @@ ITEMS = [
          body='A bat with pointed wings and little ears. The zigzag of the wings is the fun part: every dot is a corner, and the picture only shows up at the end.'),
     dict(slug='christmas-tree-dot-to-dot', src='christmas-tree', diff=E, band='preschool', name='Christmas tree', themes=['christmas', 'nature'], occ=['christmas'], dmin=0.05,
          body='A three-tier Christmas tree with its trunk. The star on top is already drawn; join the dots underneath it, then decorate the branches with baubles.'),
-    dict(slug='pig-dot-to-dot', src='pig', n=20, diff=E, band='preschool', name='Pig', themes=['animals', 'farm'], occ=[], dmin=0.05,
-         body="A pig's face seen from the front, with two pointed ears. The snout, the eyes and the smile are printed; join the dots to draw the head and the ears around them."),
     dict(slug='sailboat-dot-to-dot', src='sailboat', diff=E, band='kids', name='Sailboat', themes=['vehicles', 'ocean'], occ=['summer'], dmin=0.035,
          body='A sailboat with a flag, a mast, two sails and a hull. Long straight lines and sharp corners: a good one for practising with a ruler.'),
     dict(slug='abc-butterfly-dot-to-dot', src='ph:butterfly-fill', n=26, diff=E, band='kids', name='Butterfly', letters=True, themes=['alphabet', 'animals', 'insects'], occ=['summer'], dmin=0.04, close=25,

@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/panne-a-la-tour-eiffel-mystere-feuille-ciseaux.png"
+cover_art: true
 title: "Panne à la Tour Eiffel (Mystère Feuille Ciseaux)"
 type: "escape"
 summary: "A free French 20-minute printable escape game for ages 9 to 11: stuck in the Eiffel Tower lift, players solve puzzles and cut out tools to open the escape hatch before the sweets melt. Kit sent by email."

@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/ninjitsu.png"
+cover_art: true
 title: "Ninjitsu!"
 type: "card"
 subtype: "family"

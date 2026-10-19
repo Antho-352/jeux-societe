@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/icetoids.png"
+cover_art: true
 title: "IceToids"
 type: "board"
 summary: "IceToids is a free print-and-play game from Looney Labs for 2 to 4 players: explore a hidden grid of 16 tiles and be the first to stand your three pieces on the tiles of your colour."

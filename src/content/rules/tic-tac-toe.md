@@ -7,6 +7,8 @@ category: "pen-and-paper"
 summary: "Tic-tac-toe is a pencil game for two players who take turns writing X and O in a 3×3 grid; the first to get three in a row wins, and perfect play always ends in a draw."
 players_min: 2
 players_max: 2
+age_min: 4
+time_min: 1
 time_max: 1
 equipment: ["paper and pencil", "or our printable sheet of 12 grids"]
 public_domain: true

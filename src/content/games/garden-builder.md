@@ -1,10 +1,15 @@
 ---
+cover: "/img/games/garden-builder.png"
+cover_art: true
 title: "Garden Builder"
 type: "board"
 subtype: "solo"
 summary: "A solo garden-planning game: draft seed and decoration cards, lay seed cubes in patterns to grow tomatoes, corn and marigolds, and keep pests away, over three rounds of a growing yard."
 players_min: 1
 players_max: 1
+age_min: 10
+time_min: 25
+time_max: 45
 themes: ["gardening", "plants", "nature", "backyard"]
 mechanics: ["card-drafting", "pattern-building", "grid-coverage", "set-collection"]
 languages: ["en"]

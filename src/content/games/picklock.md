@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/picklock.png"
+cover_art: true
 title: "Picklock!"
 type: "card"
 subtype: "solo"
@@ -7,7 +9,7 @@ players_min: 1
 players_max: 1
 age_min: 10
 time_min: 10
-time_max: 15
+time_max: 10
 themes: ["heist", "lock-picking", "thief"]
 mechanics: ["hand-management", "push-your-luck", "memory", "standard-deck"]
 languages: ["en"]

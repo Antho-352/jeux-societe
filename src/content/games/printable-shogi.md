@@ -1,10 +1,15 @@
 ---
+cover: "/img/games/printable-shogi.png"
+cover_art: true
 title: "Printable Shogi"
 type: "board"
 subtype: "template"
 summary: "A free printable shogi set: the 9x9 board, cut-out pieces with their promoted versions in red, a piece guide and a page of rules for Japanese chess."
 players_min: 2
 players_max: 2
+age_min: 8
+time_min: 60
+time_max: 60
 themes: ["classic", "abstract", "chess", "japan"]
 mechanics: ["grid-movement", "capture", "drop"]
 languages: ["en"]

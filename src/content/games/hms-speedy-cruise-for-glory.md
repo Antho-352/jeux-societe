@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/hms-speedy-cruise-for-glory.png"
+cover_art: true
 title: "HMS Speedy: Cruise for Glory"
 type: "card"
 subtype: "solo"

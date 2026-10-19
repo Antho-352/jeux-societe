@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/printable-heads-bodies-and-legs-game.png"
+cover_art: true
 title: "Printable Heads, Bodies, and Legs Game"
 type: "party"
 subtype: "template"

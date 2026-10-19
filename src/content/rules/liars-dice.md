@@ -7,6 +7,9 @@ category: "dice"
 summary: "Liar's dice is a bluffing game: everyone rolls five hidden dice, players take turns raising a bid about how many dice of a face are on the table, and whoever is caught wrong loses a die."
 players_min: 2
 players_max: 6
+age_min: 8
+time_min: 15
+time_max: 30
 equipment: ["five dice and a cup per player"]
 public_domain: true
 sources:

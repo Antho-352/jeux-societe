@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/ripples-and-branches-a-solo-game-of-haiku.png"
+cover_art: true
 title: "Ripples and Branches: A Solo Game of Haiku"
 type: "card"
 subtype: "solo"

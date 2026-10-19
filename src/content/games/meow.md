@@ -30,6 +30,7 @@ files:
   - { label: "Rulebook", url: "/pdf/meow/Meow-Rulebook.pdf" }
 source_url: "https://jellybean.games/meow/"
 cover: "/img/games/meow.png"
+cover_art: true
 status: "published"
 date_added: "2026-10-18"
 seo_title: "Meow! free print and play secret-rules card game"

@@ -48,17 +48,29 @@ function countBy(items: ListingItem[], key: string, labelOf: (v: string) => stri
   return opts;
 }
 const AGE_ORDER = ['preschool', 'kids', 'tweens', 'teens', 'adults'];
+// Player and time options; the same tests run in the browser (Listing.astro), keep them in sync.
+const PLAYERS: [string, string, (min: number, max: number) => boolean][] = [
+  ['solo', 'Solo', (min) => min === 1],
+  ['2', '2 players', (min, max) => min <= 2 && max >= 2],
+  ['2plus', '2+ players', (_min, max) => max >= 2],
+  ['3plus', '3+ players', (_min, max) => max >= 3],
+  ['party', 'Party (6+)', (_min, max) => max >= 6],
+];
+const TIMES: [string, string, (t: number) => boolean][] = [
+  ['15', 'Under 15 min', (t) => t <= 15],
+  ['30', 'Under 30 min', (t) => t <= 30],
+  ['60', 'Under an hour', (t) => t < 60],
+  ['60plus', '1 hour+', (t) => t >= 60],
+];
+function playerOptions(items: ListingItem[]) {
+  return PLAYERS.map(([value, label, test]) => ({ value, label, count: items.filter((i) => test(Number(i.data['players-min']), Number(i.data['players-max']))).length })).filter((o) => o.count > 0);
+}
+function timeOptions(items: ListingItem[]) {
+  return TIMES.map(([value, label, test]) => ({ value, label, count: items.filter((i) => i.sortTime !== undefined && test(i.sortTime)).length })).filter((o) => o.count > 0);
+}
 export function gameFacets(items: ListingItem[]) {
-  const players = [
-    { value: 'solo', label: 'Solo', count: items.filter((i) => Number(i.data['players-min']) === 1).length },
-    { value: '2', label: '2 players', count: items.filter((i) => Number(i.data['players-min']) <= 2 && Number(i.data['players-max']) >= 2).length },
-    { value: 'party', label: 'Party (6+)', count: items.filter((i) => Number(i.data['players-max']) >= 6).length },
-  ].filter((o) => o.count > 0);
-  const time = [
-    { value: '15', label: 'Under 15 min', count: items.filter((i) => (i.sortTime ?? 9999) <= 15).length },
-    { value: '30', label: 'Under 30 min', count: items.filter((i) => (i.sortTime ?? 9999) <= 30).length },
-    { value: '60', label: 'Under an hour', count: items.filter((i) => (i.sortTime ?? 9999) <= 60).length },
-  ].filter((o) => o.count > 0);
+  const players = playerOptions(items);
+  const time = timeOptions(items);
   return [
     { key: 'players', label: 'Players', options: players },
     { key: 'age', label: 'Age', options: countBy(items, 'age', (v) => AGE_BAND_LABEL[v] ?? v, AGE_ORDER) },
@@ -70,8 +82,10 @@ export function gameFacets(items: ListingItem[]) {
     { key: 'lang', label: 'Language', options: countBy(items, 'lang', (v) => ({ en: 'English', fr: 'French', de: 'German', es: 'Spanish', it: 'Italian', none: 'No text' })[v] ?? v.toUpperCase()) },
   ];
 }
+const PUZZLE_ORDER = ['dot-to-dot', 'sudoku', 'bingo', 'maze', 'word-search', 'crossword', 'rebus', 'logic'];
 export function puzzleFacets(items: ListingItem[]) {
   return [
+    { key: 'kind', label: 'Type', options: countBy(items, 'kind', (v) => (PUZZLE_LABEL as Record<string, string>)[v] ?? titleCase(v), PUZZLE_ORDER) },
     { key: 'difficulty', label: 'Difficulty', options: countBy(items, 'difficulty', titleCase, ['easy', 'medium', 'hard']) },
     { key: 'age', label: 'Age', options: countBy(items, 'age', (v) => AGE_BAND_LABEL[v] ?? v, AGE_ORDER) },
     { key: 'theme', label: 'Theme', options: countBy(items, 'theme', titleCase) },
@@ -81,11 +95,9 @@ export function puzzleFacets(items: ListingItem[]) {
 export function ruleFacets(items: ListingItem[]) {
   return [
     { key: 'category', label: 'Type', options: countBy(items, 'category', (v) => RULES_CATEGORY_LABEL[v as keyof typeof RULES_CATEGORY_LABEL] ?? titleCase(v)) },
-    { key: 'players', label: 'Players', options: [
-      { value: 'solo', label: 'Solo', count: items.filter((i) => Number(i.data['players-min']) === 1).length },
-      { value: '2', label: '2 players', count: items.filter((i) => Number(i.data['players-min']) <= 2 && Number(i.data['players-max']) >= 2).length },
-      { value: 'party', label: 'Party (6+)', count: items.filter((i) => Number(i.data['players-max']) >= 6).length },
-    ].filter((o) => o.count > 0) },
+    { key: 'players', label: 'Players', options: playerOptions(items) },
+    { key: 'age', label: 'Age', options: countBy(items, 'age', (v) => AGE_BAND_LABEL[v] ?? v, AGE_ORDER) },
+    { key: 'time', label: 'Play time', options: timeOptions(items) },
     { key: 'equipment', label: 'What you need', options: countBy(items, 'equipment', titleCase) },
     { key: 'printable', label: 'Printable', options: countBy(items, 'printable', (v) => (v === 'yes' ? 'PDF included' : 'Rules only')) },
   ];

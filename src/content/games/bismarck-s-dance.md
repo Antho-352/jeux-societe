@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/bismarck-s-dance.png"
+cover_art: true
 title: "Bismarck's Dance"
 type: "card"
 subtype: "solo"

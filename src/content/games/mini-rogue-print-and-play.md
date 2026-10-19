@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/mini-rogue-print-and-play.png"
+cover_art: true
 title: "Mini Rogue print and play (version 1.2)"
 type: "card"
 subtype: "solo"

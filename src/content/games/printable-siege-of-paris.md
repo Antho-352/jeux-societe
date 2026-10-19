@@ -1,10 +1,13 @@
 ---
+cover: "/img/games/printable-siege-of-paris.png"
+cover_art: true
 title: "Printable Siege of Paris"
 type: "board"
 subtype: "template"
 summary: "A free printable Siege of Paris set: a hunt-style war game in which one side defends a central citadel against two invading armies, with board, cut-out pieces and rules."
 players_min: 2
-players_max: 3
+players_max: 5
+age_min: 12
 themes: ["classic", "war-game", "history", "france"]
 mechanics: ["asymmetric", "grid-movement", "capture"]
 languages: ["en"]
@@ -31,7 +34,7 @@ seo_description: "Free printable Siege of Paris game from PrintablePaper.net: de
 
 Siege of Paris is an asymmetric war game themed on the siege of 1870 to 1871. A small French force holds the central citadel against two invading armies. This printable from PrintablePaper.net (Savetz Publishing) supplies the board on two pages, pieces for all three sides and a guide to how each rank moves.
 
-Like [Fox and Geese](/board-games/printable-fox-and-geese/), it pits a small, mobile defence against a large attack. The defender moves before each invading army, so it plays with three people, or two with one commanding both invaders.
+Like [Fox and Geese](/board-games/printable-fox-and-geese/), it pits a small, mobile defence against a large attack. The defender moves before each invading army, so it plays with three people, or two with one commanding both invaders; the rules sheet allows up to five.
 
 ## How to use it
 

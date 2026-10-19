@@ -7,6 +7,9 @@ category: "board"
 summary: "Mancala, in its common Kalah form, is a two-player sowing game: pick up the seeds from one pit, drop them one by one around the board, and capture more seeds in your store than your opponent."
 players_min: 2
 players_max: 2
+age_min: 5
+time_min: 10
+time_max: 10
 equipment: ["mancala board: 2 rows of 6 pits and 2 stores", "48 seeds, stones or beans"]
 public_domain: true
 printable: "/pdf/rules/mancala/mancala-board.pdf"

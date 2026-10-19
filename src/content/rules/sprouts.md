@@ -7,6 +7,8 @@ category: "pen-and-paper"
 summary: "Sprouts is a two-player pencil game: join spots with lines that never cross, add a new spot on every line, never let a spot have more than three lines, and make the last possible move."
 players_min: 2
 players_max: 2
+time_min: 10
+time_max: 10
 equipment: ["paper and pencil"]
 public_domain: true
 sources:

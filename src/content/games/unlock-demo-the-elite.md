@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/unlock-demo-the-elite.png"
+cover_art: true
 title: "Unlock! The Elite (free demo)"
 type: "escape"
 summary: "A 20-card Unlock! demo from Space Cowboys: a Las Vegas investigation you print, cut and play with the free Unlock! app, for 1 to 6 players in about 30 minutes."

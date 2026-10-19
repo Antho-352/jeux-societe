@@ -7,6 +7,9 @@ category: "dice"
 summary: "Farkle is a push-your-luck dice game: roll six dice, set aside scoring dice, then bank your points or roll again and risk losing them all; first to 10,000 points wins."
 players_min: 2
 players_max: 8
+age_min: 8
+time_min: 30
+time_max: 30
 equipment: ["six dice", "a score sheet and pencil"]
 public_domain: true
 printable: "/pdf/rules/farkle/farkle-score-sheet.pdf"

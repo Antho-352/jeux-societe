@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/zombie-in-my-pocket.png"
+cover_art: true
 title: "Zombie in My Pocket"
 type: "card"
 subtype: "solo"
@@ -6,6 +8,8 @@ summary: "Zombie in My Pocket is Jeremiah Lee's free solo print-and-play classic
 players_min: 1
 players_max: 1
 age_min: 11
+time_min: 5
+time_max: 5
 themes: ["zombies", "horror", "haunted-house"]
 mechanics: ["tile-placement", "solo", "modular-board", "card-driven-events"]
 languages: ["en"]

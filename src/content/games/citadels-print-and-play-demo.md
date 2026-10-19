@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/citadels-print-and-play-demo.png"
+cover_art: true
 title: "Citadels print-and-play demo"
 type: "card"
 subtype: "demo"

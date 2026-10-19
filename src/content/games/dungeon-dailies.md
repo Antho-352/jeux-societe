@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/dungeon-dailies.png"
+cover_art: true
 title: "Dungeon Dailies"
 type: "roll-and-write"
 subtype: "solo"

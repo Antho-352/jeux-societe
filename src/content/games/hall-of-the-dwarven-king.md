@@ -1,10 +1,15 @@
 ---
+cover: "/img/games/hall-of-the-dwarven-king.png"
+cover_art: true
 title: "Hall of the Dwarven King"
 type: "roll-and-write"
 subtype: "solo"
 summary: "Hall of the Dwarven King is a free solo roll-and-write by metalsnail: seven dice stand for unruly dwarves you must coax into building your palace instead of drinking and fighting."
 players_min: 1
 players_max: 1
+age_min: 10
+time_min: 15
+time_max: 15
 themes: ["fantasy", "dwarves", "palace-building"]
 mechanics: ["dice-rolling", "solo", "roll-and-write", "engine-building"]
 languages: ["en"]

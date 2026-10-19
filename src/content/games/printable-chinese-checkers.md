@@ -1,10 +1,15 @@
 ---
+cover: "/img/games/printable-chinese-checkers.png"
+cover_art: true
 title: "Printable Chinese Checkers"
 type: "board"
 subtype: "template"
 summary: "A free printable Chinese checkers set: the six-pointed star board and coloured cut-out pieces for two to six players, with a page of instructions."
 players_min: 2
 players_max: 6
+age_min: 7
+time_min: 30
+time_max: 30
 themes: ["classic", "abstract", "race"]
 mechanics: ["jumping", "race"]
 languages: ["en"]

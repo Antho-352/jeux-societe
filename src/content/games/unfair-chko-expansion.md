@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/unfair-chko-expansion.png"
+cover_art: true
 title: "Unfair: CHKO expansion"
 type: "card"
 subtype: "expansion"

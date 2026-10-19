@@ -7,6 +7,9 @@ category: "board"
 summary: "Go is a two-player strategy game: take turns placing black and white stones on the intersections of a grid, capture stones by surrounding them, and surround more territory than your opponent."
 players_min: 2
 players_max: 2
+age_min: 8
+time_min: 30
+time_max: 180
 equipment: ["9×9 go board (later 13×13 or 19×19)", "black and white stones"]
 public_domain: true
 printable: "/pdf/rules/go/go-board-9x9.pdf"

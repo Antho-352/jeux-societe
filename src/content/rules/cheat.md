@@ -7,6 +7,7 @@ category: "card"
 summary: "Cheat is the bluffing game where cards are played face down and announced as the next rank in sequence; call a lie and someone picks up the whole pile."
 players_min: 2
 players_max: 10
+age_min: 8
 time_min: 10
 time_max: 30
 equipment: ["Standard 52-card deck (two decks for large groups)"]

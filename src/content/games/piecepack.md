@@ -1,10 +1,13 @@
 ---
+cover: "/img/games/piecepack.png"
+cover_art: true
 title: "Piecepack (printable game system)"
 type: "board"
 subtype: "game-system"
 summary: "The piecepack is a public-domain set of tiles, coins, dice and pawns that plays hundreds of games, like a deck of cards for board games, and free printable sets are online."
 players_min: 1
 players_max: 4
+age_min: 5
 time_min: 10
 time_max: 30
 themes: ["abstract", "game-system"]

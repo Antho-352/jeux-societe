@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/hide-nor-hare.png"
+cover_art: true
 title: "Hide nor Hare"
 type: "roll-and-write"
 subtype: "solo"
@@ -7,7 +9,7 @@ players_min: 1
 players_max: 1
 age_min: 10
 time_min: 15
-time_max: 30
+time_max: 15
 themes: ["animals", "hide-and-seek", "park", "logic-puzzle"]
 mechanics: ["dice-rolling", "tile-placement", "logic-puzzle", "roll-and-write"]
 languages: ["en"]

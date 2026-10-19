@@ -8,6 +8,7 @@ summary: "Connect Four is a two-player game: drop discs into a seven-column upri
 players_min: 2
 players_max: 2
 age_min: 6
+time_min: 10
 time_max: 10
 equipment: ["Connect Four grid of 7 columns × 6 rows", "21 discs of each colour"]
 public_domain: false

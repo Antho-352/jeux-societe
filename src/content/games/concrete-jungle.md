@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/concrete-jungle.png"
+cover_art: true
 title: "Concrete Jungle"
 type: "card"
 subtype: "solo"

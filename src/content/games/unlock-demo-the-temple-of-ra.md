@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/unlock-demo-the-temple-of-ra.png"
+cover_art: true
 title: "Unlock! The Temple of Ra (free demo)"
 type: "escape"
 summary: "A 24-card Unlock! demo in the Valley of the Kings: sneak into a freshly excavated temple at night and find its treasure. Print, cut and play with the free app, 1 to 6 players."

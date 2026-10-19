@@ -1,10 +1,15 @@
 ---
+cover: "/img/games/printable-crossword-game-with-friends.png"
+cover_art: true
 title: "Printable Crossword Game with Friends"
 type: "board"
 subtype: "template"
 summary: "A free printable Scrabble-style word game: a 15x15 board with double and triple letter and word squares, 100 letter tiles with point values, and a page of rules."
 players_min: 2
 players_max: 4
+age_min: 10
+time_min: 90
+time_max: 90
 themes: ["word-game", "classic", "letters"]
 mechanics: ["tile-placement", "word-building"]
 languages: ["en"]

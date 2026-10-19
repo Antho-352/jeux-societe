@@ -52,11 +52,11 @@ export const RULES_CATEGORY_LABEL: Record<Rule['data']['category'], string> = {
   tile: 'Tile game',
 };
 export const AGE_BAND_LABEL: Record<string, string> = {
-  preschool: 'Ages 3–5',
+  preschool: 'Under 6',
   kids: 'Ages 6–8',
   tweens: 'Ages 9–12',
-  teens: 'Teens',
-  adults: 'Adults',
+  teens: 'Teens (13+)',
+  adults: 'Adults (14+)',
 };
 export const OCCASION_LABEL: Record<string, string> = {
   christmas: 'Christmas', halloween: 'Halloween', thanksgiving: 'Thanksgiving', easter: 'Easter', valentines: "Valentine's Day",
@@ -69,7 +69,7 @@ export function ageBand(ageMin?: number): string | undefined {
   if (ageMin < 6) return 'preschool';
   if (ageMin < 9) return 'kids';
   if (ageMin < 13) return 'tweens';
-  if (ageMin < 18) return 'teens';
+  if (ageMin < 14) return 'teens';
   return 'adults';
 }
 export function playersLabel(min: number, max: number): string {

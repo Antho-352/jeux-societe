@@ -7,6 +7,7 @@ category: "board"
 summary: "Backgammon is a race for two players: move 15 checkers with two dice, hit blots, and be first to bear all your checkers off."
 players_min: 2
 players_max: 2
+age_min: 8
 time_min: 5
 time_max: 60
 equipment: ["Backgammon board with 24 points", "15 checkers each", "Two dice each, or one shared pair", "A doubling cube if you are scoring games"]

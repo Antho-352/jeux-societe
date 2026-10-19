@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/unfair-solo-mode-quinn.png"
+cover_art: true
 title: "Unfair: Quinn solo mode"
 type: "card"
 subtype: "solo"

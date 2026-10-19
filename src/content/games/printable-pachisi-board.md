@@ -1,10 +1,15 @@
 ---
+cover: "/img/games/printable-pachisi-board.png"
+cover_art: true
 title: "Printable Pachisi Board"
 type: "board"
 subtype: "template"
 summary: "A free printable Pachisi (Parcheesi) board for two to four players, with cut-out pawns and a page of rules: roll a five to leave the nest, race around the cross and bring four pieces home."
 players_min: 2
 players_max: 4
+age_min: 5
+time_min: 30
+time_max: 30
 themes: ["classic", "race", "india", "family"]
 mechanics: ["dice-rolling", "race", "capture"]
 languages: ["en"]

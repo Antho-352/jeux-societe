@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/orchard-9-card-solitaire.png"
+cover_art: true
 title: "Orchard: A 9-Card Solitaire Game"
 type: "card"
 subtype: "solo"

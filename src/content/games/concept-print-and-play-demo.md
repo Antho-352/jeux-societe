@@ -1,4 +1,6 @@
 ---
+cover: "/img/games/concept-print-and-play-demo.png"
+cover_art: true
 title: "Concept print-and-play demo"
 type: "party"
 subtype: "demo"

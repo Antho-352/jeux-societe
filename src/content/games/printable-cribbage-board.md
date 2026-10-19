@@ -1,11 +1,15 @@
 ---
 cover: "/img/games/printable-cribbage-board.png"
+cover_art: true
 title: "Printable Cribbage Board"
 type: "board"
 subtype: "template"
 summary: "A free printable cribbage board on one Letter page, with a page of instructions covering dealing, the crib, pegging to 31 and scoring. Add a deck of cards and coloured pegs or pins."
 players_min: 2
 players_max: 3
+age_min: 10
+time_min: 30
+time_max: 30
 themes: ["classic", "card-game", "scoring"]
 mechanics: ["scoring-track"]
 languages: ["en"]
