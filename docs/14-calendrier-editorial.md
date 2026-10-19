@@ -36,36 +36,36 @@ Généré par `scripts/blog_calendar.py` à partir de `data/blog-topics-*.json`.
 | 28 | jeudi 24 déc. 2026 · 14:15 | Best board games for adults: 20 picks from party to strategy | best board games for adults | 5400 | 0 | `/board-games/` | 3 |
 | 29 | mardi 29 déc. 2026 · 15:10 | Board games for 3 players: 12 games that shine with three | board games for 3 players | 1000 | 0 | `/board-games/` | 1 |
 | 30 | vendredi 1 janv. 2027 · 20:10 | Valentine's Day classroom games: 10 party games with just paper | valentines day classroom games | 390 | 0 | `/occasions/valentines/` | 1 |
-| 31 | mardi 5 janv. 2027 · 17:20 | Bingo patterns: 30 games to call, from blackout to picture frame | bingo patterns | 5400 | 0 | `/bingo/` | 1 |
-| 32 | vendredi 8 janv. 2027 · 19:25 | Mancala strategy: 7 tips to win at mancala (Kalah rules) | mancala strategy | 1600 | 0 | `/rules/board-games/` | 1 |
-| 33 | jeudi 14 janv. 2027 · 13:55 | Board games for seniors: 12 easy games, several free to print large | board games for seniors | 1600 | 0 | `/board-games/printable-boards/` | 1 |
-| 34 | samedi 16 janv. 2027 · 16:35 | Types of solitaire: 12 solo card games to play with one deck | types of solitaire | 1300 | 0 | `/board-games/solo/` | 1 |
-| 35 | jeudi 21 janv. 2027 · 14:00 | Games like chess: 10 strategy games from around the world | games like chess | 1300 | 0 | `/board-games/printable-boards/` | 1 |
-| 36 | samedi 23 janv. 2027 · 12:50 | Leprechaun hunt: how to set up a St Patrick's Day clue trail | leprechaun hunt | 390 | 0 | `/scavenger-hunts/` | 1 |
-| 37 | jeudi 28 janv. 2027 · 13:15 | Easter scavenger hunt clues: 40 riddles for kids, teens and adults | easter scavenger hunt clues | 1600 | 2 | `/scavenger-hunts/` | 1 |
-| 38 | samedi 30 janv. 2027 · 17:35 | Easter egg hunt ideas: 20 twists for toddlers, teens and adults | easter egg hunt ideas | 1600 | 0 | `/occasions/easter/` | 2 |
-| 39 | lundi 1 févr. 2027 · 12:25 | Card games for seniors: 10 easy, social games to play anywhere | card games for seniors | 1000 | 0 | `/rules/card-games/` | 1 |
-| 40 | mercredi 3 févr. 2027 · 20:35 | Early finisher activities: 20 no-prep printables by grade | early finisher activities | 880 | 0 | `/puzzles/` | 1 |
-| 41 | mercredi 10 févr. 2027 · 21:10 | Bingo prize ideas: 40 cheap prizes for adults, kids and seniors | bingo prizes for adults | 480 | 0 | `/bingo/` | 1 |
-| 42 | vendredi 12 févr. 2027 · 20:25 | Yahtzee strategy: the real odds and 8 tips for a higher score | yahtzee strategy | 480 | 0 | `/rules/dice-games/` | 1 |
-| 43 | lundi 15 févr. 2027 · 18:30 | 2 player spades: 3 ways to play spades with two people | 2 player spades | 1900 | 1 | `/rules/card-games/` | 1 |
-| 44 | vendredi 19 févr. 2027 · 19:15 | How to make a paper dice: free templates and 3 folding methods | how to make a paper dice | 1300 | 1 | `/dice-games/` | 1 |
-| 45 | mardi 23 févr. 2027 · 14:15 | Scavenger hunt clues: 50 riddles for every room, with answers | scavenger hunt clues | 3600 | 2 | `/scavenger-hunts/` | 1 |
-| 46 | jeudi 25 févr. 2027 · 13:10 | How to win at Uno: 10 strategies that actually work | how to win at uno | 1900 | 2 | `/rules/card-games/` | 1 |
-| 47 | lundi 1 mars 2027 · 21:50 | Who goes first in chess? White, and does it give an advantage? | who goes first in chess | 2400 | 3 | `/rules/board-games/` | 1 |
-| 48 | vendredi 5 mars 2027 · 15:45 | Can you stack in Uno? Draw 2, Draw 4 and other house rules settled | can you stack in uno | 1600 | 3 | `/rules/card-games/` | 1 |
-| 49 | mardi 9 mars 2027 · 16:20 | Games like tic tac toe: 10 smarter games of three (and more) in a row | games like tic tac toe | 720 | 3 | `/rules/pen-and-paper/` | 1 |
-| 50 | jeudi 11 mars 2027 · 20:00 | Backgammon strategy: 10 tips to win more games | backgammon strategy | 1300 | 4 | `/rules/board-games/` | 1 |
-| 51 | lundi 15 mars 2027 · 15:45 | Is sudoku good for your brain? What the research says | is sudoku good for your brain | 1900 | 5 | `/puzzles/sudoku/` | 1 |
-| 52 | mercredi 17 mars 2027 · 12:50 | Human bingo: how to play, plus 75 find-someone-who squares | human bingo | 3600 | 6 | `/bingo/` | 1 |
-| 53 | lundi 22 mars 2027 · 17:20 | Activities for 4 year olds: 25 quiet printable ideas at home | activities for 4 year olds | 2400 | 6 | `/puzzles/mazes/easy/` | 1 |
-| 54 | vendredi 26 mars 2027 · 16:35 | How to draw a maze: 3 easy methods for kids and adults | how to draw a maze | 1000 | 6 | `/puzzles/mazes/` | 1 |
-| 55 | lundi 29 mars 2027 · 15:45 | How to make a card game: design, print and cut your own deck | how to make a card game | 880 | 9 | `/card-games/` | 1 |
-| 56 | jeudi 1 avr. 2027 · 20:05 | Are word searches good for your brain? Benefits by age | are word searches good for your brain | 880 | 13 | `/puzzles/word-search/` | 1 |
-| 57 | mercredi 7 avr. 2027 · 13:10 | 2 player card games: 15 best games for two with one deck | 2 player card games | 40500 | 0 | `/rules/card-games/` | 3 |
-| 58 | vendredi 9 avr. 2027 · 17:35 | Social deduction games: what they are, and 10 you can print free | social deduction games | 14800 | 2 | `/party-games/` | 3 |
-| 59 | mardi 13 avr. 2027 · 20:20 | Trick-taking card games: how they work, plus 12 to try | trick taking card games | 12100 | 3 | `/rules/card-games/` | 3 |
-| 60 | jeudi 15 avr. 2027 · 18:20 | Bingo calls: all 90 nicknames, from Kelly's eye to top of the shop | bingo calls | 9900 | 4 | `/bingo/` | 3 |
+| 31 | jeudi 7 janv. 2027 · 14:45 | Bingo patterns: 30 games to call, from blackout to picture frame | bingo patterns | 5400 | 0 | `/bingo/` | 1 |
+| 32 | samedi 9 janv. 2027 · 16:45 | Mancala strategy: 7 tips to win at mancala (Kalah rules) | mancala strategy | 1600 | 0 | `/rules/board-games/` | 1 |
+| 33 | mardi 12 janv. 2027 · 17:10 | Board games for seniors: 12 easy games, several free to print large | board games for seniors | 1600 | 0 | `/board-games/printable-boards/` | 1 |
+| 34 | vendredi 15 janv. 2027 · 21:15 | Types of solitaire: 12 solo card games to play with one deck | types of solitaire | 1300 | 0 | `/board-games/solo/` | 1 |
+| 35 | mardi 19 janv. 2027 · 17:05 | Games like chess: 10 strategy games from around the world | games like chess | 1300 | 0 | `/board-games/printable-boards/` | 1 |
+| 36 | jeudi 21 janv. 2027 · 18:10 | Leprechaun hunt: how to set up a St Patrick's Day clue trail | leprechaun hunt | 390 | 0 | `/scavenger-hunts/` | 1 |
+| 37 | mardi 26 janv. 2027 · 13:25 | Easter scavenger hunt clues: 40 riddles for kids, teens and adults | easter scavenger hunt clues | 1600 | 2 | `/scavenger-hunts/` | 1 |
+| 38 | jeudi 28 janv. 2027 · 12:40 | Easter egg hunt ideas: 20 twists for toddlers, teens and adults | easter egg hunt ideas | 1600 | 0 | `/occasions/easter/` | 2 |
+| 39 | lundi 1 févr. 2027 · 20:55 | Card games for seniors: 10 easy, social games to play anywhere | card games for seniors | 1000 | 0 | `/rules/card-games/` | 1 |
+| 40 | mercredi 3 févr. 2027 · 21:15 | Early finisher activities: 20 no-prep printables by grade | early finisher activities | 880 | 0 | `/puzzles/` | 1 |
+| 41 | mercredi 10 févr. 2027 · 14:15 | Bingo prize ideas: 40 cheap prizes for adults, kids and seniors | bingo prizes for adults | 480 | 0 | `/bingo/` | 1 |
+| 42 | samedi 13 févr. 2027 · 12:25 | Yahtzee strategy: the real odds and 8 tips for a higher score | yahtzee strategy | 480 | 0 | `/rules/dice-games/` | 1 |
+| 43 | mercredi 17 févr. 2027 · 20:10 | 2 player spades: 3 ways to play spades with two people | 2 player spades | 1900 | 1 | `/rules/card-games/` | 1 |
+| 44 | vendredi 19 févr. 2027 · 19:45 | How to make a paper dice: free templates and 3 folding methods | how to make a paper dice | 1300 | 1 | `/dice-games/` | 1 |
+| 45 | mercredi 24 févr. 2027 · 17:35 | Scavenger hunt clues: 50 riddles for every room, with answers | scavenger hunt clues | 3600 | 2 | `/scavenger-hunts/` | 1 |
+| 46 | samedi 27 févr. 2027 · 12:45 | How to win at Uno: 10 strategies that actually work | how to win at uno | 1900 | 2 | `/rules/card-games/` | 1 |
+| 47 | mercredi 3 mars 2027 · 16:35 | Who goes first in chess? White, and does it give an advantage? | who goes first in chess | 2400 | 3 | `/rules/board-games/` | 1 |
+| 48 | samedi 6 mars 2027 · 20:05 | Can you stack in Uno? Draw 2, Draw 4 and other house rules settled | can you stack in uno | 1600 | 3 | `/rules/card-games/` | 1 |
+| 49 | mardi 9 mars 2027 · 12:50 | Games like tic tac toe: 10 smarter games of three (and more) in a row | games like tic tac toe | 720 | 3 | `/rules/pen-and-paper/` | 1 |
+| 50 | samedi 13 mars 2027 · 20:55 | Backgammon strategy: 10 tips to win more games | backgammon strategy | 1300 | 4 | `/rules/board-games/` | 1 |
+| 51 | lundi 15 mars 2027 · 13:15 | Is sudoku good for your brain? What the research says | is sudoku good for your brain | 1900 | 5 | `/puzzles/sudoku/` | 1 |
+| 52 | vendredi 19 mars 2027 · 17:35 | Human bingo: how to play, plus 75 find-someone-who squares | human bingo | 3600 | 6 | `/bingo/` | 1 |
+| 53 | lundi 22 mars 2027 · 12:25 | Activities for 4 year olds: 25 quiet printable ideas at home | activities for 4 year olds | 2400 | 6 | `/puzzles/mazes/easy/` | 1 |
+| 54 | mercredi 24 mars 2027 · 20:35 | How to draw a maze: 3 easy methods for kids and adults | how to draw a maze | 1000 | 6 | `/puzzles/mazes/` | 1 |
+| 55 | mercredi 31 mars 2027 · 21:10 | How to make a card game: design, print and cut your own deck | how to make a card game | 880 | 9 | `/card-games/` | 1 |
+| 56 | vendredi 2 avr. 2027 · 20:25 | Are word searches good for your brain? Benefits by age | are word searches good for your brain | 880 | 13 | `/puzzles/word-search/` | 1 |
+| 57 | lundi 5 avr. 2027 · 18:30 | 2 player card games: 15 best games for two with one deck | 2 player card games | 40500 | 0 | `/rules/card-games/` | 3 |
+| 58 | vendredi 9 avr. 2027 · 19:15 | Social deduction games: what they are, and 10 you can print free | social deduction games | 14800 | 2 | `/party-games/` | 3 |
+| 59 | mardi 13 avr. 2027 · 14:15 | Trick-taking card games: how they work, plus 12 to try | trick taking card games | 12100 | 3 | `/rules/card-games/` | 3 |
+| 60 | jeudi 15 avr. 2027 · 13:10 | Bingo calls: all 90 nicknames, from Kelly's eye to top of the shop | bingo calls | 9900 | 4 | `/bingo/` | 3 |
 
 ## Sujets en réserve (non planifiés)
 
