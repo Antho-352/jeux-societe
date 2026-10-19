@@ -16,7 +16,7 @@ components_included: ["Official print-and-play version available from Tuesday Kn
 components_needed: ["Timer", "printer", "scissors"]
 designers: ["Alan Gerding", "Sean McCoy"]
 publisher: "Tuesday Knight Games"
-year: 2014
+year: 2013
 licence: "The publisher states that its Print-n-Play version is totally free; no redistribution licence is stated."
 licence_url: "https://www.tuesdayknightgames.com/products/two-rooms-and-a-boom"
 hosting_mode: "link"
