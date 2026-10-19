@@ -46,10 +46,33 @@ const orgLd = { '@context': 'https://schema.org', '@type': 'WebSite', name: 'Pri
       </div>
       {chips.length > 0 && <div class="row" style="--gap:8px">{chips.map((c) => <a class="chip" href={c.href}>{c.label}</a>)}</div>}
     </div>
-    <div class="hero-art" aria-hidden="true">
-      <div class="card-a"></div>
-      <div class="card-b">Escape<br />the attic<small>2–5 players · 45 min · 8+</small></div>
-      <span class="badge">100%<br />free</span>
+    <div class="hero-art playloop" aria-hidden="true">
+      <div class="stage">
+        <div class="beat beat-dl">
+          <div class="mini-page">
+            <strong>Tonight</strong>
+            <span class="dl-btn">Download PDF</span>
+            <span class="sheet"></span>
+          </div>
+        </div>
+        <div class="beat beat-cut">
+          <div class="sheet-page">
+            <span></span><span></span><span></span><span></span>
+          </div>
+          <svg class="scissors" viewBox="0 0 64 40" width="54" height="34">
+            <circle cx="14" cy="12" r="8" fill="none" stroke="#0F3D2E" stroke-width="3"/>
+            <circle cx="14" cy="28" r="8" fill="none" stroke="#0F3D2E" stroke-width="3"/>
+            <path d="M20 16 L58 8 M20 24 L58 32" fill="none" stroke="#0F3D2E" stroke-width="3" stroke-linecap="round"/>
+          </svg>
+        </div>
+        <div class="beat beat-play">
+          <div class="table"></div>
+          <div class="person left"><i></i><b></b></div>
+          <div class="person right"><i></i><b></b></div>
+          <span class="dealt"></span>
+        </div>
+      </div>
+      <p class="beat-caption"><span>Download</span><span>Cut</span><span>Play</span></p>
     </div>
   </section>
 

@@ -32,7 +32,7 @@ seo_description: "Lost Fighters Arena is a free 2-player print-and-play fighting
 <!-- hand-edited -->
 ## About Lost Fighters Arena
 
-Lost Fighters Arena is a fast one-on-one fighting game where every punch comes from a dice combination. Two fighters face off in a small hexagonal arena surrounded by electrified ropes; the first to drop from 20 HP to zero loses. The rarer the combination you roll, the harder the hit, and where you stand decides what you go for: up close you pound with sets, at range you charge in with straights or catch your breath with a heal.
+Lost Fighters Arena is a one-on-one dice fight built on a Yahtzee roll. You roll five dice, reroll twice, then turn three of a kind, a straight or a Yahtzee into a strike, a charge or a heal. Two fighters face off in a small hexagonal arena surrounded by electrified ropes; the first to drop from 20 HP to zero loses. The rarer the combination, the harder the hit, and where you stand decides the move: up close you pound with sets, at range you charge in with straights or catch your breath with a heal.
 
 It is designed and illustrated by BigBoyShino (Alex) and released for free on itch.io as a prototype, version 3 at the time of writing. The setting is the Lost Fighters universe: fights to the death broadcast across the galaxy by Channel Zero, with a comic page for each fighter. The itch.io page discloses that the graphics are AI-assisted.
 
