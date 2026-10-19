@@ -129,8 +129,8 @@ p { margin: 0; }
 .playloop .seat i::after { content: ""; position: absolute; left: 8px; top: 12px; width: 4px; height: 4px; border-radius: 50%; background: #fff; box-shadow: 12px 0 0 #fff; }
 .playloop .seat i::before { content: ""; position: absolute; left: 10px; top: 20px; width: 12px; height: 6px; border-bottom: 2px solid #fff; border-radius: 0 0 10px 10px; }
 .playloop .seat em { position: absolute; width: 16px; height: 16px; top: -6px; right: -4px; border-top: 2px solid var(--primary); border-right: 2px solid var(--primary); transform: rotate(20deg); animation: joy 12s infinite; }
-.playloop .s1 { left: 18px; top: 70px; } .playloop .s2 { right: 18px; top: 70px; }
-.playloop .s3 { left: 18px; bottom: 16px; } .playloop .s4 { right: 18px; bottom: 16px; }
+.playloop .s1 { left: 6px; top: 160px; } .playloop .s2 { right: 6px; top: 160px; }
+.playloop .s3 { left: 6px; bottom: 6px; } .playloop .s4 { right: 6px; bottom: 6px; }
 .playloop .pile { position: absolute; left: 50%; top: 186px; transform: translateX(-50%); display: flex; gap: 4px; }
 .playloop .pile span { width: 26px; height: 36px; background: #fff; border: 2px solid var(--ink); border-radius: 4px; display: grid; place-items: center; font-weight: 800; }
 .playloop .beat { animation-duration: 16s; }
@@ -150,8 +150,8 @@ p { margin: 0; }
 .playloop .table { left: 48px; right: 48px; top: 118px; height: 210px; border-radius: 28px; }
 .playloop .seat b { width: 62px; height: 48px; }
 .playloop .seat { width: 72px; }
-.playloop .s1 { left: 18px; top: 70px; } .playloop .s2 { right: 18px; top: 70px; }
-.playloop .s3 { left: 18px; bottom: 16px; } .playloop .s4 { right: 18px; bottom: 16px; }
+.playloop .s1 { left: 6px; top: 160px; } .playloop .s2 { right: 6px; top: 160px; }
+.playloop .s3 { left: 6px; bottom: 6px; } .playloop .s4 { right: 6px; bottom: 6px; }
 .playloop .pcard { position: absolute; width: 24px; height: 32px; background: #fff; border: 2px solid var(--ink); border-radius: 4px; display: grid; place-items: center; font-weight: 800; font-size: 12px; top: 8px; }
 .playloop .spot .pcard { position: static; top: auto; }
 .playloop .pcard.a { animation: playa 16s infinite; position: relative; }
