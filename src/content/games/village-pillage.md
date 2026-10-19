@@ -22,8 +22,13 @@ designers: ["Tom Lang", "Peter C. Hayward"]
 artists: ["Tania Walker"]
 publisher: "Jellybean Games"
 year: 2019
-licence: "Free for personal use, © Jellybean Games"
-hosting_mode: "link"
+licence: "Jellybean hereby permits the redistribution and hosting of this content, provided that clear credit is given to the original creator."
+hosting_mode: "mirror"
+download_url: "/pdf/village-pillage/Village-Pillage-all-cards-full-art.pdf"
+download_size_mb: 24.9
+files:
+  - { label: "Cards, full art", url: "/pdf/village-pillage/Village-Pillage-all-cards-full-art.pdf" }
+  - { label: "Cannoneer promo", url: "/pdf/village-pillage/Cannoneer-Corrected.pdf" }
 source_url: "https://jellybean.games/village-pillage/"
 status: "published"
 date_added: "2026-10-18"
@@ -35,7 +40,7 @@ seo_description: "Village Pillage by Jellybean Games: a 10–15 minute card game
 
 Village Pillage is a card game of simultaneous play (everyone chooses in secret, then all cards flip at once) for 2 to 5 players, designed by Tom Lang and Peter C. Hayward with art by Tania Walker, published by Jellybean Games. Each village starts with four identical cards: Farmer, Wall, Raider and Merchant. Farmers grow turnips, Walls protect and bank them, Raiders steal from Farmers and Merchants, and Merchants buy better cards from the market or trade turnips for a royal relic. Three relics make you a kingdom and win the game.
 
-Because you play one card to each neighbour, every round is two small rock-paper-scissors guesses, and with four or five players you also have to watch what the people you cannot reach are doing to each other. Games take 10 to 15 minutes and the box age is 10+. The print-and-play includes the full base game, the Surf & Turf expansion cards and the Cannoneer promo; the publisher's files are free for personal use, so the download button goes to jellybean.games.
+Because you play one card to each neighbour, every round is two small rock-paper-scissors guesses, and with four or five players you also have to watch what the people you cannot reach are doing to each other. Games take 10 to 15 minutes and the box age is 10+.The rulebook and the Surf & Turf cards are over 25 MiB, so they stay on jellybean.games. The full-art cards and the Cannoneer promo are hosted here, with credit to Peter C. Hayward, Tom Lang and Jellybean Games.
 
 ## How to play in one minute
 

@@ -23,8 +23,13 @@ designers: ["Peter C. Hayward", "Tom Lang"]
 artists: ["Michael Dashow"]
 publisher: "Jellybean Games"
 year: 2020
-licence: "Free for personal use, © Jellybean Games"
-hosting_mode: "link"
+licence: "Jellybean hereby permits the redistribution and hosting of this content, provided that clear credit is given to the original creator."
+hosting_mode: "mirror"
+download_url: "/pdf/dracula-s-feast-new-blood/v6-Dracula-s-Feast-New-Blood-cards-compressed.pdf"
+download_size_mb: 7.0
+files:
+  - { label: "Cards", url: "/pdf/dracula-s-feast-new-blood/v6-Dracula-s-Feast-New-Blood-cards-compressed.pdf" }
+  - { label: "Rulebook", url: "/pdf/dracula-s-feast-new-blood/Dracula-s-Feast-New-Blood-Rulebook.pdf" }
 source_url: "https://jellybean.games/draculas-feast-new-blood/"
 status: "published"
 date_added: "2026-10-18"
@@ -36,7 +41,7 @@ seo_description: "Dracula's Feast: New Blood by Jellybean Games: the second edit
 
 Dracula's Feast: New Blood is the second edition of Dracula's Feast, redesigned by Peter C. Hayward and Tom Lang with new art by Michael Dashow, published by Jellybean Games. It is a deduction game for 4 to 8 players: every guest at Dracula's dinner has a unique identity and a special ability, one guest lies face down as a Mystery Guest, and the first player to accuse everyone correctly wins. The second edition trims the cast to ten guests, adds a second Mystery Guest in four-player games and tidies the rules; a refused dance now lets you inquire of someone else instead of ending your turn.
 
-Games run 10 to 15 minutes for ages 10 and up, with more to deduce the more players there are. It is the first game in the Masquerade series, and Night of the Mummy can be mixed in. Jellybean Games offers the rulebook and card sheets free for personal use on its print-and-play page, so the download button goes there.
+Games run 10 to 15 minutes for ages 10 and up, with more to deduce the more players there are. It is the first game in the Masquerade series, and Night of the Mummy can be mixed in. Hosted here, with credit to the original creators.
 
 ## How to play in one minute
 

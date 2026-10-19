@@ -23,8 +23,13 @@ designers: ["Peter C. Hayward"]
 artists: ["Michael Dashow"]
 publisher: "Jellybean Games"
 year: 2022
-licence: "Free for personal use, © Jellybean Games"
-hosting_mode: "link"
+licence: "Jellybean hereby permits the redistribution and hosting of this content, provided that clear credit is given to the original creator."
+hosting_mode: "mirror"
+download_url: "/pdf/night-of-the-mummy/Night-of-the-Mummy-Full-art-print-and-play.pdf"
+download_size_mb: 7.9
+files:
+  - { label: "Full-art print and play", url: "/pdf/night-of-the-mummy/Night-of-the-Mummy-Full-art-print-and-play.pdf" }
+  - { label: "Rulebook v4", url: "/pdf/night-of-the-mummy/Rulebook-v4.pdf" }
 source_url: "https://jellybean.games/night-of-the-mummy/"
 status: "published"
 date_added: "2026-10-18"
@@ -36,7 +41,7 @@ seo_description: "Night of the Mummy by Jellybean Games: a 15–20 minute deduct
 
 Night of the Mummy is the second game in Jellybean Games' Masquerade series, a standalone sequel to Dracula's Feast: New Blood by Peter C. Hayward with art by Michael Dashow. The Mummy's curse has brought the exhibits of the Museum of Unnatural History to life, and they have crashed the annual masquerade ball. Each of the 4 to 8 players is one guest, from the Gargoyle and the Sasquatch to the Statue of Anubis, each with a unique ability; deduce who everyone is and accuse them all to break the curse.
 
-The rules follow New Blood with one change that gives the game its character: some guests hide their face when they dance, showing the back of their card instead, so a dance no longer guarantees information. The Cat Burglar, the Magic Mirror and the Picture of Dorian Gray all play on that. It runs 15 to 20 minutes for ages 10 and up, can be combined with New Blood, and does not need it. The files are free for personal use on jellybean.games, so the download button goes there.
+The rules follow New Blood with one change that gives the game its character: some guests hide their face when they dance, showing the back of their card instead, so a dance no longer guarantees information. The Cat Burglar, the Magic Mirror and the Picture of Dorian Gray all play on that. It runs 15 to 20 minutes for ages 10 and up, can be combined with New Blood, and does not need it. Hosted here, with credit to the original creators.
 
 ## How to play in one minute
 

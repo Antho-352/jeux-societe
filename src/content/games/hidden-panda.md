@@ -22,8 +22,14 @@ designers: ["Peter C. Hayward"]
 artists: ["Kelly Jo"]
 publisher: "Jellybean Games"
 year: 2019
-licence: "Free for personal use, © Jellybean Games"
-hosting_mode: "link"
+licence: "Jellybean hereby permits the redistribution and hosting of this content, provided that clear credit is given to the original creator."
+hosting_mode: "mirror"
+download_url: "/pdf/hidden-panda/Hidden-Panda-Cards.pdf"
+download_size_mb: 1.4
+files:
+  - { label: "Cards", url: "/pdf/hidden-panda/Hidden-Panda-Cards.pdf" }
+  - { label: "Tokens", url: "/pdf/hidden-panda/HP-Tokens.pdf" }
+  - { label: "Rulebook", url: "/pdf/hidden-panda/Rulebook-Hidden-Panda.pdf" }
 source_url: "https://jellybean.games/hidden-panda/"
 status: "published"
 date_added: "2026-10-18"
@@ -35,7 +41,7 @@ seo_description: "Hidden Panda by Jellybean Games: a 20-minute social deduction 
 
 Hidden Panda is a light social deduction game (hidden teams, open voting) for 5 to 8 players by Peter C. Hayward, with art by Kelly Jo, published by Jellybean Games. Three Bandits have been stealing baby panda cubs; a Rescue Team of Pandas, zookeepers (the Keepers) and Grandma has sneaked into their camp to get the cubs back. Grandma is the only public role. Everyone else keeps their card face down and shows their colours only through what they do with the cubs and the nets.
 
-Each turn is simple: hand out three cubs and place one net. There is no moderator and no night phase once the opening script is read, and a game runs about 20 minutes, so it works as a warm-up or with players who find Werewolf-style elimination games too slow. The publisher lists it for ages 8 and up. Jellybean Games puts the rulebook, cards and token sheets on its free print-and-play page; the files carry a plain copyright notice, so the download button goes there.
+Each turn is simple: hand out three cubs and place one net. There is no moderator and no night phase once the opening script is read, and a game runs about 20 minutes, so it works as a warm-up or with players who find Werewolf-style elimination games too slow. The publisher lists it for ages 8 and up. Hosted here, with credit to the original creators.
 
 ## How to play in one minute
 

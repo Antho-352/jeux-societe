@@ -21,8 +21,13 @@ designers: ["Frank Tedeschi"]
 artists: ["Derrick Nau"]
 publisher: "Jellybean Games"
 year: 2020
-licence: "Free for personal use, © Jellybean Games"
-hosting_mode: "link"
+licence: "Jellybean hereby permits the redistribution and hosting of this content, provided that clear credit is given to the original creator."
+hosting_mode: "mirror"
+download_url: "/pdf/goblin-teeth/JG_GoblinTeeth_Rulebook.pdf"
+download_size_mb: 14.2
+files:
+  - { label: "Rulebook", url: "/pdf/goblin-teeth/JG_GoblinTeeth_Rulebook.pdf" }
+  - { label: "Components", url: "/pdf/goblin-teeth/Goblin-Teeth-Components.pdf" }
 source_url: "https://jellybean.games/goblin-teeth/"
 status: "published"
 date_added: "2026-10-18"
@@ -35,6 +40,8 @@ seo_description: "Goblin Teeth by Jellybean Games: a 20–30 minute dice-bidding
 Goblin Teeth is a dice-bidding game for 2 to 5 players designed by Frank Tedeschi, with art by DreamWorks animator Derrick Nau, developed and published by Jellybean Games. The goblin Big Boss wants a set of shiny things, and the first goblin to bring the right offering wins. Each round a row of item cards goes up for auction, one of them face down. Everyone rolls three dice and places them one at a time as bids, with two goblin rules: your dice on one item may never add up to more than ten, and you may never tie another player's bid.
 
 The fun is in the Cheat cards. Put a die on the altar instead of bidding and you draw one; they let you reroll, move or steal dice, and a well-timed cheat can push a rival's bid over ten and wreck it. Games run 20 to 30 minutes and the publisher lists ages 8 and up. The print-and-play lives in a Google Drive folder linked from the Jellybean Games print-and-play page; it is free for personal use, so we link rather than host.
+
+The card sheets are over 25 MiB, so they stay on jellybean.games. The rulebook and components are hosted here, with credit to Frank Tedeschi and Jellybean Games.
 
 ## How to play in one minute
 

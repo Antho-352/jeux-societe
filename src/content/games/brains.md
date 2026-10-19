@@ -23,8 +23,14 @@ designers: ["Peter C. Hayward"]
 artists: ["Kelly Jo"]
 publisher: "Jellybean Games"
 year: 2019
-licence: "Free for personal use, © Jellybean Games"
-hosting_mode: "link"
+licence: "Jellybean hereby permits the redistribution and hosting of this content, provided that clear credit is given to the original creator."
+hosting_mode: "mirror"
+download_url: "/pdf/brains/Brains-Cards.pdf"
+download_size_mb: 5.3
+files:
+  - { label: "Cards", url: "/pdf/brains/Brains-Cards.pdf" }
+  - { label: "Rulebook", url: "/pdf/brains/Brains-Rulebook.pdf" }
+  - { label: "Gravestone card", url: "/pdf/brains/Gravestone-Card.pdf" }
 source_url: "https://jellybean.games/brains/"
 status: "published"
 date_added: "2026-10-18"
@@ -36,7 +42,7 @@ seo_description: "Brains! by Jellybean Games: a 5–10 minute zombie card game f
 
 Brains! is the third Treasure Hunters game from Jellybean Games, designed by Peter C. Hayward with art by Kelly Jo, after Scuttle! and Ninjitsu!. You command a zombie horde racing to be the first to 21 points of treasure. The shared rules are familiar: play a card as treasure for its number, or for its action. The new idea is the graveyard. Each player has a gravestone card, and instead of drawing or playing you may bury the top card of the deck on it. Cards with a gravestone icon have an ongoing effect while they sit on top of your graveyard; cards with a coffin icon trigger once when they are buried.
 
-It is a five-to-ten-minute game for ages 6 and up, with a little more to think about than Scuttle! because discarded cards go to your graveyard too, and a card buried on someone else's turn can change what your top card does. The three games can be shuffled together. Jellybean Games provides the rulebook, cards and gravestones free on its print-and-play page; the rulebook carries a plain copyright notice, so the download stays on their site.
+It is a five-to-ten-minute game for ages 6 and up, with a little more to think about than Scuttle! because discarded cards go to your graveyard too, and a card buried on someone else's turn can change what your top card does. The three games can be shuffled together. Hosted here, with credit to Peter C. Hayward, Kelly Jo and Jellybean Games.
 
 ## How to play in one minute
 

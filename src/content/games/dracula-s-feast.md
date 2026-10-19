@@ -23,8 +23,16 @@ designers: ["Peter C. Hayward"]
 artists: ["Tania Walker"]
 publisher: "Jellybean Games"
 year: 2017
-licence: "Free for personal use, © Jellybean Games"
-hosting_mode: "link"
+licence: "Jellybean hereby permits the redistribution and hosting of this content, provided that clear credit is given to the original creator."
+hosting_mode: "mirror"
+download_url: "/pdf/dracula-s-feast/DF-Guest-Cards.pdf"
+download_size_mb: 14.1
+files:
+  - { label: "Guest cards", url: "/pdf/dracula-s-feast/DF-Guest-Cards.pdf" }
+  - { label: "Accusation cards", url: "/pdf/dracula-s-feast/DF-Accusation-Cards.pdf" }
+  - { label: "Card backs", url: "/pdf/dracula-s-feast/DraculasFeastPrint-and-Play-backs.pdf" }
+  - { label: "Reference card", url: "/pdf/dracula-s-feast/DF-Reference-Card-1.pdf" }
+  - { label: "Rulebook", url: "/pdf/dracula-s-feast/DF_Rulebook.pdf" }
 source_url: "https://jellybean.games/draculas-feast/"
 status: "published"
 date_added: "2026-10-18"
@@ -36,7 +44,7 @@ seo_description: "Dracula's Feast (first edition) by Jellybean Games: a 10–15 
 
 Dracula's Feast is a deduction party game for 4 to 8 players by Peter C. Hayward, with Edward Gorey-inspired art by Tania Walker, published by Jellybean Games after a Kickstarter in October 2016. Dracula has invited the townsfolk to dinner and a crowd of monsters has crashed the party. Everyone holds a unique guest card with its own ability (Alucard must claim to be Dracula, the Werewolf accepts every dance, Van Helsing wins by naming Dracula alone), and one guest lies face down in the middle as the Mystery Guest. Work out who everyone is and accuse them all correctly to win.
 
-This is the first edition, now sold out; Dracula's Feast: New Blood is the revised second edition, and Night of the Mummy a standalone sequel. The original is still worth printing: 13 guests instead of 10, rules in four extra languages, and a game that runs 10 to 15 minutes for ages 10 and up. Jellybean Games hosts the files free on its print-and-play page; they carry a plain copyright notice, so the download button goes there.
+This is the first edition, now sold out; Dracula's Feast: New Blood is the revised second edition, and Night of the Mummy a standalone sequel. The original is still worth printing: 13 guests instead of 10, rules in four extra languages, and a game that runs 10 to 15 minutes for ages 10 and up. Hosted here, with credit to the original creators.
 
 ## How to play in one minute
 

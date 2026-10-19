@@ -22,8 +22,12 @@ designers: ["Peter C. Hayward"]
 artists: ["Tina Bongorno"]
 publisher: "Jellybean Games"
 year: 2019
-licence: "Free for personal use, © Jellybean Games"
-hosting_mode: "link"
+licence: "Jellybean hereby permits the redistribution and hosting of this content, provided that clear credit is given to the original creator."
+hosting_mode: "mirror"
+download_url: "/pdf/meow/Meow-Rulebook.pdf"
+download_size_mb: 2.1
+files:
+  - { label: "Rulebook", url: "/pdf/meow/Meow-Rulebook.pdf" }
 source_url: "https://jellybean.games/meow/"
 status: "published"
 date_added: "2026-10-18"
@@ -35,7 +39,7 @@ seo_description: "Meow! (The Cult of Cat) by Jellybean Games: a 5–10 minute pa
 
 Meow! is a party card game by Peter C. Hayward, illustrated by Tina Bongorno and published by Jellybean Games (the boxed edition is called Meow! The Cult of Cat). It takes the idea of Mao, the card game where nobody tells you the rules, and makes it fair: every rule is on a card, each player holds a few of them, and you learn the rest by watching what other players do on their turns, or by breaking them. You are a neophyte at the Cult of Cat's initiation. Complete the ritual without breaking a single secret rule and you are in.
 
-The print-and-play comes in two decks: Kitten Cabal, with gentler rules for families and younger players, and The Cult of Cat, the sillier gamer version; they can be mixed. The publisher's product page says ages 6 and up and 5 to 10 minutes; the rules, the print-and-play page and BoardGameGeek all give 3 to 12 players. It is loud and physical (expect hissing and pretend paw-licking) and good with non-gamers. The files are free for personal use on jellybean.games, so the download button goes there.
+The print-and-play comes in two decks: Kitten Cabal, with gentler rules for families and younger players, and The Cult of Cat, the sillier gamer version; they can be mixed. The publisher's product page says ages 6 and up and 5 to 10 minutes; the rules, the print-and-play page and BoardGameGeek all give 3 to 12 players. It is loud and physical (expect hissing and pretend paw-licking) and good with non-gamers. The files are free for personal use . The two card decks are over 25 MiB, so they stay on jellybean.games. The rulebook is hosted here, with credit to Peter C. Hayward and Jellybean Games.
 
 ## How to play in one minute
 

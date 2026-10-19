@@ -22,8 +22,13 @@ designers: ["Peter C. Hayward", "Allysha Tulk", "Kevin Carmichael", "Ken Maher",
 artists: ["Tania Walker"]
 publisher: "Jellybean Games"
 year: 2017
-licence: "Free for personal use, © Jellybean Games"
-hosting_mode: "link"
+licence: "Jellybean hereby permits the redistribution and hosting of this content, provided that clear credit is given to the original creator."
+hosting_mode: "mirror"
+download_url: "/pdf/the-lady-and-the-tiger/Lady-Tiger-Rules.pdf"
+download_size_mb: 15.6
+files:
+  - { label: "Rules", url: "/pdf/the-lady-and-the-tiger/Lady-Tiger-Rules.pdf" }
+  - { label: "Tokens", url: "/pdf/the-lady-and-the-tiger/Tokens.pdf" }
 source_url: "https://jellybean.games/the-lady-and-the-tiger/"
 status: "published"
 date_added: "2026-10-18"
@@ -35,7 +40,7 @@ seo_description: "The Lady and the Tiger by Jellybean Games: 18 cards play five 
 
 The Lady and the Tiger is a microgame collection from Jellybean Games, with art by Tania Walker, named after Frank R. Stockton's short story about a prisoner who must open one of two doors. Every card is a Lady or a Tiger and red or blue: four Door cards, twelve Clue cards and two wild cards, plus 25 gems. With those eighteen cards you can play five games by five design teams: Doors, a 2-player bluffing game by Peter C. Hayward; Favor, a 2–4 player bidding game by Allysha Tulk and Kevin Carmichael; Hoard, a solo puzzle by Ken Maher; Labyrinth, a 2-player maze game by Philip Tootill; and Traps, a 2–6 player bluffing game by JR Honeycutt.
 
-Each game runs 10 to 20 minutes. The product page says ages 10+, the rulebook 8+. It is a good set for two people and a coffee table, and the solo and six-player games stretch it either way. Jellybean Games offers each game as its own small PDF, Italian translations, and a Google Drive folder with the full-art deck and the complete rulebook, all free for personal use; the download button goes to the publisher's page.
+Each game runs 10 to 20 minutes. The product page says ages 10+, the rulebook 8+. It is a good set for two people and a coffee table, and the solo and six-player games stretch it either way. The full-art card deck is over 25 MiB, so it stays on jellybean.games. The rules and tokens are hosted here, with credit to the designers named in each booklet and to Jellybean Games.
 
 ## How to play in one minute
 

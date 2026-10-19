@@ -22,8 +22,14 @@ designers: ["Peter C. Hayward (curator)", "Joel Colombo", "Karl Lange", "Marek T
 artists: ["Tania Walker"]
 publisher: "Jellybean Games"
 year: 2020
-licence: "Free for personal use, © Jellybean Games"
-hosting_mode: "link"
+licence: "Jellybean hereby permits the redistribution and hosting of this content, provided that clear credit is given to the original creator."
+hosting_mode: "mirror"
+download_url: "/pdf/jabberwocky/Jabberwocky-Playing-Cards.pdf"
+download_size_mb: 6.5
+files:
+  - { label: "Playing cards", url: "/pdf/jabberwocky/Jabberwocky-Playing-Cards.pdf" }
+  - { label: "Rules cards", url: "/pdf/jabberwocky/Jabberwocky-Rules-Cards.pdf" }
+  - { label: "Rulebook", url: "/pdf/jabberwocky/JW-Rulebook.pdf" }
 source_url: "https://jellybean.games/jabberwocky/"
 status: "published"
 date_added: "2026-10-18"
@@ -35,7 +41,7 @@ seo_description: "Jabberwocky by Jellybean Games: 15 number cards and a few gems
 
 Jabberwocky is a microgame collection curated by Peter C. Hayward and published by Jellybean Games, with art by Tania Walker drawn from Lewis Carroll's poem. The components are tiny: three Jabberwocky cards, fifteen number cards (1 to 5 in three colours) and 24 gems. The boxed game holds eight games by eight designers; the print-and-play covers five of them: Bandersnatch, a solo puzzle by Joel Colombo; Borogoves, a 1–2 player map-making game by Karl Lange; Gyre, a 2–3 player area control game by Marek Tupy; Mimsy, a 2–3 player mancala race by Joe Myron; and Slithy, a 3–7 player negotiation game by Patrick Chapman.
 
-Each game takes 10 to 20 minutes, so the set suits couples, families and anyone who likes abstract games with a different puzzle each night. The product page says ages 10 and up; the rulebook says 8+. The full 56-page rulebook is included, so you also get the rules for Brillig, Gimble and Mome, which use the same cards. The files are free for personal use on jellybean.games, so the download button goes there.
+Each game takes 10 to 20 minutes, so the set suits couples, families and anyone who likes abstract games with a different puzzle each night. The product page says ages 10 and up; the rulebook says 8+. The full 56-page rulebook is included, so you also get the rules for Brillig, Gimble and Mome, which use the same cards. Hosted here, with credit to the original creators.
 
 ## How to play in one minute
 

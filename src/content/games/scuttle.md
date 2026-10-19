@@ -22,8 +22,13 @@ designers: ["Peter C. Hayward"]
 artists: ["Kelly Jo"]
 publisher: "Jellybean Games"
 year: 2016
-licence: "Free for personal use, © Jellybean Games"
-hosting_mode: "link"
+licence: "Jellybean hereby permits the redistribution and hosting of this content, provided that clear credit is given to the original creator."
+hosting_mode: "mirror"
+download_url: "/pdf/scuttle/Scuttle_Cards.pdf"
+download_size_mb: 7.7
+files:
+  - { label: "Cards", url: "/pdf/scuttle/Scuttle_Cards.pdf" }
+  - { label: "Rulebook", url: "/pdf/scuttle/Scuttle-rulebook.pdf" }
 source_url: "https://jellybean.games/scuttle/"
 status: "published"
 featured: true
@@ -36,7 +41,7 @@ seo_description: "Scuttle! by Jellybean Games: a 5–10 minute pirate card game 
 
 Scuttle! is a small pirate card game by Peter C. Hayward with art by Kelly Jo, the earliest game in the Jellybean Games catalogue and the start of its Treasure Hunters series (Ninjitsu! and Brains! share the same core rules). You are a pirate captain racing the others to 21 doubloons. Every card can be laid down as treasure for its number or played for its text: steal a treasure chest, draw two cards, wipe the board, or set a monkey, a parrot or a rodent-powered cannon to guard your loot.
 
-It plays in five to ten minutes, the rules fit on a few small pages, and the box age is 6+, which makes it a good first card game for children who can read. Four players form two teams, five players add the Davy Jones role, and a solo mode pits you against a "Robot Pirate" that plays from a face-up display. Jellybean Games offers the English files free on its site, plus full decks translated into French, German, Spanish and Slovenian from 2016. The files carry a plain copyright notice, so the download button goes to the publisher's page.
+It plays in five to ten minutes, the rules fit on a few small pages, and the box age is 6+, which makes it a good first card game for children who can read. Four players form two teams, five players add the Davy Jones role, and a solo mode pits you against a "Robot Pirate" that plays from a face-up display. Jellybean Games offers the English files free on its site, plus full decks translated into French, German, Spanish and Slovenian from 2016. Hosted here, with credit to the original creators.
 
 ## How to play in one minute
 

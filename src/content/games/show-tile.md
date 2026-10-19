@@ -22,8 +22,13 @@ designers: ["Isaac Shalev", "Matt Loomis"]
 artists: ["Tania Walker"]
 publisher: "Jellybean Games"
 year: 2018
-licence: "Free for personal use, © Jellybean Games"
-hosting_mode: "link"
+licence: "Jellybean hereby permits the redistribution and hosting of this content, provided that clear credit is given to the original creator."
+hosting_mode: "mirror"
+download_url: "/pdf/show-tile/ShowTilePrint-and-play.pdf"
+download_size_mb: 13.8
+files:
+  - { label: "Print and play", url: "/pdf/show-tile/ShowTilePrint-and-play.pdf" }
+  - { label: "Cards", url: "/pdf/show-tile/ShowTileCards.pdf" }
 source_url: "https://jellybean.games/product/show-tile/"
 status: "published"
 date_added: "2026-10-18"
@@ -35,7 +40,7 @@ seo_description: "Show & Tile by Jellybean Games: a 30-minute tangram party game
 
 Show & Tile is a party game for 3 to 6 players by Isaac Shalev and Matt Loomis, published by Jellybean Games with art by Tania Walker. It is Pictionary for people who cannot draw: instead of a pen you get two sets of tangram tiles (the seven-piece Chinese dissection puzzle of triangles, a square and a rhombus), a secret word and 90 seconds. When time is up, everyone writes a guess for every other player's artwork, the words are revealed and points are scored.
 
-A game is four rounds, about 30 minutes, and the box age is 8+; younger children can join in with easy words. All players build at the same time, so nobody waits, and a group that likes Dixit or Codenames will pick it up in a minute. The print-and-play is the full game: tile sheets, 105 word cards, the rules and a scorepad. The files are free for personal use on jellybean.games, so the download button goes there.
+A game is four rounds, about 30 minutes, and the box age is 8+; younger children can join in with easy words. All players build at the same time, so nobody waits, and a group that likes Dixit or Codenames will pick it up in a minute. The print-and-play is the full game: tile sheets, 105 word cards, the rules and a scorepad. Hosted here, with credit to the original creators.
 
 ## How to play in one minute
 
