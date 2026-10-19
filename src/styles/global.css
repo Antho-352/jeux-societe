@@ -92,7 +92,30 @@ p { margin: 0; }
 .playloop .file { position: absolute; left: 50%; bottom: 22px; transform: translateX(-50%); background: #fff; border: 2px solid var(--ink); border-radius: 10px; padding: 8px 12px; font-weight: 800; opacity: 0; animation: drop 12s infinite; }
 .playloop .file::before { content: "PDF"; display: inline-block; background: var(--primary); color: #fff; border-radius: 4px; font-size: 11px; padding: 2px 4px; margin-right: 6px; }
 .playloop .file b { display: inline-grid; place-items: center; width: 18px; height: 18px; margin-left: 6px; border-radius: 50%; background: #1f9d55; color: #fff; font-size: 12px; opacity: 0; animation: ok 12s infinite; }
-.playloop .printer { position: absolute; left: 24px; top: 70px; width: 86px; height: 48px; background: var(--ink); border-radius: 8px; color: var(--accent); font-size: 12px; font-weight: 800; display: grid; place-items: center; }
+.playloop .printer { position: absolute; left: 50%; top: 58px; width: 220px; height: 52px; margin-left: -110px; background: var(--ink); border-radius: 8px 8px 4px 4px; color: var(--accent); font-weight: 800; z-index: 2; }
+.playloop .printer .slot { display: block; text-align: center; line-height: 52px; }
+.playloop .printer .out { position: absolute; left: 18px; right: 18px; top: 44px; background: #fff; border: 2px solid var(--ink); border-radius: 0 0 12px 12px; padding: 10px; }
+.playloop .printer .out strong { font-family: var(--font-display); font-size: 16px; color: var(--ink); display: block; line-height: 1.1; }
+.playloop .printer .out em { font-style: normal; font-size: 12px; font-weight: 800; color: var(--muted); }
+.playloop .printer .cards { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; margin-top: 8px; height: 140px; }
+.playloop .printer .cards span { border: 2px dashed var(--ink); border-radius: 6px; background: var(--tint); display: grid; place-items: center; font-family: var(--font-display); font-weight: 800; font-size: 20px; color: var(--ink); }
+.playloop .sheet-cut .scissors { width: 84px; height: 42px; offset-rotate: 0deg; }
+.playloop .table { position: absolute; left: 48px; right: 48px; top: 118px; height: 210px; background: var(--accent); border-radius: 28px; }
+.playloop .tiles-board { position: absolute; left: 50%; top: 70px; transform: translateX(-50%); width: 108px; height: 72px; display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 4px; }
+.playloop .spot { position: absolute; display: flex; align-items: flex-end; gap: 4px; }
+.playloop .spot.p1 { left: 16px; bottom: 14px; }
+.playloop .spot.p2 { right: 16px; bottom: 14px; }
+.playloop .spot.p3 { left: 16px; top: 14px; }
+.playloop .spot.p4 { right: 16px; top: 14px; }
+.playloop .seat { width: 72px; }
+.playloop .seat i { width: 40px; height: 40px; }
+.playloop .seat b { width: 62px; height: 48px; }
+.playloop .s1 { left: 18px; top: 70px; }
+.playloop .s2 { right: 18px; top: 70px; }
+.playloop .s3 { left: 18px; bottom: 16px; }
+.playloop .s4 { right: 18px; bottom: 16px; }
+.playloop .pcard.a { animation: playa 16s infinite; }
+.playloop .pcard.b { animation: playb 16s infinite; }
 .playloop .paper { position: absolute; left: 14px; right: 14px; top: 36px; height: 0; background: #fff; border: 2px solid var(--ink); animation: printout 12s infinite; }
 .playloop .sheet-page { position: absolute; right: 22px; top: 68px; width: 176px; height: 210px; background: #fff; border: 2px solid var(--ink); border-radius: 12px; display: grid; grid-template-columns: 1fr 1fr; gap: 14px; padding: 14px; }
 .playloop .sheet-page span { background: var(--tint); border: 2px dashed var(--ink); border-radius: 8px; display: grid; place-items: center; font-family: var(--font-display); font-weight: 800; font-size: 22px; }
@@ -100,14 +123,14 @@ p { margin: 0; }
 .playloop .cut.h { left: 10px; right: 10px; top: 50%; height: 2px; }
 .playloop .cut.v { top: 10px; bottom: 10px; left: 50%; width: 2px; background: repeating-linear-gradient(180deg, var(--ink) 0 6px, transparent 6px 10px); }
 .playloop .scissors { position: absolute; left: 0; top: 0; offset-path: path("M 8 104 H 168 V 104 H 88 V 12 V 198"); offset-rotate: 0deg; animation: snip 12s linear infinite; }
-.playloop .table { position: absolute; left: 110px; right: 110px; top: 168px; height: 92px; background: var(--accent); border-radius: 80px; }
-.playloop .seat { position: absolute; width: 54px; display: flex; flex-direction: column; align-items: center; }
-.playloop .seat i { width: 32px; height: 32px; border-radius: 50%; background: var(--ink); position: relative; }
+.playloop .table { position: absolute; left: 48px; right: 48px; top: 118px; height: 210px; background: var(--accent); border-radius: 28px; }
+.playloop .seat { position: absolute; width: 72px; display: flex; flex-direction: column; align-items: center; }
+.playloop .seat i { width: 40px; height: 40px; border-radius: 50%; background: var(--ink); position: relative; }
 .playloop .seat i::after { content: ""; position: absolute; left: 8px; top: 12px; width: 4px; height: 4px; border-radius: 50%; background: #fff; box-shadow: 12px 0 0 #fff; }
 .playloop .seat i::before { content: ""; position: absolute; left: 10px; top: 20px; width: 12px; height: 6px; border-bottom: 2px solid #fff; border-radius: 0 0 10px 10px; }
 .playloop .seat em { position: absolute; width: 16px; height: 16px; top: -6px; right: -4px; border-top: 2px solid var(--primary); border-right: 2px solid var(--primary); transform: rotate(20deg); animation: joy 12s infinite; }
-.playloop .s1 { left: 36px; top: 78px; } .playloop .s2 { right: 36px; top: 78px; }
-.playloop .s3 { left: 36px; bottom: 28px; } .playloop .s4 { right: 36px; bottom: 28px; }
+.playloop .s1 { left: 18px; top: 70px; } .playloop .s2 { right: 18px; top: 70px; }
+.playloop .s3 { left: 18px; bottom: 16px; } .playloop .s4 { right: 18px; bottom: 16px; }
 .playloop .pile { position: absolute; left: 50%; top: 186px; transform: translateX(-50%); display: flex; gap: 4px; }
 .playloop .pile span { width: 26px; height: 36px; background: #fff; border: 2px solid var(--ink); border-radius: 4px; display: grid; place-items: center; font-weight: 800; }
 .playloop .beat { animation-duration: 16s; }
@@ -124,15 +147,15 @@ p { margin: 0; }
 .playloop .big-sheet span { border: 2px dashed var(--ink); border-radius: 8px; background: var(--tint); display: grid; place-items: center; font-family: var(--font-display); font-weight: 800; font-size: 22px; }
 .playloop .one-card { position: absolute; left: 50%; top: 90px; width: 120px; height: 160px; margin-left: -60px; background: var(--tint); border: 3px dashed var(--ink); border-radius: 12px; display: grid; place-items: center; font-family: var(--font-display); font-size: 36px; font-weight: 800; animation: fall 16s infinite; }
 .playloop .one-card .scissors { position: absolute; left: 0; top: 0; offset-path: path("M 2 2 H 118 V 158 H 2 Z"); offset-rotate: auto; animation: snip 16s linear infinite; }
-.playloop .table { left: 70px; right: 70px; top: 150px; height: 120px; }
-.playloop .board { position: absolute; left: 50%; top: 176px; transform: translateX(-50%); width: 110px; height: 70px; background: #fff; border: 2px solid var(--ink); border-radius: 8px; display: grid; place-items: center; font-size: 12px; font-weight: 800; }
-.playloop .seat b { width: 48px; height: 36px; border-radius: 14px 14px 6px 6px; background: var(--ink); margin-top: -2px; }
-.playloop .seat { width: 64px; }
-.playloop .s1 { left: 28px; top: 118px; } .playloop .s2 { right: 28px; top: 118px; }
-.playloop .s3 { left: 28px; bottom: 18px; } .playloop .s4 { right: 28px; bottom: 18px; }
+.playloop .table { left: 48px; right: 48px; top: 118px; height: 210px; border-radius: 28px; }
+.playloop .seat b { width: 62px; height: 48px; }
+.playloop .seat { width: 72px; }
+.playloop .s1 { left: 18px; top: 70px; } .playloop .s2 { right: 18px; top: 70px; }
+.playloop .s3 { left: 18px; bottom: 16px; } .playloop .s4 { right: 18px; bottom: 16px; }
 .playloop .pcard { position: absolute; width: 24px; height: 32px; background: #fff; border: 2px solid var(--ink); border-radius: 4px; display: grid; place-items: center; font-weight: 800; font-size: 12px; top: 8px; }
-.playloop .pcard.a { animation: playa 16s infinite; }
-.playloop .pcard.b { animation: playb 16s infinite; }
+.playloop .spot .pcard { position: static; top: auto; }
+.playloop .pcard.a { animation: playa 16s infinite; position: relative; }
+.playloop .pcard.b { animation: playb 16s infinite; position: relative; }
 @keyframes click { 0% { transform: translate(70px, -36px); } 8%, 24% { transform: translate(2px, 2px); } 100% { transform: translate(2px, 2px); } }
 @keyframes grow { 0%, 25% { transform: translateY(40px) scale(0.7); opacity: 0; } 32%, 48% { transform: none; opacity: 1; } 100% { opacity: 0; } }
 @keyframes fall { 0%, 68% { transform: none; } 74%, 75% { transform: translateY(64px) rotate(8deg); } 100% { transform: translateY(64px) rotate(8deg); } }
@@ -149,7 +172,7 @@ p { margin: 0; }
 .playloop .sheet-cut { position: absolute; left: 50%; top: 72px; width: 200px; height: 230px; margin-left: -100px; background: #fff; border: 2px solid var(--ink); border-radius: 12px; display: grid; grid-template-columns: 1fr 1fr; gap: 10px; padding: 12px; animation: sheetdrop 16s infinite; }
 .playloop .sheet-cut span { background: var(--tint); border: 2px dashed var(--ink); border-radius: 8px; display: grid; place-items: center; font-family: var(--font-display); font-weight: 800; font-size: 22px; }
 .playloop .sheet-cut .scissors { position: absolute; offset-path: path("M 4 4 H 196 V 226 H 4 Z"); offset-rotate: auto; animation: snip 16s linear infinite; }
-.playloop .tiles-board { position: absolute; left: 50%; top: 178px; transform: translateX(-50%); width: 92px; height: 64px; display: grid; grid-template-columns: 1fr 1fr; gap: 4px; }
+.playloop .tiles-board { width: 108px; height: 72px; grid-template-columns: 1fr 1fr 1fr; top: 70px; }
 .playloop .tiles-board i { background: #fff; border: 2px solid var(--ink); border-radius: 4px; }
 .playloop .pawn { width: 14px; height: 14px; border-radius: 50%; background: var(--primary); border: 2px solid var(--ink); margin-top: 4px; }
 .playloop .pcard.stay { position: static; }

@@ -60,28 +60,34 @@ const orgLd = { '@context': 'https://schema.org', '@type': 'WebSite', name: 'Pri
         </div>
         <div class="beat beat-print">
           <p class="say">2. Print the cards</p>
-          <div class="printer">Print<span class="paper"></span></div>
-          <div class="big-sheet">
-            <strong>Scuttle Print &amp; Play</strong>
-            <em>Cards to cut</em>
-            <div><span>A</span><span>K</span><span>Q</span><span>J</span></div>
+          <div class="printer"><span class="slot">Print</span>
+            <div class="out">
+              <strong>Scuttle Print &amp; Play</strong>
+              <em>Cards to cut</em>
+              <div class="cards"><span>A</span><span>K</span><span>Q</span><span>J</span></div>
+            </div>
           </div>
         </div>
         <div class="beat beat-cut">
           <p class="say">3. Cut the cards</p>
           <div class="sheet-cut">
             <span>A</span><span>K</span><span>Q</span><span>J</span>
-            <svg class="scissors" viewBox="0 0 72 36" width="56" height="28"><circle cx="12" cy="10" r="7" fill="none" stroke="#0F3D2E" stroke-width="3"/><circle cx="12" cy="26" r="7" fill="none" stroke="#0F3D2E" stroke-width="3"/><path d="M18 12 L66 4 M18 24 L66 32" stroke="#0F3D2E" stroke-width="3" stroke-linecap="round"/></svg>
+            <svg class="scissors" viewBox="0 0 80 40" width="84" height="42"><circle cx="14" cy="12" r="9" fill="#fff" stroke="#0F3D2E" stroke-width="3"/><circle cx="14" cy="28" r="9" fill="#fff" stroke="#0F3D2E" stroke-width="3"/><path d="M22 14 L74 6 M22 26 L74 34" stroke="#0F3D2E" stroke-width="4" stroke-linecap="round"/></svg>
           </div>
         </div>
         <div class="beat beat-play">
           <p class="say">4. Play tonight</p>
-          <div class="table"></div>
-          <div class="tiles-board"><i></i><i></i><i></i><i></i></div>
-          <div class="seat s1"><i></i><b></b><span class="pawn"></span><span class="pcard a">A</span><span class="pcard stay">Q</span></div>
-          <div class="seat s2"><i></i><b></b><span class="pawn"></span><span class="pcard b">K</span><span class="pcard stay">J</span></div>
-          <div class="seat s3"><i></i><b></b><span class="pawn"></span><span class="pcard stay">9</span><span class="pcard stay">8</span></div>
-          <div class="seat s4"><i></i><b></b><span class="pawn"></span><span class="pcard stay">7</span><span class="pcard stay">6</span></div>
+          <div class="seat s1"><i></i><b></b></div>
+          <div class="seat s2"><i></i><b></b></div>
+          <div class="seat s3"><i></i><b></b></div>
+          <div class="seat s4"><i></i><b></b></div>
+          <div class="table">
+            <div class="tiles-board"><i></i><i></i><i></i><i></i><i></i><i></i></div>
+            <div class="spot p1"><span class="pawn"></span><span class="pcard a">A</span><span class="pcard">Q</span></div>
+            <div class="spot p2"><span class="pawn"></span><span class="pcard b">K</span><span class="pcard">J</span></div>
+            <div class="spot p3"><span class="pawn"></span><span class="pcard">9</span><span class="pcard">8</span></div>
+            <div class="spot p4"><span class="pawn"></span><span class="pcard">7</span><span class="pcard">6</span></div>
+          </div>
         </div>
       </div>
     </div>
