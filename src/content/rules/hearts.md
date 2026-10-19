@@ -58,8 +58,8 @@ The game ends when a player reaches 100 points at the end of a deal. The player 
 
 - **Jack of diamonds (Omnibus Hearts).** The jack of diamonds is worth minus 10 points to whoever takes it. To shoot the moon you still need every heart and the queen.
 - **Queen breaks hearts.** Playing the queen of spades counts as breaking hearts.
-- **Three players.** Remove the 2 of diamonds (Bicycle) or the 2 of clubs (pagat) and deal 17 cards each. Pass left, right, hold.
-- **Five players.** Remove the 2 of clubs, deal 10 each, and the holder of the 3 of clubs leads first.
+- **Three players.** Remove the 2 of diamonds (both Bicycle and pagat.com) and deal 17 cards each. Pass left, right, hold.
+- **Five players.** Remove the 2 of diamonds and the 2 of clubs, deal 10 each, and the holder of the 3 of clubs leads first (pagat.com).
 - **Kitty.** Instead of removing cards, deal the leftover cards face down to a kitty that goes to whoever wins the first trick or the first penalty card.
 - **Partnership Hearts.** Four players in two teams, with team scores combined.
 - **Black Maria.** The British version: the ace and king of spades also score (7 and 10 points), and passing is always to the right.

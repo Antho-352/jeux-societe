@@ -84,4 +84,4 @@ No. A set can only be beaten by a set of the same size and higher rank.
 Deal, clear away the cards, and hand their best card to the President at the start of each hand, receiving an unwanted card in return.
 
 **How many players do you need?**
-Four to seven is ideal. Three can play but hands are short; with eight or more, use two decks.
+Four to seven is ideal. Three can play, with long hands of 17 or 18 cards; with eight or more, use two decks.

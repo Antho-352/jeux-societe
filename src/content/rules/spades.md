@@ -63,7 +63,7 @@ The first team to reach 500 points wins. If both pass 500 in the same deal, the 
 - **Jokers as top trumps.** Many groups remove the 2 of hearts and 2 of clubs and add two jokers as the highest spades (big joker, little joker, then the 2 of spades or ace).
 - **Partnership bidding.** Partners discuss and agree a single team bid instead of bidding one at a time, often with a minimum of 4 tricks per team.
 - **No leading restriction.** Some play that spades may be led at any time.
-- **Three players.** Remove the 2 of clubs and deal 17 cards each; everyone plays for themselves.
+- **Three players.** Deal 17 cards each and put the last card aside face down; everyone plays for themselves, and the holder of the 2 of clubs leads it to the first trick (pagat.com).
 - **Two players.** No deal. Players alternately draw the top card of the deck: keep it or discard it face down and take the next card, until each has 13 cards. Then bid and play as usual.
 - **Individual Spades.** Bicycle's rules describe a version for 3 to 5 players with no partnerships; each player bids and scores alone.
 
