@@ -50,4 +50,5 @@ The reference article is `src/content/blog/how-to-solve-a-maze.mdx`: copy its st
 - Article: `src/content/blog/<slug>.mdx` (slug = keyword in kebab case, no stop words, ≤ 5 words).
 - Cover: `node scripts/covers/blog_covers.mjs <slug>` writes `public/img/blog/<slug>.png` (1200×630, also the social image). Set `cover`, `cover_alt`, `cover_emoji`.
 - Check: `npm run build && npm run check:links`.
+- **Preview a scheduled article without touching its date:** `BLOG_PREVIEW=1 npx astro build`, then look at `dist/blog/<slug>/`. **Never edit `publish_at` to test**: a commit made at that moment would publish the article early. Rebuild without the variable before committing.
 - Scheduling: commit the article with a future `publish_at`. The hourly GitHub Action rebuilds the site when the time comes (needs the `CF_PAGES_DEPLOY_HOOK` secret, see `.github/workflows/scheduled-publish.yml`).

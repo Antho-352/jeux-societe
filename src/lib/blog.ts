@@ -22,8 +22,11 @@ export const BLOG_CATEGORY_LEAD: Record<string, string> = {
 };
 
 /** A post is live when it is published and its publish_at moment has passed at build time. */
+/** Local preview only: BLOG_PREVIEW=1 npx astro build also builds scheduled posts. Never set it on Cloudflare. */
+const PREVIEW = process.env.BLOG_PREVIEW === '1';
 export function isLive(p: Post, now = new Date()): boolean {
-  return p.data.status === 'published' && p.data.publish_at.getTime() <= now.getTime();
+  if (p.data.status !== 'published') return false;
+  return PREVIEW || p.data.publish_at.getTime() <= now.getTime();
 }
 export async function livePosts(): Promise<Post[]> {
   const now = new Date();
