@@ -66,10 +66,10 @@ You win when your opponent cannot move on their turn, either because all their p
 
 ## Tips for first games
 
-- Keep your back row filled as long as you can; it stops the opponent from crowning.
+- Don't keep your whole back row at home: the two men on your double-corner side guard it well enough, so let the man in your single corner out early and use the others in the middle.
 - Because captures are compulsory, you can offer one piece to drag an enemy man out of position and jump two in return.
 - Move in groups. A lone piece in the centre is easy to trap.
-- A king is worth about two men; getting the first king usually decides a game between beginners.
+- A king moves both ways, so it is far stronger than a man; getting the first king often decides a game between beginners.
 - Count the pieces before trading when ahead: even exchanges favour the side with more material.
 
 ## Frequently asked questions

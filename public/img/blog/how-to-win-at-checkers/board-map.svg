@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1060 580" width="1060" height="580" role="img" aria-label="Checkerboard with the centre squares, double corners and single corners highlighted">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="3.2" markerHeight="3.2" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#0F3D2E"/></marker></defs>
+<rect width="1060" height="580" rx="24" fill="#F7F5EE"/>
+<rect x="32" y="62" width="464" height="464" rx="10" fill="#0F3D2E"/>
+<rect x="40" y="70" width="56" height="56" fill="#EFE6CC"/>
+<rect x="96" y="70" width="56" height="56" fill="#2F6B57"/>
+<rect x="99" y="73" width="50" height="50" rx="4" fill="#B8D8FF" opacity="0.9"/>
+<text x="101" y="86" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0F3D2E">1</text>
+<rect x="152" y="70" width="56" height="56" fill="#EFE6CC"/>
+<rect x="208" y="70" width="56" height="56" fill="#2F6B57"/>
+<text x="213" y="86" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">2</text>
+<rect x="264" y="70" width="56" height="56" fill="#EFE6CC"/>
+<rect x="320" y="70" width="56" height="56" fill="#2F6B57"/>
+<text x="325" y="86" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">3</text>
+<rect x="376" y="70" width="56" height="56" fill="#EFE6CC"/>
+<rect x="432" y="70" width="56" height="56" fill="#2F6B57"/>
+<rect x="435" y="73" width="50" height="50" rx="4" fill="#FFD9D2" opacity="0.9"/>
+<text x="437" y="86" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0F3D2E">4</text>
+<rect x="40" y="126" width="56" height="56" fill="#2F6B57"/>
+<rect x="43" y="129" width="50" height="50" rx="4" fill="#B8D8FF" opacity="0.9"/>
+<text x="45" y="142" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0F3D2E">5</text>
+<rect x="96" y="126" width="56" height="56" fill="#EFE6CC"/>
+<rect x="152" y="126" width="56" height="56" fill="#2F6B57"/>
+<rect x="155" y="129" width="50" height="50" rx="4" fill="#B8D8FF" opacity="0.9"/>
+<text x="157" y="142" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0F3D2E">6</text>
+<rect x="208" y="126" width="56" height="56" fill="#EFE6CC"/>
+<rect x="264" y="126" width="56" height="56" fill="#2F6B57"/>
+<text x="269" y="142" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">7</text>
+<rect x="320" y="126" width="56" height="56" fill="#EFE6CC"/>
+<rect x="376" y="126" width="56" height="56" fill="#2F6B57"/>
+<rect x="379" y="129" width="50" height="50" rx="4" fill="#FFD9D2" opacity="0.9"/>
+<text x="381" y="142" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0F3D2E">8</text>
+<rect x="432" y="126" width="56" height="56" fill="#EFE6CC"/>
+<rect x="40" y="182" width="56" height="56" fill="#EFE6CC"/>
+<rect x="96" y="182" width="56" height="56" fill="#2F6B57"/>
+<rect x="99" y="185" width="50" height="50" rx="4" fill="#B8D8FF" opacity="0.9"/>
+<text x="101" y="198" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0F3D2E">9</text>
+<rect x="152" y="182" width="56" height="56" fill="#EFE6CC"/>
+<rect x="208" y="182" width="56" height="56" fill="#2F6B57"/>
+<text x="213" y="198" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">10</text>
+<rect x="264" y="182" width="56" height="56" fill="#EFE6CC"/>
+<rect x="320" y="182" width="56" height="56" fill="#2F6B57"/>
+<rect x="323" y="185" width="50" height="50" rx="4" fill="#FFD9D2" opacity="0.9"/>
+<text x="325" y="198" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0F3D2E">11</text>
+<rect x="376" y="182" width="56" height="56" fill="#EFE6CC"/>
+<rect x="432" y="182" width="56" height="56" fill="#2F6B57"/>
+<rect x="435" y="185" width="50" height="50" rx="4" fill="#FFD9D2" opacity="0.9"/>
+<text x="437" y="198" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0F3D2E">12</text>
+<rect x="40" y="238" width="56" height="56" fill="#2F6B57"/>
+<text x="45" y="254" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">13</text>
+<rect x="96" y="238" width="56" height="56" fill="#EFE6CC"/>
+<rect x="152" y="238" width="56" height="56" fill="#2F6B57"/>
+<rect x="155" y="241" width="50" height="50" rx="4" fill="#CFFF5E" opacity="0.9"/>
+<text x="157" y="254" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0F3D2E">14</text>
+<rect x="208" y="238" width="56" height="56" fill="#EFE6CC"/>
+<rect x="264" y="238" width="56" height="56" fill="#2F6B57"/>
+<rect x="267" y="241" width="50" height="50" rx="4" fill="#CFFF5E" opacity="0.9"/>
+<text x="269" y="254" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0F3D2E">15</text>
+<rect x="320" y="238" width="56" height="56" fill="#EFE6CC"/>
+<rect x="376" y="238" width="56" height="56" fill="#2F6B57"/>
+<text x="381" y="254" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">16</text>
+<rect x="432" y="238" width="56" height="56" fill="#EFE6CC"/>
+<rect x="40" y="294" width="56" height="56" fill="#EFE6CC"/>
+<rect x="96" y="294" width="56" height="56" fill="#2F6B57"/>
+<text x="101" y="310" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">17</text>
+<rect x="152" y="294" width="56" height="56" fill="#EFE6CC"/>
+<rect x="208" y="294" width="56" height="56" fill="#2F6B57"/>
+<rect x="211" y="297" width="50" height="50" rx="4" fill="#CFFF5E" opacity="0.9"/>
+<text x="213" y="310" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0F3D2E">18</text>
+<rect x="264" y="294" width="56" height="56" fill="#EFE6CC"/>
+<rect x="320" y="294" width="56" height="56" fill="#2F6B57"/>
+<rect x="323" y="297" width="50" height="50" rx="4" fill="#CFFF5E" opacity="0.9"/>
+<text x="325" y="310" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0F3D2E">19</text>
+<rect x="376" y="294" width="56" height="56" fill="#EFE6CC"/>
+<rect x="432" y="294" width="56" height="56" fill="#2F6B57"/>
+<text x="437" y="310" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">20</text>
+<rect x="40" y="350" width="56" height="56" fill="#2F6B57"/>
+<rect x="43" y="353" width="50" height="50" rx="4" fill="#FFD9D2" opacity="0.9"/>
+<text x="45" y="366" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0F3D2E">21</text>
+<rect x="96" y="350" width="56" height="56" fill="#EFE6CC"/>
+<rect x="152" y="350" width="56" height="56" fill="#2F6B57"/>
+<rect x="155" y="353" width="50" height="50" rx="4" fill="#FFD9D2" opacity="0.9"/>
+<text x="157" y="366" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0F3D2E">22</text>
+<rect x="208" y="350" width="56" height="56" fill="#EFE6CC"/>
+<rect x="264" y="350" width="56" height="56" fill="#2F6B57"/>
+<text x="269" y="366" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">23</text>
+<rect x="320" y="350" width="56" height="56" fill="#EFE6CC"/>
+<rect x="376" y="350" width="56" height="56" fill="#2F6B57"/>
+<rect x="379" y="353" width="50" height="50" rx="4" fill="#B8D8FF" opacity="0.9"/>
+<text x="381" y="366" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0F3D2E">24</text>
+<rect x="432" y="350" width="56" height="56" fill="#EFE6CC"/>
+<rect x="40" y="406" width="56" height="56" fill="#EFE6CC"/>
+<rect x="96" y="406" width="56" height="56" fill="#2F6B57"/>
+<rect x="99" y="409" width="50" height="50" rx="4" fill="#FFD9D2" opacity="0.9"/>
+<text x="101" y="422" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0F3D2E">25</text>
+<rect x="152" y="406" width="56" height="56" fill="#EFE6CC"/>
+<rect x="208" y="406" width="56" height="56" fill="#2F6B57"/>
+<text x="213" y="422" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">26</text>
+<rect x="264" y="406" width="56" height="56" fill="#EFE6CC"/>
+<rect x="320" y="406" width="56" height="56" fill="#2F6B57"/>
+<rect x="323" y="409" width="50" height="50" rx="4" fill="#B8D8FF" opacity="0.9"/>
+<text x="325" y="422" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0F3D2E">27</text>
+<rect x="376" y="406" width="56" height="56" fill="#EFE6CC"/>
+<rect x="432" y="406" width="56" height="56" fill="#2F6B57"/>
+<rect x="435" y="409" width="50" height="50" rx="4" fill="#B8D8FF" opacity="0.9"/>
+<text x="437" y="422" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0F3D2E">28</text>
+<rect x="40" y="462" width="56" height="56" fill="#2F6B57"/>
+<rect x="43" y="465" width="50" height="50" rx="4" fill="#FFD9D2" opacity="0.9"/>
+<text x="45" y="478" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0F3D2E">29</text>
+<rect x="96" y="462" width="56" height="56" fill="#EFE6CC"/>
+<rect x="152" y="462" width="56" height="56" fill="#2F6B57"/>
+<text x="157" y="478" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">30</text>
+<rect x="208" y="462" width="56" height="56" fill="#EFE6CC"/>
+<rect x="264" y="462" width="56" height="56" fill="#2F6B57"/>
+<text x="269" y="478" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">31</text>
+<rect x="320" y="462" width="56" height="56" fill="#EFE6CC"/>
+<rect x="376" y="462" width="56" height="56" fill="#2F6B57"/>
+<rect x="379" y="465" width="50" height="50" rx="4" fill="#B8D8FF" opacity="0.9"/>
+<text x="381" y="478" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#0F3D2E">32</text>
+<rect x="432" y="462" width="56" height="56" fill="#EFE6CC"/><text x="560" y="110" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700" fill="#0F3D2E">A map of the checkerboard</text>
+<rect x="560" y="128" width="30" height="30" rx="5" fill="#2F6B57"/><rect x="563" y="131" width="24" height="24" rx="4" fill="#CFFF5E"/>
+<text x="604" y="150" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700" fill="#0F3D2E">The centre: 14, 15, 18, 19</text>
+<text x="604" y="174" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#4B5A54">Fight for these four squares</text>
+<rect x="560" y="198" width="30" height="30" rx="5" fill="#2F6B57"/><rect x="563" y="201" width="24" height="24" rx="4" fill="#B8D8FF"/>
+<text x="604" y="220" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700" fill="#0F3D2E">Double corners</text>
+<text x="604" y="244" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#4B5A54">Red: 1, 5, 6, 9 · White: 24, 27, 28, 32</text>
+<rect x="560" y="268" width="30" height="30" rx="5" fill="#2F6B57"/><rect x="563" y="271" width="24" height="24" rx="4" fill="#FFD9D2"/>
+<text x="604" y="290" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700" fill="#0F3D2E">Single corners</text>
+<text x="604" y="314" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#4B5A54">Red: 4, 8, 11, 12 · White: 21, 22, 25, 29</text><text x="560" y="420" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#4B5A54"><tspan x="560">Red starts on 1–12 and moves first.</tspan><tspan x="560" dy="26">White starts on 21–32.</tspan><tspan x="560" dy="26">The double corner is on each player’s right.</tspan></text>
+</svg>

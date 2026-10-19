@@ -1,0 +1,220 @@
+---
+title: "How to win at checkers: 9 strategies from first game to expert"
+seo_title: "How to win at checkers: 9 strategies that work"
+description: "How to win at checkers: control the centre, keep the right back-row men, trade when ahead, set two-for-one traps and win two kings against one. With diagrams."
+excerpt: "Nine checkers strategies, each shown on a diagram: the centre, the back row, trading when ahead, forced-capture traps, kings and the two-kings-against-one endgame. Plus what it means that checkers is solved."
+category: "game-rules"
+author: "anthony"
+publish_at: 2026-12-01T16:45:00Z
+status: "published"
+target_keyword: "how to win at checkers"
+secondary_keywords: ["checkers strategy", "best checkers strategy", "is checkers solved", "checkers tips"]
+keyword_volume: 3600
+keyword_difficulty: 0
+silo: "rules/board-games"
+pushes: ["/rules/checkers/", "/board-games/printable-checkerboard/"]
+tldr: "To win at checkers, take the four centre squares, keep the back-row men on your double-corner side, and trade pieces one for one as soon as you are ahead. Use the compulsory-jump rule to set traps (give one man, take two), crown a king before your opponent does, and learn the two-kings-against-one win. Checkers was solved in 2007: perfect play by both sides is a draw, so you win by punishing mistakes."
+key_takeaways:
+  - "Jumping is compulsory, so every move you make can force your opponent's reply: that is where most wins at club level come from."
+  - "A single extra piece usually wins if you trade down calmly; refusing every exchange is a beginner's mistake."
+  - "Two kings beat one king every time, but you must drive the lone king out of the double corner."
+cover: "/img/blog/how-to-win-at-checkers.png"
+cover_alt: "Title card for how to win at checkers, with a red checker"
+cover_emoji: "🔴"
+faq:
+  - q: "Is there a way to always win at checkers?"
+    a: "No. Checkers was solved in 2007 and perfect play by both sides ends in a draw, so no strategy wins against an opponent who never makes a mistake. Against real players, traps based on compulsory jumps and trading down when ahead win most games."
+  - q: "Is it better to go first or second in checkers?"
+    a: "Neither has a forced win. The Chinook team proved that Red (called Black in checkers books), who moves first, can guarantee a draw, and so can White whatever Red plays. At home, alternate colours each game, as the official rules do."
+  - q: "Should you keep all your back row in checkers?"
+    a: "No. Keeping the men on your double-corner side (31 and 32 for White, 1 and 2 for Red) is sound, but keeping all four back leaves you short of men in the middle. The man in your single corner is usually the first to leave."
+  - q: "Can a king be captured in checkers?"
+    a: "Yes. Any piece, man or king, can jump a king, and a man can do it as long as it jumps forwards."
+  - q: "Can one king beat two kings in checkers?"
+    a: "Usually not. With equal kings the game is a draw, but two kings against one is a win: drive the lone king out of the double corner and pin it on the side of the board."
+sources:
+  - label: "WCDF Rules of Draughts (Checkers), World Checkers Draughts Federation"
+    url: "https://www.wcdf.net/rules/rules_of_checkers_english.pdf"
+  - label: "Schaeffer et al., Checkers Is Solved, Science 317 (2007), 1518–1522"
+    url: "https://doi.org/10.1126/science.1144079"
+  - label: "Chinook project, University of Alberta"
+    url: "https://webdocs.cs.ualberta.ca/~chinook/project/"
+  - label: "Richard Pask, Checkers for the Novice (free PDF, Avi Gobbler Publishing)"
+    url: "https://www.bobnewell.net/filez/cfn.pdf"
+  - label: "English draughts (Wikipedia)"
+    url: "https://en.wikipedia.org/wiki/English_draughts"
+  - label: "Marion Tinsley (Wikipedia)"
+    url: "https://en.wikipedia.org/wiki/Marion_Tinsley"
+sources_checked: 2026-10-19
+resources:
+  - label: "Checkers rules and printable board"
+    href: "/rules/checkers/"
+  - label: "Printable checkerboard (Letter PDF)"
+    href: "/board-games/printable-checkerboard/"
+  - label: "Classic board game rules"
+    href: "/rules/board-games/"
+  - label: "Print and play games for 2 players"
+    href: "/board-games/2-player/"
+---
+import Callout from '../../components/blog/Callout.astro';
+import StatGrid from '../../components/blog/StatGrid.astro';
+import Figure from '../../components/blog/Figure.astro';
+import ItemCallout from '../../components/blog/ItemCallout.astro';
+import Quiz from '../../components/blog/Quiz.astro';
+import Checklist from '../../components/blog/Checklist.astro';
+
+Most checkers games between friends are not lost to a brilliant plan. They are lost to one careless move that hands over two pieces, or to a king that arrives too late. The nine strategies below fix exactly that, in the order you need them: the shape of the board, the trades, the traps, the kings and the endgame. Each one comes with a diagram, and each diagram was checked move by move with a small program that applies the official rules.
+
+<Callout type="note" title="How to read the diagrams">
+Squares are numbered 1 to 32, the standard checkers notation. **Red starts on 1–12 and moves first** (checkers books call this side Black); White starts on 21–32. A move is written "18-15", a jump "11x18". If the rules are new to you, read our [checkers rules](/rules/checkers/) first: the strategy below assumes you know that jumping is compulsory.
+</Callout>
+
+## Is checkers solved, and what does it mean for you?
+
+Yes. In 2007 a University of Alberta team led by Jonathan Schaeffer published "Checkers Is Solved" in *Science*. Their program, Chinook, proved that **perfect play by both sides leads to a draw**. Checkers has about 5 × 10<sup>20</sup> possible positions, and dozens of computers worked on the proof almost continuously from 1989.
+
+The solution is a "weak" one: it proves the result from the starting position, not the best move in every position you could reach after a mistake. That is good news. Nobody plays perfectly, so **you win by making fewer mistakes than your opponent and by setting positions where a natural move loses**. Even Marion Tinsley, considered the greatest player ever, lost only seven games between 1950 and his death in 1995, according to Wikipedia: strong players lose rarely, but they do lose.
+
+<StatGrid
+  caption="Checkers by the numbers (Science, 2007; Chinook project, University of Alberta)."
+  items={[
+    { value: '5 × 10²⁰', label: 'possible positions', note: 'about 500 billion billion' },
+    { value: '1989', label: 'the year work on the proof began', note: 'published in Science in 2007' },
+    { value: 'Draw', label: 'the result of perfect play', note: 'for both Red and White' },
+    { value: '1994', label: 'Chinook becomes Man-Machine World Champion', note: 'three years before Deep Blue' },
+  ]}
+/>
+
+## Opening strategy: the centre, the back row and the sides
+
+The first ten moves decide which side has room to move later. Three habits matter more than any memorised opening.
+
+<Figure src="/img/blog/how-to-win-at-checkers/board-map.svg" alt="Checkerboard with the four centre squares 14, 15, 18 and 19 in green, the double corners in blue and the single corners in pink" caption="The centre and the corners. Each player's double corner (two dark squares side by side) is on their right." width={1060} height={580} />
+
+### 1. Control the centre
+
+**A man in the centre can move in two directions; a man on the edge can move in only one.** Grandmaster Richard Pask, in his free book *Checkers for the Novice*, names squares 14, 15, 18 and 19 as the centre and says it should always be fiercely contested, because control of the centre often means control of the whole board.
+
+You do not have to sit on those squares. Pask describes three ways to fight for them: occupy them, aim at them from the squares just behind (17, 22, 23 and 24 for White), or let your opponent crowd in and then squeeze them from both sides. The last one is for later; the first two work from your first game.
+
+### 2. Keep the right back-row men, not all of them
+
+Your back row is your king row in reverse: while a man stands there, nothing can be crowned on that square. The question is which ones to keep. **Your double corner is the weak side**: Pask shows that once the four men on White's double corner (24, 27, 28, 32) are gone, Red can walk into the king row. Your single corner has only one entry square, so it is much easier to defend.
+
+That gives a simple rule. **Keep the back-row men on your double-corner side (31 and 32 for White, 1 and 2 for Red), and let the single-corner man (29 for White, 4 for Red) go early.** Pask calls "keep all four back as long as possible" one of the three classic beginner mistakes: against a good player who keeps two back, you end up fighting eight men against ten in the middle.
+
+<Figure src="/img/blog/how-to-win-at-checkers/back-row.svg" alt="Starting position with White's men on 31 and 32 circled in green as the ones to keep and the man on 29 circled in red as the one that can leave early" caption="White's back row at the start. Red does the same on the other side of the board: keep 1 and 2, move 4 early." width={1060} height={580} />
+
+<Callout type="warning" title="About the 'bridge'">
+Many guides tell you to keep the men on 1 and 3 (or 30 and 32 for White) all game, a set-up called the bridge. Pask calls that advice faulty: moving the man on 2 (or 31) early tends to leave structural holes, and bridge endgames are hard to judge. If you keep two back-row men, make them 1 and 2 rather than 1 and 3.
+</Callout>
+
+### 3. Do not hide on the edges
+
+A man on the side of the board cannot be jumped, which is why beginners park pieces there. The cost is mobility: an edge man has one move, and a row of them leaves the centre to your opponent. **Use the edges for support** (a man on 13 or 20 can back up an attack or cramp the other side's corner), not as a shelter.
+
+## Trade pieces when you are ahead
+
+The quote Pask places at the top of his tactics chapter, from former world champion Derek Oldbury, is the most useful sentence in checkers: "In a free and open position, the gain of a single piece is enough to ensure a won game."
+
+### 4. One piece up? Trade down
+
+**Each even exchange makes your extra man count for more.** Four against three is a fight; three against two is better; two against one is usually over. Pask describes how experts beat novices: win a piece or two with a tactic, then make "a series of judicious exchanges" down to an endgame they know.
+
+<Figure src="/img/blog/how-to-win-at-checkers/trade-when-ahead.svg" alt="Two diagrams: White with four men against three plays 24-19, Red must jump 15x24 and White recaptures 28x19, leaving three against two" caption="White is one man up and offers an even exchange: 24-19, Red must jump 15x24, White takes back 28x19. Four against three becomes three against two." width={1100} height={590} />
+
+To force a trade, put a man where your opponent must jump it and where you can jump back. Because captures are compulsory, they cannot say no.
+
+### 5. Do not refuse every exchange
+
+The opposite mistake is just as common. "Never give up a piece" is another of the three beginner habits Pask warns against. Even trades are how you open lines, free a cramped corner and reach the endgames you know how to win. When you are behind, **avoid trades** and keep pieces on the board; when you are level, trade if it improves your position.
+
+## Use forced captures to set traps
+
+The compulsory jump is the rule that makes checkers a tactical game. In the WCDF rules, all captures are compulsory, and if you have several you may choose any of them, not necessarily the one that takes the most pieces. Once a multiple jump starts, it must be finished.
+
+### 6. Give one, take two: the two-for-one shot
+
+**Offer a man on a square where the forced reply puts an enemy piece in line for a double jump.** Your opponent has no choice, and you come out one piece up.
+
+<Figure src="/img/blog/how-to-win-at-checkers/two-for-one.svg" alt="Two diagrams: White plays 18-15, Red is forced to jump 11x18, then White's man on 23 jumps 18 and 9 to land on 5" caption="White plays 18-15. Red's only legal move is 11x18, and White replies 23x14x5, jumping two men. White is now two against one." width={1100} height={590} />
+
+Pask's book gives dozens of these shots, and they all follow the same pattern: an empty landing square behind each enemy piece, and a man you can afford to give. Look for two enemy men on the same diagonal with one empty square between them.
+
+<ItemCallout href="/rules/checkers/" note="Compulsory jumps, multiple jumps, kings and the draw rules, with a free board and 24 pieces to print." />
+
+### 7. Before every move, check the jump you give away
+
+The same rule works against you. **Every time you move, ask what jump you are forcing your opponent to make, and where their piece lands.** If the landing square lines up your men for a reply, find another move. Most two-for-ones in casual games are not clever traps: they are a player moving a man next to an enemy piece without looking at the square behind.
+
+## Crown a king and use it
+
+### 8. Get the first king, then attack from behind
+
+A man moves only forwards; a king moves and jumps both ways, so it can attack men from behind, where they cannot defend each other. Getting the first king usually decides a game between beginners, as our rules page notes.
+
+Three details win or lose kings:
+
+- **Crowning ends the move.** A man that reaches the king row, even in the middle of a jump, stops there and moves as a king only next turn (WCDF rule 1.19).
+- **Break through before their king arrives.** Pask points out that in many well-played games one side is just in time to break up the opponent's king row before being attacked by a king; one move too late loses.
+- **Stop theirs.** In the late game, Pask advises trades that speed up your own crowning and slow down your opponent's.
+
+## Endgames: two kings against one
+
+### 9. Drive the lone king out of the double corner
+
+Endgames with only kings follow simple rules. **One king against one king is a draw. Two kings against one is a win.** With three against two, keep threatening exchanges until you force one, which leaves two against one.
+
+The lone king's best defence is to run to a double corner, where it can shuttle between two squares. The method from Pask's book: bring both kings next to the corner, take one of its two squares with a king to force the defender out, then pin it against the side of the board.
+
+<Figure src="/img/blog/how-to-win-at-checkers/two-kings-v-one.svg" alt="Two diagrams: White kings on 19 and 27 against a red king on 32 in the double corner, then six moves later White kings on 11 and 28 trap the red king on 20" caption="White to play: 19-23, 32-28, 27-32 (White takes the corner), 28-24, 32-28, 24-20, 23-18, 20-16, 18-15, 16-20, 15-11. Red's king on 20 must move to 24 or 16, and both squares are jumped. Our check: with best defence White needs at most seven moves, capture included." width={1100} height={590} />
+
+<Callout type="tip" title="Mind the 40-move rule">
+In official play a game is drawn after 40 moves each with no capture and no man moving forward (WCDF rule 1.32). Pask notes that a player who does not know the winning method in three kings against two can run out of time this way. Practise the technique so you can do it in a few moves.
+</Callout>
+
+## Test yourself: four positions and one question
+
+Set up each position on a board, or study the diagrams, then answer. White is to play in all four.
+
+<Figure src="/img/blog/how-to-win-at-checkers/quiz-positions-1-2.svg" alt="Quiz position 1: White men on 21, 25 and 29, red men on 13, 15 and 16. Quiz position 2: White men on 10 and 22, red men on 7, 8 and 13" caption="Positions 1 and 2." width={1100} height={590} />
+
+<Figure src="/img/blog/how-to-win-at-checkers/quiz-positions-3-4.svg" alt="Quiz position 3: White men on 17, 18 and 21, red men on 5 and 10. Quiz position 4: White kings on 9 and 10, red king on 23" caption="Positions 3 and 4." width={1100} height={590} />
+
+<Quiz
+  mode="score"
+  title="Checkers strategy quiz"
+  intro="Four positions from the diagrams above, then one question on the solved game."
+  questions={[
+    { q: 'Position 1: which move wins material by force?', options: [{ label: '21-17', correct: true }, { label: '25-22' }, { label: 'Neither: no move wins material here' }], explain: 'After 21-17 Red must jump 13x22, and White replies 25x18x11, taking two men for one. 25-22 gives nothing away and gains nothing.' },
+    { q: 'Position 2: White must jump 10x3 and the man is crowned. What happens next?', options: [{ label: 'The new king jumps the man on 8 straight away' }, { label: 'White\'s turn ends; the king moves next turn', correct: true }, { label: 'White may choose to keep jumping' }], explain: 'Reaching the king row ends the move, even in the middle of a jump (WCDF rule 1.19). Red now has a turn to save the man on 8.' },
+    { q: 'Position 3: White is a man up. Which move follows the "trade when ahead" rule?', options: [{ label: '17-14', correct: true }, { label: '18-15' }, { label: '18-14' }], explain: '17-14 forces 10x17, and White takes back 21x14. Three against two becomes two against one.' },
+    { q: 'Position 4: two kings against one. What is White\'s plan?', options: [{ label: 'Offer a draw: kings cannot be trapped' }, { label: 'Follow the lone king to its double corner, take a corner square, force it out and pin it on the side', correct: true }, { label: 'Keep both kings in the centre and wait' }], explain: 'Two kings against one is a forced win. Our check finds a win in at most 13 White moves from this position, using exactly that method.' },
+    { q: 'What did the Chinook team prove in 2007?', options: [{ label: 'Red, who moves first, always wins' }, { label: 'Perfect play by both sides ends in a draw', correct: true }, { label: 'White always wins with perfect play' }], explain: 'Checkers is a draw with perfect play. Red can guarantee a draw, and so can White whatever Red opens with.' },
+  ]}
+/>
+
+## Practise on a printed board
+
+Strategy sticks when you move the pieces yourself. Print a board, set up the diagrams on this page and play them out from both sides, then play a few games trying one strategy at a time.
+
+<ItemCallout href="/board-games/printable-checkerboard/" note="A one-page 8×8 board in colour. Use coins or buttons as pieces, or the 24 cut-out pieces from our rules page printable." />
+
+Our [checkers rules page](/rules/checkers/) has its own one-page printable with the board and 24 pieces to cut out; stack two pieces to make a king. The same board serves for [chess](/rules/chess/), and you will find more classics on our [board game rules page](/rules/board-games/), from [reversi](/rules/reversi/) to [Chinese checkers](/rules/chinese-checkers/). For two-player nights, browse our [print and play games for 2 players](/board-games/2-player/).
+
+<Checklist
+  id="checkers-before-every-move"
+  title="Before every move"
+  items={[
+    'Do I have a jump? If so, I must take one.',
+    'Which jump does my move force on my opponent, and where does their piece land?',
+    'Does it leave two of my men on one diagonal with an empty square behind each?',
+    'Am I ahead? Then can I offer an even exchange?',
+    'Am I weakening my double-corner side or leaving my king row open?',
+    'Who will crown first, and can I stop their runner?',
+  ]}
+/>
+
+<Callout type="key" title="In one sentence">
+Take the centre, keep your double-corner men home, **trade down when you are ahead**, use the compulsory jump to win two for one, and learn to trap a lone king: checkers is a draw only if nobody makes a mistake.
+</Callout>

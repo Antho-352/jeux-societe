@@ -1,0 +1,223 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 590" width="1100" height="590" role="img" aria-label="Quiz positions 1 and 2">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="3.2" markerHeight="3.2" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#0F3D2E"/></marker></defs>
+<rect width="1100" height="590" rx="24" fill="#F7F5EE"/>
+<text x="264" y="64" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700" fill="#0F3D2E">Position 1 · White to play</text>
+<rect x="32" y="74" width="464" height="464" rx="10" fill="#0F3D2E"/>
+<rect x="40" y="82" width="56" height="56" fill="#EFE6CC"/>
+<rect x="96" y="82" width="56" height="56" fill="#2F6B57"/>
+<text x="101" y="98" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">1</text>
+<rect x="152" y="82" width="56" height="56" fill="#EFE6CC"/>
+<rect x="208" y="82" width="56" height="56" fill="#2F6B57"/>
+<text x="213" y="98" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">2</text>
+<rect x="264" y="82" width="56" height="56" fill="#EFE6CC"/>
+<rect x="320" y="82" width="56" height="56" fill="#2F6B57"/>
+<text x="325" y="98" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">3</text>
+<rect x="376" y="82" width="56" height="56" fill="#EFE6CC"/>
+<rect x="432" y="82" width="56" height="56" fill="#2F6B57"/>
+<text x="437" y="98" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">4</text>
+<rect x="40" y="138" width="56" height="56" fill="#2F6B57"/>
+<text x="45" y="154" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">5</text>
+<rect x="96" y="138" width="56" height="56" fill="#EFE6CC"/>
+<rect x="152" y="138" width="56" height="56" fill="#2F6B57"/>
+<text x="157" y="154" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">6</text>
+<rect x="208" y="138" width="56" height="56" fill="#EFE6CC"/>
+<rect x="264" y="138" width="56" height="56" fill="#2F6B57"/>
+<text x="269" y="154" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">7</text>
+<rect x="320" y="138" width="56" height="56" fill="#EFE6CC"/>
+<rect x="376" y="138" width="56" height="56" fill="#2F6B57"/>
+<text x="381" y="154" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">8</text>
+<rect x="432" y="138" width="56" height="56" fill="#EFE6CC"/>
+<rect x="40" y="194" width="56" height="56" fill="#EFE6CC"/>
+<rect x="96" y="194" width="56" height="56" fill="#2F6B57"/>
+<text x="101" y="210" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">9</text>
+<rect x="152" y="194" width="56" height="56" fill="#EFE6CC"/>
+<rect x="208" y="194" width="56" height="56" fill="#2F6B57"/>
+<text x="213" y="210" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">10</text>
+<rect x="264" y="194" width="56" height="56" fill="#EFE6CC"/>
+<rect x="320" y="194" width="56" height="56" fill="#2F6B57"/>
+<text x="325" y="210" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">11</text>
+<rect x="376" y="194" width="56" height="56" fill="#EFE6CC"/>
+<rect x="432" y="194" width="56" height="56" fill="#2F6B57"/>
+<text x="437" y="210" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">12</text>
+<rect x="40" y="250" width="56" height="56" fill="#2F6B57"/>
+<rect x="96" y="250" width="56" height="56" fill="#EFE6CC"/>
+<rect x="152" y="250" width="56" height="56" fill="#2F6B57"/>
+<text x="157" y="266" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">14</text>
+<rect x="208" y="250" width="56" height="56" fill="#EFE6CC"/>
+<rect x="264" y="250" width="56" height="56" fill="#2F6B57"/>
+<rect x="320" y="250" width="56" height="56" fill="#EFE6CC"/>
+<rect x="376" y="250" width="56" height="56" fill="#2F6B57"/>
+<rect x="432" y="250" width="56" height="56" fill="#EFE6CC"/>
+<rect x="40" y="306" width="56" height="56" fill="#EFE6CC"/>
+<rect x="96" y="306" width="56" height="56" fill="#2F6B57"/>
+<text x="101" y="322" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">17</text>
+<rect x="152" y="306" width="56" height="56" fill="#EFE6CC"/>
+<rect x="208" y="306" width="56" height="56" fill="#2F6B57"/>
+<text x="213" y="322" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">18</text>
+<rect x="264" y="306" width="56" height="56" fill="#EFE6CC"/>
+<rect x="320" y="306" width="56" height="56" fill="#2F6B57"/>
+<text x="325" y="322" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">19</text>
+<rect x="376" y="306" width="56" height="56" fill="#EFE6CC"/>
+<rect x="432" y="306" width="56" height="56" fill="#2F6B57"/>
+<text x="437" y="322" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">20</text>
+<rect x="40" y="362" width="56" height="56" fill="#2F6B57"/>
+<rect x="96" y="362" width="56" height="56" fill="#EFE6CC"/>
+<rect x="152" y="362" width="56" height="56" fill="#2F6B57"/>
+<text x="157" y="378" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">22</text>
+<rect x="208" y="362" width="56" height="56" fill="#EFE6CC"/>
+<rect x="264" y="362" width="56" height="56" fill="#2F6B57"/>
+<text x="269" y="378" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">23</text>
+<rect x="320" y="362" width="56" height="56" fill="#EFE6CC"/>
+<rect x="376" y="362" width="56" height="56" fill="#2F6B57"/>
+<text x="381" y="378" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">24</text>
+<rect x="432" y="362" width="56" height="56" fill="#EFE6CC"/>
+<rect x="40" y="418" width="56" height="56" fill="#EFE6CC"/>
+<rect x="96" y="418" width="56" height="56" fill="#2F6B57"/>
+<rect x="152" y="418" width="56" height="56" fill="#EFE6CC"/>
+<rect x="208" y="418" width="56" height="56" fill="#2F6B57"/>
+<text x="213" y="434" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">26</text>
+<rect x="264" y="418" width="56" height="56" fill="#EFE6CC"/>
+<rect x="320" y="418" width="56" height="56" fill="#2F6B57"/>
+<text x="325" y="434" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">27</text>
+<rect x="376" y="418" width="56" height="56" fill="#EFE6CC"/>
+<rect x="432" y="418" width="56" height="56" fill="#2F6B57"/>
+<text x="437" y="434" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">28</text>
+<rect x="40" y="474" width="56" height="56" fill="#2F6B57"/>
+<rect x="96" y="474" width="56" height="56" fill="#EFE6CC"/>
+<rect x="152" y="474" width="56" height="56" fill="#2F6B57"/>
+<text x="157" y="490" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">30</text>
+<rect x="208" y="474" width="56" height="56" fill="#EFE6CC"/>
+<rect x="264" y="474" width="56" height="56" fill="#2F6B57"/>
+<text x="269" y="490" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">31</text>
+<rect x="320" y="474" width="56" height="56" fill="#EFE6CC"/>
+<rect x="376" y="474" width="56" height="56" fill="#2F6B57"/>
+<text x="381" y="490" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">32</text>
+<rect x="432" y="474" width="56" height="56" fill="#EFE6CC"/>
+<circle cx="68.0" cy="390.0" r="21.28" fill="#FFFFFF" stroke="#0F3D2E" stroke-width="3"/>
+<circle cx="68.0" cy="390.0" r="14.56" fill="none" stroke="#0F3D2E" stroke-opacity="0.35" stroke-width="2"/>
+<text x="68.0" y="396.0" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800" fill="#0F3D2E">21</text>
+<circle cx="124.0" cy="446.0" r="21.28" fill="#FFFFFF" stroke="#0F3D2E" stroke-width="3"/>
+<circle cx="124.0" cy="446.0" r="14.56" fill="none" stroke="#0F3D2E" stroke-opacity="0.35" stroke-width="2"/>
+<text x="124.0" y="452.0" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800" fill="#0F3D2E">25</text>
+<circle cx="68.0" cy="502.0" r="21.28" fill="#FFFFFF" stroke="#0F3D2E" stroke-width="3"/>
+<circle cx="68.0" cy="502.0" r="14.56" fill="none" stroke="#0F3D2E" stroke-opacity="0.35" stroke-width="2"/>
+<text x="68.0" y="508.0" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800" fill="#0F3D2E">29</text>
+<circle cx="68.0" cy="278.0" r="21.28" fill="#FF6B57" stroke="#0F3D2E" stroke-width="3"/>
+<circle cx="68.0" cy="278.0" r="14.56" fill="none" stroke="#0F3D2E" stroke-opacity="0.35" stroke-width="2"/>
+<text x="68.0" y="284.0" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800" fill="#0F3D2E">13</text>
+<circle cx="292.0" cy="278.0" r="21.28" fill="#FF6B57" stroke="#0F3D2E" stroke-width="3"/>
+<circle cx="292.0" cy="278.0" r="14.56" fill="none" stroke="#0F3D2E" stroke-opacity="0.35" stroke-width="2"/>
+<text x="292.0" y="284.0" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800" fill="#0F3D2E">15</text>
+<circle cx="404.0" cy="278.0" r="21.28" fill="#FF6B57" stroke="#0F3D2E" stroke-width="3"/>
+<circle cx="404.0" cy="278.0" r="14.56" fill="none" stroke="#0F3D2E" stroke-opacity="0.35" stroke-width="2"/>
+<text x="404.0" y="284.0" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800" fill="#0F3D2E">16</text>
+<text x="804" y="64" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700" fill="#0F3D2E">Position 2 · White to play</text>
+<rect x="572" y="74" width="464" height="464" rx="10" fill="#0F3D2E"/>
+<rect x="580" y="82" width="56" height="56" fill="#EFE6CC"/>
+<rect x="636" y="82" width="56" height="56" fill="#2F6B57"/>
+<text x="641" y="98" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">1</text>
+<rect x="692" y="82" width="56" height="56" fill="#EFE6CC"/>
+<rect x="748" y="82" width="56" height="56" fill="#2F6B57"/>
+<text x="753" y="98" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">2</text>
+<rect x="804" y="82" width="56" height="56" fill="#EFE6CC"/>
+<rect x="860" y="82" width="56" height="56" fill="#2F6B57"/>
+<text x="865" y="98" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">3</text>
+<rect x="916" y="82" width="56" height="56" fill="#EFE6CC"/>
+<rect x="972" y="82" width="56" height="56" fill="#2F6B57"/>
+<text x="977" y="98" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">4</text>
+<rect x="580" y="138" width="56" height="56" fill="#2F6B57"/>
+<text x="585" y="154" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">5</text>
+<rect x="636" y="138" width="56" height="56" fill="#EFE6CC"/>
+<rect x="692" y="138" width="56" height="56" fill="#2F6B57"/>
+<text x="697" y="154" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">6</text>
+<rect x="748" y="138" width="56" height="56" fill="#EFE6CC"/>
+<rect x="804" y="138" width="56" height="56" fill="#2F6B57"/>
+<rect x="860" y="138" width="56" height="56" fill="#EFE6CC"/>
+<rect x="916" y="138" width="56" height="56" fill="#2F6B57"/>
+<rect x="972" y="138" width="56" height="56" fill="#EFE6CC"/>
+<rect x="580" y="194" width="56" height="56" fill="#EFE6CC"/>
+<rect x="636" y="194" width="56" height="56" fill="#2F6B57"/>
+<text x="641" y="210" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">9</text>
+<rect x="692" y="194" width="56" height="56" fill="#EFE6CC"/>
+<rect x="748" y="194" width="56" height="56" fill="#2F6B57"/>
+<rect x="804" y="194" width="56" height="56" fill="#EFE6CC"/>
+<rect x="860" y="194" width="56" height="56" fill="#2F6B57"/>
+<text x="865" y="210" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">11</text>
+<rect x="916" y="194" width="56" height="56" fill="#EFE6CC"/>
+<rect x="972" y="194" width="56" height="56" fill="#2F6B57"/>
+<text x="977" y="210" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">12</text>
+<rect x="580" y="250" width="56" height="56" fill="#2F6B57"/>
+<rect x="636" y="250" width="56" height="56" fill="#EFE6CC"/>
+<rect x="692" y="250" width="56" height="56" fill="#2F6B57"/>
+<text x="697" y="266" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">14</text>
+<rect x="748" y="250" width="56" height="56" fill="#EFE6CC"/>
+<rect x="804" y="250" width="56" height="56" fill="#2F6B57"/>
+<text x="809" y="266" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">15</text>
+<rect x="860" y="250" width="56" height="56" fill="#EFE6CC"/>
+<rect x="916" y="250" width="56" height="56" fill="#2F6B57"/>
+<text x="921" y="266" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">16</text>
+<rect x="972" y="250" width="56" height="56" fill="#EFE6CC"/>
+<rect x="580" y="306" width="56" height="56" fill="#EFE6CC"/>
+<rect x="636" y="306" width="56" height="56" fill="#2F6B57"/>
+<text x="641" y="322" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">17</text>
+<rect x="692" y="306" width="56" height="56" fill="#EFE6CC"/>
+<rect x="748" y="306" width="56" height="56" fill="#2F6B57"/>
+<text x="753" y="322" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">18</text>
+<rect x="804" y="306" width="56" height="56" fill="#EFE6CC"/>
+<rect x="860" y="306" width="56" height="56" fill="#2F6B57"/>
+<text x="865" y="322" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">19</text>
+<rect x="916" y="306" width="56" height="56" fill="#EFE6CC"/>
+<rect x="972" y="306" width="56" height="56" fill="#2F6B57"/>
+<text x="977" y="322" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">20</text>
+<rect x="580" y="362" width="56" height="56" fill="#2F6B57"/>
+<text x="585" y="378" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">21</text>
+<rect x="636" y="362" width="56" height="56" fill="#EFE6CC"/>
+<rect x="692" y="362" width="56" height="56" fill="#2F6B57"/>
+<rect x="748" y="362" width="56" height="56" fill="#EFE6CC"/>
+<rect x="804" y="362" width="56" height="56" fill="#2F6B57"/>
+<text x="809" y="378" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">23</text>
+<rect x="860" y="362" width="56" height="56" fill="#EFE6CC"/>
+<rect x="916" y="362" width="56" height="56" fill="#2F6B57"/>
+<text x="921" y="378" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">24</text>
+<rect x="972" y="362" width="56" height="56" fill="#EFE6CC"/>
+<rect x="580" y="418" width="56" height="56" fill="#EFE6CC"/>
+<rect x="636" y="418" width="56" height="56" fill="#2F6B57"/>
+<text x="641" y="434" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">25</text>
+<rect x="692" y="418" width="56" height="56" fill="#EFE6CC"/>
+<rect x="748" y="418" width="56" height="56" fill="#2F6B57"/>
+<text x="753" y="434" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">26</text>
+<rect x="804" y="418" width="56" height="56" fill="#EFE6CC"/>
+<rect x="860" y="418" width="56" height="56" fill="#2F6B57"/>
+<text x="865" y="434" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">27</text>
+<rect x="916" y="418" width="56" height="56" fill="#EFE6CC"/>
+<rect x="972" y="418" width="56" height="56" fill="#2F6B57"/>
+<text x="977" y="434" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">28</text>
+<rect x="580" y="474" width="56" height="56" fill="#2F6B57"/>
+<text x="585" y="490" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">29</text>
+<rect x="636" y="474" width="56" height="56" fill="#EFE6CC"/>
+<rect x="692" y="474" width="56" height="56" fill="#2F6B57"/>
+<text x="697" y="490" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">30</text>
+<rect x="748" y="474" width="56" height="56" fill="#EFE6CC"/>
+<rect x="804" y="474" width="56" height="56" fill="#2F6B57"/>
+<text x="809" y="490" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">31</text>
+<rect x="860" y="474" width="56" height="56" fill="#EFE6CC"/>
+<rect x="916" y="474" width="56" height="56" fill="#2F6B57"/>
+<text x="921" y="490" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#CFE3DA">32</text>
+<rect x="972" y="474" width="56" height="56" fill="#EFE6CC"/>
+<circle cx="776.0" cy="222.0" r="21.28" fill="#FFFFFF" stroke="#0F3D2E" stroke-width="3"/>
+<circle cx="776.0" cy="222.0" r="14.56" fill="none" stroke="#0F3D2E" stroke-opacity="0.35" stroke-width="2"/>
+<text x="776.0" y="228.0" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800" fill="#0F3D2E">10</text>
+<circle cx="720.0" cy="390.0" r="21.28" fill="#FFFFFF" stroke="#0F3D2E" stroke-width="3"/>
+<circle cx="720.0" cy="390.0" r="14.56" fill="none" stroke="#0F3D2E" stroke-opacity="0.35" stroke-width="2"/>
+<text x="720.0" y="396.0" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800" fill="#0F3D2E">22</text>
+<circle cx="832.0" cy="166.0" r="21.28" fill="#FF6B57" stroke="#0F3D2E" stroke-width="3"/>
+<circle cx="832.0" cy="166.0" r="14.56" fill="none" stroke="#0F3D2E" stroke-opacity="0.35" stroke-width="2"/>
+<text x="832.0" y="172.0" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800" fill="#0F3D2E">7</text>
+<circle cx="944.0" cy="166.0" r="21.28" fill="#FF6B57" stroke="#0F3D2E" stroke-width="3"/>
+<circle cx="944.0" cy="166.0" r="14.56" fill="none" stroke="#0F3D2E" stroke-opacity="0.35" stroke-width="2"/>
+<text x="944.0" y="172.0" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800" fill="#0F3D2E">8</text>
+<circle cx="608.0" cy="278.0" r="21.28" fill="#FF6B57" stroke="#0F3D2E" stroke-width="3"/>
+<circle cx="608.0" cy="278.0" r="14.56" fill="none" stroke="#0F3D2E" stroke-opacity="0.35" stroke-width="2"/>
+<text x="608.0" y="284.0" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800" fill="#0F3D2E">13</text>
+<text x="550.0" y="572" text-anchor="middle" font-family="Outfit, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#4B5A54">Squares numbered 1–32 (standard checkers notation). Red moves down the board, White moves up.</text>
+</svg>
