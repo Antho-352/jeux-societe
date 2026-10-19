@@ -1,5 +1,7 @@
 ---
-cover: "/img/rules/connect-four.png"
+cover: "/img/rules/connect-four.jpg"
+cover_credit: "Image: Hasbro (Milton Bradley) via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/2719/connect-four"
 title: "Connect Four rules: how to play Connect 4"
 game_name: "Connect Four"
 aliases: ["Connect 4", "Four in a Row", "Captain's Mistress", "Plot Four"]

@@ -68,6 +68,19 @@ const articleLd = { '@context': 'https://schema.org', '@type': 'Article', headli
       )}
     </article>
     <aside>
+      {d.cover_credit && (
+        <div class="aside-box">
+          <h2>The boxed game</h2>
+          <img src={d.cover} alt={`${d.game_name} box`} width="600" height="600" loading="lazy" style="width:100%; height:auto; border-radius:12px" />
+          <p class="cover-credit">{d.cover_source ? <a href={d.cover_source} rel="nofollow noopener">{d.cover_credit}</a> : d.cover_credit}</p>
+          {d.buy_url && (
+            <>
+              <p style="margin-top:10px"><a class="btn btn-outline" href={d.buy_url} rel="nofollow sponsored noopener" target="_blank">Buy {d.game_name} on Amazon</a></p>
+              <p class="fileinfo">As an Amazon Associate, we earn from qualifying purchases.</p>
+            </>
+          )}
+        </div>
+      )}
       {relatedGame && (
         <div class="aside-box mint">
           <h2>Print and play</h2>

@@ -1,5 +1,7 @@
 ---
-cover: "/img/rules/skip-bo.png"
+cover: "/img/rules/skip-bo.jpg"
+cover_credit: "Image: Mattel via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/1269/skip-bo"
 title: "Skip-Bo rules: how to play Skip-Bo"
 game_name: "Skip-Bo"
 aliases: ["Skip Bo", "Spite and Malice (ancestor)"]
