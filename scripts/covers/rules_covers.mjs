@@ -16,7 +16,9 @@ const FAMILY = { card: 'war', board: 'checkers', dice: 'yacht', 'pen-and-paper':
 const TAG = { card: 'Card game rules', board: 'Board game rules', dice: 'Dice game rules', 'pen-and-paper': 'Pen & paper game', tile: 'Tile game rules', party: 'Party game rules', drinking: 'Drinking game · 21+' };
 
 const files = fs.readdirSync(DIR).filter((f) => f.endsWith('.md'));
-const todo = only.length ? files.filter((f) => only.includes(f.replace(/\.md$/, ''))) : files.filter((f) => all || !/^cover:/m.test(fs.readFileSync(path.join(DIR, f), 'utf8')));
+// Pages with an official box image (cover_credit) keep it and are never redrawn.
+const official = (f) => /^cover_credit:/m.test(fs.readFileSync(path.join(DIR, f), 'utf8'));
+const todo = (only.length ? files.filter((f) => only.includes(f.replace(/\.md$/, ''))) : files.filter((f) => all || !/^cover:/m.test(fs.readFileSync(path.join(DIR, f), 'utf8')))).filter((f) => !official(f));
 if (!todo.length) { console.log('No rules page without cover.'); process.exit(0); }
 fs.mkdirSync(OUT, { recursive: true });
 const r = await coverRenderer();

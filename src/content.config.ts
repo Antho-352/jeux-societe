@@ -80,6 +80,9 @@ const rules = defineCollection({
     printable: z.string().optional(),
     printable_label: z.string().optional(),
     cover: z.string().optional(),
+    cover_credit: z.string().optional(), // official box image of a branded game
+    cover_source: z.string().url().optional(),
+    buy_url: z.string().url().optional(), // affiliate link to the boxed game
     related_game: reference('games').optional(),
     sources: z.array(z.object({ label: z.string(), url: z.string().url() })).default([]),
     status: z.enum(['published', 'draft']).default('published'),

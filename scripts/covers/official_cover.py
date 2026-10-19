@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Install an official game image as a cover: python3 -I scripts/covers/official_cover.py <slug> <image file> "<credit>" <source page url>
+"""Install an official game image as a cover: python3 -I scripts/covers/official_cover.py [--rules] <slug> <image file> "<credit>" <source page url>
+With --rules the cover goes to a rules page (box of a branded game) instead of a game page.
 
 The image is fitted into a 600×600 JPEG: centre-cropped when it is nearly square, otherwise shown whole on a
 blurred copy of itself so nothing important is cut. The game's frontmatter gets cover, cover_credit and
@@ -8,7 +9,9 @@ import sys, pathlib, re
 from PIL import Image, ImageFilter
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
-slug, src, credit, page = sys.argv[1:5]
+args = [a for a in sys.argv[1:] if a != '--rules']
+KIND = 'rules' if '--rules' in sys.argv else 'games'
+slug, src, credit, page = args[:4]
 im = Image.open(src).convert('RGB')
 w, h = im.size
 S = 600
@@ -18,16 +21,16 @@ else:
     bg = im.resize((S, S), Image.LANCZOS).filter(ImageFilter.GaussianBlur(24))
     fg = im.copy(); fg.thumbnail((S - 40, S - 40), Image.LANCZOS)
     bg.paste(fg, ((S - fg.width) // 2, (S - fg.height) // 2)); im = bg
-out = ROOT / 'public/img/games' / f'{slug}.jpg'
+out = ROOT / f'public/img/{KIND}' / f'{slug}.jpg'
 im.save(out, quality=86, optimize=True, progressive=True)
-md = ROOT / 'src/content/games' / f'{slug}.md'
+md = ROOT / f'src/content/{KIND}' / f'{slug}.md'
 t = md.read_text()
 t = re.sub(r'^cover_art: true\n', '', t, flags=re.M)
 t = re.sub(r'^cover_credit: .*\n', '', t, flags=re.M)
 t = re.sub(r'^cover_source: .*\n', '', t, flags=re.M)
-line = f'cover: "/img/games/{slug}.jpg"\ncover_credit: "{credit}"\ncover_source: "{page}"\n'
+line = f'cover: "/img/{KIND}/{slug}.jpg"\ncover_credit: "{credit}"\ncover_source: "{page}"\n'
 t = re.sub(r'^cover: .*\n', line, t, count=1, flags=re.M) if re.search(r'^cover: ', t, re.M) else t.replace('---\n', '---\n' + line, 1)
 md.write_text(t)
-old = ROOT / 'public/img/games' / f'{slug}.png'
+old = ROOT / f'public/img/{KIND}' / f'{slug}.png'
 if old.exists(): old.unlink()
 print('cover', slug, im.size)

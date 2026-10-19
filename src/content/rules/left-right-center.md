@@ -1,5 +1,7 @@
 ---
-cover: "/img/rules/left-right-center.png"
+cover: "/img/rules/left-right-center.jpg"
+cover_credit: "Image: Spin Master tin edition via BoardGameGeek"
+cover_source: "https://boardgamegeek.com/boardgame/3522/lcr"
 title: "Left Right Center rules: how to play LCR"
 game_name: "Left Right Center"
 aliases: ["LCR", "Left Center Right"]
