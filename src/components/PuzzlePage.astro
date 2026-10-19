@@ -29,9 +29,10 @@ const crumbs = [{ name: 'Home', href: '/' }, { name: 'Puzzles', href: '/puzzles/
 const ld = {
   '@context': 'https://schema.org', '@type': 'CreativeWork', name: d.title, url: SITE_URL + path, license: d.licence, numberOfPages: d.pages,
   encodingFormat: 'application/pdf', isAccessibleForFree: true, author: { '@type': 'Organization', name: 'Print & Play Game' },
+  description: d.summary, image: d.cover ? SITE_URL + d.cover : undefined, datePublished: d.date_added.toISOString().slice(0, 10),
 };
 ---
-<Base title={title} description={description} path={path} active="puzzles" jsonLd={[breadcrumbLd(crumbs), ld]} noindex={d.status !== 'published'}>
+<Base title={title} description={description} path={path} image={d.cover} active="puzzles" jsonLd={[breadcrumbLd(crumbs), ld]} noindex={d.status !== 'published'}>
   <Breadcrumb items={crumbs} />
   <section class="product wrap">
     <div class="stack">
@@ -78,7 +79,7 @@ const ld = {
       </div>
     </article>
     <aside>
-      <div class="aside-box mint"><h2>Print tips</h2><p>Print at 100%, no page scaling. Plain 80 g paper is fine. The answer key is on the last page, so print one page fewer if you want to keep the solution hidden.</p></div>
+      <div class="aside-box mint"><h2>Print tips</h2><p>Print at 100%, no page scaling. Plain 80 g paper is fine.{d.type === 'bingo' ? (d.answers_included ? ' The calling cards are on the last page: print it once, for the caller.' : '') : d.answers_included ? ' The answer key is on the last page, so print one page fewer if you want to keep the solution hidden.' : ''}</p></div>
       <div class="aside-box sky"><h2>Licence</h2><p>{d.licence}: print as many copies as you like for home or classroom use, share the link rather than the file, and don’t sell it.</p></div>
     </aside>
   </section>

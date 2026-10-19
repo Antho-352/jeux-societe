@@ -7,7 +7,7 @@ occasions: []
 pages: 2
 paper: "both"
 colour: "bw"
-answers_included: true
+answers_included: false
 grid: "3×3"
 download_url: "/pdf/puzzles/bingo/blank-3x3-bingo-card-template.pdf"
 download_size_mb: 0.01

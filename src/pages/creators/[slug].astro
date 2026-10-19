@@ -16,8 +16,10 @@ const d = creator.data;
 const games = (await getCollection('games')).filter((g) => g.data.creator?.id === creator.id && g.data.status === 'published');
 const path = creatorUrl(creator.id);
 const crumbs = [{ name: 'Home', href: '/' }, { name: 'Creators', href: '/creators/' }, { name: d.name, href: path }];
+// First sentence of the bio, or the bio cut on a word boundary, so the meta description never ends mid-word.
+const clip = (t: string, n: number) => { const first = t.match(/^.*?[a-z0-9)]{2}[.!?](?=\s|$)/)?.[0] ?? t; if (first.length <= n) return first; const cut = first.slice(0, n); return cut.slice(0, cut.lastIndexOf(' ')).replace(/[,;:]$/, '') + '…'; };
 ---
-<Base title={`${d.name}: free print and play games`} description={`${games.length} free printable game${games.length === 1 ? '' : 's'} by ${d.name}. ${d.bio.slice(0, 120)}`} path={path} jsonLd={[breadcrumbLd(crumbs)]} noindex={games.length < 2}>
+<Base title={`${d.name}: free print and play games`} description={`${games.length} free printable game${games.length === 1 ? '' : 's'} by ${d.name}. ${clip(d.bio, 110)}`} path={path} jsonLd={[breadcrumbLd(crumbs)]} noindex={games.length < 2}>
   <Breadcrumb items={crumbs} />
   <section class="wrap stack" style="--gap:16px; padding-bottom:32px; max-width:860px">
     <h1>{d.name}</h1>

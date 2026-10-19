@@ -8,7 +8,7 @@ seo_description: "Free printable Halloween games: Halloween bingo, word search, 
 collection: "mixed"
 filter: {"occasion": "halloween"}
 related: [{"label": "All occasions", "href": "/occasions/"}, {"label": "Bingo cards", "href": "/bingo/"}, {"label": "Puzzles", "href": "/puzzles/"}]
-faq: [{"q": "Which Halloween games suit young children?", "a": "The pumpkin dot to dot, the easy pumpkin maze and Halloween bingo work from age 4 to 5. Older kids can try the Halloween word search and the scavenger hunt."}, {"q": "Do I need a colour printer?", "a": "No, the puzzles and bingo cards are black and white."}]
+faq: [{"q": "Which Halloween games suit young children?", "a": "The ghost and bat dot to dots and the easy pumpkin maze work from age 4 to 5. From about 6, kids can play Halloween bingo and the pumpkin dot to dot; older kids can try the Halloween word search and the scavenger hunt."}, {"q": "Do I need a colour printer?", "a": "No, the puzzles and bingo cards are black and white."}]
 ---
 
 

@@ -1,8 +1,11 @@
 export const SITE_NAME = 'Print & Play Game';
 export const SITE_URL = 'https://printandplaygame.com';
 
+// Google cuts titles at about 60 characters and already shows the site name above each result,
+// so the brand suffix is only added when it fits.
 export function pageTitle(t: string): string {
-  return t.includes(SITE_NAME) ? t : `${t} | ${SITE_NAME}`;
+  const full = `${t} | ${SITE_NAME}`;
+  return t.includes(SITE_NAME) || full.length > 60 ? t : full;
 }
 export function breadcrumbLd(items: { name: string; href: string }[]) {
   return {

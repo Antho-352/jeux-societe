@@ -2,7 +2,7 @@
 path: "rules/pen-and-paper"
 title: "Pen and paper"
 h1: "Pen and paper games: rules and printable sheets"
-lead: "Games that need nothing but a pencil: tic-tac-toe, dots and boxes, hangman, battleship, Sim and Sprouts, with sheets to print for each."
+lead: "Games that need nothing but a pencil: tic-tac-toe, dots and boxes, hangman, battleship, Sim and Sprouts. The first four come with a sheet to print."
 seo_title: "Pen and paper games: rules and free printable sheets"
 seo_description: "How to play pen and paper games: tic-tac-toe, dots and boxes, hangman, battleship, Sim and Sprouts. Simple rules and free printable game sheets."
 collection: "rules"

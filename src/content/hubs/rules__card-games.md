@@ -8,7 +8,7 @@ seo_description: "How to play classic card games: Go Fish, Rummy, Gin Rummy, Hea
 collection: "rules"
 filter: {"category": "card"}
 related: [{"label": "Board game rules", "href": "/rules/board-games/"}, {"label": "Dice game rules", "href": "/rules/dice-games/"}, {"label": "Printable card games", "href": "/card-games/"}]
-faq: [{"q": "What do I need to play these card games?", "a": "A standard 52-card deck covers almost every game here. Canasta uses two decks plus jokers; UNO, Phase 10 and Skip-Bo need their own branded decks."}, {"q": "Which card games are best for two players?", "a": "Gin Rummy, Cribbage, Speed and War are built for two. Use the \"2 players\" filter to see them all."}, {"q": "Can I print a score sheet?", "a": "Yes. Rummy, Gin Rummy, Canasta, Hearts, Spades, Euchre, Golf, Thirty-One and Cribbage each come with a free score sheet."}]
+faq: [{"q": "What do I need to play these card games?", "a": "A standard 52-card deck covers almost every game here. Canasta uses two decks plus jokers; UNO, Phase 10 and Skip-Bo need their own branded decks."}, {"q": "Which card games are best for two players?", "a": "Gin Rummy and Speed are built for two; Cribbage and War are at their best with two. Use the \"2 players\" filter to see them all."}, {"q": "Can I print a score sheet?", "a": "Yes. Rummy, Gin Rummy, Canasta, Hearts, Spades, Euchre, Golf, Thirty-One and Cribbage each come with a free score sheet."}]
 ---
 
 ## Where to start

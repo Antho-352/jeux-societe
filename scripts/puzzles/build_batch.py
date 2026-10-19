@@ -53,7 +53,7 @@ def write_entry(item, type_, folder, pages, grid, count, body_pdf, difficulty=No
         f"pages: {pages}",
         'paper: "both"',
         'colour: "bw"',
-        "answers_included: true",
+        f"answers_included: {'false' if 'blank-template' in item['themes'] else 'true'}",
     ]
     if count:
         fm.append(f"count: {count}")

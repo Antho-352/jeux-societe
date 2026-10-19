@@ -12,3 +12,9 @@
   Cache-Control: public, max-age=2592000
 /_astro/*
   Cache-Control: public, max-age=31536000, immutable
+# The same site is also served on the pages.dev host and on preview URLs: keep those out of search results
+# (the canonical tags already point to printandplaygame.com, this makes it explicit).
+https://:project.pages.dev/*
+  X-Robots-Tag: noindex
+https://:version.:project.pages.dev/*
+  X-Robots-Tag: noindex

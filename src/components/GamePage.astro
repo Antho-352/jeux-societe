@@ -61,7 +61,7 @@ const workLd = {
   isAccessibleForFree: true,
 };
 ---
-<Base title={title} description={description} path={path} ogType="product" active={silo} jsonLd={[breadcrumbLd(crumbs), productLd, workLd]} noindex={d.status !== 'published'}>
+<Base title={title} description={description} path={path} image={d.cover} ogType="product" active={silo} jsonLd={[breadcrumbLd(crumbs), productLd, workLd]} noindex={d.status !== 'published'}>
   <Breadcrumb items={crumbs} />
   <section class="product wrap">
     <div class="stack">

@@ -16,8 +16,9 @@ interface Props {
   ogType?: string;
   jsonLd?: object[];
   active?: string;         // top-nav key
+  image?: string;          // site path of the share image (cover)
 }
-const { title, description, path, lang = 'en', altPath, noindex = false, ogType = 'website', jsonLd = [], active } = Astro.props;
+const { title, description, path, lang = 'en', altPath, noindex = false, ogType = 'website', jsonLd = [], active, image } = Astro.props;
 const canonical = SITE_URL + path;
 const fullTitle = pageTitle(title);
 ---
@@ -43,6 +44,7 @@ const fullTitle = pageTitle(title);
   <meta property="og:description" content={description} />
   <meta property="og:url" content={canonical} />
   <meta property="og:locale" content={lang === 'en' ? 'en_US' : 'fr_FR'} />
+  {image && <meta property="og:image" content={SITE_URL + image} />}
   <meta name="twitter:card" content="summary_large_image" />
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
   <link rel="preload" href="/fonts/fraunces-normal-600-900-latin.woff2" as="font" type="font/woff2" crossorigin />

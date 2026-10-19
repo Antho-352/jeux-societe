@@ -2,7 +2,7 @@
 path: "board-games/printable-boards"
 title: "Printable boards"
 h1: "Printable game boards and blank templates"
-lead: "Free printable boards for the classics (checkers, chess, go, backgammon, mancala, nine men's morris, pachisi and more) plus a playing card deck to print, each linked to its rules."
+lead: "Free printable boards for the classics (checkers, chess, go, backgammon, mancala, nine men's morris, pachisi and more) plus a playing card deck to print, linked to our rules page when we have one."
 seo_title: "Printable game boards: free checkers, chess, go and more"
 seo_description: "Free printable game boards and templates: checkerboard, chess board, go 9×9 to 19×19, backgammon, mancala, cribbage, battleship, snakes and ladders. PDF."
 collection: "games"

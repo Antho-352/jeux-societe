@@ -20,9 +20,9 @@ const others = (await getCollection('rules')).filter((r) => r.id !== rule.id && 
 const title = d.seo_title ?? `${d.game_name} rules: how to play ${d.game_name}${d.printable ? ' (free printable)' : ''}`;
 const description = d.seo_description ?? `${d.summary} ${playersLabel(d.players_min, d.players_max)}${d.time_max ? `, ${timeLabel(d.time_min, d.time_max)}` : ''}${d.age_min ? `, age ${d.age_min}+` : ''}. Setup, turn by turn rules, scoring and variants.`;
 const crumbs = [{ name: 'Home', href: '/' }, { name: 'Game rules', href: '/rules/' }, { name: d.game_name, href: path }];
-const articleLd = { '@context': 'https://schema.org', '@type': 'Article', headline: title, description, url: SITE_URL + path, author: { '@type': 'Organization', name: 'Print & Play Game' }, datePublished: d.date_added.toISOString().slice(0, 10) };
+const articleLd = { '@context': 'https://schema.org', '@type': 'Article', headline: title, description, url: SITE_URL + path, author: { '@type': 'Organization', name: 'Print & Play Game' }, datePublished: d.date_added.toISOString().slice(0, 10), image: d.cover ? SITE_URL + d.cover : undefined };
 ---
-<Base title={title} description={description} path={path} active="rules" ogType="article" jsonLd={[breadcrumbLd(crumbs), articleLd]} noindex={d.status !== 'published'}>
+<Base title={title} description={description} path={path} image={d.cover} active="rules" ogType="article" jsonLd={[breadcrumbLd(crumbs), articleLd]} noindex={d.status !== 'published'}>
   <Breadcrumb items={crumbs} />
   <section class="product wrap" style="padding-top:0">
     <div class="stack" style="--gap:18px; flex: 1 1 100%">
