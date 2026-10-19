@@ -82,3 +82,12 @@ Généré par `scripts/blog_calendar.py` à partir de `data/blog-topics-*.json`.
 - History of chess: who invented chess and how it spread (history of chess, 4400/mois, KD 16)
 - Quick board games: 15 games you can play in 20 minutes (quick board games, 320/mois, KD 0)
 - Abstract strategy board games: 15 classics and modern picks (abstract strategy board games, 14800/mois, KD 9)
+
+## Articles ajoutés hors script (19/10/2026)
+
+Écrits et programmés à la main, sur des dates libres du calendrier (voir `docs/17-recherche-noel-hiver.md`). Le script les garde à leur date, puisqu'ils sont déjà écrits.
+
+| Date (UTC) | Article | Mot-clé cible | Vol. US | Page mère |
+|---|---|---|---|---|
+| samedi 7 nov. 2026 · 15:25 | Christmas games for family: 18 games for all ages | christmas games for family | 27100 | `/occasions/christmas/` |
+| jeudi 12 nov. 2026 · 17:40 | Printable Christmas games for adults: 20 games for every kind of party | printable christmas games for adults | 390 | `/occasions/christmas/` |

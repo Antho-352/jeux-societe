@@ -18,7 +18,7 @@ cover: "/img/puzzles/abc-gingerbread-man-dot-to-dot.png"
 licence: "CC BY-NC 4.0"
 status: "published"
 date_added: "2026-10-19"
-seo_title: "Alphabet dot to dot: gingerbread man (A to Z) \u2013 free printab"
+seo_title: "Alphabet dot to dot: gingerbread man \u2013 free printable"
 ---
 <!-- hand-edited -->
 ## About this dot to dot
