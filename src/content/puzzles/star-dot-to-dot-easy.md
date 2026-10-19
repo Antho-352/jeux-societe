@@ -17,7 +17,7 @@ download_size_mb: 0.0
 cover: "/img/puzzles/star-dot-to-dot-easy.png"
 licence: "CC BY-NC 4.0"
 status: "published"
-date_added: "2026-10-18"
+date_added: "2026-10-19"
 seo_title: "Star dot to dot (10 dots) \u2013 free printable"
 ---
 <!-- hand-edited -->

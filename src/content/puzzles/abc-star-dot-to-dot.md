@@ -17,7 +17,7 @@ download_size_mb: 0.01
 cover: "/img/puzzles/abc-star-dot-to-dot.png"
 licence: "CC BY-NC 4.0"
 status: "published"
-date_added: "2026-10-18"
+date_added: "2026-10-19"
 seo_title: "Alphabet dot to dot: star (A to Z) \u2013 free printable"
 ---
 <!-- hand-edited -->

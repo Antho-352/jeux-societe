@@ -212,7 +212,7 @@ def build_pdf(slug, shape_key, n, letters, title, out_pdf):
     name, pts = SHAPES[shape_key]
     dots = keep_corners(pts, n) if len(pts) <= 24 else resample(pts, n)
     labs = labels(n, letters)
-    c = canvas.Canvas(str(out_pdf), pagesize=letter)
+    c = canvas.Canvas(str(out_pdf), pagesize=letter, invariant=1)
     c.setTitle(title); c.setAuthor('Print & Play Game')
     sub = f'Connect the dots from {labs[0]} to {labs[-1]}, then colour the picture.' if not letters else 'Join the letters in alphabetical order, A to Z, then colour the picture.'
     box = (MARGIN + 10 * mm, MARGIN + 14 * mm, W - 2 * MARGIN - 20 * mm, H - 2 * MARGIN - 36 * mm)
@@ -244,7 +244,7 @@ ITEMS = [
     ('christmas-tree-dot-to-dot', 'christmas-tree', 20, False, 'Christmas tree dot to dot (20 dots)', 'easy', 'kids', ['christmas', 'nature'], ['christmas'], 'A Christmas tree in twenty dots, ready to decorate with baubles once the outline is joined. A quick December activity for 5 to 7 year-olds.'),
     ('abc-star-dot-to-dot', 'star', 26, True, 'Alphabet dot to dot: star (A to Z)', 'easy', 'preschool', ['alphabet', 'shapes'], [], 'Twenty-six dots labelled A to Z instead of numbers. Children practise the alphabet order while drawing a star.'),
     ('abc-butterfly-dot-to-dot', 'butterfly', 26, True, 'Alphabet dot to dot: butterfly (A to Z)', 'easy', 'kids', ['alphabet', 'animals', 'insects'], ['summer'], 'A butterfly whose outline follows the alphabet from A to Z. Good for letter recognition in kindergarten and first grade.'),
-    ('pumpkin-dot-to-dot', 'pumpkin', 30, False, 'Pumpkin dot to dot (30 dots)', 'medium', 'kids', ['halloween', 'autumn'], ['halloween'], 'A plump pumpkin with a stem in thirty dots. Join them, then draw the jack-o\'-lantern face of your choice.'),
+    ('pumpkin-dot-to-dot', 'pumpkin', 30, False, 'Pumpkin dot to dot (30 dots)', 'medium', 'kids', ['halloween', 'autumn'], ['halloween', 'thanksgiving'], 'A plump pumpkin with a stem in thirty dots. Join them, then draw the jack-o\'-lantern face of your choice.'),
     ('sailboat-dot-to-dot', 'sailboat', 32, False, 'Sailboat dot to dot (32 dots)', 'medium', 'kids', ['vehicles', 'ocean'], ['summer'], 'A sailboat with two sails and a hull in thirty-two dots. The lines cross back over the mast, so it rewards careful counting.'),
     ('cat-dot-to-dot', 'cat', 36, False, 'Cat dot to dot (36 dots)', 'medium', 'kids', ['animals', 'pets'], [], 'A sitting cat with pointed ears in thirty-six dots. Add whiskers and stripes when the outline is done.'),
     ('dinosaur-dot-to-dot', 'dinosaur', 40, False, 'Dinosaur dot to dot (40 dots)', 'medium', 'kids', ['dinosaurs', 'animals'], [], 'A long-necked dinosaur in forty dots, legs and tail included. A favourite for 6 to 8 year-olds who count well past 20.'),

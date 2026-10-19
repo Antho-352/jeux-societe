@@ -17,7 +17,7 @@ download_size_mb: 0.01
 cover: "/img/puzzles/heart-dot-to-dot-easy.png"
 licence: "CC BY-NC 4.0"
 status: "published"
-date_added: "2026-10-18"
+date_added: "2026-10-19"
 seo_title: "Heart dot to dot (14 dots) \u2013 free printable"
 ---
 <!-- hand-edited -->

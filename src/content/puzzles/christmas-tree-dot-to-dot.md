@@ -17,7 +17,7 @@ download_size_mb: 0.01
 cover: "/img/puzzles/christmas-tree-dot-to-dot.png"
 licence: "CC BY-NC 4.0"
 status: "published"
-date_added: "2026-10-18"
+date_added: "2026-10-19"
 seo_title: "Christmas tree dot to dot (20 dots) \u2013 free printable"
 ---
 <!-- hand-edited -->
