@@ -3,7 +3,7 @@ title: "Pig dot to dot (20 dots)"
 type: "dot-to-dot"
 summary: "Pig connect-the-dots with 20 dots, easy level, finished picture on page 2."
 difficulty: "easy"
-age_band: "kids"
+age_band: "preschool"
 themes: ["animals", "farm"]
 occasions: []
 pages: 2
@@ -23,7 +23,7 @@ seo_title: "Pig dot to dot (20 dots) \u2013 free printable"
 <!-- hand-edited -->
 ## About this dot to dot
 
-A farm pig with a snout, an ear and little legs in about twenty dots. A good next step once a child counts past 20.
+A pig's face seen from the front, with two pointed ears. The snout, the eyes and the smile are printed; join the dots to draw the head and the ears around them.
 
 ## What's in the PDF
 
@@ -34,5 +34,3 @@ A farm pig with a snout, an ear and little legs in about twenty dots. A good nex
 The dots sit on the corners and turns of the picture only, so the shape stays a surprise until the last line.
 
 **Tip:** print page 1 only to keep the answer a surprise, and use a coloured pencil so the line stands out from the dots.
-
-*Picture adapted from "pig" by Skoll, [game-icons.net](https://game-icons.net/1x1/skoll/pig.html), CC BY 3.0.*

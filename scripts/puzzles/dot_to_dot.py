@@ -5,8 +5,8 @@ Each picture starts from a filled silhouette (game-icons.net, CC BY 3.0, or Phos
 data in dot_to_dot_icons.json) or a hand-made polygon. The silhouette is rasterised, its outer contour
 traced, then simplified so dots sit on the corners and turns of the picture only, never evenly spread
 along a curve: the shape stays hidden until the dots are joined. Small inner details (eyes, windows)
-are printed as thin lines. Difficulty comes from the picture: easy = 10-25 dots, medium = 30-50,
-hard = 60-100 on a detailed animal.
+are printed as thin lines. Difficulty comes from the picture: easy = 10-26 dots, medium = 29-40,
+hard = 53-90 on a detailed animal, expert = 110-180 split into several lines (each starts at a red circle).
 
 Needs: pip install svgelements opencv-python-headless reportlab pypdfium2 pillow
   python3 -I scripts/puzzles/dot_to_dot.py build            # PDFs, covers and content entries
@@ -77,8 +77,28 @@ def snowman():
     return outline, details
 SAILBOAT = [(0.45, 0.96), (0.64, 0.92), (0.55, 0.87), (0.55, 0.82), (0.68, 0.66), (0.80, 0.52), (0.90, 0.38), (0.55, 0.38), (0.55, 0.29), (0.94, 0.29), (0.80, 0.08), (0.20, 0.08), (0.06, 0.29), (0.45, 0.29), (0.45, 0.38), (0.12, 0.38), (0.28, 0.58), (0.45, 0.78)]
 ROCKET = [(0.50, 0.95), (0.60, 0.82), (0.65, 0.62), (0.65, 0.42), (0.80, 0.26), (0.80, 0.12), (0.64, 0.20), (0.58, 0.10), (0.42, 0.10), (0.36, 0.20), (0.20, 0.12), (0.20, 0.26), (0.35, 0.42), (0.35, 0.62), (0.40, 0.82)]
+def ellipse(cx, cy, rx, ry, n=24):
+    return [(cx + rx * math.cos(2 * math.pi * i / n), cy + ry * math.sin(2 * math.pi * i / n)) for i in range(n)]
+
+def union(polys):
+    """Outline of several filled polygons merged together (0..1, y up, counter-clockwise)."""
+    m = Image.new('L', (RES, RES), 0); d = ImageDraw.Draw(m)
+    for poly in polys: d.polygon([(x * RES, (1 - y) * RES) for x, y in poly], fill=255)
+    c = max(cv2.findContours(np.array(m), cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)[0], key=cv2.contourArea)
+    ring = [(float(q[0][0]) / RES, 1 - float(q[0][1]) / RES) for q in c]
+    return ring[::-1] if area(ring) < 0 else ring
+
+def pig_head():
+    """A pig's face seen from the front: round head and two pointed ears; snout and eyes are printed details."""
+    outline = union([ellipse(0.5, 0.45, 0.38, 0.30, 72), [(0.22, 0.62), (0.08, 0.84), (0.40, 0.73)], [(0.78, 0.62), (0.92, 0.84), (0.60, 0.73)]])
+    details = [(True, ellipse(0.5, 0.36, 0.15, 0.095, 28)), (True, ellipse(0.45, 0.36, 0.022, 0.035, 10)), (True, ellipse(0.55, 0.36, 0.022, 0.035, 10)),
+               (True, ellipse(0.37, 0.55, 0.028, 0.028, 12)), (True, ellipse(0.63, 0.55, 0.028, 0.028, 12)),
+               (False, [(0.40, 0.21), (0.50, 0.18), (0.60, 0.21)]),
+               (False, [(0.25, 0.66), (0.15, 0.80), (0.35, 0.71)]), (False, [(0.75, 0.66), (0.85, 0.80), (0.65, 0.71)])]
+    return outline, details
+
 POLYGONS = {'star': (star(), []), 'rocket': (ROCKET, []), 'house': (HOUSE, [(True, HOUSE_WINDOW)]), 'sailboat': (SAILBOAT, []),
-            'christmas-tree': (TREE, [(True, TREE_STAR)]), 'snowman': snowman()}
+            'christmas-tree': (TREE, [(True, TREE_STAR)]), 'snowman': snowman(), 'pig': pig_head()}
 
 # ---------- silhouettes ----------
 def raster(key):
@@ -106,32 +126,38 @@ def raster(key):
         img = Image.fromarray(np.bitwise_xor(np.array(img), np.array(layer)))
     return np.array(img)
 
-def trace(key, n, close=0, details=True, mirror=False):
-    """Outer contour simplified to about n corner dots, plus inner details as polylines (pixel coords, y down)."""
+def rdp_n(contours, n):
+    """Largest RDP tolerance that keeps about n corners in total over all contours."""
+    lo, hi = 0.2, 200.0
+    for _ in range(40):
+        mid = (lo + hi) / 2
+        if sum(len(cv2.approxPolyDP(c, mid, True)) for c in contours) > n: lo = mid
+        else: hi = mid
+    return [[tuple(map(float, q[0])) for q in cv2.approxPolyDP(c, hi, True)] for c in contours]
+
+def trace(key, n, close=0, details=True, mirror=False, pieces=False):
+    """Outer contour(s) simplified to about n corner dots, plus inner details as polylines (pixel coords, y down).
+    pieces=True keeps every separate part of the picture (for hard puzzles drawn in several lines)."""
     m = raster(key)
     if mirror: m = m[:, ::-1].copy()
     if close:
         k = cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (close, close))
         m = cv2.morphologyEx(m, cv2.MORPH_CLOSE, k)
     cs, _ = cv2.findContours(m, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)
-    main = max(cs, key=cv2.contourArea)
-    lo, hi = 0.2, 200.0
-    for _ in range(40):  # epsilon search: the largest tolerance that still gives n dots
-        mid = (lo + hi) / 2
-        if len(cv2.approxPolyDP(main, mid, True)) > n: lo = mid
-        else: hi = mid
-    pts = [tuple(map(float, p[0])) for p in cv2.approxPolyDP(main, hi, True)]
+    cs = sorted(cs, key=cv2.contourArea, reverse=True)
+    parts = [c for c in cs if cv2.contourArea(c) > RES * RES * 0.002] if pieces else cs[:1]
+    outlines = rdp_n(parts, n)
     extra = []
     if details:  # small shapes inside the silhouette (eyes, buttons, windows), taken from the unmerged picture
-        A = cv2.contourArea(main)
+        A = cv2.contourArea(parts[0])
         raw = raster(key)
         if mirror: raw = raw[:, ::-1].copy()
         for c in cv2.findContours(raw, cv2.RETR_CCOMP, cv2.CHAIN_APPROX_NONE)[0]:
             a = cv2.contourArea(c)
             if not (RES * RES * 0.0005 < a < A * 0.04) or 4 * math.pi * a / cv2.arcLength(c, True) ** 2 < 0.4: continue
-            if min(cv2.pointPolygonTest(main, (float(q[0][0]), float(q[0][1])), True) for q in c[::4]) > 4:
-                extra.append((True, [tuple(map(float, p[0])) for p in cv2.approxPolyDP(c, 1.5, True)]))
-    return pts, extra
+            if any(min(cv2.pointPolygonTest(part, (float(q[0][0]), float(q[0][1])), True) for q in c[::4]) > 4 for part in parts):
+                extra.append((True, [tuple(map(float, q[0])) for q in cv2.approxPolyDP(c, 1.5, True)]))
+    return outlines, extra
 
 def space_out(pts, dmin):
     """Drop dots closer than dmin to the previous kept dot (keeps corners, which come first in RDP order)."""
@@ -142,26 +168,28 @@ def space_out(pts, dmin):
     return out
 
 def shape(item):
-    """Return (dots, details) in 0..1 coordinates, y up, clockwise, starting at the top-most dot."""
+    """Return (lines, details) in 0..1 coordinates, y up. Each line is a closed run of dots, clockwise, starting at its
+    top-most dot; lines are ordered top to bottom and numbered in that order."""
     src = item['src']
     if src in POLYGONS:
         dots, extra = list(POLYGONS[src][0]), POLYGONS[src][1]
         if item.get('n') and len(dots) > item['n']:  # dense hand-made outline: keep the n most telling corners
             c = np.array([[[x * RES, y * RES]] for x, y in dots], dtype=np.float32)
-            lo, hi = 0.2, 200.0
-            for _ in range(40):
-                mid = (lo + hi) / 2
-                if len(cv2.approxPolyDP(c, mid, True)) > item['n']: lo = mid
-                else: hi = mid
-            dots = [(float(p[0][0]) / RES, float(p[0][1]) / RES) for p in cv2.approxPolyDP(c, hi, True)]
+            dots = [(x / RES, y / RES) for x, y in rdp_n([c], item['n'])[0]]
+        lines = [dots]
     else:
-        px, extra_px = trace(src, item['n'], item.get('close', 0), item.get('details', True), item.get('mirror', False))
+        px, extra_px = trace(src, item['n'], item.get('close', 0), item.get('details', True), item.get('mirror', False), item.get('pieces', False))
         conv = lambda p: (p[0] / RES, 1 - p[1] / RES)
-        dots = [conv(p) for p in px]; extra = [(closed, [conv(p) for p in e]) for closed, e in extra_px]
-    dots = space_out(dots, item.get('dmin', 0.03))
-    if area(dots) > 0: dots.reverse()  # clockwise on paper
-    top = max(range(len(dots)), key=lambda i: (round(dots[i][1], 2), -dots[i][0]))
-    return dots[top:] + dots[:top], extra
+        lines = [[conv(p) for p in line] for line in px]; extra = [(closed, [conv(p) for p in e]) for closed, e in extra_px]
+    out = []
+    for dots in lines:
+        dots = space_out(dots, item.get('dmin', 0.03))
+        if len(dots) < 3: continue
+        if area(dots) > 0: dots.reverse()  # clockwise on paper
+        top = max(range(len(dots)), key=lambda i: (round(dots[i][1], 2), -dots[i][0]))
+        out.append(dots[top:] + dots[:top])
+    out.sort(key=lambda d: -d[0][1])
+    return out, extra
 
 # ---------- drawing ----------
 def page_frame(c, title, subtitle, credit):
@@ -172,12 +200,12 @@ def page_frame(c, title, subtitle, credit):
     c.drawString(MARGIN, H - MARGIN - 22, subtitle)
     c.setFont('Helvetica', 7.5)
     c.setFillColorRGB(*GREY)
-    if credit: c.drawString(MARGIN, MARGIN - 4, credit)
+    if credit: c.drawString(MARGIN, MARGIN - 13, credit)
     c.drawRightString(W - MARGIN, MARGIN - 4, 'printandplaygame.com  ·  CC BY-NC 4.0  ·  free for home and classroom use')
 
-def fit(dots, extra, box):
-    xs = [p[0] for p in dots] + [p[0] for _, e in extra for p in e]
-    ys = [p[1] for p in dots] + [p[1] for _, e in extra for p in e]
+def fit(lines, extra, box):
+    xs = [p[0] for d in lines for p in d] + [p[0] for _, e in extra for p in e]
+    ys = [p[1] for d in lines for p in d] + [p[1] for _, e in extra for p in e]
     x0, y0, bw, bh = box
     s = min(bw / (max(xs) - min(xs)), bh / (max(ys) - min(ys)))
     ox = x0 + (bw - (max(xs) - min(xs)) * s) / 2 - min(xs) * s
@@ -191,56 +219,63 @@ def seg_dist(p, a, b):
     t = 0 if not L2 else max(0, min(1, ((px - ax) * dx + (py - ay) * dy) / L2))
     return math.hypot(px - ax - t * dx, py - ay - t * dy)
 
-def place_labels(P, labs, size, r):
+def place_labels(lines, labs, size, r):
     """Pick, for each dot, the label position (around the outward normal) with the most free space."""
-    n = len(P)
-    segs = [(P[i], P[(i + 1) % n]) for i in range(n)]
+    P = [p for line in lines for p in line]
+    segs = [(line[i], line[(i + 1) % len(line)]) for line in lines for i in range(len(line))]
     placed = []
-    for i in range(n):
-        prev, nxt = P[i - 1], P[(i + 1) % n]
-        tx, ty = nxt[0] - prev[0], nxt[1] - prev[1]
-        L = math.hypot(tx, ty) or 1
-        nx, ny = -ty / L, tx / L  # outward for a clockwise path
-        w = 0.56 * size * len(labs[i]); h = 0.72 * size
-        rad = math.hypot(w, h) / 2
-        best = None
-        for k, ang in enumerate([0, 35, -35, 70, -70, 110, -110, 150, -150, 180]):
-            a = math.radians(ang)
-            dx, dy = nx * math.cos(a) - ny * math.sin(a), nx * math.sin(a) + ny * math.cos(a)
-            for off in (r + rad + 1.5, r + rad + 4):
-                cx, cy = P[i][0] + dx * off, P[i][1] + dy * off
-                clear = min(min(math.dist((cx, cy), q) - r for j, q in enumerate(P) if j != i),
-                            min(seg_dist((cx, cy), a_, b_) for a_, b_ in segs),
-                            min((math.dist((cx, cy), q) - qr for q, qr in placed), default=99)) - rad
-                score = clear - k * 0.15 - (off > r + rad + 2) * 0.6
-                if best is None or score > best[0]: best = (score, cx, cy)
-            if best[0] > 2: break
-        placed.append(((best[1], best[2]), rad))
+    for line in lines:
+        for i in range(len(line)):
+            idx = len(placed)
+            prev, nxt = line[i - 1], line[(i + 1) % len(line)]
+            tx, ty = nxt[0] - prev[0], nxt[1] - prev[1]
+            L = math.hypot(tx, ty) or 1
+            nx, ny = -ty / L, tx / L  # outward for a clockwise path
+            w = 0.56 * size * len(labs[idx]); h = 0.72 * size
+            rad = math.hypot(w, h) / 2
+            best = None
+            for k, ang in enumerate([0, 35, -35, 70, -70, 110, -110, 150, -150, 180]):
+                a = math.radians(ang)
+                dx, dy = nx * math.cos(a) - ny * math.sin(a), nx * math.sin(a) + ny * math.cos(a)
+                for off in (r + rad + 1.5, r + rad + 4):
+                    cx, cy = line[i][0] + dx * off, line[i][1] + dy * off
+                    clear = min(min(math.dist((cx, cy), q) - r for j, q in enumerate(P) if j != idx),
+                                min(seg_dist((cx, cy), a_, b_) for a_, b_ in segs),
+                                min((math.dist((cx, cy), q) - qr for q, qr in placed), default=99)) - rad
+                    score = clear - k * 0.15 - (off > r + rad + 2) * 0.6
+                    if best is None or score > best[0]: best = (score, cx, cy)
+                if best[0] > 2: break
+            placed.append(((best[1], best[2]), rad))
     return [p for p, _ in placed]
 
-def draw(c, dots, extra, labs, box, level, reveal=False):
-    P0 = fit(dots, extra, box)
-    P = [P0(d) for d in dots]
-    r, size = {'easy': (3.6, 13), 'medium': (2.9, 10), 'hard': (2.3, 8)}[level]
+def draw(c, lines, extra, labs, box, level, reveal=False):
+    P0 = fit(lines, extra, box)
+    L = [[P0(d) for d in line] for line in lines]
+    r, size = {'easy': (3.6, 13), 'medium': (2.9, 10), 'hard': (2.3, 8), 'expert': (1.9, 6.5)}[level]
     c.setLineJoin(1); c.setLineCap(1)
     if extra:
-        c.setStrokeColorRGB(*INK); c.setLineWidth(1.6)
+        c.setStrokeColorRGB(*INK); c.setLineWidth(1.6 if level != 'expert' else 1.1)
         for closed, e in extra:
             path = c.beginPath(); path.moveTo(*P0(e[0]))
             for p in e[1:]: path.lineTo(*P0(p))
             if closed: path.close()
             c.drawPath(path, stroke=1, fill=0)
     if reveal:
-        c.setStrokeColorRGB(*RED); c.setLineWidth(2.4)
-        path = c.beginPath(); path.moveTo(*P[0])
-        for p in P[1:]: path.lineTo(*p)
-        path.close(); c.drawPath(path, stroke=1, fill=0)
+        c.setStrokeColorRGB(*RED); c.setLineWidth(2.4 if level != 'expert' else 1.6)
+        for line in L:
+            path = c.beginPath(); path.moveTo(*line[0])
+            for p in line[1:]: path.lineTo(*p)
+            path.close(); c.drawPath(path, stroke=1, fill=0)
     c.setFillColorRGB(*INK)
-    for p in P: c.circle(p[0], p[1], r, stroke=0, fill=1)
-    for i, (lx, ly) in enumerate(place_labels(P, labs, size, r)):
-        c.setFont('Helvetica-Bold' if i == 0 else 'Helvetica', size)
+    for line in L:
+        for p in line: c.circle(p[0], p[1], r, stroke=0, fill=1)
+    starts, i = set(), 0
+    for line in L: starts.add(i); i += len(line)
+    for i, (lx, ly) in enumerate(place_labels(L, labs, size, r)):
+        c.setFont('Helvetica-Bold' if i in starts else 'Helvetica', size)
         c.drawCentredString(lx, ly - size * 0.36, labs[i])
-    c.setStrokeColorRGB(*RED); c.setLineWidth(1.5); c.circle(P[0][0], P[0][1], r + 4.5, stroke=1, fill=0)
+    c.setStrokeColorRGB(*RED); c.setLineWidth(1.5 if level != 'expert' else 1.1)
+    for line in L: c.circle(line[0][0], line[0][1], r + (4.5 if level != 'expert' else 3), stroke=1, fill=0)
 
 def credit_line(item):
     if item['src'] in POLYGONS: return ''
@@ -250,18 +285,22 @@ def credit_line(item):
         return f'Picture adapted from the "{name}" icon, Phosphor Icons (MIT licence).'
     return f'Picture adapted from "{name}" by {ic["author"]}, game-icons.net, CC BY 3.0.'
 
-def build_pdf(item, dots, extra, out_pdf):
-    n = len(dots); letters = item.get('letters', False)
+def build_pdf(item, lines, extra, out_pdf):
+    n = sum(map(len, lines)); letters = item.get('letters', False)
     labs = [chr(65 + i) for i in range(n)] if letters else [str(i + 1) for i in range(n)]
     c = canvas.Canvas(str(out_pdf), pagesize=letter, invariant=1)
     c.setTitle(item['title']); c.setAuthor('Print & Play Game')
-    sub = 'Join the letters in alphabetical order, A to Z, then colour the picture.' if letters else f'Connect the dots from 1 to {n}, then colour the picture.'
+    if letters: sub = 'Join the letters in alphabetical order, A to Z, then colour the picture.'
+    elif len(lines) > 1: sub = (f'Connect the dots from 1 to {n}. A red circle starts a new line: join its dots, close it back to that circle, '
+                                'then lift your pencil.')
+    else: sub = f'Connect the dots from 1 to {n}, then colour the picture.'
     box = (MARGIN + 6 * mm, MARGIN + 8 * mm, W - 2 * MARGIN - 12 * mm, H - 2 * MARGIN - 30 * mm)
+    level = item.get('level', item['diff'])
     page_frame(c, item['title'], sub, credit_line(item))
-    draw(c, dots, extra, labs, box, item['diff'])
+    draw(c, lines, extra, labs, box, level)
     c.showPage()
     page_frame(c, f"{item['title']} – finished picture", 'The picture you get once every dot is joined.', credit_line(item))
-    draw(c, dots, extra, labs, box, item['diff'], reveal=True)
+    draw(c, lines, extra, labs, box, level, reveal=True)
     c.showPage(); c.save()
 
 def cover(pdf, png):
@@ -297,8 +336,8 @@ ITEMS = [
          body='A bat with pointed wings and little ears. The zigzag of the wings is the fun part: every dot is a corner, and the picture only shows up at the end.'),
     dict(slug='christmas-tree-dot-to-dot', src='christmas-tree', diff=E, band='preschool', name='Christmas tree', themes=['christmas', 'nature'], occ=['christmas'], dmin=0.05,
          body='A three-tier Christmas tree with its trunk. The star on top is already drawn; join the dots underneath it, then decorate the branches with baubles.'),
-    dict(slug='pig-dot-to-dot', src='game-icons:pig', n=22, diff=E, band='kids', name='Pig', themes=['animals', 'farm'], occ=[], dmin=0.045, close=5,
-         body='A farm pig with a snout, an ear and little legs in about twenty dots. A good next step once a child counts past 20.'),
+    dict(slug='pig-dot-to-dot', src='pig', n=20, diff=E, band='preschool', name='Pig', themes=['animals', 'farm'], occ=[], dmin=0.05,
+         body="A pig's face seen from the front, with two pointed ears. The snout, the eyes and the smile are printed; join the dots to draw the head and the ears around them."),
     dict(slug='sailboat-dot-to-dot', src='sailboat', diff=E, band='kids', name='Sailboat', themes=['vehicles', 'ocean'], occ=['summer'], dmin=0.035,
          body='A sailboat with a flag, a mast, two sails and a hull. Long straight lines and sharp corners: a good one for practising with a ruler.'),
     dict(slug='abc-butterfly-dot-to-dot', src='ph:butterfly-fill', n=26, diff=E, band='kids', name='Butterfly', letters=True, themes=['alphabet', 'animals', 'insects'], occ=['summer'], dmin=0.04, close=25,
@@ -339,18 +378,39 @@ ITEMS = [
          body='A two-humped camel standing on long, knobbly legs. Around eighty dots and small numbers, for teens and adults who like a slow drawing.'),
     dict(slug='octopus-dot-to-dot-hard', src='game-icons:octopus', n=90, diff=Hd, band='teens', name='Octopus', themes=['animals', 'ocean'], occ=['summer'], dmin=0.018, close=5,
          body='An octopus with eight curling arms. The curls pack the dots close together, which makes it the hardest picture of the set: take your time with the numbers.'),
+    # expert: 110-180 dots over several lines (a red circle starts each line), tiny numbers, very detailed pictures
+    dict(slug='frog-dot-to-dot-expert', src='game-icons:frog', n=140, diff=Hd, level='expert', band='teens', name='Frog', themes=['animals', 'pond'], occ=[], dmin=0.012, pieces=True,
+         body='A frog sitting face on, with bulging eyes, a wide mouth and webbed feet. The picture is drawn in several lines: each red circle starts a new one. A detailed puzzle for teens.'),
+    dict(slug='toucan-dot-to-dot-expert', src='game-icons:toucan', n=130, diff=Hd, level='expert', band='teens', name='Toucan', themes=['animals', 'birds'], occ=[], dmin=0.012, pieces=True,
+         body='A toucan in profile, its huge beak drawn in two parts. Several separate lines, each starting at a red circle, and small numbers: take your time.'),
+    dict(slug='barn-owl-dot-to-dot-expert', src='game-icons:barn-owl', n=140, diff=Hd, level='expert', band='teens', name='Barn owl', themes=['animals', 'birds'], occ=['halloween'], dmin=0.012, pieces=True,
+         body='A barn owl perched on a branch, with its heart-shaped face and folded wing. Drawn in several lines that start at the red circles, it suits teens and adults.'),
+    dict(slug='reindeer-dot-to-dot-expert', src='game-icons:deer', n=150, diff=Hd, level='expert', band='teens', name='Reindeer', themes=['christmas', 'animals'], occ=['christmas', 'winter'], dmin=0.012, pieces=True,
+         body='A reindeer with tall branching antlers, one front leg raised. Most of the dots are in the antlers, drawn as separate lines from each red circle: a December challenge for teens and adults.'),
+    dict(slug='lion-dot-to-dot-expert', src='game-icons:lion', n=160, diff=Hd, level='expert', band='teens', name='Lion', themes=['animals', 'wildlife'], occ=[], dmin=0.012, pieces=True,
+         body="A lion's head in profile, its mane drawn as a ring of sharp tufts. Several lines, each starting at a red circle, and well over a hundred dots."),
+    dict(slug='fox-dot-to-dot-expert', src='game-icons:fox', n=150, diff=Hd, level='expert', band='teens', name='Fox', themes=['animals', 'autumn'], occ=['thanksgiving'], dmin=0.012, pieces=True,
+         body='A fox sitting with its big tail wrapped around its paws. The face, the ears and the tail are separate lines, each starting at a red circle.'),
+    dict(slug='mammoth-dot-to-dot-expert', src='game-icons:mammoth', n=160, diff=Hd, level='expert', band='adults', name='Mammoth', themes=['dinosaurs', 'animals'], occ=[], dmin=0.012, pieces=True,
+         body='A woolly mammoth with curled tusks and a shaggy coat. More than 150 dots spread over several lines: a long, slow puzzle for adults and older teens.'),
+    dict(slug='rooster-dot-to-dot-expert', src='game-icons:rooster', n=160, diff=Hd, level='expert', band='adults', name='Rooster', themes=['animals', 'farm'], occ=[], dmin=0.012, pieces=True,
+         body='A crowing rooster with its comb, wattles and a sweeping tail of feathers. The feathers are separate lines, each starting at a red circle: one of the most detailed pictures of the set.'),
+    dict(slug='caravel-dot-to-dot-expert', src='game-icons:caravel', n=200, diff=Hd, level='expert', band='adults', name='Caravel', themes=['vehicles', 'ocean', 'pirates'], occ=[], dmin=0.012, pieces=True,
+         body='An old sailing ship with three masts, square sails and a high stern, drawn in several lines. Long straight runs and tight corners, for adults who like a slow drawing.'),
+    dict(slug='steam-locomotive-dot-to-dot-expert', src='game-icons:steam-locomotive', n=180, diff=Hd, level='expert', band='adults', name='Steam locomotive', themes=['vehicles', 'trains'], occ=[], dmin=0.012, pieces=True,
+         body='A steam locomotive with its smoke cloud, cab, boiler and six wheels. The most lines of the set: every wheel and window is its own shape, starting at a red circle.'),
 ]
 
 def prepare(item):
-    dots, extra = shape(item)
-    item['dots'] = len(dots)
-    noun = 'letters' if item.get('letters') else 'dots'
-    item['title'] = f"Alphabet dot to dot: {item['name'].lower()} (A to Z)" if item.get('letters') else f"{item['name']} dot to dot ({len(dots)} dots)"
-    return dots, extra
+    lines, extra = shape(item)
+    item['dots'] = n = sum(map(len, lines))
+    item['title'] = f"Alphabet dot to dot: {item['name'].lower()} (A to Z)" if item.get('letters') else f"{item['name']} dot to dot ({n} dots)"
+    return lines, extra
 
-def preview(out):
+def preview(out, only=None):
     tiles = []
     for item in ITEMS:
+        if only and item['slug'] not in only: continue
         dots, extra = prepare(item)
         tmp = pathlib.Path(tempfile.gettempdir()) / f"d2d-{item['slug']}.pdf"
         build_pdf(item, dots, extra, tmp)
@@ -424,5 +484,5 @@ The dots sit on the corners and turns of the picture only, so the shape stays a 
 
 if __name__ == '__main__':
     if len(sys.argv) > 1 and sys.argv[1] == 'build': build()
-    elif len(sys.argv) > 2 and sys.argv[1] == 'preview': preview(sys.argv[2])
+    elif len(sys.argv) > 2 and sys.argv[1] == 'preview': preview(sys.argv[2], sys.argv[3:])
     else: print(__doc__)
