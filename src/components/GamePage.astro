@@ -31,26 +31,16 @@ const colour = d.cover_colour ?? coverColour(game.id);
 const title = d.seo_title ?? `${d.title} – free print and play ${TYPE_LABEL[d.type].toLowerCase()} (PDF)`;
 const description = d.seo_description ?? `${d.summary} ${playersLabel(d.players_min, d.players_max)}${d.time_max ? `, ${timeLabel(d.time_min, d.time_max)}` : ''}${d.age_min ? `, age ${d.age_min}+` : ''}. Free PDF by ${d.designers[0] ?? creator?.data.name ?? d.publisher ?? 'its creator'}.`;
 const crumbs = [{ name: 'Home', href: '/' }, { name: siloHub?.data.h1 ?? titleCase(silo), href: hubUrl(silo) }, { name: d.title, href: path }];
-const productLd = {
+const workLd = {
   '@context': 'https://schema.org',
-  '@type': 'Product',
+  // Game (a CreativeWork), not Product: nothing is sold here, and Google keeps Product markup for pages where you can buy.
+  '@type': 'Game',
   name: d.title,
   description: d.summary,
   url: SITE_URL + path,
   image: d.cover ? SITE_URL + d.cover : undefined,
-  brand: d.publisher ? { '@type': 'Organization', name: d.publisher } : undefined,
-  offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD', availability: 'https://schema.org/InStock', url: SITE_URL + path },
-  additionalProperty: [
-    { '@type': 'PropertyValue', name: 'Players', value: playersLabel(d.players_min, d.players_max) },
-    d.time_max ? { '@type': 'PropertyValue', name: 'Play time', value: timeLabel(d.time_min, d.time_max) } : undefined,
-    d.age_min ? { '@type': 'PropertyValue', name: 'Minimum age', value: d.age_min } : undefined,
-  ].filter(Boolean),
-};
-const workLd = {
-  '@context': 'https://schema.org',
-  '@type': 'CreativeWork',
-  name: d.title,
-  url: SITE_URL + path,
+  numberOfPlayers: { '@type': 'QuantitativeValue', minValue: d.players_min, maxValue: d.players_max },
+  typicalAgeRange: d.age_min ? `${d.age_min}-` : undefined,
   author: d.designers.map((n) => ({ '@type': 'Person', name: n })),
   publisher: d.publisher ? { '@type': 'Organization', name: d.publisher } : undefined,
   datePublished: d.year ? String(d.year) : undefined,
@@ -61,7 +51,7 @@ const workLd = {
   isAccessibleForFree: true,
 };
 ---
-<Base title={title} description={description} path={path} image={d.cover} ogType="product" active={silo} jsonLd={[breadcrumbLd(crumbs), productLd, workLd]} noindex={d.status !== 'published'}>
+<Base title={title} description={description} path={path} image={d.cover} active={silo} jsonLd={[breadcrumbLd(crumbs), workLd]} noindex={d.status !== 'published'}>
   <Breadcrumb items={crumbs} />
   <section class="product wrap">
     <div class="stack">

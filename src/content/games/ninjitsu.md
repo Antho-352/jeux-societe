@@ -24,7 +24,7 @@ designers: ["Peter C. Hayward"]
 artists: ["Kelly Jo"]
 publisher: "Jellybean Games"
 year: 2018
-licence: "Free for personal use, © Jellybean Games"
+licence: "Jellybean hereby permits the redistribution and hosting of this content, provided that clear credit is given to the original creator."
 hosting_mode: "link"
 source_url: "https://jellybean.games/ninjitsu/"
 status: "published"

@@ -56,7 +56,7 @@ Les deux silos « Puzzles » et « Occasions » sont transversaux : une fiche «
 
 ## 6. Données structurées
 
-- Fiche jeu : `Product` (gratuit, `offers.price = 0`) + `CreativeWork` avec `author` (le créateur), `license`, `inLanguage`, `numberOfPages`.
+- Fiche jeu : `Game` (un `CreativeWork`) avec `author` (le créateur), `license`, `inLanguage`, `numberOfPages`, `numberOfPlayers`, `typicalAgeRange`. Pas de `Product` : retiré le 19/10/2026 (docs/15), le site ne vend rien et Google réserve ce balisage aux pages d'achat.
 - Page catégorie : `CollectionPage` + `ItemList`.
 - FAQ : `FAQPage`.
 - Règles : `HowTo`.
