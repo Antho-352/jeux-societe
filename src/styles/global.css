@@ -73,7 +73,7 @@ p { margin: 0; }
 .lead { font-size: clamp(17px, 2vw, 20px); line-height: 1.5; max-width: 60ch; color: var(--muted); }
 .hero-art { flex: 0 1 440px; min-width: 280px; height: 400px; position: relative; }
 .playloop .stage { position: relative; height: 400px; border-radius: 32px; background: #fff; box-shadow: 0 20px 50px rgba(15, 61, 46, 0.12); overflow: hidden; }
-.playloop .beat { position: absolute; inset: 0; opacity: 0; animation: beat 16s infinite; }
+.playloop .beat { position: absolute; inset: 0; background: #fff; opacity: 0; visibility: hidden; animation: beat 16s infinite; }
 .playloop .beat-print { animation-delay: 4s; }
 .playloop .beat-cut { animation-delay: 8s; }
 .playloop .beat-play { animation-delay: 12s; }
@@ -85,7 +85,8 @@ p { margin: 0; }
 .playloop .browser strong { font-family: var(--font-display); font-size: 28px; display: block; }
 .playloop .facts { display: block; font-size: 13px; font-weight: 700; margin-bottom: 10px; }
 .playloop .dl-btn { display: inline-block; background: var(--primary); color: #fff; font-weight: 800; border-radius: 999px; padding: 8px 14px; animation: press 12s infinite; }
-.playloop .cursor { position: absolute; width: 18px; height: 18px; background: var(--ink); left: 250px; top: 150px; clip-path: polygon(0 0, 0 100%, 35% 70%, 55% 100%, 70% 90%, 50% 62%, 100% 62%); animation: click 12s infinite; z-index: 3; }
+.playloop .dl-btn { position: relative; display: inline-block; }
+.playloop .cursor { position: absolute; left: 42%; top: 30%; width: 16px; height: 16px; background: var(--ink); clip-path: polygon(0 0, 0 100%, 35% 70%, 55% 100%, 70% 90%, 50% 62%, 100% 62%); animation: click 16s infinite; z-index: 3; }
 .playloop .bar { display: block; height: 8px; margin-top: 12px; background: #fff; border: 2px solid var(--ink); border-radius: 99px; overflow: hidden; }
 .playloop .bar i { display: block; height: 100%; width: 0; background: var(--primary); animation: fill 12s infinite; }
 .playloop .file { position: absolute; left: 50%; bottom: 22px; transform: translateX(-50%); background: #fff; border: 2px solid var(--ink); border-radius: 10px; padding: 8px 12px; font-weight: 800; opacity: 0; animation: drop 12s infinite; }
@@ -114,7 +115,6 @@ p { margin: 0; }
 .playloop .beat-cut { animation-delay: 8s; }
 .playloop .beat-play { animation-delay: 12s; }
 .playloop .dl-btn { position: relative; animation-duration: 16s; }
-.playloop .cursor { position: absolute; left: 28px; top: 4px; width: 16px; height: 16px; animation: click 16s infinite; }
 .playloop .bar i, .playloop .file, .playloop .file b, .playloop .paper { animation-duration: 16s; }
 .playloop .big-sheet { position: absolute; left: 28px; right: 28px; top: 64px; bottom: 24px; background: #fff; border: 2px solid var(--ink); border-radius: 16px; padding: 16px; transform-origin: center bottom; animation: grow 16s infinite; }
 .playloop .big-sheet strong { font-family: var(--font-display); font-size: 22px; display: block; }
@@ -137,9 +137,8 @@ p { margin: 0; }
 @keyframes fall { 0%, 68% { transform: none; } 74%, 75% { transform: translateY(64px) rotate(8deg); } 100% { transform: translateY(64px) rotate(8deg); } }
 @keyframes playa { 0%, 78% { transform: none; } 86%, 100% { transform: translate(78px, 16px); } }
 @keyframes playb { 0%, 88% { transform: none; } 96%, 100% { transform: translate(-78px, 16px); } }
-@keyframes beat { 0%, 22% { opacity: 1; } 25%, 100% { opacity: 0; } }
-@keyframes press { 8% { transform: none; } 12% { transform: scale(0.9); } 16%, 100% { transform: none; } }
-@keyframes click { 0% { transform: translate(70px, -36px); } 10%, 30% { transform: translate(0, 0); } 34%, 100% { transform: translate(0, 0); } }
+@keyframes beat { 0%, 22% { opacity: 1; visibility: visible; } 24%, 100% { opacity: 0; visibility: hidden; } }
+@keyframes click { 0% { transform: translate(64px, -28px); } 7%, 23% { transform: translate(0, 0); } 100% { transform: translate(0, 0); } }
 @keyframes fill { 0%, 12% { width: 0; } 24%, 32% { width: 100%; } 100% { width: 100%; } }
 @keyframes drop { 0%, 14% { opacity: 0; transform: translate(-50%, -20px); } 22%, 32% { opacity: 1; transform: translate(-50%, 0); } 100% { opacity: 0; } }
 @keyframes ok { 0%, 22% { opacity: 0; } 26%, 32% { opacity: 1; } 100% { opacity: 0; } }
