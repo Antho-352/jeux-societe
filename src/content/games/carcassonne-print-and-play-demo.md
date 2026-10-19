@@ -20,6 +20,7 @@ licence: "Free downloadable demo for personal use only; © Asmodee Group, all ri
 licence_url: "https://print-and-play.asmodee.fun/en/legal/terms"
 hosting_mode: "link"
 source_url: "https://print-and-play.asmodee.fun/en/game/carcassonne"
+buy_url: "https://amzn.to/3VXdemO"
 status: "published"
 date_added: 2026-10-18
 seo_title: "Carcassonne print and play demo (free, English)"

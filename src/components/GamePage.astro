@@ -99,9 +99,11 @@ const workLd = {
           </a>
         ))}
         {isMirror && <a class="btn btn-outline btn-lg" href={d.source_url} rel="noopener" target="_blank">Creator’s page</a>}
+        {d.buy_url && <a class="btn btn-outline btn-lg" href={d.buy_url} rel="nofollow sponsored noopener" target="_blank">Buy the box</a>}
       </div>
       <p class="fileinfo">
         PDF{d.pages ? ` · ${d.pages} pages` : ''}{d.download_size_mb ? ` · ${sizeLabel(d.download_size_mb)}` : ''} · {d.licence}{d.licence_url ? <> (<a href={d.licence_url} rel="noopener">licence</a>)</> : null}. {isMirror ? 'Hosted here with the creator’s permission.' : 'Download is on the creator’s website.'}
+        {d.buy_url && <> As an Amazon Associate, we earn from qualifying purchases.</>}
       </p>
       {(d.components_needed.length > 0 || d.components_included.length > 0) && (
         <div class="need">

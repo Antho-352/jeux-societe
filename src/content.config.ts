@@ -45,6 +45,7 @@ const games = defineCollection({
     download_url: z.string().optional(),
     download_size_mb: z.number().optional(),
     files: z.array(z.object({ label: z.string(), url: z.string() })).default([]),
+    buy_url: z.string().url().optional(),
     cover: z.string().optional(),
     cover_colour: z.string().optional(),
     status: z.enum(['published', 'draft']).default('published'),
