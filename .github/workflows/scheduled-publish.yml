@@ -1,5 +1,6 @@
-# Publishes scheduled blog posts: every hour, if a post's publish_at has just passed,
-# trigger a Cloudflare Pages rebuild through its deploy hook. Posts are filtered by date at build time.
+# Publishes scheduled blog posts: every hour (GitHub often runs it hours late), if a post's publish_at has passed
+# and its page is not online yet, trigger a Cloudflare Pages rebuild through its deploy hook.
+# Posts are filtered by date at build time.
 # Setup (once): Cloudflare dashboard → Workers & Pages → the project → Settings → Builds → Deploy hooks →
 # add a hook for the production branch, then GitHub → Settings → Secrets and variables → Actions →
 # New repository secret named CF_PAGES_DEPLOY_HOOK with the hook URL.
@@ -15,10 +16,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-      - name: Find posts that became due in the last hour
+      - name: Find due posts that are not online yet
         id: due
         run: |
-          if python3 -I scripts/due_posts.py 65; then echo "due=true" >> "$GITHUB_OUTPUT"; else echo "due=false" >> "$GITHUB_OUTPUT"; fi
+          if python3 -I scripts/due_posts.py --live https://printandplaygame.com; then echo "due=true" >> "$GITHUB_OUTPUT"; else echo "due=false" >> "$GITHUB_OUTPUT"; fi
       - name: Trigger Cloudflare Pages rebuild
         if: steps.due.outputs.due == 'true' || github.event_name == 'workflow_dispatch'
         env:
